@@ -1,0 +1,52 @@
+@Klebesadel et al. (1973):
+Referenced to acknowledge the serendipitous detection of the first γ-Ray Bursts (GRBs) in 1967, which marked the beginning of the field of very fast transients.
+
+@Paczynski & Rhoads (1993); Panaitescu et al. (1998); Gehrels et al. (2004):
+These papers are cited to highlight the subsequent searches for counterparts of γ-Ray Bursts (GRBs) at various wavelengths, demonstrating the multi-wavelength approach in studying fast transients.
+
+@Lorimer et al. (2007):
+Referenced to acknowledge the discovery of the first Fast Radio Burst (FRB) in 2007, which has opened up a new era in fast transient astronomy.
+@Law et al. 2009:
+Referenced as one of the searches for optical transients with durations down to minute timescales.
+
+@Prentice et al. 2018:
+Cited as the ATLAS optical domain survey that reported the first discovery of a Fast Blue Optical Transient (FBOT).
+
+@Ho et al. 2021:
+Referenced as the Zwicky Transient Facility that reported a larger sample of FBOTs.
+
+@Ho et al. 2022:
+Cited as the Zwicky Transient Facility used for the search of dirty fireballs.
+
+@Andreoni et al. 2019:
+Referenced as the Dark Energy Survey.
+
+@Sako et al. 2018:
+Cited as the Tomo-e Gozen wide-field high-speed camera on the Kiso 1.0m Schmidt telescope capable of directly detecting millisecond optical bursts using millisecond-long exposures.
+
+@Lyutikov 2017; Petroff et al. 2019; Zhang 2020:
+These papers are cited to support the claim that the highly energetic emission mechanisms that give rise to FRBs should also produce both prompt and afterglow emission in the optical band.
+
+@Yang et al. 2019:
+Cited to highlight that the highly energetic emission mechanisms that give rise to FRBs should also produce both prompt and afterglow emission in the optical band.
+
+@Sari & Piran 1999; Akerlof et al. 2000:
+Referenced to emphasize that afterglows of GRBs have been widely observed and studied for many years, but the detection of prompt emission is far less common.
+@The CHIME/FRB Collaboration et al. 2021; Caleb et al. 2017; Bhandari et al. 2018:
+These references are cited to highlight the increase in FRB observational data resulting from the conjunction of the CHIME/FRB Collaboration with other experiments.
+
+@Caleb et al. 2018:
+Referenced to discuss the coordination of simultaneous observing campaigns in multiple bands for repeating FRBs.
+
+@Hardy et al. 2017; Eftekhari et al. 2018:
+Cited to emphasize the coordination of simultaneous observing campaigns in multiple bands for repeating FRBs.
+
+@Li et al. 2022:
+Referenced to mention the single detection of an optical transient spatially coincident with the repeating FRB180916B.
+
+@Petroff et al. 2014; Núñez et al. 2021; Marnoch et al. 2020:
+These papers are cited to highlight that the majority of searches for FRB counterparts have focused on afterglow multi-wavelength counterparts rather than prompt emission.
+
+N/A
+@Rubin Observatory:
+Referenced to describe the simulated observations and the application of a Neural Network classifier to discriminate between optical flashes and steady sources, as well as to estimate the number of Rubin Observatory detections of fast optical bursts (FOBs) during the Large Survey of Space and Time (LSST).

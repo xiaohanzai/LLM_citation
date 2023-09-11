@@ -1,0 +1,29 @@
+@Lorimer et al. (2007); Xiao et al. (2021); Zhang (2022); Petroff et al. (2022); Spitler et al. (2016); Lanman et al. (2022); Chime/FRB Collaboration et al. (2020); Rajwade et al. (2020); Platts et al. (2019); Zhang (2020); Li et al. (2021); Petroff et al. (2022); Wang et al. (2022):
+These references are cited to provide evidence and support for various aspects of the discussion on fast radio bursts (FRBs), including their nature, repetition patterns, physical models, emission mechanisms, and local environment.
+@Wang & Yu 2017; Oppermann et al. 2018; Wadiasingh & Timokhin 2019; Cheng et al. 2020:
+These papers are cited to support the finding that the waiting times of FRBs deviate from the Poisson distribution, indicating the need for alternative models to explain the emission mechanisms.
+
+@Li et al. 2021; Jahns et al. 2023; Hewitt et al. 2022a; Xu et al. 2022:
+These papers are referenced to highlight the bimodal distribution of waiting times in large samples of FRBs, suggesting the presence of substructures within longer bursts.
+
+@Xu et al. 2022:
+Referenced to provide evidence of the bimodal waiting time distribution in the sample of FRB 20201124A.
+
+@Katz 2023:
+Cited to support the conclusion that the emission of FRBs by the central engine follows a stochastic process.
+
+@Zhang et al. 2018; Gourdji et al. 2019; Cruces et al. 2021; Aggarwal et al. 2021; Zhang et al. 2021:
+These papers are cited to argue against the use of a single Poisson or Weibull distribution to fit the entire waiting time distribution of FRBs, particularly for short waiting times.
+
+@Li et al. 2021:
+Referenced to provide the analysis of the largest FRB sample of FRB 20121102, detected by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), and to support the use of both stationary and non-stationary Poisson processes to fit the waiting time distribution.
+@Aschwanden & Johnson 2021:
+Referenced to support the statement that for non-stationary Poisson processes, the events have a certain amount of "memory" characterized by the coherent growth in burst-rate structures.
+
+@Hurst 1951:
+Cited to introduce the concept of the Hurst exponent as a measure of the secular memory of a time series, which is relevant to the discussion of memory effects in the context of burst-rate structures.
+
+@Barani et al. 2018; Wanliss & Reynolds 2003; Oliver & Ballester 1996; Lepreti et al. 2000; Zhou et al. 2014:
+These papers are cited to provide examples of the wide usage of the Hurst exponent in the study of various natural phenomena, supporting its applicability in analyzing memory effects in the context of burst-rate structures.
+
+N/A

@@ -1,0 +1,118 @@
+@Chatterjee et al. 2017; Bannister et al. 2019:
+These papers are cited to support the statement that spectroscopic redshift determinations can be used to precisely localize an FRB to an associated host galaxy, enabling the mapping of the cosmic web.
+
+@Macquart et al. 2020:
+Referenced to highlight the Macquart relation between DM cosmic and 𝑧 host, which reveals the presence of previously "missing" baryons and offers a powerful approach to resolving the underlying large-scale structure.
+
+@Lee et al. 2022:
+Cited to emphasize the potential of the Macquart relation in resolving the underlying large-scale structure of the Universe.
+@James et al. (2022b):
+Referenced to support the use of the Macquart relation to place constraints on the Hubble constant.
+
+@Baptista et al. (2023):
+Cited to highlight the use of the Macquart relation to constrain galactic feedback processes and the impact of structure in the cosmic web on higher-redshift FRBs.
+
+@Caleb et al. (2019):
+Referenced to emphasize the aspiration of the FRB field to test scenarios of helium reionisation.
+
+@Walters et al. (2018); Zhao et al. (2020):
+Cited to highlight the aspiration of the FRB field to test scenarios of hydrogen reionisation and the benefits of higher-redshift FRBs for cosmology.
+
+@Ryder et al. (2022):
+Referenced to support the claim that FRBs with 𝑧 > 1 require a challenging amount of radio energy, challenging FRB source models.
+
+@Lu & Kumar (2019):
+Cited to support the claim that FRBs with 𝑧 > 1 potentially approach the theoretical breakdown limit of electric fields at the source.
+
+@Margalit & Metzger (2018); CHIME/FRB Collaboration et al. (2020):
+Referenced to highlight the leading hypothesis on the FRB progenitor as young magnetars and the prediction that the peak in FRB activity matches that of star formation.
+
+@Kaspi & Beloborodov (2017):
+Cited to support the understanding that magnetars, the leading FRB progenitor hypothesis, primarily originate from core-collapse supernovae, which trace recent star formation.
+@Aggarwal et al. 2021:
+Referenced to support the statement that the distance to the source of FRBs must be determined by associating the burst to its host galaxy and retrieving a redshift via spectroscopic follow-up.
+
+@Chatterjee et al. 2017; Bannister et al. 2019:
+Cited as examples of papers that discuss spectroscopic follow-up as a method for retrieving redshifts of FRBs.
+
+@Thornton et al. 2013:
+Referenced to highlight the historical use of burst DM as a rough estimate of the source distance, based on models of the intergalactic medium (IGM).
+
+@Inoue 2004:
+Cited as an example of a paper that discusses models of the IGM in relation to using burst DM as an estimate of source distance.
+
+@Niu et al. 2022:
+Referenced to provide an example of an FRB (FRB 20190520B) with a high DM FRB and a redshift that implies an extreme DM excess, which can be contributed by the host galaxy or by overdensities in the IGM and intervening halos.
+
+@Simha et al. 2023:
+Cited as a reference for the concept of DM cosmic, which refers to DM contributions from overdensities in the IGM and intervening halos.
+
+@Lee et al. 2023:
+Referenced to support the statement that the halo gas of two foreground clusters is instead responsible for the high DM host of FRB 20190520B, contradicting the initial belief that it had the highest DM host of any FRB.
+@Lee-Waddell et al. 2023:
+Referenced to support the statement that DM can only be used to place an upper limit or probability distribution on 𝑧.
+
+@Connor 2019; James et al. 2021:
+Cited to suggest that a turnover in the Macquart relation caused by detection biases makes a closer origin more likely for FRBs with very high DM.
+
+@Eatough et al. 2013; Manchester et al. 2005:
+These references are cited to provide examples of pulsars in our own Galaxy with high DM, suggesting that an FRB with DM ∼ 1000 pc cm -3 can plausibly occupy almost any redshift up to 1.
+
+@Bhat et al. 2004; Cordes et al. 2016:
+Cited to highlight the well-established correlation between DM and scattering timescale in Galactic pulsars, which is used to argue for a similar correlation between DM FRB and the burst scattering timescale 𝜏 FRB.
+
+@Cordes et al. 2016:
+Referenced to support the argument that the observed scattering times of FRBs may constrain the value of DM host and improve estimates of DM cosmic and 𝑧 host.
+
+@Macquart & Koay 2013:
+Cited to provide theoretical work supporting the assumption that the IGM contributes minimally to scattering in FRBs.
+
+@Cordes et al. 2022:
+Referenced to suggest that the observed scattering times of FRBs may improve estimates of DM cosmic and 𝑧 host, but these techniques are difficult to demonstrate and calibrate in practice due to the unknown properties of a host galaxy's ISM.
+@Spanakis-Misirlis 2021:
+Referenced to provide the number of recorded FRBs in FRBStats, indicating the availability of data for analysis.
+
+@Niu et al. 2022:
+Cited to provide information on the localization of FRB 20190520B, highlighting the existence of FRBs at lower redshifts with large excess DM.
+
+@Ryder et al. 2022:
+Referenced to provide information on the detection and localization of FRB 20220610A, demonstrating the existence of a population of FRBs at 𝑧 host > 1.
+
+@Chatterjee et al. 2017; Bhandari et al. 2023; Niu et al. 2022:
+These papers are cited to support the claim that some FRB hosts are dwarf galaxies, emphasizing the potential difficulty in detecting these host galaxies due to their low luminosity.
+
+@Gordon et al. 2023:
+Cited to highlight the variation in definitions of dwarf galaxies and their relevance to the detection of FRB hosts.
+
+@Simon 2019:
+Referenced to indicate that the population of galaxies in the Universe extends to very low luminosities, suggesting the possibility of undetected or undetectable host galaxies for FRBs.
+
+@Willman et al. 2005b,a:
+Cited to provide an example of the late discovery of the faintest galaxies in the Local Group, supporting the idea that some FRB host galaxies may remain undetected in optical or near-infrared imaging.
+
+Note: The citation "@Macquart relation" is not included as it refers to a section within the current paper.
+@Sanghavi et al. 2023:
+Referenced to highlight the expected precise localizations of fast radio bursts (FRBs) from the CRAFT coherent, CHIME/FRB outrigger, and DSA-2000 upgrades, emphasizing the need for allocation of follow-up resources.
+
+@Connor & Ravi 2023:
+Cited to emphasize the expected onslaught of precise FRB localizations from the DSA-2000 upgrade, which will require allocation of follow-up resources.
+@Gordon et al. 2023:
+Referenced to indicate that only a few tens of FRBs have been localized to their hosts so far.
+
+@Macquart et al. 2010:
+Cited as the survey responsible for localizing FRBs using the Australian Square Kilometre Pathfinder (ASKAP).
+
+@Hotan et al. 2021:
+Referenced as the source of information about the Australian Square Kilometre Pathfinder (ASKAP) used in the CRAFT survey.
+
+@Shannon et al, in preparation:
+Cited to mention that all CRAFT FRBs with precise localizations and deep optical follow-up have been associated with host galaxies, with a total of 25 known hosts.
+
+@Ryder et al. 2022:
+Referenced to indicate that the most distant confirmed host galaxy to date is associated with FRB 20220610A.
+
+@James et al. 2022b:
+Cited as the source of information about FRB 20210407A and FRB 20210912A, both with high dispersion measures (DM) and low Galactic latitudes.
+
+N/A
+@N/A

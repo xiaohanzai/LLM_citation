@@ -1,0 +1,36 @@
+@Manchester et al. 2005:
+Referenced to provide the number of pulsars detected in the Milky Way.
+
+@Lorimer 2008:
+Cited to support the characterization of millisecond pulsars based on their spin periods and spin-down rates.
+
+@Alpar et al. 1982:
+Referenced to explain the proposed mechanism of recycling neutron stars in low-mass X-ray binaries.
+
+@Camilo et al. 1993; Belczynski et al. 2010:
+These papers are cited to present scenarios for the formation of isolated millisecond pulsars, including the "failed" double neutron star binary formation.
+
+@Bildsten 2002:
+Cited to suggest the possibility of the "evaporation" of low-mass hot white dwarf companions as a scenario for the formation of isolated millisecond pulsars.
+
+@Schwab 2021:
+Referenced to propose the merger of double white dwarfs as another potential scenario for the formation of isolated millisecond pulsars.
+@Verbunt & Freire 2014:
+Referenced to support the suggestion that the disruption of MSP binaries by dynamical interactions can contribute to the fraction of single MSPs in dense core-collapsed clusters.
+
+@Davies et al. 1992:
+Cited as an example of a previous study suggesting that NS-main sequence star tidal disruption events (TDEs) can contribute to the fraction of single MSPs in dense core-collapsed clusters.
+
+@Davies & Benz 1995; Lee et al. 1996; Camilo & Rasio 2005; Kremer et al. 2022:
+These papers are cited to indicate that they have proposed mechanisms that can produce single MSPs, further supporting the role of dynamics in the formation of single MSPs.
+@Kremer et al. 2020b:
+Referenced to support the claim that the CMC Cluster Catalog Models have shown promising results in matching various properties of observed Milky Way GCs, including the cluster masses, core radii, and half-light radii.
+
+@Ye et al. 2019:
+Cited to highlight that the models used in the study form and evolve MSPs self-consistently in the dynamical environment of clusters, producing good agreements with the properties of the observed cluster pulsars.
+
+@Harris (1996Harris ( , 2010 edition) edition):
+Referenced to provide information on the observed pulsars in 11 core-collapsed GCs, including the cluster name, the ratio of core-to-half light radii, the number of single pulsars, the number of binary pulsars, and the fraction of single pulsars.
+@N/A
+@Lorimer 2008:
+Referenced to support the claim that the ratios of single-to-binary MSPs in GCs are less affected by selection biases than the observed number of MSPs.

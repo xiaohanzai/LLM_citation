@@ -1,0 +1,66 @@
+@Petroff et al. (2019):
+Referenced to support the statement about the brightness and duration of Fast Radio Bursts (FRBs) and to indicate that the physical mechanism behind FRBs is still under debate.
+
+@Zhang (2020):
+Cited to mention one of the possible emission mechanisms for FRBs.
+
+@Popov & Postnov (2013); Bochenek et al. (2020):
+These papers are cited to suggest that FRBs could be associated with compact objects such as magnetars.
+
+@Dai et al. (2016):
+Referenced to propose that pulsars could be a source of FRBs.
+
+@Katz (2017); Sridhar et al. (2021); Sridhar arXiv:2307.16355v1 [astro-ph.HE] 31 Jul 2023; Metzger (2022):
+These papers are cited to suggest that FRBs could be associated with X-ray Binaries.
+
+@Michilli et al. (2018); Feng et al. (2022):
+Cited to emphasize the importance of precise localization of FRBs in order to gain insights about their nature and surrounding environment.
+
+@Chatterjee et al. (2017):
+Referenced to highlight the precise localization of the first-known repeater FRB 20121102A.
+
+@Tendulkar et al. (2017):
+Cited to mention the identification of a host galaxy for the repeater FRB 20121102A.
+
+@Marcote et al. (2017):
+Referenced to indicate the spatial coincidence of the repeater FRB 20121102A with a persistent radio source (PRS).
+
+@Law et al. (2022):
+Cited to mention the limited deep radio continuum observations made for localized FRBs and the identification of FRB-PRS associations.
+
+@Niu et al. (2022):
+Referenced to indicate the confirmation of FRB 20190520B being associated with a compact PRS.
+
+@Kashiyama & Murase (2017); Metzger et al. (2017):
+These papers are cited to suggest that compact PRSs could be key to understanding the origin of FRBs.
+@Kashiyama & Murase 2017; Metzger et al. 2017:
+These papers are cited to support the statement that compact persistent radio sources (PRSs) are important for investigating the origin of fast radio bursts (FRBs) both theoretically and observationally.
+
+@Michilli et al. 2018:
+Referenced to indicate that another repeating FRB, FRB 20201124A, was associated with a radio source, as revealed by the upgraded Giant Metrewave Radio Telescope (uGMRT) and the Karl G. Jansky Very Large Array (VLA).
+
+@Wharton et al. 2021:
+Cited to highlight the use of the upgraded Giant Metrewave Radio Telescope (uGMRT) in associating FRB 20201124A with a radio source.
+
+@Ricci et al. 2021:
+Referenced to indicate that the Karl G. Jansky Very Large Array (VLA) was also used to associate FRB 20201124A with a radio source, and that optical spectroscopy and radio interferometric measurements showed the source to be spatially extended and consistent with ongoing star formation activity.
+
+@Ravi et al. 2022:
+Cited to support the statement that optical spectroscopy and radio interferometric measurements demonstrated that the source associated with FRB 20201124A was spatially extended and consistent with ongoing star formation activity.
+
+@Chibueze et al. 2022:
+Referenced to indicate that a MeerKAT and e-MERLIN coordinated search led to another FRB-PRS association from FRB 20190714A, but it is uncertain if the radio emission could be attributed to ongoing star forming activity.
+
+@Law et al. 2022:
+Cited to state that no more FRB-PRS associations have been found with other localized FRBs, as mentioned in the references of Law et al. 2022.
+
+@Nan et al. 2011:
+Referenced to indicate that FRB 20190520B was detected with the Five-hundred-meter Aperture Spherical radio Telescope (FAST) in drift-scan mode as part of the Commensal Radio Astronomy FAST Survey (CRAFTS).
+
+@Li et al. 2018; Li et al., 2019:
+These papers are cited to indicate the involvement of the Commensal Radio Astronomy FAST Survey (CRAFTS) in the detection of FRB 20190520B.
+
+@Niu et al. 2022:
+Cited to support the statement that monthly follow-up tracking observations of FRB 20190520B detected 75 bursts with a high burst rate and a mean pulse Dispersion Measure (DM) of 1204.7 ± 4.0 pc cm -3.
+
+N/A

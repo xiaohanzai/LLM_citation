@@ -1,0 +1,32 @@
+@Stamatikos et al. (2014):
+Referenced as the discovery paper of SGR J1935+2154 using the Burst Alert Telescope (BAT) on the Neil Gehrels Swift Observatory.
+
+@Israel et al. (2016):
+Cited to provide information on the spin period, period derivative, and magnetic field strength of SGR J1935.
+
+@Younes et al. (2017):
+Referenced to highlight burst-active episodes of SGR J1935 in 2015 and 2016.
+
+@Lin et al. (2020):
+Cited for comprehensive investigations of SGR J1935 bursts during active episodes in 2018, 2019, and 2020, showing increased burst activity over time.
+
+@Roberts (2023):
+Referenced for burst-active episodes of SGR J1935 in 2021 and 2022.
+
+@Kaneko et al. (2021):
+Cited for the detection of a burst storm during the 2020 SGR J1935 outburst using Fermi/GBM.
+
+@Younes et al. (2020):
+Referenced for the burst rate maximum and burst observations during the 2020 SGR J1935 outburst using NICER.
+
+@Ridnaia et al. (2021); CHIME/FRB Collaboration et al. (2020); Bochenek et al. (2020); Mereghetti et al. (2020):
+Cited to confirm that SGR J1935 was a source of Fast Radio Bursts (FRBs) based on the detection of a hard burst with contemporaneous FRBs.
+
+@Younes et al. (2022):
+Referenced for the radio-pulsar phase of SGR J1935 in October 2022 and the inference of an anti-glitch from X-ray monitoring observations.
+@Younes et al. 2022:
+Cited to support the inference of an anti-glitch in SGR J1935 based on X-ray monitoring observations.
+
+@Kirsten et al. 2021:
+Referenced to report the detection of two additional FRB-like bursts from the source during the same period.
+@N/A

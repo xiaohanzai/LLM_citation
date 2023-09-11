@@ -1,0 +1,42 @@
+@ac-2015; Lee et al. 2021:
+Referenced to support the statement that the formation of matter in the universe under the influence of gravity is one of the key tests in the context of the concordance Lambda-Cold Dark Matter (Λ CDM) cosmological paradigm.
+
+@Fukugita et al. 1998; Shull et al. 2012:
+Cited to highlight the Missing-Baryon Problem and the fact that the Lyman alpha forest and UV absorption studies are not sensitive to a significant portion of the intergalactic medium (IGM) baryons.
+
+@Cen & Ostriker 2006:
+Referenced to support the theory that a significant portion of the IGM baryons reside in the hot, diffuse phase.
+
+@Nicastro et al. 2018:
+Cited to mention the requirement of very long-exposure X-ray observations to detect the weak absorption expected from OVII tracers of the hot phase.
+
+@de Graaff et al. 2019:
+Referenced to propose an alternative method of revealing the gas in filaments by stacking the weak kinetic Sunyaev-Zeldovich signal between galaxy pairs.
+@Lorimer et al. (2007):
+Referenced as the source of the serendipitous discovery of the first Fast Radio Burst (FRB) in archival data, which initiated a series of paradigm-changing discoveries in the field.
+
+@Tendulkar et al. (2017); Bannister et al. (2019); Law et al. (2020); Bhardwaj et al. (2021):
+These papers are cited to highlight the improved radio detection techniques that have led to the localization of multiple FRBs in the sky with sub-arcsecond accuracy, allowing for confident measurements of their radial distance from their host galaxy redshifts.
+
+N/A
+@Macquart et al. (2020):
+Referenced to support the estimation of DM cosmic for a sample of localized FRBs and the correlation between DM cosmic and z FRB , providing evidence for the ability of DM FRB to probe the diffuse plasma in the Universe.
+
+@Inoue 2004:
+Cited to mention that the mean Macquart relation, which describes the average DM cosmic versus z FRB , is well described by cosmology.
+
+@Prochaska & Zheng 2019:
+Referenced to highlight that galaxy feedback can influence the variance in gas density, potentially contributing to the scatter in DM cosmic at any given redshift.
+
+@Simha et al. 2020(Simha et al. , 2021):
+Cited to introduce the methodology used to estimate the contribution from foreground halos and applied to four FRB sightlines with high DM cosmic values.
+@Simha et al. 2020(Simha et al. , 2021):
+Referenced as the authors' previous work that introduced a methodology to estimate the contribution from foreground halos, providing the basis for the analysis applied in this study.
+
+@McQuinn 2014; Prochaska & Zheng 2019; Lee et al. 2022:
+Cited to suggest the future application of similar analyses on a statistical sample of Fast Radio Bursts (FRBs) to gain insights into the distribution of ionized gas within dark matter halos.
+@Lee et al. 2022:
+Referenced as the source of the redshifts of galaxies collected as part of the FRB Line-of-Sight Ionization Measurement From Lightcone AAOmega Mapping (FLIM-FLAM) survey, which aims to study the foreground matter distribution along FRB sightlines.
+
+@Planck Collaboration et al. 2020:
+Cited to specify the assumed cosmological parameters in the study, which is a ΛCDM cosmology with Planck 2018 cosmological parameters.

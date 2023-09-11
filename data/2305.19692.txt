@@ -1,0 +1,54 @@
+@Lorimer et al. [5]:
+Referenced to credit the discovery of the first FRB, FRB010724, which was found through the reanalysis of archive data from the Parkes 64-m telescope.
+
+@Thornton et al. [6]:
+Cited to acknowledge the discovery of several other similar radio pulses, which contributed to the increased attention and interest in FRBs within the astronomy community.
+
+@[7][8][9]:
+Referenced to highlight the identification of host galaxies and the direct measurement of redshift, confirming the extragalactic origin of FRBs.
+
+@[10,11]:
+Cited to indicate the number of FRBs that have been discovered so far, emphasizing the growing body of knowledge in this field.
+
+@[12]:
+Referenced to mention the confirmation of one FRB originating from our own Galaxy, distinguishing it from the majority of extragalactic FRBs.
+
+@[14] and [15]:
+Cited to acknowledge the observation of over one thousand bursts from two extremely active sources, FRB20121102A and FRB20201124A, providing examples of highly active repeating FRBs.
+@16: Referenced to support the theoretical model of giant pulses from young rapidly rotating pulsars as a possible explanation for FRBs.
+@17: Referenced to support the theoretical model of the black hole battery as a possible explanation for FRBs.
+@18: Referenced to support the theoretical model of the "Cosmic Comb" as a possible explanation for FRBs.
+@19, 20: Referenced to support the theoretical model of the inspiral and merger of binary neutron stars as a possible explanation for FRBs.
+@21: Referenced to support the theoretical model of the neutron star-white dwarf binary as a possible explanation for FRBs.
+@22: Referenced to support the theoretical model of the collision between neutron stars and asteroids as a possible explanation for FRBs.
+@23, 24: Referenced to support the theoretical model of highly magnetized pulsars traveling through asteroid belts as a possible explanation for FRBs.
+@25: Referenced to support the theoretical model of young magnetars with fracturing crusts as a possible explanation for FRBs.
+@26: Referenced to support the theoretical model of axion stars moving through pulsar magnetospheres as a possible explanation for FRBs.
+@12, 27: Referenced to support the claim that the recently discovered magnetar-associated burst in our Milky Way supports the magnetar origin of some, if not all FRBs.
+@28, 29: Referenced to support the claim that the statistical similarity between repeating FRBs and soft gamma repeaters implies that they may have a similar origin.
+@30, @31, @32, @33, @34, @35, @36, @37:
+These references are cited to support the statement that FRBs can be used as probes to investigate cosmology and test fundamental physics.
+
+@38, @39, @40, @41, @42:
+These references are cited to support the statement that most FRBs have no direct measurement of redshift.
+
+@43, @44, @45, @46:
+These references are cited to support the statement that observed DM can be used as an indicator of distance to infer the redshift of FRBs.
+
+@31, @35, @46:
+These references are cited to highlight assumptions about the universality of host DM for all FRBs.
+
+@47:
+This reference is cited to highlight an alternative assumption about the correlation between host DM and the star-formation rate (SFR) of the host galaxy.
+
+@48:
+This reference is cited to present findings that contradict the assumption of a strong correlation between host DM and SFR from a limited sample of localized FRBs.
+
+@36, @49, @50:
+These references are cited to propose a more reasonable approach to dealing with host DM by modeling it using a proper probability distribution and marginalizing over free parameters.
+
+@49:
+This reference is cited to support the assumption that the host DM follows a log-normal distribution and to highlight the reconstruction of the DM-redshift relation from a small sample of well-localized FRBs.
+
+N/A
+@11: This reference is cited to indicate that the redshift of the first CHIME/FRB catalog is inferred using the DM-redshift relation.

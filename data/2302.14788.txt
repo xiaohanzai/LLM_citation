@@ -1,0 +1,71 @@
+@Eckert et al. (2019):
+Referenced to support the statement that within a sufficiently large volume, the ratio of dark matter to baryons in galaxy clusters approximately matches the Universal value.
+
+@Tumlinson et al. (2017):
+Cited to highlight that in smaller halos, feedback is expected to expel gas beyond the virialized dark matter halos.
+
+@Sarazin (1986):
+Referenced to indicate that the study of the intracluster medium (ICM) at X-ray wavelengths has been conducted for the past fifty years.
+
+@Ghirardini et al. (2019):
+Cited to support the statement that thermal bremsstrahlung emission from gas heated to 2-15 keV is observed out to the virial radii of clusters, tracing the radial distribution of the ICM gas.
+
+@Voit (2005):
+Referenced to explain that the high temperatures of the ICM are reached through adiabatic compression and shock heating as the gas reaches hydrostatic equilibrium within the potential well.
+
+@Pratt et al. (2009a):
+Cited to suggest that the total mass of the cluster can be inferred from its X-ray luminosity.
+
+@Böhringer & Werner (2010):
+Referenced to indicate that X-ray spectroscopy can be used to measure the gas temperature in galaxy clusters.
+
+@Hitomi Collaboration et al. (2016):
+Cited to highlight that X-ray spectroscopy can also be used to measure the velocity structure of the gas in galaxy clusters.
+@Mroczkowski et al. 2019:
+Referenced to support the statement that the hot plasma in the intracluster medium (ICM) can be observed through the thermal Sunyaev-Zel'dovich (SZ) effect.
+
+@Petroff et al. 2019; Cordes & Chatterjee 2019; CHIME/FRB Collaboration et al. 2021; Petroff et al. 2016; Chatterjee et al. 2017; Ravi et al. 2019; Heintz et al. 2020; Bhandari et al. 2020:
+These papers are cited to provide background information on fast radio bursts (FRBs) and their detection, emphasizing the limited number of localized FRBs and the potential of FRBs as a probe of the intracluster medium (ICM) of massive galaxy clusters.
+
+N/A
+@Macquart et al. (2020):
+Referenced to explain the relationship between DM cosmic and source redshift, including the various components of extragalactic gas that contribute to DM.
+
+@McQuinn 2016:
+Cited to define the IGM as ionized gas outside of virialized dark matter halos.
+
+@Prochaska & Zheng 2019:
+Referenced to highlight that for sources embedded in galaxy clusters, the largest DM contribution may come from the ICM.
+
+@Macquart et al. 2020; CHIME/FRB Collaboration et al. 2021:
+These papers are cited to compare the DM ICM contribution from a cluster to the typical contribution from the IGM and the mean DM observed by CHIME/FRB sources.
+
+@van Weeren et al. 2019:
+Mentioned to note that while other radio objects can provide cluster RMs, FRBs are unique in their ability to measure both RM and DM, making them valuable for studying the magnetic field of the ICM.
+@Agarwal et al. 2019:
+Referenced to mention the detection of an FRB in the direction of the Virgo cluster by ASKAP, highlighting the uncertainty regarding the source's location within or behind the cluster.
+
+@CHIME/FRB Collaboration et al. 2019:
+Cited to discuss the unlocalized source FRB 20190116A, which is likely to be within a projection of approximately 5 Mpc of the Coma cluster and may be dispersed by filamentary structure extending from the cluster.
+
+@Hallinan et al. 2019a:
+Referenced to support the discussion of the potential dispersion of FRB 20190116A by filamentary structure extending from the Coma cluster.
+
+@Fujita et al. 2017:
+Cited to mention the investigation of the application of FRBs to the warm hot intergalactic medium (WHIM) at the outskirts of galaxy clusters, where X-ray observations are challenging.
+
+@Prochaska & Zheng 2019; Ravi 2019; Lee et al. 2022:
+These papers are referenced to highlight the focus on studying the circumgalactic medium (CGM) with FRBs, emphasizing its significance in galaxy formation and feedback processes and the challenges in detecting the CGM using traditional means.
+
+@Connor & Ravi 2022:
+Cited to present the first statistical evidence for the impact of halo gas on FRBs and emphasize the importance of considering galaxy groups in FRB dispersion measure (DM) budgets.
+
+N/A
+@Ravi et al. (in prep.):
+Referenced to indicate that a detailed account of the instrument used in the study will be presented in this upcoming paper.
+
+@Ravi et al. (2022):
+Cited to describe the commissioning phase and operation of the DSA-110 radio interferometer during the observations presented in the work.
+
+@Sharma et al., in prep.:
+Referenced to mention a companion paper that provides details on the interferometric localizations of FRB 20220509G and FRB 20220914A, as well as their unusual host galaxies.

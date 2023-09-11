@@ -1,0 +1,43 @@
+@Cordes & Chatterjee 2019; Petroff et al. 2019; Platts et al. 2019; Xiao et al. 2021; Zhang 2020; Zhang 2022:
+These references are cited to provide background information on fast radio bursts (FRBs) and their characteristics, including their duration, brightness temperatures, and the number of detected bursts.
+
+@Lorimer et al. 2007:
+Referenced as the first discovery of FRBs in 2007, establishing the initial observation and study of these radio transients.
+
+@Petroff et al. 2016; CHIME/FRB Collabortion 2021a:
+Cited to highlight the detection of hundreds of FRBs and the classification of repeaters and non-repeaters, with a specific mention of the exceptions FRB 20121102A and FRB 20201124A.
+
+@Li et al. 2021; Xu et al. 2022; Zhou et al. 2022:
+These papers are referenced to provide information on FRB 20121102A, the first detected repeater, and its observation across different frequency ranges, as well as the detection of thousands of bursts from this source.
+
+@Spitler et al. 2014; Spitler et al. 2016; Chatterjee et al. 2017; Gajjar et al. 2018; Michilli et al. 2018:
+Cited to describe the initial discovery of FRB 20121102A, its subsequent confirmation as a repeater, and the identification of its host galaxy.
+
+@Bassa et al. 2017; Chatterjee et al. 2017; Marcote et al. 2017; Tendulkar et al. 2017:
+Referenced to provide information on the identification of the host galaxy of FRB 20121102A as a low-metallicity star-forming dwarf galaxy at a cosmological distance.
+
+@Zhang et al. 2018; Gourdji et al. 2019:
+Cited to mention the limited number of observed bursts from FRB 20121102A prior to detection by the Five-hundred-meter Aperture Spherical radio Telescope (FAST).
+
+@Li et al. 2021:
+Referenced to highlight the significant increase in the sample of observed bursts from FRB 20121102A due to the detection by FAST.
+@CHIME/FRB Collabortion 2021b; Lanman et al. 2022:
+These references are cited to indicate the sources that detected and observed the repeating bursts of FRB 20201124A.
+
+@Kumar et al. 2021a,b; Xu et al. 2021:
+These papers are cited to highlight the observatories that detected the repeating bursts of FRB 20201124A in 2021 March.
+
+@Day et al. 2021:
+This reference is cited to acknowledge the Australia Square Kilometre Array Pathfinder (ASKAP) for obtaining the localization and identifying the host galaxy of FRB 20201124A.
+
+@Fong et al. 2021:
+This paper is cited to provide the source of the spectroscopic redshift measurement of the host galaxy of FRB 20201124A.
+
+@Xu et al. 2022:
+This reference is cited to acknowledge the detection of a large sample of 1863 bursts of FRB 20201124A by FAST from April 1 to June 11, 2021.
+
+@Zhou et al. 2022; Zhang et al. 2022:
+These papers are cited to indicate the detection of an extremely active episode of FRB 20201124A by FAST in the end of September 2021.
+
+@Wang & Yu 2017; Wang & Zhang 2019; Lin & Sang 2020; Zhang et al. 2021:
+These references are cited to highlight previous works that have studied the energy and waiting time distribution of FRBs, which is relevant to understanding the emission mechanism of FRBs.

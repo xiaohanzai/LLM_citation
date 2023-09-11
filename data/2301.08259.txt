@@ -1,0 +1,40 @@
+@Vallée 2004; Kahniashvili & Ratra 2005; Durrer & Neronov 2013; Subramanian 2016:
+These references are cited to provide a review of the constraints on the strength of magnetic fields in the intergalactic medium (IGM) from theory and observations.
+
+@Quashnock et al. 1989; Pshirkov et al. 2016; Planck Collaboration et al. 2016; Cheng et al. 1996; Kawasaki & Kusakabe 2012:
+These papers are referenced to support the discussion of the strongest constraints on cosmological scales for the strength of magnetic fields in the early Universe.
+
+@Davé et al. 2001; Cen & Ostriker 2006:
+These references are cited to highlight the measurement of the magnetic field in filaments of the Warm-Hot Intergalactic Medium (WHIM) and its role in structure formation.
+
+@Vernstrom et al. 2017, 2019, 2021; O'Sullivan et al. 2019, 2020; Locatelli et al. 2021:
+These papers are referenced to discuss the traditional method of using Faraday Rotation Measure (RM) from background polarized electromagnetic sources to place constraints on the magnetic field in the Warm-Hot Intergalactic Medium (WHIM).
+
+@Dolag et al. 1999; Brüggen et al. 2005; Ryu et al. 2008; Vazza et al. 2017:
+These references are cited to support the consistency between the upper limits of the magnetic field in the Warm-Hot Intergalactic Medium (WHIM) obtained from Faraday Rotation Measure (RM) measurements and the results of simulations.
+
+@Furlanetto & Loeb 2001:
+This paper is referenced to discuss the potential pollution of the intergalactic medium (IGM) with magnetic fields from quasar outflows.
+
+@Beck et al. 1996; Bernet et al. 2008:
+These references are cited to provide information on the magnetic fields within the Milky Way and in galaxy clusters, indicating their order of magnitude.
+@Ryu et al. 2008; Xu & Zhang 2020; Macquart & Koay 2013:
+These papers are cited to support the statement that turbulence in the intergalactic medium (IGM) plays a role in the amplification of seed magnetic fields.
+
+@Lorimer et al. 2007:
+Referenced to introduce fast radio bursts (FRBs) as transient electromagnetic events that can be used to measure turbulence in the IGM.
+
+@Thornton et al. 2013; Macquart & Koay 2013; Petroff et al. 2016; Xu & Zhang 2020:
+These papers are cited to highlight the use of individual temporal broadening and statistical fluctuations in Dispersion Measures (DMs) of FRBs to measure turbulence in the IGM.
+
+@Macquart et al. 2020:
+Referenced to mention the use of FRBs to constrain properties of the Warm-Hot Intergalactic Medium (WHIM), including its magnetic field.
+
+@Ravi et al. 2016:
+Cited to provide upper limits on the magnetic field of the WHIM measured from the Rotation Measure (RM) distribution of FRBs.
+
+@Hackstein et al. 2020:
+Referenced to mention simulations suggesting that a sample of 10^3 FRBs with RM > 1 rad m^-2 is required to improve constraints on the magnetic field of the WHIM.
+
+N/A
+@N/A

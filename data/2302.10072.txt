@@ -1,0 +1,35 @@
+@Thornton et al. 2013; Petroff et al. 2015; Connor et al. 2016; Champion et al. 2016; Chatterjee et al. 2017; Macquart et al. 2020:
+These references are cited to support the discussion on the dispersion measure (DM) of Fast Radio Bursts (FRBs) and their potential as an astrophysical and cosmological probe.
+
+@Petroff et al. (2022):
+Referenced as a review that discusses the massive potential of FRBs and their impact on research.
+
+@Platts et al. (2019):
+Cited to provide a compilation of proposed mechanisms for FRBs.
+
+@Andersen et al. (2020):
+Referenced to acknowledge the possibility of some FRBs having a galactic origin.
+
+@Bose & McGlinn 1988:
+Cited to support the discussion on testing the weak equivalence principle (WEP) using FRBs and the potential implications for photons and other relativistic particles.
+@Zhou et al. (2014 2020); Ravi et al. (2019):
+These references are cited to support the statement that the homogeneous component of the dispersion measure (DM) can be accessed through fast radio bursts (FRBs) with known host, which provide an independent redshift estimate.
+
+@Wu et al. (2022); James et al. (2022):
+These papers are referenced to indicate additional FRBs that will be used in a sub-sample analysis, as described in Section 3.
+
+@Masui & Sigurdson (2015); Shirasaki et al. (2017); Rafiei-Ravandi et al. (2021); Bhattacharya et al. (2020); Takahashi et al. (2021):
+These references are cited to highlight the use of correlations in the full FRB sample to study the inhomogeneous component of DM.
+
+@Minazzoli et al. (2019); Reischke et al. (2022):
+These papers are referenced to discuss the limitations of using FRBs with host identification to constrain the weak equivalence principle (WEP) and propose an alternative approach using angular statistics of FRBs.
+
+@Bartlett et al. (2021):
+This reference is cited to mention the application of the alternative approach using angular statistics to gamma ray bursts.
+
+N/A
+@Reischke & Hagstotz (2023):
+Referenced to support the calculation of the covariance matrix from the LSS for DM-z observations, which is relevant to the analysis of FRBs with host identification in the context of testing the WEP.
+
+@Nusser (2016):
+Cited for the previous use of individual FRBs to constrain ∆γ from the fluctuations, which is relevant to the current study's application of the full covariance to a data set of FRBs with host identification to put constraints on ∆γ.

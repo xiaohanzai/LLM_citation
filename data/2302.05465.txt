@@ -1,0 +1,75 @@
+@Lorimer et al. 2007:
+Referenced to indicate the year of the first discovery of fast radio bursts (FRBs).
+
+@Chatterjee et al. 2017; Marcote et al. 2017; Tendulkar et al. 2017:
+Cited to highlight the studies that precisely localized an FRB and traced it back to its host galaxy, providing evidence of their cosmological origins.
+
+@Bannister et al. 2019; Ravi et al. 2019:
+Referenced to mention that an increasing number of FRBs are now being localized upon detection by fast transient searches using radio interferometers.
+
+@CHIME/FRB Collaboration et al. 2018; Macquart et al. 2010a:
+Cited to emphasize the significant increase in the detected FRB population due to the commissioning of sensitive and wide-field fast transient detection instrumentation.
+
+@Petroff et al. 2022:
+Referenced to indicate the number of published FRBs to date and the fraction of the FRB population that produce repeat bursts.
+
+@Spitler et al. 2016; CHIME/FRB Collaboration et al. 2019a:
+Cited to distinguish between repeating FRBs and apparent non-repeating FRBs and highlight the uncertainty regarding the origins and repetition of FRBs.
+@Platts et al. (2019):
+Referenced to support the statement that many of the leading FRB progenitor models invoke a magnetically-powered neutron star, known as a magnetar.
+
+@Bochenek et al. (2020); CHIME/FRB Collaboration et al. (2020a); Mereghetti et al. (2020):
+These papers are cited to provide evidence for the connection between FRBs and magnetars, specifically referring to the detection of a bright radio burst from the Galactic magnetar SGR 1935+2154.
+
+@Kirsten et al. (2021):
+Referenced to compare the radio burst energies from the Galactic magnetar SGR 1935+2154 with the typical extragalactic FRBs detected to date.
+
+@Margalit et al. (2020a); Nimmo et al. (2022):
+These papers are cited to discuss the bridging of the gap between Galactic and extragalactic coherent radio sources, using the example of the radio burst energies from the Galactic magnetar SGR 1935+2154.
+@Michilli et al. 2018; Hessels et al. 2019; Hilmarsson et al. 2021; Cook et al. 2023; Mannings et al. 2022; Ryder et al. 2022; Wu & McQuinn 2022; Ocker et al. 2023:
+These references are cited to support the statement that the dispersion measure (DM), rotation measure (RM), duration, spectro-temporal morphology, and polarization of FRB signals provide important information on their central engines and the intervening ionized matter, highlighting the significance of studying these properties.
+
+@Pleunis et al. 2021:
+This reference is cited to mention the findings that repeater and non-repeater burst morphologies may be statistically distinct, indicating the potential for host properties to provide additional distinguishing power between these classes.
+
+N/A
+@Chatterjee et al. (2017); Tendulkar et al. (2017):
+These references are cited to provide the first host associations of FRBs, with FRB 20121102A found in a star-forming, metal-poor dwarf galaxy and FRB 20190520B residing in a dwarf host galaxy.
+
+@Bannister et al. (2019):
+Referenced to highlight the first well-localized apparently nonrepeating FRB 20180924B, which was found in an older and more massive star-forming galaxy, suggesting the possibility of distinct populations of FRBs.
+
+@Marcote et al. (2020):
+Cited to discuss the localization of the next well-localized repeater FRB 20180916B in a massive spiral galaxy with a moderate star formation rate, complicating the understanding of host properties in distinguishing FRB populations.
+
+@Marcote et al. (2017); Niu et al. (2022):
+These papers are referenced to discuss the colocation of two repeating FRBs (FRBs 20121102A and 20190520B) with persistent radio sources (PRSs), with Marcote et al. (2017) claiming a direct link between the PRS and FRB 20121102A, and Niu et al. (2022) highlighting the luminosity of the PRS associated with FRB 20190520B.
+
+@Tendulkar et al. (2017); Niu et al. (2022):
+Cited to mention that both FRBs with known PRSs (FRBs 20121102A and 20190520B) reside in dwarf host galaxies, with their PRSs coincident with or close to a star-forming knot in the galaxy.
+
+N/A
+@Tendulkar et al. 2017; Bannister et al. 2019; Prochaska et al. 2019b; Marcote et al. 2020; Fong et al. 2021; Bhandari et al. 2022a; Ravi et al. 2022a; Niu et al. 2022:
+These references are cited to support the statement that FRBs are generally found in starforming galaxies across a wide range of masses, providing evidence from various studies.
+
+@Heintz et al. 2020; Bhandari et al. 2020a:
+These papers are referenced to highlight that early studies found no statistically significant distinction between the stellar population properties of repeating and non-repeating FRBs based on a limited number of hosts.
+
+@Tendulkar et al. 2017; Bassa et al. 2017; Tendulkar et al. 2021; Piro et al. 2021; Niu et al. 2022:
+These references are cited to emphasize that in some cases, milliarcsecond-scale localizations of FRBs have pinpointed them to different sub-galactic environments, such as knots of star formation or non-star-forming environments.
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022:
+These papers are referenced to highlight the discovery of some repeating FRBs in non-star-forming environments, specifically in an old globular cluster environment.
+
+@Marcote et al. 2020; Chittidi et al. 2021; Mannings et al. 2021; Tendulkar et al. 2021:
+These references are cited to support the statement that the majority of subarcsecond localized FRBs occur within or near the spiral arms of their hosts, although there are exceptions.
+
+@Xu et al. 2022:
+This reference is cited to mention that there are exceptions to the majority of subarcsecond localized FRBs occurring within or near the spiral arms of their hosts.
+
+@Pacifici et al. 2022:
+This paper is referenced to highlight the diversification of spectral energy distribution (SED) modeling techniques and the need to compare the FRB host population to similarly-modeled field galaxies.
+
+N/A
+@Johnson et al. (2021):
+Referenced to describe the modeling assumptions and methodology used in the study.

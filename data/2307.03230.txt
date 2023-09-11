@@ -1,0 +1,31 @@
+@Morris & Serabyn 1996:
+Referenced to provide the source of information about the central molecular zone (CMZ) surrounding Sagittarius A* (Sgr A*) at the center of the Milky Way.
+
+@Martin et al. 2004; Ferrière et al. 2007:
+Cited to support the statement about the high densities in the central molecular zone (CMZ) compared to the rest of the Galaxy.
+
+@Oka et al. 2019:
+Referenced to provide the source of information about the cosmic-ray energy density in the central molecular zone (CMZ).
+
+@Ferrière 2009:
+Cited to support the statement about the range of interstellar magnetic fields in the central molecular zone (CMZ).
+
+@Han et al. 2006; Orlando & Strong 2013:
+Referenced to provide the sources of information about the magnetic field in the Galactic disk for comparison.
+
+@Johnston et al. 2006; Deneva et al. 2009:
+Cited to provide the sources of information about the known pulsars located within the central molecular zone (CMZ).
+
+@Kennea et al. 2013; Mori et al. 2013; Eatough et al. 2013:
+Referenced to provide the sources of information about the Galactic centre magnetar and its rotation measure (RM) and dispersion measure (DM).
+
+@Schnitzeler et al. 2016:
+Cited to support the statement about the high DMs and RMs of the known pulsars located within the central molecular zone (CMZ).
+@Desvignes et al. 2018:
+Referenced to provide evidence of the closely monitored RM variations of PSR J1745-2900 and its attributed cause.
+
+@Petroff et al. 2019; Cordes & Chatterjee 2019:
+Cited to highlight the similarity in RM variability between pulsars and Fast Radio Bursts (FRBs), emphasizing the rareness of strong variability in both classes of objects.
+
+@Mckinven et al. 2022; Hilmarsson et al. 2021b; Anna-Thomas et al. 2023:
+These papers are cited to provide examples of the range of RM variability observed in FRBs over different timescales, supporting the suggestion that the surrounding environments of pulsars and FRBs might have similar density and magnetic field levels.

@@ -1,0 +1,9 @@
+@1: Referenced to indicate the year of the first discovery of fast radio bursts (FRBs) in 2007.
+@3,4: Cited to highlight the number of FRBs detected and the fact that some of them emit repeating bursts.
+@5,6,7,8: Referenced to support the statement that FRB 200428 was produced by the Galactic magnetar SGR J1935+2154, suggesting that some FRBs can be emitted by magnetars.
+@2,9: Cited to provide additional evidence for the possibility of FRBs being emitted by magnetars.
+@10: Referenced to indicate that FRB 20201124A was discovered by CHIME.
+@11,12: Cited to highlight the frequent study of FRB 20201124A and the rich pulse structures observed in its radio bursts.
+@13: Referenced to indicate the use of dynamic spectra to investigate the scintillation time-scale of FRB 20201124A.
+@14,15,16,17: Cited to mention the efforts made to localize the host galaxy of FRB 20201124A.
+N/A: No citations appear in the text.

@@ -1,0 +1,62 @@
+@Cordes & Chatterjee 2019; Petroff et al. 2022:
+These references are cited to indicate that Fast Radio Bursts (FRBs) are a new class of radio transient that can be observed from distant galaxies, and to acknowledge that the source of FRBs is still unknown.
+
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to highlight that several hundred bursts have been detected.
+
+@The CHIME/FRB Collaboration et al. 2023:
+Cited to mention that some FRBs repeat stochastically.
+
+@Chime/Frb Collaboration et al. 2020; Pastor-Marazuela et al. 2022:
+These papers are cited to note that some FRBs burst with quasiperiodic patterns over a wide range of timescales.
+
+@Anna-Thomas et al. 2022; Mckinven et al. 2023:
+Referenced to highlight that polarimetric measurements have identified dynamic, highly magnetized plasma in the parsec-scale environments of some FRB sources.
+
+@Macquart et al. 2010; Law et al. 2018; Sanidas et al. 2018; van Leeuwen et al. 2023:
+These references are cited to emphasize that the need to localize FRBs to a precise degree has motivated the development of new radio instruments.
+
+@Chatterjee et al. 2017; Mannings et al. 2021; Bhandari et al. 2022:
+Cited to mention that most FRBs are associated with actively star-forming galaxies.
+
+@Bochenek et al. 2020; CHIME/FRB et al. Collaboration et al. 2020:
+These papers are referenced to highlight that FRB-like bursts have been discovered from a magnetar in our own galactic disk.
+
+@Kirsten et al. 2022:
+Referenced to mention that some FRBs have been associated with much older stellar systems, including a nearby globular cluster.
+
+@Sharma et al. 2023:
+Cited to note that a quiescent galaxy has been associated with an FRB.
+
+@Niu et al. 2022; Marcote et al. 2020; Law et al. 2022:
+These references are cited to acknowledge that while a small fraction of FRBs have persistent radio counterparts, many others have strict limits on associated persistent emission.
+
+N/A
+@Ravi 2019; James et al. 2022:
+These references are cited to provide the occurrence rate of FRBs and to emphasize that it is too high to be solely attributed to cataclysmic events.
+
+@Zhang 2020:
+Referenced to support the statement that models based on magnetized neutron stars can reproduce many burst properties and FRB associations.
+
+@Margalit et al. 2019; Kremer et al. 2021:
+These papers are cited to highlight that magnetized neutron stars, which can be formed through core-collapse supernovae or compact binary coalescence, are one possible source of FRBs.
+
+@Chime/Frb Collaboration et al. 2020; Lyutikov et al. 2020; Li et al. 2022:
+These references are cited to support the argument that binarity plays a role in some FRB behaviors, such as quasiperiodic activity timescales.
+
+@Gordon et al. (2023); Sharma et al. (2023):
+These papers are cited to propose the existence of multiple formation channels for FRBs and their association with specific stellar environments, similar to supernovae and gamma-ray bursts.
+
+@Perley et al. 2020; Lu et al. 2022:
+Referenced to suggest that a large sample of FRB host galaxy associations and statistical analysis are needed to identify specific classes of FRB sources and their formation channels.
+
+@Berger 2014; Woosley & Bloom 2006:
+These references are cited to draw a parallel between the potential existence of multiple formation channels for FRBs and the case of supernovae and gamma-ray bursts.
+@Tendulkar et al. 2017; Marcote et al. 2020; Rajwade et al. 2022; Bhandari et al. 2022:
+These papers are cited to highlight previous studies that have identified FRBs with quality host galaxies, emphasizing the significance of the current sample in increasing the number of identified FRBs with host galaxies.
+
+@Ravi et al. 2023a; Connor et al. 2023; Sharma et al. 2023:
+These publications are referenced to indicate that three FRBs included in the current sample have been reported in other studies, providing additional evidence and context for the findings presented in this work.
+
+@Planck Collaboration et al. (2020):
+Referenced to indicate the adoption of standard cosmological parameters from this publication.

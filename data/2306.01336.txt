@@ -1,0 +1,72 @@
+@Petroff et al. 2022:
+Referenced to indicate the increase in observations of fast radio bursts (FRBs) in the last decade.
+
+@Lanman et al. 2022:
+Cited to describe the highly variable rates and regularity of repeaters, including burst 'storms' and quiet periods.
+
+@Collaboration et al. 2020:
+Referenced to highlight the periodic activity windows of FRB 180916.
+
+@Rajwade et al. 2020:
+Cited to mention the periodic activity windows of FRB 121102.
+
+@Cruces et al. 2021:
+Referenced to support the statement that FRB 121102 is Poisson-distributed within windows once events with millisecond separation are excluded.
+
+@Pleunis et al. 2021:
+Cited to describe the variation in morphologies of fast radio bursts (FRBs) in the time-frequency plane.
+
+@Chamma et al. 2022:
+Referenced to highlight the difference in spectral characteristics between repeaters and one-off events.
+
+@Hessels et al. 2019:
+Cited to introduce the concept of the 'sadtrombone effect' where the central frequency of sub-bursts in repeaters drifts downwards.
+
+@Farah et al. 2018; Nimmo et al. 2021; Majid et al. 2021:
+These papers are cited to mention the reported short substructure at a microsecond scale in fast radio bursts (FRBs).
+
+@Andersen et al. 2022:
+Referenced to note the occurrence of quasi-periodic sub-bursts in FRBs.
+
+@Caleb & Keane 2021:
+Cited to discuss the polarisation characteristics of FRBs, including occasional circular polarisation and variability in the polarisation angle (PA).
+
+@Hilmarsson et al. 2021; Nimmo et al.:
+Referenced to highlight the variability in the polarisation angle (PA) of FRBs.
+@Caleb & Keane 2021:
+Referenced for a review of occasional circular polarization in some sources, specifically in section 5.9.
+
+@Hilmarsson et al. 2021; Nimmo et al. 2021:
+Cited to support the observation of variability in the polarization angle (PA) in bursts.
+
+@Michilli et al. 2018; Anna-Thomas et al. 2022; Mckinven et al. 2022:
+These papers are referenced to highlight the observation of variability in the rotation measure (RM) and dispersion measure (DM) from burst to burst.
+
+@Luo et al. 2020:
+Cited to discuss the exception of FRB180301, where polarization angle (PA) swings within bursts have been observed, resembling pulsar profiles.
+
+Note: There are no citations for the proposed explanations of variations in RM, DM, and polarization swings.
+@Popov & Postnov 2013; Cordes & Wasserman 2016; Kumar et al. 2017; Wadiasingh & Timokhin 2019; Wadiasingh & Chirenti 2020; Lu et al. 2020; Lyubarsky 2020:
+These papers are cited to present different magnetospheric models and wind models that explain the production of FRBs, highlighting the range of proposed emission mechanisms and distances from the neutron star.
+
+@Lyubarsky 2014; Metzger et al. 2017; Beloborodov 2017, 2020; Yuan et al. 2020:
+These references are cited to support the discussion of wind models for FRBs, specifically focusing on the propagation of shock waves and coherent cyclotron maser emission.
+
+@Dai et al. 2016; Bagchi 2017; Smallwood et al. 2019; Dai & Zhong 2020; Dai 2020:
+These papers are cited to introduce alternative models involving the interaction of small bodies with the magnetosphere or wind of a neutron star, highlighting the gravitational energy source and the energy extraction from the wind.
+
+@Mottez & Zarka 2014; Mottez et al. 2020; Voisin et al. 2021:
+These references are cited to discuss models where energy is taken from the wind as an object orbits the star, emphasizing the role of the magnetosphere or wind of a neutron star.
+
+@Thompson & Duncan 1996; Perna & Pons 2011:
+These papers are cited to support the statement that in most cases, the neutron star is a magnetar and energy is released in star quakes occurring under magnetic stress, providing a theoretical basis for magnetar outbursts as the energy source for FRBs.
+@Cordes (e.g. 1978); Lyutikov (e.g. 2020):
+These references are cited to support the assumption of radius-to-frequency mapping, which is used to map geometry into the frequency domain in the context of the general model developed in Section 2.
+
+@Radhakrishnan & Cooke 1969; Komesaroff 1970; Pétri 2017:
+These papers are cited to indicate the adaptation of the rotating-vector model, commonly used to model pulsar PA profiles, for this work, where radiation is assumed to be linearly polarised within the plane of curvature.
+@Thompson et al. 2002; Perna & Pons 2011; Barrère et al. 2022:
+These papers are cited to support the motivation for including a toroidal component in the model of magnetar magnetospheres, which is relevant to the discussion of the effects of a toroidal component on the geometry of FRBs.
+
+N/A
+N/A

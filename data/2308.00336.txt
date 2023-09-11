@@ -1,0 +1,31 @@
+@1:
+Referenced to indicate the number of reported FRBs since the first discovery in 2007, highlighting the growing interest and research in this field.
+
+@2, @3, @4, @5:
+These references are cited to emphasize the breakthroughs made in the research of FRBs, specifically in the areas of repeaters, burst characteristics, ambient environment, and host galaxies.
+
+@6, @7:
+Cited to highlight the research on burst characteristics of FRBs.
+
+@8, @9, @10, @11, @12, @13:
+Referenced to emphasize the research on the ambient environment of FRBs.
+
+@14, @15, @16, @17:
+Cited to indicate the research on host galaxies of FRBs.
+
+@18:
+Referenced to provide information about the Fast Radio Burst Catalogue (FRBCAT) as a repository for FRB properties.
+
+@19:
+Cited to highlight the FRBSTATS platform, which provides a platform for recording FRB bursts and visualizing parameter distributions.
+@Section 2:
+Referenced to introduce the architecture of the database platform, including data description and data availability.
+
+@Table 2:
+Cited to list the advantages of Blinkverse compared to other databases.
+
+@Section 3:
+Referenced to provide examples of data analysis using data readily downloaded from the database, such as energy distribution, period analysis, and classification of FRBs.
+
+@Section 4:
+Cited to provide concluding remarks.

@@ -1,0 +1,43 @@
+@Kaw et al. 1973; Max 1973b; Max et al. 1974; Drake et al. 1974; Forslund et al. 1975; Mima & Nishikawa 1975, 1984; Cohen & Max 1979; Kruer 1988:
+These references are cited to support the statement that the nonlinear interaction between electromagnetic waves and plasmas induces various plasma instabilities.
+
+@Tajima & Dawson 1979:
+Referenced to highlight the importance of nonlinear phenomena in laser-plasma experiments such as wakefield acceleration.
+
+@Tabak et al. 1994; Deutsch et al. 1996:
+These papers are cited to emphasize the role of nonlinear phenomena in fast ignition of inertial confinement fusion.
+@Lorimer et al. 2007; Michilli et al. 2018; Day et al. 2020; Luo et al. 2020; Nimmo et al. 2021:
+These references are cited to provide examples of studies that have investigated Fast Radio Bursts (FRBs) and their characteristics, emphasizing the existing knowledge and research on the topic.
+
+@Andersen et al. 2020; Bochenek et al. 2020; Lyubarsky 2021:
+These papers are cited to support the statement that magnetars have emerged as one of the leading progenitors of FRBs, highlighting the current understanding of the relationship between magnetars and FRBs.
+
+@Matsukiyo & Hada 2003:
+Referenced to explain that certain wave-plasma interactions do not occur for linearly polarized pump waves propagating through pair plasmas, providing a basis for the subsequent discussion on the processes that can operate near FRB progenitors.
+
+@Ghosh et al. 2022:
+Cited to present the findings of a study that demonstrated the suppression of stimulated Brillouin scattering (SBS) for realistic pump waves with a broad spectrum, leading to the prevalence of filamentation instability (FI) as the main process near FRB progenitors.
+
+@Sobacchi et al. 2023:
+Referenced to highlight the observation made by the authors that the FI generates transverse density filaments separated by near-vacuum regions, which can significantly impact the inferred dispersion measure of FRBs and therefore must be considered in the propagation of FRB radio pulses.
+@Iwamoto et al. 2017(Iwamoto et al. , 2022;;Plotnikov et al. 2018;Babul & Sironi 2020;Sironi et al. 2021):
+These references are cited to support the confirmation of the excitation of the FI through particle-in-cell (PIC) simulations of relativistic magnetized shocks and the self-consistent generation of electromagnetic waves in the shock transition.
+
+@Lyubarsky 2014;Beloborodov 2017Beloborodov , 2020;;Metzger et al. 2019;Plotnikov & Sironi 2019;Margalit et al. 2020a,b:
+These papers are cited to discuss the consideration of relativistic magnetized shocks as one of the candidates for the origin of coherent FRB emission, providing relevant background information.
+
+@Iwamoto et al. 2017:
+Referenced to provide the wave strength parameter and the condition under which the radio pulses satisfy a0 1 in the vicinity of the FRB progenitors.
+
+@Beloborodov 2020:
+Cited to support the statement that the wave amplitude drastically decreases with distance from the sources.
+
+@Sobacchi et al. 2022;Sobacchi et al. 2023:
+These studies are cited to highlight the significant influence of the FI on the propagation process of radio pulses, even for a0 1.
+
+@Kaw et al. 1973;Sobacchi et al. 2023:
+Referenced to explain the cause of the FI and the saturation of the instability through the balance between the wave ponderomotive force and the plasma pressure gradient.
+@Sobacchi et al. 2023:
+Referenced to support the statement that the condition β th0 a0, which is relevant to the discussion of density contrast in FRB environments, can be satisfied.
+@Ghosh et al. (2022):
+Referenced to acknowledge previous work on PIC simulations of the FI in pair plasmas, specifically focusing on the linear phase.

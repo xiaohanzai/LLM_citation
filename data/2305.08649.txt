@@ -1,0 +1,23 @@
+@Katz 2014(Katz , 2018;;Kumar et al. 2017;Yang & Zhang 2018a, 2023;Lu et al. 2020;Cooper & Wijers 2021;Wang et al. 2022b;Kumar et al. 2022;Qu et al. 2023):
+These references are cited to discuss various coherent emission mechanisms that have been proposed to interpret the emissions of fast radio bursts (FRBs), highlighting the lack of a definitive radiation mechanism for FRBs.
+
+@Lyubarsky 2021;Beloborodov 2017;Waxman 2017;Metzger et al. 2019:
+These papers are referenced to mention the possibility of coherent emission mechanisms involving maser by hydrodynamic instabilities or kinetic instabilities in the context of FRBs.
+
+@Yang & Zhang 2021;Mahlmann et al. 2022:
+These references are cited to discuss the coherent plasma radiation mechanism as a potential explanation for the emissions of FRBs.
+
+@Zhang 2022b:
+Referenced as a recent review on the physical origin of FRBs, highlighting the unsolved puzzle due to the diversity of FRBs.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020;Mereghetti et al. 2020;Li et al. 2021;Ridnaia et al. 2021;Tavani et al. 2021:
+These papers are cited to support the association of FRB 200428 with a Galactic magnetar SGR J1935+2154, suggesting that at least some FRBs originate from magnetars born from the core collapses of massive stars.
+
+@Bhardwaj et al. 2021;Kirsten et al. 2022:
+Referenced to discuss the association between FRB 20200120E and its host globular cluster with an extremely old age, challenging the core-collapse magnetar formation hypothesis for this FRB.
+
+@Wang et al. 2016;Zhang 2020;Kremer et al. 2021;Lu et al. 2022:
+These references are cited to suggest alternative origins for FRB 20200120E, such as an old object or a system associated with a compact binary merger.
+
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to mention the detection of dozens of FRB sources showing repeating behaviors.

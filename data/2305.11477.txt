@@ -1,0 +1,62 @@
+@Lorimer et al. (2007); Thornton et al. (2013):
+These references are cited to provide background information on fast radio bursts (FRBs) and their characteristics.
+
+@Macquart et al. (2020):
+Referenced to support the statement that the intergalactic medium (IGM) is often responsible for a portion of FRB dispersion.
+
+@Macquart & Koay (2013); Cordes et al. (2022):
+These papers are cited to argue that the tenuous density of the intergalactic medium (IGM) is not expected to contribute significantly to the scattering of FRBs.
+
+@Chawla et al. (2022); Gupta et al. (2022):
+These references are cited to support the lack of correlation between FRB dispersion measures (DM) and scattering times.
+
+@Cordes & Lazio (2003):
+Referenced to argue that the Milky Way interstellar medium (ISM) is not expected to dominate the scattering observed in FRBs at high Galactic latitudes.
+
+@Simha et al. (2020):
+Cited to support the conclusion that host galaxy interstellar mediums (ISMs) are unlikely to be solely responsible for the observed FRB scattering.
+
+@Ocker et al. (2022a):
+Referenced to discuss the potential role of intervening galaxies as a source of scattering in FRBs.
+
+@Prochaska & Neeleman (2018):
+Cited to argue that for FRBs with redshifts less than or equal to 1, the probability of intersecting a foreground galaxy is insufficient for them to be the dominant source of scattering in the population.
+@Masui et al. (2015):
+Referenced to support the suggestion that the circum-burst environment is a potentially important scattering region for some FRBs, based on observations of scattering times and rotation measures.
+
+@Michilli et al. (2018); Hilmarsson et al. (2021); Anna-Thomas et al. (2022):
+These papers are cited to provide further evidence for the scenario of a dense, magnetized medium near the source of repeating FRBs, based on measurements of RM variability.
+
+@Ocker et al. (2022a):
+Referenced to highlight recent measurements of scattering variability in FRB 20190520B, which provide tight limits on the location of the dominant scattering media.
+
+@Margalit & Metzger (2018):
+Cited to support the idea that scattering can serve as an important probe of the circum-burst region, informing our understanding of FRB progenitors.
+
+@Prochaska et al. (2019); Connor et al. (2020, 2023):
+These papers are referenced to show that observations of FRBs passing through the circum-galactic media (CGM) of foreground galaxies have shown very little scattering, suggesting the need to distinguish between scattering in the CGM and circumburst media.
+
+@McCourt et al. (2018):
+Cited to suggest the possible presence of cloudlets of cold gas in the CGM, which could cause scattering consistent with that observed in the FRB population.
+
+@Vedantham & Phinney (2019):
+Referenced to discuss the importance of distinguishing between scattering in the CGM and circumburst media, and the potential of FRBs as a probe of the CGM.
+@Ocker et al. 2022a; Main et al. 2022:
+These papers are cited to support the use of observing the variation of decorrelation bandwidth or temporal broadening over time as a method to directly constrain the scattering location for repeating FRBs.
+
+@Masui et al. 2015; Farah et al. 2018; Ocker et al. 2022b:
+These papers are referenced to highlight the use of single burst observations to constrain the scattering geometry and distinguish between host and intervening scattering screens for FRBs that do not repeat.
+
+@Cordes & Lazio 2003; Yang & Zhang 2017:
+These references are cited to emphasize the use of electron distribution models such as NE2001 and YMW16 to compare and constrain the level of scatter-broadening in the Milky Way.
+
+@Day et al. 2020:
+Referenced to highlight the previous reliance on lower time resolutions and image-plane-based techniques for burst morphology analysis, which has been improved with the advent of the CELEBI post-processing pipeline.
+
+@Cho et al. 2020:
+Cited to emphasize the type of detailed burst morphology analysis that can now be conducted for all CRAFT FRBs with the CELEBI post-processing pipeline.
+
+@Scott et al. 2023:
+Referenced to highlight the advent of the CELEBI post-processing pipeline, which enables high-precision estimates of decorrelation bandwidth and temporal broadening for robust identification of scintillation and scattering.
+@Masui et al. (2015); Ocker et al. (2022b):
+These references are cited to introduce the two-screen model used to place constraints on the distances to the scattering screens of the 10 CRAFT FRBs studied in the work.

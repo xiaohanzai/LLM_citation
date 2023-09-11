@@ -1,0 +1,36 @@
+@1: Referenced to introduce the concept of interstellar scintillation (ISS) and its modulation of radio signals from compact sources.
+@2: Referenced to explain the diffractive type of ISS and its significant modulations on short timescales.
+@3,4: Referenced to explain the refractive type of ISS and its small modulations on long timescales.
+@5: Referenced to provide further information on refractive ISS and its cause.
+@5,6: Referenced to highlight that ISS phenomena are often observed from pulsars.
+@7,8: Referenced to mention that ISS phenomena are also observed from quasars.
+@5: Referenced to define the characteristics of diffractive ISS in terms of scintillation bandwidth and scintillation timescale.
+@9,10: Referenced to discuss the discovery of scintillation arcs in pulsars and their relationship to the Doppler rate and time delay in a thin screen.
+@11,12,13,14: Referenced to emphasize the significance of scintillation arcs in studying the ionized interstellar medium (IISM) and pulsars.
+@15,16,17: Referenced to indicate the detection of scintillation arcs from multiple pulsars, suggesting localized scattering in the IISM.
+@Lorimer et al. 2007 [18]:
+Referenced as the first discovery of Fast Radio Bursts (FRBs) by Lorimer et al.
+
+[19,20]:
+Cited to support the statement that FRBs are scintillating sources.
+
+[21,22]:
+Referenced to suggest that simultaneous detection of ISS (Interstellar Scintillation) and scattering from FRBs at the same frequency is unrealistic for MW (Milky Way) pulsars.
+
+[19,23]:
+Cited to indicate that simultaneous detection of ISS and scattering has been observed from FRBs at the same band, suggesting scattering from two surfaces.
+
+[24]:
+Referenced to highlight the measurement of the screen distance of FRB 20221024A, indicating that the dominant screen is in the local environment approximately 400 pc from Earth, potentially associated with the Local Bubble.
+
+[12]:
+Cited to mention that scintillation arcs can provide more reliable information about the distance and geometry of scattering screens, but they have not been clearly detected from FRBs.
+@Main et al.2022b [34]:
+Referenced to describe the method of extracting burst spectra and constructing 2D autocorrelation functions, providing a basis for the analysis and results presented in the paper.
+@Reardon et al. 2019 [36]:
+Referenced to indicate that the definition of scintillation bandwidth is similar to the method described in this paper.
+
+@9, 10:
+Cited to highlight the use of the 2D Fourier transform of the ACF to compute the secondary spectrum.
+
+N/A

@@ -1,0 +1,70 @@
+@Aalbers et al. 2022:
+Referenced as one of the recent sub-atomic experiments (LUX-ZEPLIN) that have placed constraints on the parameter space of WIMPs in the search for dark matter.
+
+@The DarkSide-50 Collaboration et al. 2022:
+Cited as one of the recent sub-atomic experiments (DarkSide-50) that have placed constraints on the parameter space of WIMPs in the search for dark matter.
+
+@XENON Collaboration et al. 2023:
+Referenced as one of the recent sub-atomic experiments (XENONnT) that have placed constraints on the parameter space of WIMPs in the search for dark matter.
+
+@Kimball & Budker 2023:
+Cited as the authors of a paper that discusses the constraints on the parameter space of WIMPs based on recent sub-atomic experiments.
+
+@Alcock et al. 2000:
+Referenced as one of the papers that have used gravitational microlensing to search for dark matter in the form of MACHOs around the Milky Way galaxy.
+
+@Tisserand et al. 2007:
+Cited as one of the papers that have derived constraints on mass ranges for MACHOs based on microlensing surveys.
+
+@Ali-Haïmoud & Kamionkowski 2017:
+Referenced as the authors of a paper that provides constraints on mass ranges for MACHOs based on the cosmic microwave background.
+
+@Abbott et al. 2016:
+Cited as the authors of a paper that discusses gravitational wave observations from mergers of compact binaries, which has revived interest in the possibility of dark matter being mainly compact matter.
+
+@Laha 2020:
+Referenced as the author of a paper that discusses the possibility of dark matter being mainly compact matter, such as primordial black holes, based on gravitational wave observations.
+@Muñoz et al. 2016; Eichler 2017; Katz et al. 2020; Wucknitz et al. 2021:
+These references are cited to support the statement that one method for detecting dark compact objects is through gravitational lensing of radio transients, specifically fast radio bursts (FRBs), and to provide a basis for discussing the cosmological distance and abundance of FRBs as a candidate for time-domain gravitational lensing searches.
+
+@Cordes & Chatterjee 2019:
+Referenced to highlight that fast radio bursts (FRBs) are mysterious millisecond radio signals mostly emitted by extragalactic sources.
+
+@Kader et al. 2022:
+Cited to discuss the generation of coherent multiple images of FRBs as they propagate around a foreground mass, resulting in interference fringes in the time domain.
+
+@Chatterjee et al. 2017; Ravi et al. 2019; Bannister et al. 2019:
+These papers are cited to mention the discovery of FRBs in other galaxies, providing evidence for the existence of FRBs beyond our own galaxy.
+
+@Lorimer et al. 2007:
+Referenced to highlight the first discovery of fast radio bursts (FRBs) over a decade ago, emphasizing the increasing number of FRBs observed since then.
+
+@CHIME/FRB Collaboration et al. 2018:
+Cited to acknowledge the CHIME project as the most successful in finding FRBs, with a large field of view (FoV) and detecting a significant number of FRBs since 2018.
+
+@Masui & Chime/Frb Collaboration 2021:
+Referenced to provide the number of FRBs detected by the CHIME project since 2018, highlighting its performance compared to other radio arrays.
+
+@Leung et al. 2022:
+Cited to discuss the observation of no lenses from a large number of bursts in the CHIME catalog, leading to an upper limit on the constraint of dark matter made of compact objects, such as primordial black holes (PBHs).
+@Leung et al. (2022); Kader et al. (2022):
+These papers are cited to support the observation that no lenses were found in a large number of bursts from the CHIME catalog, placing an upper limit on the constraint of dark matter made of compact objects.
+
+@Abbott et al. (2016):
+Referenced to highlight the suggestion by the Laser Interferometer Gravitational-Wave Observatory (LIGO)/VIRGO interferometer of a hint to the dark matter fraction.
+
+@Bird et al. (2016):
+Cited to support the suggestion that the black hole merger rate is consistent with all dark matter being approximately 30 M black holes, based on LIGO's result.
+
+@Muñoz et al. (2016):
+These papers are referenced to discuss the possibility of microlensing of fast radio bursts (FRBs) by primordial black holes (PBHs), with the number of microlensed FRBs depending on the dark matter fraction in PBHs.
+
+N/A
+@Lin et al. 2022:
+Referenced to provide information about the Bustling Universe Radio Survey Telescope in Taiwan (BURSTT), its design, capabilities, and future plans.
+
+@H.-H. Lin 2022:
+Cited for private communication regarding the timing resolution of BURSTT.
+
+@Spergel et al. 2003:
+Referenced to provide the cosmological assumptions adopted throughout the paper.

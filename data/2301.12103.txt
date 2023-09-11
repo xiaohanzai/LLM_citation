@@ -1,0 +1,57 @@
+@Williams et al. 1971:
+Referenced to support the experimental test of Coulomb's law as a method to put tight constraints on photon mass.
+
+@Lowenthal 1973:
+Cited to highlight the investigation of the gravitational deflection of electromagnetic radiation as a method to constrain photon mass.
+
+@Davis et al. 1975:
+Referenced to support the measurement of the magnetic field of Jupiter as a method to constrain photon mass.
+
+@Ryutov 2010:
+Cited to highlight the testing of Ampere's law by observing large-scale magnetic fields in galaxies as a method to constrain photon mass.
+
+@Pani et al. 2012:
+Referenced to support the observation of the spin of supermassive black holes as a method to constrain photon mass.
+
+@Yang & Zhang 2017:
+Cited to highlight the measurement of the spin-down rate of pulsars as a method to constrain photon mass.
+@Wei & Wu (2021):
+Referenced for a recent review on measuring the frequency-dependent velocity of electromagnetic waves from astrophysical transients to constrain photon mass in the cosmological aspect.
+
+@Lovell et al. (1964):
+Cited for their analysis of the time delay between optical and radio emissions from flare stars, providing an upper limit on the photon mass.
+
+@Warner & Nather (1969):
+Referenced for their analysis of the optical emission of different wavelengths from the Crab Nebula pulsar, obtaining an upper limit on the photon mass.
+
+@Schaefer (1999):
+Cited for their analysis of the time delay between gamma-ray emission and radio afterglow from gamma-ray bursts (GRBs), obtaining an upper limit on the photon mass.
+
+@Zhang et al. (2016):
+Referenced for their investigation of the radio afterglows and multi-band radio peaks from a large sample of GRBs, obtaining the strictest constraint on the photon mass.
+
+@Wei & Wu (2018):
+Cited for their investigation of the dispersion measures of a sample of extragalactic radio pulsars, putting a robust limit on the photon mass.
+@Wu et al. (2016):
+Referenced to introduce the initial proposal of using FRBs to constrain photon mass and to provide the upper limits on photon mass based on the analysis of FRB 150418.
+
+@Shao & Zhang (2017):
+Cited to highlight their contribution in pointing out the distinguishable redshift dependence between dispersion-induced time delay and time delay caused by non-zero photon mass, and their development of a Bayesian framework to break the degeneracy between these two parts of time delay.
+
+@Wei & Wu (2020):
+Referenced to mention their use of the same method as Shao & Zhang (2017) to constrain photon mass with a sample of nine well-localized FRBs and to provide the obtained upper limits on photon mass.
+@Shao & Zhang 2017:
+Cited to reference previous work that treated the host dispersion measure (DM) as a constant parameter or parameterized it tracing the star formation rate, highlighting the inappropriate assumption and the need for a more proper way to deal with host DM.
+
+@Wei & Wu 2020:
+Referenced to support previous work that calculated the dispersion measure of the intergalactic medium (DMIGM) using the mean matter density and introduced an uncertainty term to account for possible deviation from the mean, emphasizing the need to consider the non-Gaussian probability distribution of DMIGM.
+
+@Lin et al. (2022):
+Cited to mention the finding of no strong evidence for the correlation between host DM and star formation rate, indicating the need for further investigation on the constraints of photon mass.
+
+@Macquart et al. 2020; Zhang et al. 2020:
+These papers are cited to support the suggestion of considering the probability distribution and marginalizing over it when dealing with the host dispersion measure, highlighting the importance of properly accounting for the variability of host DM.
+
+@Zhang et al. 2021b:
+Referenced to mention the theoretical analysis and numerical simulations showing that the actual value of DMIGM may deviate significantly from the mean and the probability distribution is non-Gaussian, indicating the need for further investigation on the impact of the probability distribution of DMIGM on the constraints of photon mass.
+@N/A

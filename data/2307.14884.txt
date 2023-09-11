@@ -1,0 +1,29 @@
+@Israel et al. (2005); Watts & Strohmayer 2006; Strohmayer & Watts 2006; Huppenkothen et al. 2014; Strohmayer & Watts 2005; Huppenkothen et al. 2014a; Li et al. 2022; Castro-Tirado et al. 2021; Xiao et al. 2022a; Roberts et al. (2023); Pumpe et al. 2018; Huppenkothen et al. 2014b; Miller et al. 2019; Huppenkothen et al. 2013:
+These references are cited to support the discussion on the detection and explanation of quasi-periodic oscillations (QPOs) in magnetars, their potential use in studying neutron star interiors, and the identification of QPO frequency via global seismic modes.
+@Xiao et al. 2023a:
+Referenced to indicate the source of the systematic analysis of the spectral lags of the X-ray burst from SGR J1935+2154.
+
+@Xiao et al. 2023b:
+Cited twice, once to indicate the source of the systematic analysis of the minimum variation timescales (MVTs) of the X-ray burst from SGR J1935+2154, and again to highlight the larger MVT of the burst associated with FRB 200428 compared to most other bursts, implying its special radiation mechanism.
+
+@Li et al. 2022:
+Referenced to indicate the source of the recently reported interesting QPO in the burst associated with FRB 200428 from SGR J1935+2154.
+
+@Huppenkothen et al. 2013:
+Cited to suggest the possibility of similar continuum properties in the power density spectra (PDSs) of other X-ray bursts from SGR J1935+2154, based on the analysis of PDSs in this paper.
+
+@Huppenkothen et al. 2014a:
+Referenced to indicate the source of the analysis of average PDSs of other magnetars, which may have QPO candidates similar to those in the X-ray bursts from SGR J1935+2154.
+
+N/A
+@Vaughan 2010; Huppenkothen et al. 2013; Guidorzi et al. 2016; Xiao et al. 2022b:
+These references are cited to support the statement that PDS is the most common method for QPOs search in frequency domain.
+
+@Huppenkothen et al. 2013; Guidorzi et al. 2016:
+These papers are referenced to indicate the differences between the distributions of the PDS slopes of gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and 21 magnetar bursts, and to suggest that the PDS slope depends on the relative strength of the fast component with timescale <∼ 1 s in the light curve.
+
+@Shen & Song 2003; Vetere et al. 2006; Gao et al. 2012:
+These references are cited to support the claim that the PDS slope depends on the relative strength of the fast component with timescale <∼ 1 s in the light curve.
+
+@Liu et al. 2020; Xiao et al. 2020; Meegan et al. 2009; Liu et al. 2021:
+These papers are referenced to highlight the dead times and time resolutions of the satellites Insight-HXMT, GECAM, and Fermi/GBM, which are beneficial for PDS analyses and high-frequency QPO searches.

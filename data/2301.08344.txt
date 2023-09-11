@@ -1,0 +1,39 @@
+@Fiedler et al. 1987:
+Referenced to indicate the first discovery of extreme scattering events (ESEs) in quasars.
+
+@Cognard et al. 1993:
+Referenced to indicate the discovery of ESEs in pulsars.
+
+@Bannister et al. 2016:
+Cited to highlight recent work on ESEs, emphasizing their relative ubiquity and the potential for future surveys of these events.
+
+@Burke-Spolaor et al. 2019:
+Referenced to emphasize the implications of excess time delays induced by ESEs for precision gravitational wave detection through pulsar timing arrays.
+
+@Zhu et al. 2022:
+Cited to highlight the use of novel phase retrieval techniques for precision localization of the refractive images formed by the ESE lens, indicating recent advancements in studying ESEs.
+@Clegg et al. 1998:
+Referenced to highlight the theoretical challenge posed by inferences for the pressure of highly pressurized clouds in the ISM in relation to explaining ESE observations.
+
+@Romani et al. 1987; Pen & King 2012:
+These papers are cited to discuss the proposal of thin, two-dimensional current sheets as a potential resolution to the over-pressure problem in explaining certain features of ESE light curves.
+
+@Walker & Wardle 1998:
+Cited to emphasize the struggle of two-dimensional Gaussian profile models in explaining the high-frequency light curves observed in ESEs.
+
+@Henriksen & Widrow 1995:
+Referenced to discuss the proposal of cold, self-gravitating clouds of neutral gas with an ionized skin as an explanation for the frequency structure of ESEs and its implications for the galaxy's mass.
+@Stinebring et al. 2001; Walker et al. 2004; Goldreich & Sridhar 2006; Brisken et al. 2010; Pen & Levin 2014:
+These references are cited to provide observational evidence and support the proposal that a substantial fraction of scintillation observations can be explained by refractive plasma sheets along the line of sight, challenging traditional models of an extended Kolmogorov turbulent medium.
+
+@Dong et al. 2022:
+This reference is cited to highlight recent magnetohydrodynamic (MHD) simulations that suggest the turbulent cascade in the study of the turbulent ISM is driven by intermittent sheet-like structures.
+@Thom et al. 1975:
+Referenced to support the statement that singularities in the projection map can be classified and described by a small set of elementary catastrophes.
+
+@Goldreich & Sridhar 2006; Pen & Levin 2014; Simard & Pen 2018:
+These papers are cited to propose that fold (A2) catastrophes in corrugated plasma sheets could explain pulsar scintillation observations and to propose the next higher-order catastrophe, the A3 cusp, as an explanation for ESEs.
+
+@Nye 1999:
+Referenced to describe the framework of "doubly catastrophic" lensing and to highlight the application of catastrophe theory to the theory of lensing.
+@N/A

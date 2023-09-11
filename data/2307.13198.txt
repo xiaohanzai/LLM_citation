@@ -1,0 +1,43 @@
+@Fruchter et al. 1988; Roberts 2013:
+These references are cited to provide background information on spider pulsars and their characteristics, including their low-mass companions and the process of accretion termination.
+
+@Archibald et al. 2009; Stappers et al. 2014:
+Referenced to support the statement that spider pulsars are descendants of low-mass X-ray binaries after accretion on to the pulsar has terminated.
+
+@Roberts 2013:
+Cited to provide information on the companion masses of redbacks (RBs) and black widows (BWs), emphasizing the difference in companion masses between the two types of spider pulsars.
+
+@Stappers et al. 2001a; Polzin et al. 2019:
+These papers are cited to highlight the frequency dependence of radio eclipses in spider pulsars and to discuss possible eclipse mechanisms, including pulse scattering, pulse smearing, and cyclotron damping.
+
+@Thompson et al. 1994:
+Referenced to suggest that the eclipse mechanism in different systems may vary.
+
+@Kansabanik et al. 2021:
+Cited to support the explanation of frequency-dependent eclipses in PSR J1544+4937 through synchrotron absorption by relativistic electrons.
+
+@Kumari et al. 2023:
+Referenced to mention the discovery of a secular variation of the orbital period for PSR J1544+4937.
+@Crowter et al. (2020):
+Referenced to support the measurement of RM changes near the eclipse boundary of PSR J2256-1024 and the constraint on the line-of-sight magnetic field.
+
+@Li et al. (2019):
+Cited to provide the constraint on the line-of-sight magnetic field strength near the eclipse boundary of PSR B1957+20 through plasma lensing.
+
+@Li et al. (2022):
+Referenced to highlight the evidence of Faraday conversion and attenuation in PSR B1744-24A and the estimation of the magnetic field.
+
+@Polzin et al. (2019):
+Cited to mention the imprecise limits of the line-of-sight magnetic field and the (near-) perpendicular field obtained from the analysis of the polarization properties of PSR J2051-0827.
+
+@Stappers et al. (1996):
+Referenced to provide information about the discovery of PSR J2051-0827 as a bright spider pulsar with specific spin and orbital periods.
+
+@Stappers et al. (2001a):
+Cited to mention the detection of radio eclipses at frequencies below 1 GHz and the continuous radio emission throughout the eclipse at approximately 1.4 GHz for PSR J2051-0827.
+
+@Stappers et al. (2001b):
+Referenced to provide the estimation of the orbital inclination of the binary system containing PSR J2051-0827 through optical observations.
+
+@Dhillon et al. (2022):
+Cited to mention the more recent estimate of the orbital inclination of the binary system containing PSR J2051-0827.

@@ -1,0 +1,57 @@
+@Hewish et al. (1968):
+Referenced as the discovery of the first radio pulsar, marking the beginning of high time resolution astronomical observations and the study of radio transients.
+
+@Cordes (2007):
+Cited to define and classify fast radio transients, which are a subset of radio transients with rapid variability.
+
+@Macquart et al. (2020):
+Referenced to highlight the use of dispersion measures (DMs) of distant fast radio bursts (FRBs) in estimating cosmic baryon densities when combined with independent distance measurements.
+
+@Walters et al. (2019):
+Cited for their study on the requirement of independent measurements of the redshift of FRB host galaxies to estimate the diffuse gas fraction in the Galaxy and address the "missing baryon problem" in the current ΛCDM model of the universe.
+
+@Prochaska et al. (2019):
+Referenced for their work on using DM measurements of FRBs with host galaxy associations to constrain the properties of intervening galactic halo gas.
+
+@Eftekhari & Berger (2017):
+Cited to emphasize the need for precise localization of FRBs to a precision of ∼1 arcsecond in order to unambiguously associate them with host galaxies and obtain independent distance measurements.
+@Pearson & Readhead 1984; Bannister et al. 2019:
+These papers are cited as examples of using radio synthesis imaging and complex voltage data to localize transients and pulsars, highlighting the traditional method for localizing these sources.
+
+@Yi et al. 2014; Vedantham et al. 2016:
+These papers are referenced to emphasize the importance of rapid follow-up observations triggered by precise localization of newly-discovered transients or pulsars, which can provide valuable information about repeat pulses, multi-wavelength counterparts, and fast-fading afterglows.
+@Rubio-Herrera et al. (2013):
+Referenced to describe the first instance of a method for localizing transients observed in beamformed data to a precision smaller than the size of the half-power beam width (HPBW) of a TAB, used by the Westerbork Synthesis Radio Telescope (WSRT) survey.
+
+@Spitler et al. (2014):
+Cited to discuss the use of spatial information about the gain of the Arecibo ALFA receiver at different frequencies to map out the instrument's spectral index and determine the occurrence of an FRB on the rising edge of the first sidelobe.
+
+@Obrocka et al. (2015); Obrocka (2015):
+Referenced to expand on the method of using spatially-dependent and frequency-dependent gain to localize multibeam detections with interferometric arrays, demonstrating its ability to achieve ∼arcsecond precision with the MeerKAT telescope.
+
+@Petroff et al. (2019):
+Cited for using an adapted version of the localization method to pinpoint the location of FRB 20110214A detected by the Parkes telescope to one of three ∼10 arcminute2 regions.
+@Bannister et al. (2017):
+Referenced to describe the method used to constrain a single pulse from FRB 20170107A detected by ASKAP.
+
+@Shannon et al. (2018); Qiu et al. (2019):
+Cited to indicate the use of the same method to localize several ASKAP-detected FRBs with a precision of approximately arcminute to 10 arcminute.
+
+@CHIME/FRB Collaboration et al. (2019a,b); Michilli et al. (2021):
+Referenced to highlight the variation of the method used by CHIME to constrain some of their FRB discoveries to polygonal regions of several arcminutes to degrees.
+@Stappers et al. in prep.; Sanidas et al. 2018; Bezuidenhout et al. 2022:
+These references are cited to acknowledge the sources of the MeerTRAP real-time fast transient and pulsar search using MeerKAT, as well as the TRAnsients and PUlsars with MeerKAT (TRAPUM) survey, which are relevant to the development and application of the Tied-Array Beam Localisation (TABLo) method.
+
+@Stappers & Kramer 2016:
+This paper is cited to acknowledge the source of the TRAnsients and PUlsars with MeerKAT (TRAPUM) survey, which is relevant to the development and application of the Tied-Array Beam Localisation (TABLo) method.
+
+@Obrocka et al. (2015):
+This paper is referenced to describe the approach of utilizing the distribution of signal-to-noise (S/N) values of a detected pulse in adjacent beams, which is combined with a maximum likelihood estimation (MLE) approach in the TABLo method.
+
+@CHIME collaboration:
+This reference is cited to describe the maximum likelihood estimation (MLE) approach used in the TABLo method, which is similar to the approach used by the CHIME collaboration.
+
+@Michilli et al. (2021):
+This paper is referenced to describe the phase-referencing grid approach used in CHIME FRBs, which is not utilized in the TABLo method for reasons explored in §5.5.
+
+N/A

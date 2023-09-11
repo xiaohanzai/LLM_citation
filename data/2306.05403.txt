@@ -1,0 +1,31 @@
+@Lee et al.:
+Referenced to emphasize that the frequency sweeps of fast radio bursts (FRBs) encode information on the integrated free electron column density along their lines-of-sight.
+
+@Niu et al. (2022):
+Cited as the source that first reported FRB20190520B and provided the total measured dispersion measure (DM) of the FRB.
+
+@Nan et al. (2011); Li et al. (2018):
+Referenced as the sources that describe the Five-Hundred Aperture Spherical Radio Telescope (FAST), which was used to discover FRB20190520B.
+
+@Law et al. (2018):
+Cited as the source that describes the Karl. G. Jansky Very Large Array (VLA), which was used to localize FRB20190520B.
+
+@Macquart et al. (2020):
+Referenced to provide the Macquart Relation, which is used to compare the expected DM of FRB20190520B based on its redshift with the observed DM.
+
+@Ioka (2003); Inoue (2004):
+Cited as the sources that provide rough approximations for the mean intergalactic medium (IGM) contribution to the DM of FRB20190520B.
+
+N/A
+@Niu et al. (2022); Ocker et al. (2022):
+These references are cited to support the conclusion that no foreground galaxies were likely to contribute to the foreground dispersion measure (DM) based on limited observations, highlighting the need for wider observations to rule out significant foreground contributions.
+@Lee et al. (2022):
+Referenced to describe the wide-field multiplexed spectroscopic data obtained in the FRB20190520B field as part of the FLIM-FLAM Survey.
+
+@Simha et al. (2020):
+Cited to show that mapping the large-scale structure in the foreground of localized FRBs can help separate the various components that contribute to the observed dispersion measure (DM).
+
+@Simha et al. (2023):
+Referenced to mention that FRB20190520B was analyzed separately due to its unusual nature, despite being one of the four sightlines analyzed in the cited paper.
+
+N/A

@@ -1,0 +1,114 @@
+@Petroff et al. (2022):
+Referenced as a recent review on FRBs.
+
+@Platts et al. (2019):
+Referenced as a review on theories explaining the origin of FRBs.
+
+@CHIME/FRB Collaboration et al. (2020a); Bochenek et al. (2020):
+Cited to suggest that magnetars are likely progenitors for some FRB sources based on the detection of a luminous radio burst from SGR J1935+2154.
+
+@CHIME/FRB Collaboration et al. (2021):
+Referenced to indicate the publication of the CHIME/FRB first catalogue, which led to an increase in the number of published FRBs.
+
+@CHIME/FRB Collaboration et al. (2019); Fonseca et al. (2020); CHIME/FRB Collaboration et al. (2023):
+Cited to highlight the existence of FRBs with repeat bursts based on subsequent observations.
+
+@CHIME/FRB Collaboration et al. (2019):
+Referenced as the discoverers of FRB 20180916B, one of the first repeating sources.
+
+@CHIME/FRB Collaboration et al. (2020b):
+Cited to indicate the discovery of a 16.33-day periodicity in the activity of FRB 20180916B.
+
+@Marcote et al. (2020):
+Referenced as the researchers who localized FRB 20180916B to a nearby spiral galaxy.
+
+@Pastor-Marazuela et al. (2021); Pleunis et al. (2021):
+Cited to highlight the frequency-dependent activity of FRB 20180916B, with higher frequency detections occurring at earlier phases.
+
+@Pastor-Marazuela et al. (2021); Pleunis et al. (2021); Gopinath et al. (2023):
+Referenced to indicate the wide frequency range at which FRB 20180916B has been detected, from 110 MHz to 6 GHz.
+
+@Bethapudi et al. (2022):
+Cited as the researchers who detected FRB 20180916B at 6 GHz using the Effelsberg telescope.
+
+@Li & Zanazzi (2021); Beniamini et al. (2020); Wada et al. (2021):
+Referenced to mention multiple progenitor scenarios involving precessing, rotating, or binary systems in relation to the chromatic periodicity of FRB 20180916B.
+@Bethapudi et al. 2022:
+Referenced to indicate that the Effelsberg telescope observed the chromatic periodicity of the source at different activity phases.
+
+@Li & Zanazzi 2021:
+Cited to present one of the multiple progenitor scenarios involving precessing systems.
+
+@Beniamini et al. 2020:
+Referenced to present one of the multiple progenitor scenarios involving rotating systems.
+
+@Wada et al. 2021:
+Cited to present one of the multiple progenitor scenarios involving binary systems.
+
+@Rajwade et al. 2020; Cruces et al. 2021:
+These papers are cited to mention the tentative activity period of the first repeating source, FRB 20121102A.
+@Michilli et al. (2018); Hilmarsson et al. (2021):
+These references are cited to support the observation of rotation measure (RM) variation and dispersion measure (DM) increase in FRB 20121102A over a period of 2.5 years, indicating the evolution of source properties with time.
+
+@Mckinven et al. (2023):
+Referenced to report a linear increase in the rotation measure (RM) of FRB 20180916B based on recent CHIME/FRB polarimetric data analysis.
+
+@Gopinath et al. (2023):
+Cited to highlight the observation of changes in rotation measure (RM) at LOFAR frequencies (150 MHz), suggesting a change in the magnetic field environment in the source proximity.
+@Cordes et al. 2016; Cordes & Chatterjee 2019:
+These papers are cited to support the statement that most FRB scattering times are longer than expected from their Galactic contribution, indicating the need to consider other factors in understanding the source environment.
+
+@Chawla et al. (2022):
+Referenced to show that scattering in FRBs is likely due to their more extreme circumburst environments compared to those of pulsars in the Galactic plane.
+
+@Vedantham & Phinney 2019:
+Cited to highlight that contributions from the circumgalactic medium (CGM) of intervening galaxies can also add to the total measured scattering.
+
+@Marcote et al. 2020; Bethapudi et al. 2022:
+These papers are referenced to attribute most of the scattering in FRB 20180916B to the Milky Way, based on scintillation bandwidth measurements.
+
+@Pleunis et al. 2021; Sand et al. 2022; Gopinath et al. 2023:
+Cited to indicate that bursts with scattering tails longer than expected from the Milky Way interstellar medium (ISM) have been observed in low frequency observations, suggesting possible contributions from the immediate source environment.
+
+N/A
+@CHIME/FRB Collaboration et al. 2019; Fonseca et al. 2020; CHIME/FRB Collaboration et al. 2023:
+These references are cited to support the statement that repeating FRBs tend to have complex burst morphologies, specifically mentioning the "sad trombone" effect observed in their dynamic spectra.
+
+@Hessels et al. 2019; Pleunis et al. 2021:
+These papers are referenced to highlight the characteristic feature of downward-drifting bursts in the dynamic spectra of repeating FRBs and the potential challenges in accurately estimating dispersion measure (DM) and scattering values.
+
+@Nimmo et al. 2021; Sand et al. 2022:
+These references are cited to provide evidence of microstructure observed at different frequency ranges in FRB 20180916B, emphasizing the potential impact of such structures on scattering estimates and the importance of studying them to constrain emission models.
+
+@Nimmo et al. 2022:
+This paper is referenced to highlight the observation of microstructures as narrow as 60 ns in FRB 20200120E, suggesting a magnetically powered emission mechanism and its implications for understanding FRBs at microsecond timescales.
+
+@CHIME/FRB Collaboration et al. 2020b; Pleunis et al. 2021:
+These references are cited to emphasize the insufficient time resolution in past studies of the source in the CHIME band and the need for high time resolution to detect microstructure.
+
+@Pleunis et al. 2021:
+This paper is referenced to compare the less turbulent immediate environment of FRB 20180916B with other active repeaters like FRB 20121102A, highlighting its suitability for studying microsecond variations in burst envelopes and accurately estimating DM and scattering.
+
+@CHIME/FRB Collaboration et al. 2018; Michilli et al.:
+These references are cited to mention the use of raw voltage data and coherent dedispersion techniques in the CHIME/FRB baseband system for extracting phase information and accurately estimating DM by removing the effects of dispersion.
+@CHIME/FRB Collaboration et al. 2018; Michilli et al. 2021:
+These references are cited to highlight the functionality of the CHIME/FRB baseband system, which allows for the comprehensive study of ultra-fast emissions and the measurement of dispersion measure (DM) for individual repeating sources.
+@Li et al. (2021a):
+Referenced to provide an example of a repeater (FRB 20121102A) with a high repetition rate, which helps constrain the energy budget of the source.
+
+@Lanman et al. (2022):
+Cited to highlight the sudden activity and high repetition rate of FRB 20201124A, indicating the potential presence of different progenitors for fast radio bursts.
+
+@Mckinven & CHIME/FRB Collaboration (2022):
+Referenced to describe the sudden activity and high repetition rate of FRB 20220912A, suggesting the existence of distinct progenitors for fast radio bursts.
+
+@Gopinath et al. (2023):
+Cited to mention a comprehensive study on the evolution of the long-timescale emission rate of FRB 20180916B at LOFAR frequencies.
+
+@Mckinven et al. (2023):
+Referenced for the baseband burst sample used in the morphology analysis of 45 bursts from FRB 20180916B.
+
+@Pleunis et al. (2021):
+Cited for the last published results on FRB 20180916B, providing burst properties for 15 bursts detected only with intensity data.
+
+N/A

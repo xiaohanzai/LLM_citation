@@ -1,0 +1,29 @@
+@1:
+Referenced to support the statement that Fast Radio Bursts (FRBs) are bright, short-duration radio pulses caused by high-energy astrophysical processes.
+
+@2:
+Cited to explain that FRBs are expected to have an extragalactic origin due to their high dispersion measure (DM).
+
+@3, 4:
+These FRB catalogs are cited as a source for the reported number of FRBs.
+
+@5:
+Referenced to indicate that FRBs were discovered more than 15 years ago.
+
+@6:
+Cited to emphasize that the origin of FRBs is still unknown.
+
+@7:
+Referenced to associate a FRB-like emission with the Galactic magnetar SGR 1935+2154.
+
+@8, 9:
+These telescopes are cited as the sources of the coincident X-ray burst recorded with the FRB-like emission.
+
+@10:
+Cited as a source for the detection of more coincident radio and high energy events from the same source.
+
+@11:
+Referenced to support the expectation that all FRBs produced by magnetar flares should be accompanied by an afterglow emission at gamma-ray energies.
+@12: Referenced to support the motivation for the search for gamma-ray counterparts to known FRBs, based on the detection of high-energy emission from a magnetar giant flare in the nearby Sculptor galaxy.
+
+@13, 14, 15, 16: Cited to indicate previous searches for FRB counterparts at gamma-ray energies without significant detection, highlighting the limited sample of FRBs analyzed in those studies.

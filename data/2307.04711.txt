@@ -1,0 +1,59 @@
+@Lorimer et al. 2007; Petroff et al. 2019:
+These references are cited to provide evidence for the extragalactic origin of Fast Radio Bursts (FRBs) by highlighting the significant dispersion measures (DMs) observed in these events.
+
+@Zhou et al. 2022:
+This paper is cited to acknowledge the knowledge of repeaters among the reported FRB events.
+
+@Bochenek et al. 2020:
+This reference is cited to mention the link between some FRB events and magnetars.
+
+@Zhang 2020; Bhandari et al. 2020:
+These papers are cited to acknowledge the various proposed progenitor models for FRBs in the literature.
+
+N/A
+@Aghanim et al. (2020):
+Referenced to support the estimation of the Hubble constant using observations of the cosmic microwave background (CMB) radiation.
+
+@Riess et al. (2022):
+Cited to highlight an alternative approach to estimating the Hubble constant by measuring distances and parallax using cepheid stars and type Ia supernovae in the local universe.
+
+@Macquart et al. (2020); Wu et al. (2022); Zhao et al. (2022); Hagstotz et al. (2022):
+These papers are cited to emphasize the use of Fast Radio Bursts as a tool to infer the Hubble constant, but additional data is needed to improve the accuracy of the measurement.
+@Aghanim et al. (2020):
+Referenced to provide measurements obtained by the Planck Collaboration regarding the "missing baryons problem" and the composition of the Universe.
+
+@Fukugita et al. (1998):
+Cited to highlight the observation of a baryon deficit in the low-redshift universe, which contributes to the understanding of the baryon distribution.
+
+@Shull et al. (2012):
+Referenced to support the suggestion that a significant fraction of the baryon budget exists in a diffuse state within the intergalactic medium (IGM).
+
+@Li et al. (2020):
+Cited to present the estimation of the fraction of baryons in the intergalactic medium (𝑓 IGM) based on the analysis of localized FRBs.
+
+@Lemos et al. (2022):
+Referenced to provide a model-independent technique and the resulting value of 𝑓 IGM based on a sample of 17 FRBs with redshift measurement.
+
+@Yang et al. (2022):
+Cited to present the estimation of 𝑓 IGM based on the analysis of 22 localized FRBs.
+@McQuinn 2014; Deng & Zhang 2014:
+These papers are cited to support the use of Fast Radio Bursts (FRBs) as a tool for detecting the baryon content in the universe.
+
+@Zhou et al. 2014; Gao et al. 2014:
+Referenced to highlight the potential of FRBs in constraining the equation of state for dark energy.
+
+@Akahori et al. 2016:
+Cited to emphasize the use of FRBs in tracing magnetic fields in the intergalactic medium.
+
+@Wei et al. 2015; Tingay & Kaplan 2016; Nusser 2016:
+These papers are referenced to support the idea of using FRBs to test the equivalence principle.
+
+@Wu et al. 2016; Shao & Zhang 2017; Lin et al. 2023:
+Cited to highlight the potential of FRBs in constraining the rest mass of photons.
+
+@Weinberg 1972; Visser 2005; Aviles et al. 2012:
+These papers are referenced to provide background information on the cosmography method, which is a model-independent approach in cosmology.
+
+@Lazkoz et al. 2013; Riess et al. 2022; Jalilvand & Mehrabi 2022:
+Cited to highlight the extensive use of cosmography in prior research employing various cosmological probes, but not yet applied to Fast Radio Bursts (FRBs).
+@N/A

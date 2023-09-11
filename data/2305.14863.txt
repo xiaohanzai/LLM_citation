@@ -1,0 +1,56 @@
+@Lorimer et al. (2007):
+Referenced to indicate that the origin of fast radio bursts (FRBs) is still unknown and is an ongoing area of debate.
+
+@Cordes & Chatterjee 2019:
+Cited as a review to highlight the existence of several theories regarding the origin of FRBs.
+
+@Macquart et al. (2010); Bannister et al. (2017):
+These papers are referenced to emphasize that one of the main aims of the Commensal Real-time ASKAP Fast Transients survey (CRAFT) is to localize FRBs at sub-arcsecond scales using the Australian Square Kilometre Array Pathfinder telescope (ASKAP).
+
+@Deboer et al. (2009):
+Cited to provide information about the telescope (ASKAP) used in the CRAFT survey.
+
+@Bhandari et al. (2022):
+Referenced to highlight the importance of dedicated follow-up observations, such as in optical wavelengths, to gather information about the host galaxies of localized FRBs and understand the possible mechanisms behind them.
+
+@Holwerda et al. (2011); Reynolds et al. (2019):
+These papers are cited to suggest that mapping the gas distribution through the neutral hydrogen (Hi) 21-cm transition with radio telescopes can provide insights into the recent history of a galaxy and detect indicators of recent galaxy interactions.
+
+@Deg et al. (2020):
+Cited to indicate that asymmetries in the Hi global spectrum can be a possible indicator of galaxy interactions.
+@James et al. 2022:
+Referenced to provide the median redshift of localised FRB hosts used in the study.
+
+@Michalowski (2021):
+Cited to highlight the highly asymmetric Hi global spectra of the two published FRB host galaxies known to have Hi emission.
+
+@Chynoweth et al. (2008):
+Referenced to showcase the strongly asymmetric spectrum for M81 in isolation.
+
+@Masters et al. (2014):
+Cited to mention the baseline ripple in the spectrum of NGC 3252 analyzed by Michalowski (2021).
+
+@Kaur et al. (2022):
+Referenced to report the Giant Metrewave Radio Telescope (GMRT) detection of Hi in the host galaxy of the repeating FRB 20180916B, emphasizing the highly disturbed Hi distribution and the presence of tidal tails.
+@Mahony et al. (2018):
+Referenced to support the identification of the host galaxy of FRB 20171020A and the observation of its asymmetric Hi global spectrum and clear Hi tail.
+
+@Lee-Waddell et al., (submitted):
+Cited for their use of data from the Australia Telescope Compact Array to show the asymmetric Hi global spectrum and clear Hi tail in the identified host galaxy of FRB 20171020A.
+
+@Hsu et al. (2023):
+Referenced for their recent presentation of asymmetric profiles of molecular gas (CO) in the host galaxy of FRB 20180924B and their proposal that FRBs could commonly appear in kinematically disturbed environments.
+
+@(2022):
+N/A
+@Michalowski 2021:
+Referenced to support the idea that ongoing or recent galaxy interaction events can enhance star formation in the host, which is relevant to the discussion of the cause of Hi global spectrum asymmetry or disturbed Hi distribution in FRB host galaxies.
+
+@Kaur et al. 2022:
+Cited to reference the theory that a massive star collapsing in a supernova explosion into a magnetar with a short delay time can act as the FRB progenitor, which is relevant to the discussion of the potential FRB progenitor environment.
+
+@Koribalski et al. 2020:
+Referenced to describe the commensal ASKAP observations of the Widefield ASKAP L-band Legacy All-sky Blind surveY (WALLABY) Pilot Survey Phase 2, which is relevant to the analysis of the Hi content of FRB host galaxies.
+
+@Kalberla & Kerp 2009:
+Cited to describe the WALLABY observations and source finding process, which is relevant to the discussion of the Hi properties in FRB host galaxies.

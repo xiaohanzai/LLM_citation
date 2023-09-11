@@ -1,0 +1,73 @@
+@Lorimer et al. (2007); Thornton et al. (2013):
+These references are cited to acknowledge the discovery of Fast Radio Bursts (FRBs) using data from the Parkes telescope in 2007 and to provide additional information on the frequency dependency of their arrival time delay.
+
+@Petroff et al. (2019); Petroff et al. (2022):
+Referenced as current reviews on the open problem of the origin of FRBs and to highlight the large number of detected FRBs, repeaters, and localized host galaxies.
+
+@Pleunis et al. (2021); Pastor-Marazuela et al. (2021):
+Cited to indicate the observational frequencies at which FRB detections have been made, ranging from ∼ 110 MHz to ∼ 8 GHz.
+
+@Gajjar et al. (2018):
+Referenced to acknowledge FRB detections at a frequency of ∼ 8 GHz.
+
+@Cordes & Vieira (1984-2023):
+Cited to mention the usually large dispersion measures (DM) of FRBs, which exceeded the limits of the Milky Way.
+
+N/A
+@Lazio 2002; Yao et al. 2019:
+These references are cited to support the initial suggestion that fast radio bursts (FRBs) have an extragalactic origin.
+
+@Andersen et al. 2020:
+Referenced to highlight the detection of an FRB in the Milky Way, indicating that FRBs can also originate within our galaxy.
+
+@Platts et al. 2019:
+Cited to mention various celestial objects considered as FRB progenitor candidates.
+
+@Muñoz & Loeb 2018; Walters et al. 2019; Qiang & Wei 2020:
+These papers are referenced to demonstrate the use of FRBs as a tool for cosmological and astrophysical studies, such as determining the fraction of baryon mass in the intergalactic medium (IGM).
+
+@Walters et al. 2018; Liu et al. 2019; Zhao et al. 2020:
+Cited to highlight the use of FRBs in studying dark energy.
+
+@Wei et al. 2015; Tingay et al. 2015; Tingay & Kaplan 2016; Shao & Zhang 2017; Yu et al. 2018; Bertolami & Landim 2018; Yu & Wang 2018; Xing et al. 2019:
+These references are cited to emphasize the use of FRBs in studying the equivalence principle.
+
+@Zhu & Feng 2021:
+Referenced to mention the use of FRBs in studying the intergalactic medium (IGM) foreground and halos.
+
+@Muñoz et al. 2016; Wang & Wang 2018; Sammons et al. 2020; Landim 2020:
+Cited to highlight the use of FRBs in studying dark matter.
+
+@Yu & Wang 2017; Wu et al. 2020; Linder 2020:
+These papers are referenced to demonstrate the use of FRBs in studying other astrophysical problems.
+
+@Lorimer et al. 2007; Spitler et al. 2014; Masui et al. 2015; Bannister et al. 2017; Caleb et al. 2017; Amiri et al. 2018; Connor et al. 2020:
+These references are cited to mention the telescopes that have detected FRBs.
+
+@Amiri et al. 2021:
+Referenced to highlight the important role of CHIME in discovering new FRBs and increasing the total number of known events.
+@Tendulkar et al. 2017; Bhandari et al. 2022:
+These papers are cited to suggest the use of other surveys to find the optical counterpart of FRB events, which is important for determining the redshift of the host galaxy and understanding the origin and environment of the progenitor.
+
+@Battye et al. 2013; Abdalla et al. 2022a; Abdalla & Marins 2020:
+These references are cited to provide information about the BINGO telescope, its design, and its primary goal of observing the 21-cm line of atomic Hydrogen to measure Baryon Acoustic Oscillations (BAO) using the Intensity Mapping (IM) technique.
+
+@Wuensche et al. 2022; Abdalla et al. 2022b:
+These papers are referenced to highlight the expected angular resolution of the BINGO telescope and provide additional information about its design and capabilities.
+
+@Abdalla et al. 2022a:
+This reference is cited to mention that although the BINGO telescope is primarily designed for cosmological investigations, its large survey area can also provide ancillary science in radio transients.
+@Gardenier et al. (2019):
+Referenced to indicate the use of the frbpoppy code for generating cosmological populations of FRBs and simulating surveys.
+
+@Abdalla et al. (2022a):
+Cited to reference the initial analysis and introduce the BINGO interferometry system (BIS) and its proposed outriggers.
+
+@Luo et al. (2018Luo et al. ( , 2020)):
+These papers are cited to describe the FRBlip Python package, which generates FRB mock catalogs and includes several distribution functions.
+
+@Abdalla et al. 2022a; Wuensche et al. 2022; Abdalla et al. 2022b; Liccardo et al. 2022; Fornazier et al. 2022; Zhang et al. 2022; Costa et al. 2022; Novaes et al. 2022:
+These papers are referenced to provide additional information on various aspects of the BINGO telescope, including instrument description, component separation techniques, simulations, forecasts for cosmological models, and BAO signal recoverability.
+
+@de Mericia et al. (2023); Abdalla & Marins (2020):
+Cited to indicate additional sources of information on the BINGO telescope.

@@ -1,0 +1,29 @@
+@Turolla et al., 2015:
+Referenced to provide information on the typical magnetic fields, spin periods, and spin down rates of magnetars.
+
+@Kaspi & Beloborodov, 2017; Duncan & Thompson, 1992:
+Cited to explain the origin of the name "magnetar" and to provide references for further reading on magnetars.
+
+@Mazets et al., 1979; Cline et al., 1980; Hurley et al., 1999; Feroci et al., 1999; Mazets et al., 1999; Hurley et al., 2005; Gaensler et al., 2005; Palmer et al., 2005; Cameron et al., 2005; Yang et al., 2020; Zhang et al., 2020; Svinkin et al., 2021; Roberts et al., 2021:
+These papers are cited to provide references for confirmed events of gamma-ray bursts (GRBs) from magnetars, supporting the discussion on the different types of bursts emitted by magnetars.
+@CHIME/FRB Collaboration et al., 2020; Bochenek et al., 2020; Lin et al., 2020b; Li et al., 2021; Mereghetti et al., 2020; Ridnaia et al., 2021:
+These references are cited to establish the association event of SGR 1935+2154-FRB 200428 and highlight that at least some fast radio bursts (FRBs) are produced during magnetar bursts, but the mechanism behind this phenomena is unclear.
+
+@Lyubarsky, 2014; Katz, 2016; Yang & Zhang, 2018; Lyubarsky, 2021; Yu et al., 2021:
+These papers are cited to support the claim that the association event of SGR 1935+2154-FRB 200428 has established that at least some fast radio bursts (FRBs) are produced during magnetar bursts.
+
+@Thompson & Duncan, 1995; Wang et al., 2018a:
+These references are cited to explain the occurrence of hard X-ray bursts and FRBs from magnetars, suggesting that starquakes may be the mechanism behind these phenomena.
+
+@Huppenkothen et al., 2014b; Miller et al., 2019:
+These papers are cited to suggest that crustal oscillations, which would leave imprints in the form of QPOs in the temporal profiles of magnetar bursts, may be responsible for the occurrence of hard X-ray bursts and FRBs from magnetars.
+@Barat et al., 1983; Strohmayer & Watts, 2005; Israel et al., 2005; Strohmayer & Watts, 2006; Castro-Tirado et al., 2021:
+These references are cited to support the finding that QPOs have been observed during the pulsating tails and main peaks of magnetar giant flares (GFs), as well as in short bursts from SGRs, highlighting the previous investigations on this topic.
+
+@Huppenkothen et al., 2014a,c; Li et al., 2022:
+These papers are cited to emphasize the possibility of studying magnetars using asteroseismology and the reasonable approach of searching for QPOs in short bursts due to the scarcity of GFs, providing further context to the discussion on QPOs in magnetar bursts.
+
+@Huppenkothen et al., 2013:
+Referenced to describe the limitations of searching for QPOs in short bursts and to introduce the comprehensive analysis of SGR 150228213 conducted in this paper.
+
+N/A

@@ -1,0 +1,70 @@
+@Rees 1987; Beck et al. 1996; Beck 2015:
+These references are cited to support the idea that primordial seed fields are likely amplified through dynamo processes, flux freezing in gas collapse and fragmentation, and turbulence, contributing to the origins and evolution of magnetic fields in galaxies.
+
+@Marinacci et al. 2015; Su et al. 2018; Ryu et al. 2008; Marinacci et al. 2018; Rodrigues et al. 2019:
+These papers are referenced to highlight various processes, such as gas collapse, fragmentation, and turbulence, that contribute to the amplification and saturation of magnetic fields in galaxies during the processes of galaxy evolution.
+
+@Beck 2015:
+Referenced to emphasize the importance of magnetic fields in the interstellar medium (ISM) and their role in providing pressure support, particularly in the Milky Way and nearby spiral galaxies.
+
+@Crutcher 2012:
+Cited to support the significance of magnetism in the processes of star formation in molecular clouds.
+
+@Zweibel 2013:
+Referenced to highlight the role of magnetism in the propagation of cosmic rays and the resulting heating of the ISM and galaxy-scale winds.
+
+@Burlaga et al. 2013:
+Cited as a source for estimates of the ISM magnetic field strengths in the Solar neighborhood.
+
+@Haverkorn 2015:
+Referenced to provide information on the proportion of large-scale ordered fields in the total field strengths.
+
+@Ponnada et al. 2022:
+Cited to acknowledge the uncertainties in cosmic-ray energy losses in equipartition analyses of synchrotron emission used for estimating magnetic-field strengths in external galaxies.
+
+N/A
+@Masui et al. 2015; Ravi et al. 2016; Mannings et al. 2022:
+These papers are cited to support the statement that fast radio bursts (FRBs) can be used to probe extragalactic magnetic fields through measurements of Faraday rotation measures (RMs) and dispersion measures (DMs).
+
+@Macquart et al. 2020:
+Referenced to highlight the use of models for the dispersion measure (DM) of the intergalactic medium (IGM) in isolating host-galaxy components in the evaluation of line-of-sight integrated magnetic fields.
+
+@Sotomayor-Beltran et al. 2013:
+Cited to refer to the contribution of the ionosphere in the calculation of RM (rotation measure).
+@Sotomayor-Beltran et al. 2013:
+Referenced to define the term 'ion' in the equation and explain its contribution to RM.
+
+@Sherman et al.:
+Referenced to direct readers to Appendix A for a detailed compilation of FRB sources with published polarization and/or RM data.
+
+@Michilli et al. 2018; Plavin et al. 2022:
+Cited to provide examples of FRBs with varying RMs and to support the statement about the magnitude and variability of RMs in the case of repeating sources.
+
+@Tendulkar et al. 2017:
+Cited to provide the DM value for FRB 20121102A and indicate a dense, dynamic magnetoionic environment.
+
+@Anna-Thomas et al. 2023; Xu et al. 2022; Mckinven et al. 2023:
+Cited to support the inference of dense, dynamic magnetoionic environments for a few repeating-FRB sources.
+
+@Kirsten et al. 2022; Feng et al. 2023:
+Cited to indicate that some FRBs exist in entirely unremarkable magnetic environments.
+
+@Feng et al. 2022; Anna-Thomas et al. 2023; Mckinven et al. 2023:
+Cited to highlight the observation of frequency-dependent depolarization in multiple repeating FRBs and reference the stochastic-RM model as a possible explanation.
+
+@Melrose & Macquart 1998; Beniamini et al. 2022:
+Cited to support the explanation of the stochastic-RM model for frequency-dependent depolarization in repeating FRBs.
+
+@Mannings et al. 2022:
+Cited for their polarization analysis of non-repeating FRBs with host galaxy localizations and their tentative correlation between DM host and RM host, suggesting a significant contribution from ISM magnetic fields to the RMs of non-repeating FRBs.
+@Sherman et al.:
+Referenced to indicate that polarimetry and RM estimation for the new events were presented in a companion paper.
+
+@Law et al. (2023):
+Cited to indicate that host-galaxy analysis for the new events was presented in this paper.
+
+@Planck Collaboration et al. (2016):
+Referenced to indicate the adoption of cosmological parameters from the Planck mission throughout the paper.
+
+@Morrell & Law 2022:
+Cited to indicate that additional data for the DSA-110 FRBs can be obtained by contacting the corresponding author.

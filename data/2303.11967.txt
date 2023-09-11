@@ -1,0 +1,37 @@
+@Spitler et al. (2016):
+Referenced to support the statement that FRB 20121102A was the first fast radio burst (FRB) source found to repeat, ruling out certain progenitor models.
+
+@Chatterjee et al. (2017):
+Cited twice, once to highlight that repeat bursts provided the means for the first precise localization of an FRB to a host galaxy, and again to mention that FRB 20121102A was the first FRB to be co-localized with a persistent radio source (PRS).
+
+@Tendulkar et al. (2017):
+Referenced to provide information about the host galaxy of FRB 20121102A, which is a low-mass, low-metallicity dwarf galaxy at redshift z = 0.193, suggesting a possible connection between FRBs and certain types of explosions.
+
+N/A
+@Marcote et al. (2017):
+Referenced to support the claim that the FRB and the PRS are located within 40 pc of one another, providing evidence for their connection.
+
+@Michilli et al. (2018):
+Cited to indicate that bursts from FRB 121102A have high and variable rotation measure, which is relevant to the discussion of the properties of the FRB.
+
+@Hessels et al. (2019); Platts et al. (2021):
+These papers are cited to show that the dispersion measure of FRB 121102A has been shown to increase over time, highlighting the temporal evolution of this property.
+
+@Reines et al. (2020):
+Referenced to mention the identification of a sample of PRSs associated with dwarf galaxies and the suggestion that they may be intermediate mass black holes, providing additional context to the discussion of PRSs.
+
+@Eftekhari et al. (2020):
+Cited to acknowledge the discussion of FRB models that prefer a magnetar progenitor, contrasting it with the suggestion of intermediate mass black holes as the source of FRBs.
+
+N/A
+@Niu et al. (2022):
+Referenced to report the co-localisation of another repeating FRB to a persistent radio source (PRS), highlighting the importance of PRSs in some FRBs.
+
+@Gaensler & Slane 2006:
+Cited to suggest that if PRSs are wind nebulae, their limited lifespan could explain why only a subset of FRBs have a PRS counterpart.
+
+@Law et al. (2022):
+Referenced to estimate the occurrence of PRSs in repeating FRBs and to argue that PRS measurements should not be strongly biased by distance.
+
+@Shimwell et al. 2022:
+Cited as the reference catalog used for a targeted search for compact radio sources coincident with dwarf galaxies.

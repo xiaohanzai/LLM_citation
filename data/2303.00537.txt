@@ -1,0 +1,35 @@
+@LIGO [1], Virgo [2], KAGRA [3]:
+These references are cited to indicate the gravitational wave detectors that the search for gamma-ray bursts (GRBs) is coincident with.
+
+@GRB170817A event [5]:
+Referenced to motivate the proposal of a series of gamma-ray transient monitors.
+
+@GECAM [6], GRID [7], MERGR [8], BurstCube [9], SIRI-1 [10]:
+These references are cited to highlight the proposed gamma-ray transient monitors.
+
+@GECAM-A and GECAM-B satellite:
+Referenced to describe the number of SiPM-based gamma-ray detectors equipped for each satellite.
+
+@GECAM-B:
+Cited to mention that this satellite has successfully detected many gamma-ray transients, some of which have been reported publicly.
+
+N/A
+@12:
+Referenced to provide information about the SATech-01 satellite, which is the platform for the GECAM-C project.
+
+@13:
+Cited to describe the charged particle detector (CPD) used in the GECAM-C payload.
+
+@14; @15; @16:
+These references are cited to highlight the potential for improved localization accuracy and field of view through joint observation of GECAM-B, GECAM-C, Insight-HMXT, and other in-flight transient source monitors.
+@14: Referenced to indicate that joint observation of GECAM-B, GECAM-C, Insight-HMXT, and other in-flight transient source monitors can greatly improve the localization accuracy and field of view.
+
+@15: Referenced to indicate that joint observation of GECAM-B, GECAM-C, Insight-HMXT, and other in-flight transient source monitors can greatly improve the localization accuracy and field of view.
+
+@16: Referenced to indicate that joint observation of GECAM-B, GECAM-C, Insight-HMXT, and other in-flight transient source monitors can greatly improve the localization accuracy and field of view.
+
+@17: Referenced to highlight the real-time GRB trigger system based on BeiDou short message that has been successfully applied in GECAM-B and can help with follow-up observations by other high energy telescopes or in other electromagnetic wavelengths.
+
+@18: Referenced to indicate that during the commissioning phase, GECAM-C, together with GECAM-B, discovered the second x-ray burst associated with a radio burst from SGR J1935+2154.
+
+@19: Referenced to highlight that GECAM-C detected the prompt emission of the extraordinary bright burst GRB 221009A and made an unprecedented measurement of the most bright part without data saturation.

@@ -1,0 +1,11 @@
+@Pelissetto & Vicari 2002:
+Referenced to support the idea of categorizing phenomena into universality classes based on their critical exponents, even without detailed knowledge of their microphysics.
+
+@Aggarwal et al. 2022; Hewitt et al. 2022; Li et al. 2021; Niu et al. 2022; Zhang et al. 2022:
+These papers are cited to highlight the well-fit log-normal distributions of waiting times in repeating FRB and the relevance of the width of such distributions as a descriptor of the underlying dynamics.
+
+@Hurley et al. 1994; Younes et al. 2020:
+Referenced to emphasize the well-fit log-normal distributions of waiting times in SGR burst storms and their similarity to the distributions observed in repeating FRB.
+
+@E-mail katz@wuphys.wustl.edu:
+This reference is not a citation but an email address provided for contact purposes.

@@ -1,0 +1,99 @@
+@1,2:
+These references are cited to support the statement that fast radio bursts (FRBs) have dispersion measures (DMs) beyond Galactic expectations, highlighting the enigmatic nature of FRBs.
+
+@3-9:
+These references are cited to emphasize the advancements in radio astronomy instruments and the high all-sky FRB event rate, which have led to many fascinating FRB discoveries, including repeaters.
+
+@10-12:
+These references are cited to mention the periodic activity observed in some FRBs.
+
+@13-16:
+These references are cited to highlight the landmark detection of FRB 200428 associated with a Galactic magnetar, suggesting that at least some FRBs can originate from magnetars.
+
+@17:
+This reference is cited to provide the current number of observed FRBs, including repeaters.
+
+@18:
+This reference is cited to acknowledge the release of the first catalogue from the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst project (CHIME/FRB), which has contributed to the observation of over 700 FRBs.
+
+@19:
+This reference is cited to attribute the observation of more than 700 FRBs to the CHIME/FRB project.
+
+@20-35:
+These references are cited to highlight the growing trend of locating FRBs within individual galaxies, indicating the potential of FRBs as a powerful cosmological probe.
+@36: Referenced to support the statement that dispersion measure (DM) serves as a proxy for distance in the relation between DM and redshift.
+
+@37, 38, 39: These references are cited to indicate that the dominant part of dispersion measure (DM) comes from the intergalactic medium (IGM) and that DM IGM is related to cosmology.
+
+@40: Referenced to explain that if fast radio bursts (FRBs) can be localized and their host galaxies can be found, they can be used as a cosmological probe through the DM IGMz relation.
+
+@41, 42, 43, 44, 45: These references are cited to highlight the cosmological studies that have been done using localized FRBs, including probing the baryon fraction of the IGM.
+
+@46, 47, 48, 49, 50, 51: These references are cited to indicate that localized FRBs have been used to study strong gravitational lensing.
+
+@52, 53, 54: These references are cited to suggest that localized FRBs have been used to test the equivalence principle.
+
+@55, 56: Referenced to indicate that localized FRBs have been used to probe the reionization history.
+
+@57, 58, 59, 60, 61: These references are cited to highlight other cosmological applications of localized FRBs.
+
+@62, 63, 64, 65, 66, 67: These references are cited as recent reviews on the topic of FRBs and their cosmological implications.
+
+@68: Referenced to describe the Square Kilometre Array (SKA) as the upcoming largest high-sensitivity radio telescope.
+
+@69, 70: These references are cited to suggest that the SKA is expected to detect FRBs several orders of magnitude larger than the current sample size, leading to potential advancements in cosmology.
+@71: Referenced to support the statement that the cosmological constant Λ with the equation of state w = -1 serves as dark energy in the Λ cold dark matter (ΛCDM) model.
+
+@72: Cited to highlight that the precise measurements on anisotropies in the cosmic microwave background (CMB) by the Planck satellite strongly favor the six-parameter ΛCDM cosmology.
+
+@73: Referenced to explain that when a dynamical dark energy with an equation of state unequal to -1 is considered, the extra parameters describing the equation of state cannot be effectively constrained by CMB.
+
+@74, 75: Cited to mention the cosmological tensions between the early and late universe, known as the "Hubble tension."
+
+@76-83: Referenced to indicate the search for new physics as a possible solution to the cosmological tensions.
+
+@84-86: Cited to emphasize the importance of developing late-universe probes that can precisely measure cosmological parameters, particularly related to dark energy, in current cosmology.
+@87,88:
+These references are cited to support the statement that recent discussions on gravitational-wave (GW) standard sirens show the potential of GWs as a new tool for probing the expansion history of the universe.
+
+@89,90,91,92,93,94,95,96,97:
+These references are cited to emphasize the potential of gravitational-wave (GW) observations as a novel and useful tool for probing the expansion history of the universe.
+
+@98:
+Referenced as a recent review on gravitational-wave (GW) standard sirens, providing further information on the topic.
+
+@99,100,101,102,103,104,105:
+These references are cited to highlight the potential of observing 21-cm emissions from neutral hydrogen, particularly through the intensity mapping method, as a promising technique for mapping the three-dimensional distribution of matter in the universe and studying cosmology.
+@Refs. [106][107][108][109][110][111]:
+These references are cited to support the claim that a large sample of FRBs with measured redshifts could be used to constrain dark-energy parameters, and to highlight the need for at least 10^4 localized FRBs to break cosmological parameter degeneracies.
+
+@Ref. [108]:
+This reference is cited to emphasize that a sample size of approximately 10^4 localized FRBs is consistent with the detection event rate given by different surveys, and to discuss the potential of using CMB+FRB, GW+FRB, and CMB+GW+FRB combinations to provide tight constraints on cosmological parameters.
+
+@ASKAP [112] and CHIME outrigger [113]:
+These references are cited to support the claim that the detection event rate of approximately 10^4 localized FRBs is consistent with the capabilities of different surveys, such as ASKAP and CHIME outrigger.
+
+@SKA:
+This reference is cited to highlight the expectation that the in-construction SKA will have a much more powerful capability of detecting and localizing FRBs, providing a much larger FRB sample to be used in exploring the nature of dark energy.
+
+N/A
+@114, @115, @116, @117, @118:
+These references are cited to indicate that the measurement of the Hubble constant using FRBs has been extensively investigated in recent literature.
+
+@108:
+This reference is cited to support the claim that FRBs cannot provide an effective constraint on the Hubble constant, but the combination of FRBs and CMB can give a rather tight constraint on the Hubble constant, which is useful in the case of not considering the Hubble tension.
+
+N/A
+@119,120:
+These references are cited to support the statement about the global density inferred from big bang nucleosynthesis (BBN) and CMB measurements, which is relevant to the discussion of the "missing baryon" problem.
+
+@121:
+This reference is cited to highlight the deficit of baryons in the local universe compared to the global density inferred from BBN and CMB measurements, further emphasizing the "missing baryon" problem.
+
+@122:
+This reference is cited to emphasize that the great majority of baryons reside in the IGM, particularly the warm and hot ionized medium (WHIM), rather than galaxies, which contributes to the challenging detection of missing baryons.
+
+@40:
+This reference is cited to mention the complete estimate of missing baryons derived by Macquart et al. using 5 localized ASKAP FRBs, which is consistent with the joint result of BBN and CMB, but with a large uncertainty.
+
+N/A

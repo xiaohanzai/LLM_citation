@@ -1,0 +1,41 @@
+@Kaspi & Beloborodov 2017:
+Referenced for a review on magnetars, providing background information on highly magnetized neutron stars.
+
+@Mazets et al. 1979; Mazets et al. 1999; Hurley et al. 1999; Palmer et al. 2005; Frederiks et al. 2007:
+These papers are cited to provide examples of gamma-ray bursts (GRBs) originating from magnetar giant flares (MGFs), supporting the statement that a small fraction of GRBs come from MGFs.
+
+@Yang et al. 2020; Minaev & Pozanenko 2020; Roberts et al. 2021; Svinkin et al. 2021; Zhang et al. 2022:
+These papers are cited to support the claim that GRB 200415A is a likely extragalactic MGF, providing evidence for the association between magnetars and gamma-ray bursts.
+
+@Petroff et al. 2019; Zhang 2022:
+Referenced for reviews on fast radio bursts (FRBs) and their potential connection to magnetars, highlighting the role of magnetars as progenitors of FRBs.
+
+@CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020:
+These papers are cited to confirm the association between FRB 200428 and the Galactic magnetar SGR 1935+2154, providing evidence that magnetars are at least one of the origins of FRBs.
+@Nicastro et al. (2021):
+Referenced to emphasize the importance of detecting multi-wavelength counterparts of FRBs for better understanding their progenitors and mechanisms, and the need for more dedicated multi-wavelength search campaigns.
+
+@Popov & Postnov 2010; Zhang 2016; Murase et al. 2017:
+These papers are cited to highlight the discussion of possible connections between FRBs and gamma-ray transients, indicating that clear associations have not been established so far.
+
+@DeLaunay et al. 2016; Acciari et al. 2018; Martone et al. 2019; Venere et al. 2021:
+Referenced to indicate that clear associations between FRBs and longer-lasting afterglow emissions from transient activities have not been established.
+
+@Yi et al. (2014):
+Cited to discuss the study of multi-wavelength afterglows from GRB-like outflows, which can help in identifying the counterparts of FRBs.
+
+@Lin & Totani (2020):
+Referenced to highlight the study of the detectability of afterglows in the context of the binary neutron star merger model for FRBs.
+
+@Li et al. (2022):
+Cited to discuss the possible connection between FRB 180916B and a potential optical counterpart AT2020hur, assuming a collimated outflow.
+@Murase et al. (2016):
+Referenced to support the bursts-in-bubble model and the study of afterglow emission caused by outflows associated with MGFs and/or FRBs.
+
+@Gaensler & Slane (2006):
+Cited to provide evidence of fading radio source VLA J180839-202439, which is consistent with the formation of trans-relativistic ejecta.
+
+@Kaspi & Beloborodov (2017):
+Referenced to provide information on the identification of magnetars and their potential association with supernova remnants.
+
+N/A
