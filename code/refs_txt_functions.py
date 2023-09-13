@@ -31,6 +31,9 @@ def convert_names_and_years_to_refdicts(names, years):
     '''
     refs = []
     names = re.sub(r'\s', '', names.lower()).split(',') # input is string, but I'll make it into a list
+    for i in range(len(names)):
+        if 'collaboration' in names[i] and names[i][:3] == 'the':
+            names[i] = names[i][3:] # remove 'the'
     if len(years)>=4:
         year = years[:4]
         if len(years)>4:

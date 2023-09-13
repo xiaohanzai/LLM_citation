@@ -59,7 +59,7 @@ def cross_match_txt_and_ads(refs_txt, refs_ads, current_year):
                 rst.append({'txt_ref': convert_refdict_to_text(ref_txt), 'arxiv_id': r['arxiv_id'], 'duplicate': True})
         # nothing matched
         # TODO: authors may also miss label... e.g. 2021 labeled as 2020b, then this is currently not considered as matched
-        else:
-            rst.append({'txt_ref': convert_refdict_to_text(ref_txt), 'arxiv_id': '', 'duplicate': False})
+        # else:
+        #     rst.append({'txt_ref': convert_refdict_to_text(ref_txt), 'arxiv_id': '', 'duplicate': False})
 
     return rst

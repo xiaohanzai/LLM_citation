@@ -212,6 +212,7 @@ chime/frbcollaboration et al. 2020; chime/frbcollaboration et al. 2020a; anderse
 ; *cited as recent reviews on the origin and radiation mechanism of frbs.
 ; *cited as the discovery of periodic repeating frbs.
 ; *referenced to support the discovery of a special frb in the milky way galaxy and its association with a soft gamma-ray repeater (sgr).
+; *these references are cited to support the claim that the repeating frb source, frb20200428, is associated with a well-studied galactic magnetar.
 ; *these references are cited to strengthen the case that at least a portion of frbs come from magnetars, based on the discovery of frb-like radio bursts from the galactic magnetar sgr 1935+2154.
 ; *referenced to discuss the periodic modulation in burst activity observed in frb 20180916b.
 ; *these references are cited to provide evidence and support for various aspects of the discussion on fast radio bursts (frbs), including their nature, repetition patterns, physical models, emission mechanisms, and local environment.
@@ -230,20 +231,25 @@ chime/frbcollaboration et al. 2020; chime/frbcollaboration et al. 2020a; anderse
 ; referenced to highlight the leading hypothesis on the frb progenitor as young magnetars and the prediction that the peak in frb activity matches that of star formation.
 ; referenced to highlight the detection of an frb in the milky way, indicating that frbs can also originate within our galaxy.
 ; cited to highlight the detections of flares from galactic and extragalactic sources, known as soft 𝛾-ray repeaters, and their association with tremendous free energy.
+; these papers are referenced to provide evidence for the magnetar-frb association based on the detection of millisecond ghz bursts from sgr 1935+2154.
 ; these papers are cited to suggest the possibility of luminous coherent emission processes around pulsars or magnetars as the source of repeating frbs, contributing to the ongoing discussion on the physical nature of frbs.
 ; these papers are cited to highlight significant observational milestones in the study of frbs that have been accomplished over 16 years of accelerated development.
+; *referenced to state that at least some frbs are known to occur in magnetars, which are neutron stars with extremely strong magnetic fields.
 ; these papers are cited to highlight the finding that one frb (frb 200428) has been shown to be originated from a galactic magnetar.
 ; *cited to state that only two out of the nearly 30 repeaters show a periodicity.
 ; referenced to highlight the discovery of a very luminous frb-like burst from the galactic magnetar sgr 1935 + 2154, confirming the magnetar theory for at least one frb source.
 ; these papers are cited to confirm the association between frb 200428 and the galactic magnetar sgr 1935+2154, providing evidence that magnetars are at least one of the origins of frbs.
 ; these references are cited to support the claim that the discovery of frb 200428 establishes magnetars as an origin of some frbs.
 ; *cited as the source for the period and active window of frb 20180916b (r3), observed at chime's frequencies.
+; *cited to strengthen the frb-magnetar link with the detection of a radio burst similar to an frb from the galactic magnetar sgr j1935+2154.
 ; cited to acknowledge the detections of frb-like events from within the mw from a known galactic source, namely, magnetar sgr 1935+2154, and to highlight the consistency of the dm of this burst with being galactic according to ne2001 and ymw16.
 ; referenced to provide strong evidence that frbs could be powered by magnetars, supporting the association with young stellar populations.
 ; cited to confirm that sgr j1935 was a source of fast radio bursts (frbs) based on the detection of a hard burst with contemporaneous frbs.
 ; these papers are cited to support the association of frb 200428 with a galactic magnetar sgr j1935+2154, suggesting that at least some frbs originate from magnetars born from the core collapses of massive stars.
 ; these papers are referenced to strengthen the connection between frbs and magnetars, as the detection of frb 20200428 was observed simultaneously with an x-ray burst emitted by the magnetar sgr1935.
 ; referenced to describe the observations and results of a study on the burst rate of sgr1935-like events in ngs, providing important context for the current work.
+; *these papers are referenced to highlight the recent discovery that pulsed radio emission from soft gamma-ray repeater (sgr) 1935+2154 suggests magnetars like sgr 1935+2154 may produce some frbs.
+; *cited to compare the luminosity of bursts from sgr 1935+2154 with the luminosity distribution of cosmological frbs.
 ; *cited to mention the work of rajwade et al. (2020) and cruces et al. (2021) in confirming the active periods of frb 20121102a and discussing the implications for the origin of frbs.
 ; these papers are referenced to highlight the breakthrough discovery of a bright radio burst (frb 200428) and its association with a hard x-ray burst, suggesting that some frbs are produced by magnetars.
 ; these papers are cited to highlight the recent discovery of a non-thermal x-ray burst from the galactic magnetar (sgr j1935+2154) associated with the fast radio burst (frb 200428), emphasizing the importance of observations of high energy transients in x-ray and gamma-ray bands.
@@ -560,12 +566,14 @@ chime/frbcollaboration et al. 2021; amiri et al. 2021,2106.04352,"referenced as 
 ; referenced to acknowledge the detection of an unprecedented number of frbs by the canadian hydrogen intensity mapping experiment (chime) and to provide the source for further information on the chime/frb catalog.
 ; cited to provide the number of detected fast radio bursts (frbs) and the confirmation that most, if not all, frbs originate at cosmological distances.
 ; referenced to indicate the publication of the chime/frb first catalogue, which led to an increase in the number of published frbs.
+; these references are cited to highlight the increase in frb observational data resulting from the conjunction of the chime/frb collaboration with other experiments.
 ; these papers are cited to support the claim that several hundred frb sources have been collected to date, highlighting the growing body of knowledge on frbs.
 ; cited to emphasize the instrumental role of chime in making multiple daily detections and identifying an increasing number of repeating frbs.
 ; these papers are cited to acknowledge the canadian hydrogen intensity mapping experiment's frb detection system (chime/frb) as the source of most catalogued frb sources.
 ; referenced to highlight the important role of chime in discovering new frbs and increasing the total number of known events.
 ; these references are cited to provide the current number of reported frbs as of april 2022, indicating the growing knowledge and observations in the field.
 ; these references are cited to indicate the number of detected frbs and the existence of repeaters, providing a basis for the discussion on the properties and characteristics of frbs.
+; referenced to indicate the number of recorded frbs to date, which is over 700.
 ; referenced as the publication of the first frb catalogue by the chime/frb collaboration in 2021, which is significant as it is the first large-sample homogeneous frb catalogue.
 ; *cited to acknowledge the sources reporting multiple frbs that are coincident in sky location and dispersion measure (dm), highlighting the interest in studying these repeaters.
 ; *referenced to confirm previously established characteristic properties of repeaters and to suggest a distinct astrophysical origin for repeaters.
@@ -847,288 +855,6 @@ chime/frbcollaboration et al. 2018; amiri et al. 2018,1803.11235,"cited to empha
 ; referenced as the survey project, chime/frb project, conducted at chime.
 ; referenced to indicate that the canadian hydrogen intensity mapping experiment (chime) searches for frbs.
 "
-macquart et al. 2010a; kruer 1988; thechime/frbcollaboration et al. 2023; esposito et al. 2020; rea & esposito 2010; andersen et al. 2022; mottez et al. 2020; cordes & lazio 2003; andpetroff et al. 2022; popov & postnov 2010; bloom et al. 2002; perley et al. 2016; levesque et al. 2010; petroff et al. 2019; kirsten et al. 2022; marcote et al. 2020; planckcollaboration et al. 2014; margon et al. 1982; mazets et al. 1999; yanin 2020; bandura et al. 2014a; spulsarcatalog 2023; chime/frbcollabortion 2021a; chime/frbcollabortion 2021b; thechime/frbcollaboration et al. 2020; beloborodov 2019; chwolson 1924; hewitt et al. 1988; kelly et al. 2015; abbott et al. 2016; abbott et al. 2017; abbott et al. 2021a; chime/frbcollaboration et al. 2021; takahashi 2017; jacques et al. 2007; leung et al. 2018; miller & wheeler 1997; doyle & carico 2009; falco et al. 1985; saha 2000; wucknitz et al. 2021; jow et al. 2020; lin et al. 2022; ohanian 1973; ohanian 1974; peters 1974; baraldo et al. 1999; deguchi & watson 1986a; deguchi & watson 1986b; nakamura & deguchi 1999; takahashi & nakamura 2003; nakamura 1998; macquart 2004; stanek et al. 1993; nemiroff et al. 1993; gould 1992; sugiyama et al. 2020; katz et al. 2020; kader et al. 2022; leung et al. 2022; venumadhav et al. 2017; dai & miralda-escude 2020; xiao et al. 2022; rhodes et al. 2023; radhakrishnan & cooke 1969; kumar et al. 2022a; xu et al. 2021; wang et al. 2021; niu et al. 2021; woods & thompson 2006; omori 1895; kumar et al. 2022b; anumarlapudi et al. 2018; spitler et al. 2016; hewitt et al. 2022a; hurst 1951; mckinven et al. 2022a; longomicchi et al. 2023; zhang 2020a; zhang 2020b; chime/frbcollaboration et al. 2020a; hilmarsson et al. 2021a; chime/frbcollaboration et al. 2020b; tendulkar et al. 2021a; tendulkar et al. 2021b; oostrum et al. 2017; aghanim et al. 2020a; melia 2020; cordes & chatterjee 2019; lorimer et al. 2007; andreoni et al. 2019; thechime/frbcollaboration et al. 2021; petroff et al. 2014; collaboration et al. 2018; ferrara & pandolfi 2014; haverkorn 2015; sotomayor-beltran et al. 2013; morrell & law 2022; grb 1708; hallinan et al. 2019; vanderlinde et al. 2019; mckinven 2022; bday et al. 2020; frb 2019; frb 2012; frb 2018; frb 2020; harris 2010; liu et al. 2020; katz 2014; du 2023; lazkoz et al. 2013; rajwade et al. 2020; pleunis et al. 2021a; thornton et al. 2013; ravi 2019; prochaska et al. 2019; macquart et al. 2020; chime/frbcollaboration et al. 2019; pleunis et al. 2021b; michilli et al. 2018; luo et al. 2020; mannings et al. 2022; burn 1966; chatterjee et al. 2017; niu et al. 2022; nimmo et al. 2021; sullivan et al. 2019; james et al. 2021; cordes & vieira 1984; lazio 2002; bertolami & landim 2018; freedman 2021; zhao et al. 2022; dunsby & luongo 2016; luongo et al. 2016; aviles et al. 2017; landau 1932; lyubarsky 2021; beloborodov 2021; beloborodov 2022a; beloborodov 2022b; battye et al. 2021b; battye et al. 2021a; driessen et al. 2022b; driessen et al. 2022a; geng et al. 2021; niu et al. 2023; li et al. 2019; wang & yu 2017; dunning et al. 2017; nica et al. 2021; vandermaaten & hinton 2008; becht et al. 2019; nimmo et al. 2023; bhandari et al. 2021; kirsten et al. 2021; yamasaki et al. 2017; masui & chime/frbcollaboration 2021; agarwal 2020; chen et al. 2021; bhandari et al. 2022b; bhandari et al. 2022a; venere et al. 2021; atel 1570; obrocka 2015; chime/frbcollaboration et al. 2019b; chime/frbcollaboration et al. 2019a; mereghetti et al. 2020; ridnaia et al. 2020; ravi & hallinan 2022; cmcollaboration et al. 2018; chime/frbcollaboration et al. 2022; alp et al. 2021; hatsukade et al. 2021; osso & stella 2021; tanaka & takahara 2013b; mannings et al. 2020; ac- 2015; pratt et al. 2009a; stamatikos et al. 2014; roberts 2023; zhou et al. 2020a; zhou et al. 2020b; armour et al. 2011; kimball & budker 2023; lin 2022; abbott et al. 2020b; panther et al. 2022; abbott et al. 2020a; mc-quinn 2014; aggarwal et al. 2022; goodfrb 2021; guo & wei 2022; kirsten et al. 2022a; zackay et al. 2019a; zackay et al. 2019b; abbott et al. 2020c; thom et al. 1975; vedanthamravi 2019; tavani et al. 2020; fishman et al. 1994; xiong et al. 2012; li et al. 2022; an et al. 2020; zhang et al. 2020; cai et al. 2021b; fletcher 2021; cai et al. 2021a; vanleeuwen 2014; cordes & lazio 2002; bhattacharya et al. 2020; reischke & hagstotz 2023; reda et al. 2022; shannon et al. 2023; baldwin 1956; choudhury & choubey 2018; choi et al. 2020; debernardis et al. 2017; ade et al. 2019; regier & teyssier 2002; battaglia 2016,,"cited to emphasize the significant increase in the detected frb population due to the commissioning of sensitive and wide-field fast transient detection instrumentation.
-; these references are cited to support the statement that the nonlinear interaction between electromagnetic waves and plasmas induces various plasma instabilities.
-; cited to mention that some frbs repeat stochastically.
-; these references are cited to support the statement that bursts and flares of hard x-rays are a common feature in magnetar observations, providing a basis for the discussion of magnetospheric instabilities in the context of magnetar dynamics.
-; these references are cited to support the statement that bursts and flares of hard x-rays are a common feature in magnetar observations, providing a basis for the discussion of magnetospheric instabilities in the context of magnetar dynamics.
-; these papers are cited to indicate that not all x-ray emission episodes are associated with radio events, providing examples of observations that support this claim.
-; referenced to note the occurrence of quasi-periodic sub-bursts in frbs.
-; these references are cited to discuss models where energy is taken from the wind as an object orbits the star, emphasizing the role of the magnetosphere or wind of a neutron star.
-; referenced to argue that the milky way interstellar medium (ism) is not expected to dominate the scattering observed in frbs at high galactic latitudes.
-; these references are cited to emphasize the use of electron distribution models such as ne2001 and ymw16 to compare and constrain the level of scatter-broadening in the milky way.
-; these recent reviews are cited to provide additional information and context on fast radio bursts (frbs).
-; these references are cited to support the hypothesis that fast radio bursts (frbs) may result from violent activities of compact objects, particularly highly magnetized neutron stars (nss).
-; cited to support the mention of studies on nucleus-offset distribution, which provide insights into the progenitors of long gamma-ray bursts.
-; these papers are cited to highlight similar studies conducted on the progenitors of long gamma-ray bursts, which revealed their preference for dense and low-metallicity stellar environments, as well as their association with young starbursts of blue star-forming galaxies with high specific star formation rates.
-; these papers are cited to highlight similar studies conducted on the progenitors of long gamma-ray bursts, which revealed their preference for dense and low-metallicity stellar environments, as well as their association with young starbursts of blue star-forming galaxies with high specific star formation rates.
-; referenced to highlight the incorporation of major conclusions from studies of frb host galaxies into proposed progenitor models.
-; referenced to highlight the discovery of a repeating frb 20200120e associated with a globular cluster of m81, indicating a compact binary coalescence event as the progenitor.
-; these papers are cited to emphasize the spectrum of environments in which frbs have been found, including dwarf galaxies, spiral galaxies, and globular clusters.
-; cited to indicate the adoption of the planck13 cosmology throughout the article, including specific values for the hubble constant, cosmological constant, and matter density parameter.
-; these papers are referenced to highlight that precession can be directly measured in doppler shifts of a disc's axial jet.
-; these papers are cited to provide references for confirmed events of gamma-ray bursts (grbs) from magnetars, supporting the discussion on the different types of bursts emitted by magnetars.
-; these papers are referenced to highlight various proposed models for the periodicity of repeating frbs, all of which are related to neutron stars (nss).
-; these papers are cited to mention the use of connected-element interferometers such as askap, dsa-10, dsa-110, meerkat, and vla for localizing apparently non-repeating frbs, emphasizing the need for sub-arcsecond localizations of one-off frbs on a routine basis for a large number of sources.
-; referenced to describe the chime pathfinder telescope, which is the precursor to chime and is part of the chime/frb outriggers project.
-; these references are cited to support the statement that the globular clusters in the milky way host robust populations of radio pulsars.
-; cited to highlight the detection of hundreds of frbs and the classification of repeaters and non-repeaters, with a specific mention of the exceptions frb 20121102a and frb 20201124a.
-; these references are cited to indicate the sources that detected and observed the repeating bursts of frb 20201124a.
-; these references are cited to support the claim that the repeating frb source, frb20200428, is associated with a well-studied galactic magnetar.
-; these papers are referenced to highlight the far-away models that propose a larger source size for frbs, determined by the distance from the neutron star and the lorentz factor of the relativistic outflow.
-; referenced as the first theoretical predictions of gravitational lensing.
-; referenced as the first observation of an einstein ring.
-; referenced to highlight the detection of lensed supernovae.
-; referenced to suggest that wavemechanical effects should be observable in the lensing of gravitational wave (gw) signals from binary black holes, binary neutron stars, and black hole-neutron star mergers, as well as a large population of fast radio bursts (frbs) at low frequencies.
-; referenced to suggest that wavemechanical effects should be observable in the lensing of gravitational wave (gw) signals from binary black holes, binary neutron stars, and black hole-neutron star mergers, as well as a large population of fast radio bursts (frbs) at low frequencies.
-; referenced to suggest that wavemechanical effects should be observable in the lensing of gravitational wave (gw) signals from binary black holes, binary neutron stars, and black hole-neutron star mergers, as well as a large population of fast radio bursts (frbs) at low frequencies.
-; referenced to indicate the potential for observing wavemechanical effects in the lensing of a large population of fast radio bursts (frbs) at low frequencies.
-; referenced to highlight the use of interference effects in gravitational lensing for unique tests of gravity, such as testing the equivalence principle using precise measurements of time lags between electromagnetic and gravitational-wave images.
-; referenced to suggest the interest in wave-mechanical effects in gravitational lensing from the perspective of testing the foundations of quantum mechanics.
-; referenced to suggest the interest in wave-mechanical effects in gravitational lensing from the perspective of testing the foundations of quantum mechanics.
-; referenced to suggest the interest in wave-mechanical effects in gravitational lensing from the perspective of testing the foundations of quantum mechanics.
-; referenced to suggest the interest in wave-mechanical effects in gravitational lensing from the perspective of testing the foundations of quantum mechanics.
-; these references are cited to illustrate the mass-sheet degeneracy, which is a challenge in lensing-based inference and can be mitigated by considering wave-mechanical effects in gravitational lensing.
-; these references are cited to illustrate the mass-sheet degeneracy, which is a challenge in lensing-based inference and can be mitigated by considering wave-mechanical effects in gravitational lensing.
-; these papers are referenced to highlight the potential for interferometric measurements of lensing time delays in the context of lensing of fast radio bursts (frbs), which can provide significantly increased precision compared to measurements from frb light curves alone.
-; these papers are referenced to highlight the potential for interferometric measurements of lensing time delays in the context of lensing of fast radio bursts (frbs), which can provide significantly increased precision compared to measurements from frb light curves alone.
-; this reference is cited to demonstrate the use of wave-mechanical effects in gravitational lensing to resolve the emission region of the crab pulsar, showcasing the potential of gravitational lenses as astrophysical-scale interferometers.
-; these references are mentioned to indicate the development of the theory of interference effects in gravitational lensing since the early 1970s, emphasizing the historical background of this field of study.
-; these references are mentioned to indicate the development of the theory of interference effects in gravitational lensing since the early 1970s, emphasizing the historical background of this field of study.
-; these references are mentioned to indicate the development of the theory of interference effects in gravitational lensing since the early 1970s, emphasizing the historical background of this field of study.
-; these references are cited to indicate that the theory of interference effects in gravitational lensing has been developed since the 1970s.
-; these references are cited to indicate that the theory of interference effects in gravitational lensing has been developed since the 1970s.
-; these references are cited to indicate that the theory of interference effects in gravitational lensing has been developed since the 1970s.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these papers are referenced to highlight further developments in gravitational wave (gw) lensing and the focus on interference effects at low emission frequencies.
-; these references are cited to provide an early example of using ""femtolensing"" to analyze the spectra of gamma ray bursts (grbs) and probe extremely low mass scales.
-; these references are cited to provide an early example of using ""femtolensing"" to analyze the spectra of gamma ray bursts (grbs) and probe extremely low mass scales.
-; these references are cited to provide an early example of using ""femtolensing"" to analyze the spectra of gamma ray bursts (grbs) and probe extremely low mass scales.
-; this paper is referenced as an example of optical microlensing searches for primordial black holes (pbhs) and the limitations imposed by wave-mechanical effects.
-; these papers are cited to highlight searches for primordial black holes (pbhs) using lensed fast radio bursts (frbs) and the challenges posed by wave-mechanical effects.
-; these papers are cited to highlight searches for primordial black holes (pbhs) using lensed fast radio bursts (frbs) and the challenges posed by wave-mechanical effects.
-; these papers are cited to highlight searches for primordial black holes (pbhs) using lensed fast radio bursts (frbs) and the challenges posed by wave-mechanical effects.
-; these references are cited as examples of searches for small-scale density perturbations in minihalos or axion dark matter and the impact of wave-mechanical effects.
-; these references are cited as examples of searches for small-scale density perturbations in minihalos or axion dark matter and the impact of wave-mechanical effects.
-; this paper is referenced to illustrate the search for lensing by cosmic strings and the consideration of wave-mechanical effects.
-; referenced to discuss the ∼30% change in the flux density of frb 20121102a's prs at 1.3 ghz over three years, which is argued to be more likely intrinsic to the source than due to scintillation, but further measurements are needed to confirm.
-; referenced to compare the tracking of evolution in the position angle of the linear polarization vector (pa) within frb bursts and between bursts to the rotating vector model (rvm) of pulsar radio emission.
-; these papers are cited to discuss the significant position angle (pa) variations across bursts observed in the repeating source frb 20201124a, as well as its significant circular polarization.
-; these papers are cited to discuss the significant position angle (pa) variations across bursts observed in the repeating source frb 20201124a, as well as its significant circular polarization.
-; referenced to support the demonstration of other mechanisms that may produce anomalous circular polarization seen from frb 20201124a, highlighting the importance of polarized observations for constraining frb emission models and the magneto-ionic properties of the local environment.
-; cited to describe the similar interpretation of frb 20190520b, which displays an association with a compact persistent radio source (prs) and shares similarities with frb 20121102a.
-; referenced to describe recent observations by the fast telescope of frb 20201124a, showing significant and irregular rm variations on week-long timescales, suggesting a high degree of nonuniformity in the local environment of the source.
-; this paper is cited to support the division of soft gamma-ray repeaters (sgrs) into three types of bursts based on their duration, namely short-duration bursts, intermediate bursts (ibs), and giant flares (gfs), and to highlight the differences in their light curve shapes.
-; these references are cited to provide information on the two active repeating frbs (frb 20121102a and frb 20190520b) that are the focus of the study.
-; these papers are referenced to highlight the high sensitivity and high cadence coverage of fast's observations of the two frbs, which allows for a more complete event series compared to other telescopes.
-; these references are cited to support the statement that seismic events, such as earthquakes, deviate from randomness and exhibit clustering behavior in time and magnitude, indicating their origin from nonlinear dynamical systems.
-; referenced to indicate that the discovery of circular polarization in repeating frbs suggests there may be more similarities between one-off and repeating frb sources.
-; cited to highlight the immediate follow-up campaigns at x-ray wavelengths with non-detection of a repeat burst or any counterpart emission at the position of the frb source.
-; these references are cited to provide evidence and support for various aspects of the discussion on fast radio bursts (frbs), including their nature, repetition patterns, physical models, emission mechanisms, and local environment.
-; these papers are referenced to highlight the bimodal distribution of waiting times in large samples of frbs, suggesting the presence of substructures within longer bursts.
-; cited to introduce the concept of the hurst exponent as a measure of the secular memory of a time series, which is relevant to the discussion of memory effects in the context of burst-rate structures.
-; these papers are referenced to highlight various phenomena related to the complex magnetized environments of repeating frbs, including depolarization, faraday conversion, and temporal evolution of faraday rotation.
-; referenced as more recent studies on aic simulations, highlighting the ongoing research in the field.
-; cited as an example of a past work that employed newtonian gravity, in contrast to the current study that takes into account general relativity (gr).
-; these references are cited to provide reviews on fast radio bursts (frbs) and their cosmological distances, highlighting the existing literature on the topic.
-; these references are cited to provide reviews on fast radio bursts (frbs) and their cosmological distances, highlighting the existing literature on the topic.
-; this reference is cited to highlight the detection of over 50 frb sources showing repeating activities, underscoring the significance of this finding.
-; these papers are referenced to support the association of frb 20200428 with an x-ray burst from the galactic magnetar sgr 1935+2154, establishing an frb-magnetar connection.
-; this paper is referenced to highlight the decrease in rm and the increase in dispersion measure (dm) of the repeating frb 20121102a over time.
-; referenced to provide evidence of the periodic activity of the repeating frb 20180916b.
-; referenced to indicate the ∼ 250 pc offset between frb 20180916b and the brightest region of the nearest young stellar clump in its host galaxy, suggesting the possible birthplace of frb 20180916b and the age of the central object.
-; cited to highlight the inconsistency of the age of the central object of frb 20180916b with the scenario involving a young magnetar.
-; these papers are referenced to provide examples of the range of burst energies detected from the repeating source frb 121102.
-; referenced as the source for the best-fit values of cosmological parameters from the planck mission.
-; these papers are cited to suggest that new physics beyond λcdm may be required to alleviate the ""hubble tension"" between the determination of the hubble constant at early times and in our local neighborhood.
-; these references are cited to introduce the alternative friedmann-lemaître-robertson-walker cosmology known as the r h = ct universe and compare it with λcdm in the context of localized frbs.
-; these papers are cited to support the statement that most frb scattering times are longer than expected from their galactic contribution, indicating the need to consider other factors in understanding the source environment.
-; referenced to acknowledge the discovery of the first fast radio burst (frb) in 2007, which has opened up a new era in fast transient astronomy.
-; referenced as the dark energy survey.
-; these references are cited to highlight the increase in frb observational data resulting from the conjunction of the chime/frb collaboration with other experiments.
-; these papers are cited to highlight that the majority of searches for frb counterparts have focused on afterglow multi-wavelength counterparts rather than prompt emission.
-; referenced to mention the canadian hydrogen intensity mapping experiment (chime) as one of the new telescopes contributing to the increasing number of frb detections, emphasizing the technological advancements in frb research.
-; these papers are cited to indicate the numerous numerical simulations and observations that have been conducted in an attempt to alleviate the ""missing baryon"" problem.
-; referenced to provide an estimation of the baryon mass fraction in the intergalactic medium (figm) at different redshifts, demonstrating moderate redshift evolution.
-; referenced to provide information on the proportion of large-scale ordered fields in the total field strengths.
-; cited to refer to the contribution of the ionosphere in the calculation of rm (rotation measure).
-; referenced to define the term 'ion' in the equation and explain its contribution to rm.
-; cited to indicate that additional data for the dsa-110 frbs can be obtained by contacting the corresponding author.
-; referenced to motivate the proposal of a series of gamma-ray transient monitors.
-; these papers are cited to highlight the expectation of upcoming radio surveys and frb searches generating vast volumes of data and the primary objective of developing novel methods for detecting radio transients that can outperform existing techniques.
-; these papers are cited to highlight the expectation of upcoming radio surveys and frb searches generating vast volumes of data and the primary objective of developing novel methods for detecting radio transients that can outperform existing techniques.
-; these references are cited to suggest the possibility that multiple mechanisms are responsible for the frb phenomenon, indicating the existence of both repeating and one-off bursts.
-; referenced to highlight an example of an frb that exhibited non-negligible circular polarization.
-; referenced to highlight an example of an frb that exhibited non-negligible circular polarization.
-; these frbs are mentioned to illustrate the non-uniformity of polarization states among repeaters, with some having stable polarization states and others varying from burst to burst.
-; these frbs are mentioned to illustrate the non-uniformity of polarization states among repeaters, with some having stable polarization states and others varying from burst to burst.
-; these frbs are mentioned to illustrate the non-uniformity of polarization states among repeaters, with some having stable polarization states and others varying from burst to burst.
-; referenced to highlight an example of a one-off burst with complex time-domain morphologies and evolving polarization properties.
-; these frbs are mentioned to emphasize the presence of smoothly time-varying rms on week to month timescales in some repeaters.
-; these frbs are mentioned to emphasize the presence of smoothly time-varying rms on week to month timescales in some repeaters.
-; these frbs are mentioned to emphasize the presence of smoothly time-varying rms on week to month timescales in some repeaters.
-; referenced to highlight the observation of strong burst to burst variability in linear and circular polarization fractions, as well as frequency-dependent oscillations, in the repeating source.
-; referenced to indicate that the calibrated full-polarization filterbank data and derived parameters are available on the caltechdata public repository through the dsa-110 archive.
-; referenced to provide information on the observed pulsars in 11 core-collapsed gcs, including the cluster name, the ratio of core-to-half light radii, the number of single pulsars, the number of binary pulsars, and the fraction of single pulsars.
-; these papers are referenced to highlight the dead times and time resolutions of the satellites insight-hxmt, gecam, and fermi/gbm, which are beneficial for pds analyses and high-frequency qpo searches.
-; these papers are cited to present various proposed models for explaining the origin of anti-glitches, demonstrating the range of hypotheses that have been put forward on this topic.
-; referenced to support the explanation of the anti-glitch observed in magnetar 1e 2259+586, suggesting that the accretion of planetesimals and the collision of a solid body with the magnetar could account for this phenomenon.
-; these papers are cited to reference other discussions on the glitch, anti-glitch, and glitch-associated activities of sgr j1935+2154, highlighting the existence of multiple perspectives on these phenomena but noting that none of them offer a comprehensive explanation for the simultaneous occurrence of anti-glitches, glitches, and frb-like bursts.
-; referenced to support the estimation of the hubble constant using observations of the cosmic microwave background (cmb) radiation.
-; referenced to provide measurements obtained by the planck collaboration regarding the ""missing baryons problem"" and the composition of the universe.
-; cited to highlight the extensive use of cosmography in prior research employing various cosmological probes, but not yet applied to fast radio bursts (frbs).
-; referenced as the discovery of the first frb in archival parkes data.
-; referenced to indicate the number of frb detections published.
-; cited to highlight the periodic activity of frb 20121102a and frb 20180916b.
-; cited to highlight the periodic activity of frb 20121102a and frb 20180916b.
-; cited to indicate the wide range of frequencies at which frbs have been observed.
-; cited as the initial speculation that frbs were associated with cataclysmic events, which had to be updated after the discovery of the first repeating frb.
-; referenced for an analysis considering the chime/frb detections, indicating a higher frb volumetric occurrence rate compared to cataclysmic source classes.
-; these references are cited to support the statement that interferometric localizations of one-off frb sources to their host galaxies have enabled the measurement of the cosmic baryon density in the low-redshift universe.
-; referenced to emphasize that the interferometric localizations of one-off frb sources have enabled the measurement of the cosmic baryon density in the low-redshift universe.
-; these papers are cited to support the statement that repeating frbs can show linear frequency drift of intra-burst emission with time, known as ""sad-trombone"" structure.
-; these references are cited to highlight the evidence that the bursts from repeating frbs are generally of longer duration than non-repeating frbs and that repeating frbs show band-limited structure.
-; these references are cited to highlight the evidence that the bursts from repeating frbs are generally of longer duration than non-repeating frbs and that repeating frbs show band-limited structure.
-; referenced to support the initial 5-ghz polarimetric studies of the first known repeating frb 20121102a, which reported a high degree of linear polarization and a flat polarisation position angle (ppa).
-; cited to highlight subsequent reported observations of repeaters, such as frb 20201124a, indicating more diverse polarimetric behavior with the polarisation position angle (ppa) varying across the burst envelope.
-; referenced to emphasize subsequent reported observations of repeaters, such as frb 20180301a, indicating more diverse polarimetric behavior with the polarisation position angle (ppa) varying across the burst envelope.
-; referenced to provide the measured rm magnitude and secular decline in rm for the first detected repeater frb 201211202a, as well as the short-term variations in rm for this frb.
-; cited to support the observation that non-repeating frbs have less extreme rotation measures, consistent with passage through milky-way-like columns in the interstellar medium.
-; cited to explain the depolarisation behavior seen in extended sources and the differential rm in the source itself.
-; cited to provide the value of 𝜎 rm for frb 20121102a.
-; referenced to provide the value of 𝜎 rm for frb 20190520b.
-; these papers are cited to provide references for the askap reported frbs and the repeating source frb 20190711a, which are studied in the paper.
-; referenced to highlight the case of frb 20201124a, an anomalously prolific repeater that appeared to suddenly awaken from quiescence.
-; cited to highlight the role of high-time resolution measurements in constraining the size of the emission region and emission mechanisms of frbs.
-; these papers are referenced to discuss the traditional method of using faraday rotation measure (rm) from background polarized electromagnetic sources to place constraints on the magnetic field in the warm-hot intergalactic medium (whim).
-; cited to suggest that a turnover in the macquart relation caused by detection biases makes a closer origin more likely for frbs with very high dm.
-; cited to mention the usually large dispersion measures (dm) of frbs, which exceeded the limits of the milky way.
-; these references are cited to support the initial suggestion that fast radio bursts (frbs) have an extragalactic origin.
-; these references are cited to emphasize the use of frbs in studying the equivalence principle.
-; cited to mention the significantly higher value of 𝐻 0 = 69.8 ± 1.9 km s -1 mpc -1 obtained when the local distance ladder is calibrated by the tip of the red giant branch (trgb) methods.
-; these papers are cited to highlight the use of extragalactic frbs for cosmological research, specifically mentioning the dispersion measurement (dm) and redshift relationship.
-; these references are cited to support the use of the cosmographic approach, which defines cosmological parameters through the derivatives of scale factors and does not depend on a specific cosmological model.
-; these references are cited to demonstrate the application of the cosmographic approach in studying the properties of dark energy.
-; these references are cited to show the application of the cosmographic approach in studying other cosmological parameters.
-; referenced to provide historical context for the term ""gigantic nucleus"" used to describe a compact object composed of dense matter at supra-nuclear density.
-; these papers are referenced to provide evidence for the magnetar-frb association based on the detection of millisecond ghz bursts from sgr 1935+2154.
-; cited as sources for a review on the radio bursting mechanism of frbs.
-; referenced to support the discussion on the plasma response to radio waves in the magnetosphere surrounding magnetars.
-; referenced to support the discussion on the plasma response to radio waves in the magnetosphere surrounding magnetars.
-; cited as ""paper i"" to indicate that the mhd framework was used to demonstrate the formation and evolution of shocks in the background plasma.
-; referenced to provide evidence of rapid variability of frb pulses, specifically citing the case of frb 20200120e with a pulse duration of 60 ns.
-; these papers are referenced to explore the effects of conversion of axion dark matter in neutron star magnetospheres, highlighting the laboratory setting for axion searches provided by highly magnetized plasmas.
-; these papers are referenced to explore the effects of conversion of axion dark matter in neutron star magnetospheres, highlighting the laboratory setting for axion searches provided by highly magnetized plasmas.
-; referenced to indicate sources that were initially detected at other wavelengths and are followed up by thunderkat.
-; cited as references for untargeted searches for transient and variable sources in the field of view (fov) of meerkat image-plane observations.
-; these references are cited to suggest that repeaters like frb 121102 and frb 20201124a may originate from activity in binary systems rather than isolated neutron stars.
-; referenced as the first galactic fast radio burst (frb) associated with sgr 1935+2154, emphasizing the significance of this discovery in connecting frbs and magnetars.
-; referenced to indicate the number of recorded frbs to date, which is over 700.
-; this reference is cited to mention that ongoing monitoring of frb 20190520b allows for the discovery of new features, which is relevant to the selection of this frb as a case study.
-; these papers are cited to reference previous studies on time correlations of repeating frbs, specifically the distribution of wait times between two successive bursts, which is relevant to understanding the burst production mechanism and the physical activity of the source or radiative processes.
-; these papers are cited to reference previous studies on time correlations of repeating frbs, specifically the distribution of wait times between two successive bursts, which is relevant to understanding the burst production mechanism and the physical activity of the source or radiative processes.
-; referenced to state that at least some frbs are known to occur in magnetars, which are neutron stars with extremely strong magnetic fields.
-; these papers are cited to support the claim that two repeating frbs have been discovered to show periodicity in their activity cycle, suggesting a binary system origin.
-; referenced to highlight the extremely bright radio bursts and high-energy flaring observed from the galactic magnetar sgr j1935+2154, suggesting a link between neutron stars and frbs.
-; referenced to describe the center beam receiver used in the fast observation of frb 20220912a.
-; these references are cited to support the statement that the hot cgm is expected to have a net rotation, emphasizing the existing literature on this topic.
-; these references are cited to compare the repetition rates of some repeaters with notable repeating frbs like frb 20121102a and frb 20201124a.
-; these references are cited to acknowledge previous studies or works that are relevant to the topic being discussed.
-; cited to establish the historical popularity of t-distributed stochastic neighbor embedding (t-sne) as a nonlinear technique for dimensionality reduction in single-cell analysis before 2018.
-; cited to demonstrate the reputation of umap in the field of biology, specifically for providing fast run times, high reproducibility, and meaningful organization of cell clusters.
-; cited to acknowledge the sources reporting multiple frbs that are coincident in sky location and dispersion measure (dm), highlighting the interest in studying these repeaters.
-; these references are cited to indicate that approximately 32 fast radio bursts (frbs) have been localized to their host galaxies, highlighting the difficulty of pinpointing frbs and the importance of multi-wavelength follow-up.
-; these references are cited to indicate that approximately 32 fast radio bursts (frbs) have been localized to their host galaxies, highlighting the difficulty of pinpointing frbs and the importance of multi-wavelength follow-up.
-; these papers are cited to highlight the diverse properties of the host populations of both repeating and non-repeating frbs.
-; cited to mention the eventual vlbi confirmation of the host galaxies for frb 20200120e and frb 20220912a, respectively.
-; referenced to support the statement that fast radio bursts (frbs) show sudden brightening at radio wavelengths.
-; cited to suggest neutron star mergers as a possible explanation for frbs.
-; referenced to indicate that most repeating frb sources have only a handful of observed burst events.
-; cited to mention a previous work that presented a classification for frb candidates from australian square kilometre array pathfinder (askap) detection using deep neural networks.
-; cited as an example of a study that successfully used the unsupervised machine learning model umap to uncloak hidden repeating frb candidates from non-repeating frbs in the chime/frb observation.
-; cited to indicate that frbs are typically not associated with the nuclei of host galaxies and to mention the positional offsets of frbs from the centers of host galaxies.
-; referenced to support the statement that frb 20210117a discovered by the askap telescope has host galaxy characteristics similar to other frbs and an excess dm contribution from the host.
-; referenced to indicate that clear associations between frbs and longer-lasting afterglow emissions from transient activities have not been established.
-; this reference is cited to mention that at least two frb signals were captured by the yunnan 40 m radio telescope after the burst forest.
-; referenced to expand on the method of using spatially-dependent and frequency-dependent gain to localize multibeam detections with interferometric arrays, demonstrating its ability to achieve ∼arcsecond precision with the meerkat telescope.
-; cited to highlight the debate surrounding the origin of frbs, with most being sporadic single events and only a small percentage showing repeating behavior.
-; referenced as the discovery source for frb 20180916b (r3), the third known repeater, which was the first frb with periodic activity detected.
-; cited to strengthen the frb-magnetar link with the detection of a radio burst similar to an frb from the galactic magnetar sgr j1935+2154.
-; these papers are referenced to highlight the simultaneous x-ray emission accompanying the radio burst from the galactic magnetar sgr j1935+2154.
-; these papers are referenced to highlight the simultaneous x-ray emission accompanying the radio burst from the galactic magnetar sgr j1935+2154.
-; these references are cited to highlight the potential of using frbs to test einstein's equivalence principle.
-; referenced to provide information about the expected full operations of dsa-110 by the end of 2022.
-; cited to provide information about the expected operational timeline of chime outriggers.
-; referenced to mention puma as an upcoming instrument capable of localizing a significant number of frbs.
-; cited to acknowledge the detections of frb-like events from within the mw from a known galactic source, namely, magnetar sgr 1935+2154, and to highlight the consistency of the dm of this burst with being galactic according to ne2001 and ymw16.
-; these papers are cited to indicate the ongoing debate regarding the detection of the emission from the compact object at the center of the remnant of sn 1987a, which is relevant to the discussion of observing pulsars subsequent to supernova explosions.
-; these papers are cited to highlight the relevance of the questions about the spin-down power and energy of a newborn pulsar in the context of luminous supernovae.
-; cited to emphasize the characteristics of rapidly rotating and highly magnetized pulsars in relation to the energetic astrophysical phenomena mentioned.
-; these papers are cited to highlight the relevance of the stochastic acceleration model in explaining the observed flat radio spectrum and the observed electron/positron pair amount inside pwne.
-; cited to demonstrate how the study of the frb host galaxy population can constrain theoretical models by assessing possible correlations between frbs and various properties of their host galaxies.
-; cited for providing a high-resolution view of hg20180924b, hg20190102c, and hg20190714a, along with several other frb host galaxies, using hst to examine the position of the frbs within their host galaxies.
-; referenced to provide a high resolution view of frb host galaxies and examine the position of frbs within them.
-; referenced to support the statement that the formation of matter in the universe under the influence of gravity is one of the key tests in the context of the concordance lambda-cold dark matter (λ cdm) cosmological paradigm.
-; cited to suggest that the total mass of the cluster can be inferred from its x-ray luminosity.
-; referenced as the discovery paper of sgr j1935+2154 using the burst alert telescope (bat) on the neil gehrels swift observatory.
-; referenced for burst-active episodes of sgr j1935 in 2021 and 2022.
-; referenced to support the selection of the desi-bgs and desi-lrg galaxy surveys, which correlate significantly with chime/frb catalog 1.
-; these papers are cited to support the adoption of the same galaxy selection cuts and sky masks as used in previous studies.
-; cited as one of the algorithms used to detect frbs.
-; cited as the authors of a paper that discusses the constraints on the parameter space of wimps based on recent sub-atomic experiments.
-; referenced to provide the number of frbs detected by the chime project since 2018, highlighting its performance compared to other radio arrays.
-; cited for private communication regarding the timing resolution of burstt.
-; cited to provide information about the specific bns merger (gw190425) associated with the frb.
-; cited to provide information on the most likely host galaxy of frb20190425a and the probability of true association.
-; referenced to support the suggestion that the merger of the two neutron stars promptly collapsed into a black hole, based on the total mass of gw190425 and current constraints on the equation of state for dense nuclear matter.
-; referenced to support the statement that halos with weaker feedback retain their baryons more effectively, leading to higher dm contributions, and that halos with stronger feedback cause less scatter in the z-dm eg distribution.
-; these papers are cited to highlight the well-fit log-normal distributions of waiting times in repeating frb and the relevance of the width of such distributions as a descriptor of the underlying dynamics.
-; cited as the source of the observation that repeaters at low dm have a higher rate, providing additional evidence for the detection characteristics of repeating frbs.
-; cited for the observation that the mean dm of repeaters is lower than that of once-off bursts, providing further evidence for the distinct characteristics of repeating frbs.
-; cited to describe the aim of the paper to incorporate a model for repeating frbs into the framework of the zdm code and provide the framework for the analysis.
-; cited to provide the source of information on the number of repeating frbs and the suggestion that repeaters may represent a distinct class of sources.
-; these references are cited to support the statement that recent statistical evidence indicates that repeaters may represent a distinct class of sources.
-; these references are cited to provide additional evidence for the connection between frb 20200428 and the magnetar sgr1935, as they report observations of an x-ray burst emitted by sgr1935.
-; this reference is cited to report the discovery of the repeating frb 20200120e in a globular cluster in the nearby galaxy m81, which is relevant to the discussion of possible locations of young magnetised nss.
-; these references are cited to support the statement that gravitational-wave (gw) observations of compact binary coalescences (cbcs) could potentially be associated with fast radio bursts (frbs), but the current gw detectors provide poor sky-volume localization estimates of cbc sources.
-; these references are cited to support the statement that gravitational-wave (gw) observations of compact binary coalescences (cbcs) could potentially be associated with fast radio bursts (frbs), but the current gw detectors provide poor sky-volume localization estimates of cbc sources.
-; these references are cited to support the statement that gravitational-wave (gw) observations of compact binary coalescences (cbcs) could potentially be associated with fast radio bursts (frbs), but the current gw detectors provide poor sky-volume localization estimates of cbc sources.
-; these references are cited to mention that stellar-mass binary black hole (bbh) mergers, binary neutron star (bns) mergers, and neutron star-black hole (nsbh) mergers have been observed through gw detections.
-; these papers are referenced to highlight the recent discovery that pulsed radio emission from soft gamma-ray repeater (sgr) 1935+2154 suggests magnetars like sgr 1935+2154 may produce some frbs.
-; cited to compare the luminosity of bursts from sgr 1935+2154 with the luminosity distribution of cosmological frbs.
-; referenced to support the statement that singularities in the projection map can be classified and described by a small set of elementary catastrophes.
-; referenced to acknowledge the detection of an active repeater frb 20201124a and the subsequent extensive studies conducted by various telescopes.
-; these references are cited to discuss the effect of generalized faraday rotation, also known as faraday conversion, which can convert linearly polarized waves to partially circularly polarized waves under certain conditions, and to support the investigation of this process in the paper.
-; these papers are cited to highlight the recent discovery of a non-thermal x-ray burst from the galactic magnetar (sgr j1935+2154) associated with the fast radio burst (frb 200428), emphasizing the importance of observations of high energy transients in x-ray and gamma-ray bands.
-; these papers are cited to mention that much shorter bursts (down to millisecond) have been detected from the earth, such as terrestrial gamma-ray flashes and terrestrial electron beams.
-; these papers are cited to mention that much shorter bursts (down to millisecond) have been detected from the earth, such as terrestrial gamma-ray flashes and terrestrial electron beams.
-; referenced to highlight the temporal resolution of gecam, which is sufficient to detect submillisecond bursts.
-; referenced to highlight the temporal resolution of gecam, which is sufficient to detect submillisecond bursts.
-; referenced to provide the average background level of csi detectors of insight-hxmt/he.
-; these papers are cited to indicate the use of the sensitive coherent search method developed by blackburn et al. (2015) for follow-up observation of ligo triggers, including subthreshold gw triggers.
-; these papers are cited to indicate the use of the sensitive coherent search method developed by blackburn et al. (2015) for follow-up observation of ligo triggers, including subthreshold gw triggers.
-; these papers are cited to highlight the improvements made to the coherent search method developed by blackburn et al. (2015), including background estimation, spectral template, calculation speed, search sensitivity, and rejection of false triggers caused by instrumental effects.
-; cited as the project, arts, conducted at the westerbork synthesis radio telescope (wsrt).
-; referenced as the canadian hydrogen observatory and radio-transient detector (chord), a facility currently in the design or early-science phase.
-; these references are cited to indicate that the dispersion measure (dm) of an frb can be used as a proxy for distance, assuming various galactic and extragalactic free-electron models.
-; these references are cited to highlight the use of correlations in the full frb sample to study the inhomogeneous component of dm.
-; referenced to support the calculation of the covariance matrix from the lss for dm-z observations, which is relevant to the analysis of frbs with host identification in the context of testing the wep.
-; cited to support the statement that chime directly measures the beam patterns with holography.
-; these references are cited to provide further evidence for the association of particularly active repeating frbs with star-forming regions or persistent radio sources.
-; referenced to indicate that the majority of the localized frbs, including those with no repeat bursts, were identified by craft.
-; cited as tentative evidence for coronal gas surrounding the milky way found in observations of the diffuse radio-synchrotron background.
-; these papers are cited to emphasize the importance of studying the statistics of the distribution of matter along the line of sight in order to reveal answers to fundamental physics puzzles, such as the sum of neutrino masses and the nature of dark energy, gravity, and the primordial universe.
-; these papers are cited to highlight the use of two-point and higher-order correlation functions to study the spatial distribution of the tsz signal and its analysis as a powerful probe of large-scale structure formation across cosmic time.
-; these papers are referenced to highlight that the spt, act, and planck teams have conducted measurements of the large-scale velocity field using the ksz effect.
-; these references are cited to indicate that the upcoming measurements of the cmb temperature fluctuations with advanced act, simons observatory, and cmb-s4 will enhance our ability to constrain cosmological models.
-; these papers are cited to acknowledge the previous works that have addressed scientific questions relevant to sz science via hydrodynamical simulations, establishing the foundation for the current study.
-; these papers are cited to acknowledge the previous works that have addressed scientific questions relevant to sz science via hydrodynamical simulations, establishing the foundation for the current study.
-"
 spitler et al. 2016,1603.00581,"cited to distinguish between repeating frbs and apparent non-repeating frbs and highlight the uncertainty regarding the origins and repetition of frbs.
 ; these references are cited to provide evidence of the discovery of repeating fast radio bursts (frbs), which further support the neutron star (ns) activity model.
 ; cited as the discovery of the repeating frb 20121102, suggesting a certain kind of energy release from neutron stars (nss).
@@ -1268,6 +994,7 @@ chime/frbcollaboration et al. 2020a; chime/frbcollaboration et al. 2020b; amiri 
 ; *cited as recent reviews on the origin and radiation mechanism of frbs.
 ; *cited as the discovery of periodic repeating frbs.
 ; *referenced to support the discovery of a special frb in the milky way galaxy and its association with a soft gamma-ray repeater (sgr).
+; *these references are cited to support the claim that the repeating frb source, frb20200428, is associated with a well-studied galactic magnetar.
 ; *these references are cited to strengthen the case that at least a portion of frbs come from magnetars, based on the discovery of frb-like radio bursts from the galactic magnetar sgr 1935+2154.
 ; *referenced to discuss the periodic modulation in burst activity observed in frb 20180916b.
 ; *these references are cited to provide evidence and support for various aspects of the discussion on fast radio bursts (frbs), including their nature, repetition patterns, physical models, emission mechanisms, and local environment.
@@ -1286,8 +1013,12 @@ chime/frbcollaboration et al. 2020a; chime/frbcollaboration et al. 2020b; amiri 
 ; these references are cited to highlight the periodicity and active window observed in frb 180916.j0158+65, frb 121102, and frb 20201124a.
 ; these references are cited to suggest that frb 180916.j0158+65, frb 121102, and frb 20201124a produce a delay time of about tens of milliseconds between bursts.
 ; these papers are referenced to highlight the fact that the events mentioned in the text have a delay time of about tens of milliseconds between bursts.
+; *referenced to state that at least some frbs are known to occur in magnetars, which are neutron stars with extremely strong magnetic fields.
 ; *cited to state that only two out of the nearly 30 repeaters show a periodicity.
 ; *cited as the source for the period and active window of frb 20180916b (r3), observed at chime's frequencies.
+; *cited to strengthen the frb-magnetar link with the detection of a radio burst similar to an frb from the galactic magnetar sgr j1935+2154.
+; *these papers are referenced to highlight the recent discovery that pulsed radio emission from soft gamma-ray repeater (sgr) 1935+2154 suggests magnetars like sgr 1935+2154 may produce some frbs.
+; *cited to compare the luminosity of bursts from sgr 1935+2154 with the luminosity distribution of cosmological frbs.
 ; *cited to mention the work of rajwade et al. (2020) and cruces et al. (2021) in confirming the active periods of frb 20121102a and discussing the implications for the origin of frbs.
 ; *these papers are referenced to indicate the large number of frbs published in the literature to date, highlighting the ongoing research and interest in the topic.
 ; *these papers are referenced to support the connection between extragalactic magnetars and frbs, particularly in light of the discovery of a luminous, millisecond-duration burst from the known galactic magnetar sgr 1935+2154.
@@ -1561,6 +1292,7 @@ bhandari et al. 2022a; bhandari et al. 2022b,2108.01282,"*these references are c
 "
 ravi et al. 2022a; ravi et al. 2023a; ravi et al. 2022b,2211.09049,"*these references are cited to support the statement that frbs are generally found in starforming galaxies across a wide range of masses, providing evidence from various studies.
 ; *these publications are referenced to indicate that three frbs included in the current sample have been reported in other studies, providing additional evidence and context for the findings presented in this work.
+; these papers are cited to mention long-baseline interferometric telescopes with sub-arcsecond localization capabilities, which have enabled the determination of precise fluences for one-off frbs.
 ; cited to provide the information that frb 20220912a was localized to a host galaxy with redshift 𝑧 = 0.0771(1) by the deep synoptic array (dsa-110) during its commissioning phase.
 ; these references are cited to support the discussion of the deep synoptic array's ability to capture frbs and localize them to arcsecond precision, although it has not yet been able to localize a non-repeating frb to a host galaxy.
 ; *these references are cited to support the discussion of the deep synoptic array's ability to capture frbs and localize them to arcsecond precision, although it has not yet been able to localize a non-repeating frb to a host galaxy.
@@ -2081,7 +1813,7 @@ nicastro et al. 2021,2103.07786,"these papers are cited to highlight the numerou
 "
 abbasi et al. 2023,2212.06702,"these papers are cited to highlight the numerous attempts that have been made to search for multi-wavelength and multi-messenger emission from frbs in order to constrain their origin among the hundreds of different predicted models.
 "
-theligoscientificcollaboration et al. 2022,2203.12038,"these papers are cited to highlight the numerous attempts that have been made to search for multi-wavelength and multi-messenger emission from frbs in order to constrain their origin among the hundreds of different predicted models.
+ligoscientificcollaboration et al. 2022,2203.12038,"these papers are cited to highlight the numerous attempts that have been made to search for multi-wavelength and multi-messenger emission from frbs in order to constrain their origin among the hundreds of different predicted models.
 ; referenced to highlight that current-generation gravitational wave detectors can detect many of these cataclysmic events in the local universe.
 ; these references are cited to mention that radio observations of frbs can only weakly constrain their luminosity distance.
 ; referenced to acknowledge the current attempts to associate fast radio bursts (frbs) with compact binary coalescences (cbcs) and the limitations in making an unambiguous association.
@@ -2203,6 +1935,25 @@ anna-thomas et al. 2023; anna-thomas et al. 2022; collaboration et al. 2023,2202
 ; cited to support the observation of both short-term variations of the faraday rotation measure (rm) for repeating sources.
 ; referenced to report the detection of bursts with circular polarization in frb 20190520b.
 "
+chime/frbcollaboration et al. 2023; andersen et al. 2023,2301.08762,"cited to mention that some frbs repeat stochastically.
+; referenced to provide information on the small fraction of known frbs that emit repeat bursts.
+; cited to highlight the existence of frbs with repeat bursts based on subsequent observations.
+; these references are cited to support the statement that repeating frbs tend to have complex burst morphologies, specifically mentioning the ""sad trombone"" effect observed in their dynamic spectra.
+; cited to mention that only a small fraction of frbs have been observed to emit repeat bursts to date.
+; cited twice, first to provide the percentage of known frbs that are confirmed repeaters and emit multiple bursts, and second to discuss the repetition rates of repeaters and upper limits on repetition from apparently non-repeaters.
+; these papers are cited to mention the small percentage of frbs that have been observed to repeat and to provide specific examples of repeating frbs.
+; these papers are cited to discuss the argument that apparent one-off frbs may actually be less active repeating sources that have not been observed to repeat yet.
+; these papers are cited to mention the morphological and spectral differences between repeating and apparently non-repeating frbs, suggesting the possible existence of distinct populations of frbs.
+; these references are cited to support the discussion of the year of publication for certain studies or collaborations.
+; referenced to report the repeater fraction of frb sources.
+; cited to describe the publication of additional repeaters by the chime/frb project and to discuss the lower average dispersion measure of chime/frb repeaters compared to non-repeating sources.
+; referenced as the source of the recently published sample of repeaters and repeater candidates used in the search for likely host galaxies, providing the basis for the analysis conducted in the paper.
+; referenced as the source for the results presented in the frb-galaxy correlation analysis for a sample of newly cataloged repeaters and candidate repeating frb sources.
+; cited to explain the definition of two distinct samples of repeaters used in the analysis and the combination of these samples with other published repeaters.
+; these papers are cited to highlight the existence of a sub-population of repeating frbs and the implications for their origins, suggesting noncataclysmic explanations.
+; cited for the observation that the mean dm of repeaters is lower than that of once-off bursts, providing further evidence for the distinct characteristics of repeating frbs.
+; cited to provide the source of information on the number of repeating frbs and the suggestion that repeaters may represent a distinct class of sources.
+"
 pastor-marazuela et al. 2022,2202.08002,"these papers are cited to note that some frbs burst with quasiperiodic patterns over a wide range of timescales.
 ; cited along with most & philippov (2022b) to reference frb 20201020a and its sub-millisecond quasi-periodic structure.
 "
@@ -2291,7 +2042,6 @@ rajwade et al. 2022,2205.14600,"these papers are cited to highlight previous stu
 ; these papers are cited to highlight ongoing wide field-of-view and sensitive searches for frbs with instruments such as askap, chime, meerkat, and dsa, emphasizing the potential for a significant increase in the number of detected frb events in the future.
 "
 ravi et al. 2023a,2301.01000,"*these publications are referenced to indicate that three frbs included in the current sample have been reported in other studies, providing additional evidence and context for the findings presented in this work.
-; these papers are cited to mention long-baseline interferometric telescopes with sub-arcsecond localization capabilities, which have enabled the determination of precise fluences for one-off frbs.
 ; *these references are cited to support the discussion of the deep synoptic array's ability to capture frbs and localize them to arcsecond precision, although it has not yet been able to localize a non-repeating frb to a host galaxy.
 ; cited to acknowledge the model assumptions regarding the milky way halo and to state that the results are not sensitive to these assumptions.
 ; these papers are cited to highlight ongoing wide field-of-view and sensitive searches for frbs with instruments such as askap, chime, meerkat, and dsa, emphasizing the potential for a significant increase in the number of detected frb events in the future.
@@ -3274,9 +3024,9 @@ mahlmann et al. 2022,2203.04320,"cited to discuss the consideration of the fast 
 ; these references are cited to support arguments in favor of magnetospheric models for explaining various characteristics of fast radio bursts (frbs), such as rapid variability, polarization swings, and expected radio efficiency, as well as addressing the issue of how an frb produced in the inner magnetosphere can escape.
 ; these references are cited to discuss the coherent plasma radiation mechanism as a potential explanation for the emissions of frbs.
 "
-most & philippov 2022b,2205.09643,"*referenced to present the detailed behavior of a flare arising from magnetic reconnection in the common magnetospheres of bns with magnetic fields of approximately 10^11 gs, demonstrating its potential to produce radio transients with sub-millisecond quasi-periodic structure similar to frb 20201020a.
-"
 most & philippov 2022b,2207.14435,"*referenced to present the detailed behavior of a flare arising from magnetic reconnection in the common magnetospheres of bns with magnetic fields of approximately 10^11 gs, demonstrating its potential to produce radio transients with sub-millisecond quasi-periodic structure similar to frb 20201020a.
+"
+most & philippov 2022b,2205.09643,"*referenced to present the detailed behavior of a flare arising from magnetic reconnection in the common magnetospheres of bns with magnetic fields of approximately 10^11 gs, demonstrating its potential to produce radio transients with sub-millisecond quasi-periodic structure similar to frb 20201020a.
 "
 cherkis & lyutikov 2021,2107.09702,"these references are cited to support the statement that emissions formed in a pre-merger binary neutron star (bns) system would appear with periodicity, which could explain the periodic sub-bursts observed in some one-off fast radio bursts (frbs).
 "
@@ -3621,22 +3371,6 @@ shannon & johnston 2013,1305.3036,"these papers are cited to emphasize that exot
 "
 vazza et al. 2018,1805.11113,"referenced to highlight the role of fast radio bursts (frbs) in probing extreme magneto-ionic environments and mapping the magnetogenesis across galaxies.
 ; these references are cited to highlight the potential of using frbs to measure intergalactic magnetic fields.
-"
-chime/frbcollaboration et al. 2023; andersen et al. 2023,2301.08762,"referenced to provide information on the small fraction of known frbs that emit repeat bursts.
-; cited to highlight the existence of frbs with repeat bursts based on subsequent observations.
-; these references are cited to support the statement that repeating frbs tend to have complex burst morphologies, specifically mentioning the ""sad trombone"" effect observed in their dynamic spectra.
-; cited to mention that only a small fraction of frbs have been observed to emit repeat bursts to date.
-; cited twice, first to provide the percentage of known frbs that are confirmed repeaters and emit multiple bursts, and second to discuss the repetition rates of repeaters and upper limits on repetition from apparently non-repeaters.
-; these papers are cited to mention the small percentage of frbs that have been observed to repeat and to provide specific examples of repeating frbs.
-; these papers are cited to discuss the argument that apparent one-off frbs may actually be less active repeating sources that have not been observed to repeat yet.
-; these papers are cited to mention the morphological and spectral differences between repeating and apparently non-repeating frbs, suggesting the possible existence of distinct populations of frbs.
-; these references are cited to support the discussion of the year of publication for certain studies or collaborations.
-; referenced to report the repeater fraction of frb sources.
-; cited to describe the publication of additional repeaters by the chime/frb project and to discuss the lower average dispersion measure of chime/frb repeaters compared to non-repeating sources.
-; referenced as the source of the recently published sample of repeaters and repeater candidates used in the search for likely host galaxies, providing the basis for the analysis conducted in the paper.
-; referenced as the source for the results presented in the frb-galaxy correlation analysis for a sample of newly cataloged repeaters and candidate repeating frb sources.
-; cited to explain the definition of two distinct samples of repeaters used in the analysis and the combination of these samples with other published repeaters.
-; these papers are cited to highlight the existence of a sub-population of repeating frbs and the implications for their origins, suggesting noncataclysmic explanations.
 "
 pleunis et al. 2021b; pleunis et al. 2021a,2012.08372,"*cited to highlight the statistical differences in burst morphology between repeating and non-repeating frbs.
 ; *these papers are cited to emphasize the chromatic nature of periodic activity in one frb source, with activity at lower frequencies trailing the activity at higher frequencies.

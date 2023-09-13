@@ -9,7 +9,10 @@ def extract_lastname_ads(author):
     Ads authors look like 'CHIME/FRB Collaboration', 'Andersen, B. C.'.
     Remove spaces and convert to lower case.
     '''
-    return unidecode(author.split(',')[0].lower().replace(' ', ''))
+    name = unidecode(author.split(',')[0].lower().replace(' ', ''))
+    if 'collaboration' in name and name[:3] == 'the':
+        name = name[3:] # remove 'the'
+    return name
 
 def extract_ads_refs(response):
     '''
