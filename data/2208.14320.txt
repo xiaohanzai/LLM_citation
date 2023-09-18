@@ -1,0 +1,52 @@
+{
+  "Kaspi & Beloborodov 2017": "Referenced for a review on magnetars and their diverse flaring activities in the X-ray band.",
+  "Enoto et al. 2019": "Referenced for a review on magnetars and their diverse flaring activities in the X-ray band.",
+  "Thompson & Duncan 1995": "Cited to support the explanation of how bursts are triggered by a sudden release of magnetic energy near the surface of magnetars.",
+  "Thompson & Duncan 1996": "Cited to support the explanation of how bursts are triggered by a sudden release of magnetic energy near the surface of magnetars.",
+  "Thompson et al. 2002": "Cited to support the explanation of how bursts are triggered by a sudden release of magnetic energy near the surface of magnetars."
+}
+{
+  "Lorimer et al. 2007": "Referenced to provide background information on the duration of fast radio bursts (FRBs).",
+  "Thornton et al. 2013": "Referenced to provide background information on the duration of fast radio bursts (FRBs).",
+  "Petroff et al. 2016": "Referenced to provide background information on the duration of fast radio bursts (FRBs).",
+  "Katz 2018": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Platts et al. 2019": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Cordes & Chatterjee 2019": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Zhang 2020": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Lyubarsky 2021": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Petroff et al. 2021": "Cited to acknowledge the uncertainty surrounding the emission mechanism and origin of fast radio bursts (FRBs).",
+  "Ioka 2003": "Cited to highlight the potential of fast radio bursts (FRBs) as probes for studying cosmology.",
+  "Inoue 2004": "Cited to highlight the potential of fast radio bursts (FRBs) as probes for studying cosmology.",
+  "Takahashi et al. 2021": "Cited to highlight the potential of fast radio bursts (FRBs) as probes for studying cosmology.",
+  "Shirasaki et al. 2022": "Cited to highlight the potential of fast radio bursts (FRBs) as probes for studying cosmology.",
+  "Spitler et al. 2014": "Cited to acknowledge the existence of repeating sources among fast radio bursts (FRBs).",
+  "Spitler et al. 2016": "Cited to acknowledge the existence of repeating sources among fast radio bursts (FRBs).",
+  "CHIME/FRB Collaboration et al. 2019a": "Cited to acknowledge the existence of repeating sources among fast radio bursts (FRBs).",
+  "CHIME/FRB Collaboration et al. 2019b": "Cited to acknowledge the existence of repeating sources among fast radio bursts (FRBs).",
+  "Bhardwaj et al. 2021": "Cited to acknowledge the existence of repeating sources among fast radio bursts (FRBs).",
+  "Bochenek et al. 2020": "Cited to highlight the exceptional case of FRB 20200428A, which originated from a Galactic magnetar.",
+  "CHIME/FRB Collaboration et al. 2020": "Cited to highlight the exceptional case of FRB 20200428A, which originated from a Galactic magnetar.",
+  "Mereghetti et al. 2020": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Li et al. 2021": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Ridnaia et al. 2021": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Tavani et al. 2021": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Li et al. 2022": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Younes et al. 2021": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Cai et al. 2022": "Cited to provide additional information on the burst from the Galactic magnetar associated with FRB 20200428A.",
+  "Katz 2016": "Cited to suggest that some fast radio bursts (FRBs) are from magnetars and likely associated with X-ray flares."
+}
+{
+  "Ioka 2020": "Referenced to support the focus of the paper, which is an expanding fireball model.",
+  "Piran 1999": "Cited as an investigation of spherically symmetric expanding fireballs in the context of gamma-ray bursts.",
+  "Zhang 2018": "Cited as a review of spherically symmetric expanding fireballs in the context of gamma-ray bursts.",
+  "Goodman 1986": "Referenced to explain the escape of photons from a spherically symmetric fireball.",
+  "Paczynski 1986": "Referenced to explain the escape of photons from a spherically symmetric fireball.",
+  "Shemi & Piran 1990": "Cited as a study of the effect of baryon loading on the acceleration and kinetic luminosity of an expanding fireball.",
+  "Meszaros et al. 1993": "Cited as a study of the effect of baryon loading on the acceleration and kinetic luminosity of an expanding fireball.",
+  "Mészáros & Rees 2000": "Cited as a study of the effect of baryon loading on the acceleration and kinetic luminosity of an expanding fireball.",
+  "Thompson & Duncan 2001": "Referenced to support the application of expanding fireball models to giant flares of magnetars.",
+  "Nakar et al. 2005": "Referenced to support the application of expanding fireball models to giant flares of magnetars."
+}
+{
+  "Ioka 2020": "Cited to support the statement that photons can diffuse out of the fireball laterally across the magnetic field lines before the fireball becomes optically thin, highlighting the phenomenon of lateral diffusion in the context of fireball dynamics."
+}

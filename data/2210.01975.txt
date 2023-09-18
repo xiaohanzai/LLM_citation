@@ -1,0 +1,14 @@
+{
+  "Niu et al. 2022": "Referenced to provide information on the localization and characteristics of FRB 20190520B, including its dispersion measure and the dominance of the host galaxy in contributing to the dispersion measure.",
+  "Luo et al. 2018": "Cited to compare the dispersion measure of FRB 20190520B with the typical dispersion measures of non-localized FRBs.",
+  "Shin et al. 2022": "Referenced to compare the dispersion measure of FRB 20190520B with the typical dispersion measures of non-localized FRBs.",
+  "Feng et al. 2022": "Cited to support the statement that FRB 20190520B shows extreme variations in rotation measure.",
+  "Anna-Thomas et al. 2022": "Referenced to support the statement that FRB 20190520B shows extreme variations in rotation measure.",
+  "Dai et al. 2022": "Cited to support the statement that FRB 20190520B shows extreme variations in rotation measure.",
+  "Ocker et al. (2022)": "Referenced to provide measurements of scattering time and scintillation bandwidth for FRB 20190520B.",
+  "O22": "Abbreviation used to refer to the paper by Ocker et al. (2022)."
+}
+{
+  "McKee et al. 2018": "Referenced to compare the scattering variations of FRB 20190520B bursts to the slow variations observed in Galactic pulsar scattering.",
+  "N/A": "No other citations appear in the text."
+}

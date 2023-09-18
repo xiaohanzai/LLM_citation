@@ -1,0 +1,36 @@
+{
+  "Petroff et al. 2019": "Referenced to support the statement about FRBs being highly energetic transients occurring at cosmological distances.",
+  "Cordes & Chatterjee 2019": "Referenced to provide additional sources for the classification of FRBs into repeaters and non-repeaters.",
+  "Zhang 2020": "Referenced to provide additional sources for the classification of FRBs into repeaters and non-repeaters.",
+  "Xiao et al. 2021": "Referenced to provide additional sources for the classification of FRBs into repeaters and non-repeaters.",
+  "Lorimer et al. 2007": "Referenced to highlight the discovery of the first FRB event.",
+  "Platts et al. 2019": "Referenced to mention the existence of proposed models to explain the origin of FRBs, although none have been fully confirmed."
+}
+{
+  "Lu & Kumar 2016": "Referenced to support the statement that the distribution of FRBs energy follows a power law function.",
+  "Li et al. 2017": "Referenced to support the statement that the distribution of FRBs energy follows a power law function.",
+  "Wang & Yu 2017": "Referenced to support the statement that the distribution of FRBs energy follows a power law function and to highlight the analysis of 17 bursts from repeating FRB 121102.",
+  "Macquart & Ekers 2018": "Referenced to support the statement that the distribution of FRBs energy follows a power law function.",
+  "Wang et al. 2018": "Referenced to support the statement that the distribution of FRBs energy follows a power law function and to highlight the finding of 14 new bursts of FRB 121102 with a power law energy distribution.",
+  "Lu & Piro 2019": "Referenced to support the statement that the distribution of FRBs energy follows a power law function.",
+  "Wang & Zhang 2019": "Referenced to support the statement that the distribution of FRBs energy follows a power law function and to highlight the finding of a universal power law distribution for energy in repeating FRB 121102.",
+  "Wang et al. 2021": "Referenced to support the statement that the distribution of FRBs energy follows a power law function.",
+  "Lin & Sang 2020": "Referenced to highlight the finding that the cumulative distributions of flux, fluence, energy, and waiting time for repeating FRB 121102 follow a bent power law."
+}
+{
+  "Aschwanden 2011": "Referenced to support the prediction of power law size distributions in astrophysical phenomena as a result of self-organized criticality (SOC) systems.",
+  "Bak et al. 1987": "Referenced to support the prediction of power law size distributions in astrophysical phenomena as a result of self-organized criticality (SOC) systems.",
+  "Wang & Dai 2013": "Referenced to support the prediction of power law size distributions in astrophysical phenomena as a result of self-organized criticality (SOC) systems.",
+  "Bak & Tang 1989": "Referenced to support the explanation of earthquakes, solar flares, and SGRs as examples of self-organized criticality (SOC) systems.",
+  "Lu & Hamilton 1991": "Referenced to support the explanation of earthquakes, solar flares, and SGRs as examples of self-organized criticality (SOC) systems.",
+  "Cheng et al. 1996": "Referenced to compare the statistical properties of bursts from SGR 1806-20 with earthquakes and highlight the similarity in cumulative distribution of energy and waiting time and duration distributions.",
+  "Caruso et al. 2007": "Referenced to support the study of scale invariance structure of energy fluctuations in earthquakes and the observation of q-Gaussian distributions with fat tails.",
+  "Wang et al. 2015": "Referenced to support the observation of scale-invariant structure in the energy fluctuations of earthquakes through the study of q-Gaussian distributions.",
+  "Chang et al. 2017": "Referenced to support the study of scale invariance structure of energy fluctuations in SGRs and repeating FRBs and the observation of universal q-Gaussian distributions.",
+  "Wei et al. 2021": "Referenced to support the study of scale invariance structure of energy fluctuations in SGRs and repeating FRBs and the observation of universal q-Gaussian distributions.",
+  "Sang & Lin 2022": "Referenced to support the study of scale invariance structure of energy fluctuations in SGRs and repeating FRBs and the observation of universal q-Gaussian distributions.",
+  "Lin & Sang 2020": "Referenced to support the study of scale invariance structure of energy fluctuations in FRBs and the observation of universal q-Gaussian distributions."
+}
+{
+  "Amiri et al. 2021": "Referenced as the source of the first catalog of FRBs detected by the CHIME/FRB project, which is used as the basis for the study of statistical properties of energy in this paper."
+}

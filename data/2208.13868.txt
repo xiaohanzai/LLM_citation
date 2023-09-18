@@ -1,0 +1,23 @@
+{
+  "Backer et al. (2000)": "Referenced to support the modeling of the 1997 'echo' in the Crab pulsar, which is interpreted as a refracted macro-image and preceded a large increase in DM.",
+  "Graham Smith et al. (2011)": "Cited to provide evidence of a large increase in DM in the Crab pulsar, likely due to the line of sight crossing a filament of the Crab nebula.",
+  "Clegg et al. (1998)": "Referenced to highlight the successful modeling of flux density of quasars during extreme scattering events (ESEs) from plasma lenses.",
+  "Tuntsov et al. (2016)": "Cited for the successful inversion of the dynamic spectrum of an ESE in PKS 1939-315 to produce a column density profile of the plasma lens."
+}
+{
+  "Masui et al. 2015": "Referenced to provide information on FRB 110523 and its dense, strongly magnetized, and highly variable environment.",
+  "Michilli et al. 2018": "Referenced to provide information on FRB 121102 and its dense, strongly magnetized, and highly variable environment.",
+  "Xu et al. 2021": "Referenced to provide information on FRB 20201124A and its dense, strongly magnetized, and highly variable environment.",
+  "Anna-Thomas et al. 2022": "Referenced to provide information on FRB 20190520B and its dense, strongly magnetized, and highly variable environment.",
+  "Li et al. 2019a": "Referenced to discuss propagation effects through a magnetized medium in the context of understanding FRBs.",
+  "Li et al. 2022": "Referenced to discuss propagation effects through a magnetized medium in the context of understanding FRBs.",
+  "Beniamini et al. 2022": "Referenced to discuss propagation effects through a magnetized medium in the context of understanding FRBs.",
+  "Cordes et al. 2017": "Referenced to highlight potential propagation imprints on the spectral structures of bursts from FRB121102.",
+  "Platts et al. 2021": "Referenced to analyze potential DM structures causing spectral structure in bursts from FRB121102."
+}
+{
+  "Main et al. 2018": "Referenced to provide evidence of strong and weak plasma lensing associated with intrabinary material in eclipsing spider pulsars near the eclipses.",
+  "Bilous et al. 2019": "Referenced to provide evidence of strong and weak plasma lensing associated with intrabinary material in eclipsing spider pulsars near the eclipses.",
+  "Lin et al. 2021": "Referenced to provide evidence of strong and weak plasma lensing associated with intrabinary material in eclipsing spider pulsars near the eclipses, and to show the causal link between DM and apparent 'weak' plasma lensing in the black widow system PSR J2051-0827.",
+  "Wang et al. 2021": "Referenced to provide evidence of strong and weak plasma lensing associated with intrabinary material in eclipsing spider pulsars near the eclipses."
+}

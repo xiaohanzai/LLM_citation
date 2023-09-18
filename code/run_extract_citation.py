@@ -11,7 +11,7 @@ _ = load_dotenv(find_dotenv()) # read local .env file
 
 openai.api_key  = os.getenv('OPENAI_API_KEY')
 
-# TODO: ask it to output json
+# it's actually totally shit letting it output json format......
 template_prompt = '''
 Extract the references in the text below, and summarize in one sentence the reason why each reference is cited. Here is an example input and output:
 
@@ -19,13 +19,13 @@ Text:
 Lorimer et al. (2013) forecast that widefield radio interferometers that are presently coming online could detect tens per day of these events. In addition, several schemes have been proposed for measuring DM towards time-steady astrophysical sources (Lieu & Duan 2013;Lovelace & Richards 2013).
 
 Output:
-@Lorimer et al. (2013):
+Lorimer et al. (2013):
 Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.
 
-@Lieu & Duan 2013; Lovelace & Richards 2013:
+Lieu & Duan 2013; Lovelace & Richards 2013:
 These papers are cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts.
 
-Now extract the citations in the text below. Print '@' before the references. If no citations appear in the text, print "N/A". Ignore references of the sections of the current paper.
+Now extract the citations in the text below. If no citations appear in the text, print "N/A". Ignore references of the sections of the current paper. Expand the abbreviations used in the input text.
 
 Text:
 ```{input_text}```
@@ -44,9 +44,13 @@ llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
 prompt = ChatPromptTemplate.from_template(template_prompt)
 chain = LLMChain(llm=llm, prompt=prompt)
 
-# only deal with 2023 papers in this round
-fnames = glob.glob('../common_dataset/data/FRB_papers/all/23*.pickle')
+# only deal with 2023 and late 2022 papers in this round
+fnames = glob.glob('../../common_dataset/data/FRB_papers/all/23*.pickle')
+fnames += glob.glob('../../common_dataset/data/FRB_papers/all/221*.pickle')
+fnames += glob.glob('../../common_dataset/data/FRB_papers/all/220[7-9]*.pickle')
 
+# in reality this can't be run in one go because openai may get stuck at some point
+# I ran it in batches of 20 in a jupyter notebook...
 for i in range(len(fnames)):
     fname = fnames[i]
 

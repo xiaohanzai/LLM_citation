@@ -1,0 +1,3 @@
+{
+  "Philippov & Kramer 2022": "Referenced to support the statement that the basic picture of a closed magnetosphere and a magnetized wind near the light-cylinder is confirmed by extensive studies of pulsars."
+}

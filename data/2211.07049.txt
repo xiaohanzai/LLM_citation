@@ -1,0 +1,49 @@
+{
+  "Andreoni & Cooke 2019": "Referenced to describe the Deeper, Wider, Faster program (DWF) and its coordination of simultaneous observations between telescopes to study astrophysical transients.",
+  "Hotan et al. 2021": "Cited as one of the telescopes, the Australian Square Kilometre Array Pathfinder (ASKAP), used in the tenth DWF observing run.",
+  "Cooke et al. in prep.": "Mentioned to indicate that ASKAP has been used in previous DWF runs, specifically for searching for Fast Radio Bursts (FRBs) in high time resolution data.",
+  "Zic et al. 2020": "Cited as an example of a previous multi-wavelength study that used ASKAP for targeted observations of Proxima Centauri.",
+  "Rigney et al. 2022": "Referenced to highlight a previous co-observing campaign with ASKAP and the Transiting Exoplanet Survey Satellite."
+}
+{
+  "Mooley et al. 2013Mooley et al. , 2016": "Referenced to indicate previous widefield searches for transient and variable sources at gigahertz frequencies on timescales of weeks to years.",
+  "Law et al. 2018": "Referenced to indicate previous widefield searches for transient and variable sources at gigahertz frequencies on timescales of weeks to years.",
+  "Anderson et al. 2020": "Referenced to indicate previous widefield searches for transient and variable sources at gigahertz frequencies on timescales of weeks to years.",
+  "Dobie et al. 2022": "Referenced to indicate previous widefield searches for transient and variable sources at gigahertz frequencies on timescales of weeks to years.",
+  "Bell et al. 2011": "Referenced to indicate previous narrow-field observations targeting known sources.",
+  "Bower & Saul 2011": "Referenced to indicate previous narrow-field observations targeting known sources.",
+  "Driessen et al. 2022": "Referenced to indicate previous narrow-field observations targeting known sources.",
+  "Laskar et al. 2013": "Referenced to indicate the possibility of shorter-lived emission from reverse shocks of gamma-ray bursts.",
+  "Lloyd-Ronning 2018": "Referenced to indicate the possibility of shorter-lived emission from reverse shocks of gamma-ray bursts.",
+  "Walker 1998": "Referenced to describe the quasi-random oscillations on timescales of days with an amplitude of tens of percent characterizing the refractive scintillation of extragalactic sources.",
+  "Ross et al. 2022": "Referenced to indicate the use of the properties of variability to study the objects producing the emission.",
+  "Wang et al. 2021a": "Referenced to indicate the use of the properties of variability to study the properties of the intervening material."
+}
+{
+  "Hobbs et al. 2016": "Referenced to support the statement about pulsar mode changes as an intrinsic source of variability in neutron stars.",
+  "Rea & Esposito 2011": "Cited to highlight magnetar outbursts as an intrinsic source of variability in neutron stars.",
+  "Fender et al. 2009": "Referenced to emphasize XRB flares as an intrinsic source of variability in neutron stars.",
+  "Hyman et al. 2002": "Cited to mention the unknown origin of Galactic Centre Radio Transients, which may be related to neutron stars.",
+  "Hyman et al. , 2005": "Referenced to mention the unknown origin of Galactic Centre Radio Transients, which may be related to neutron stars.",
+  "Hyman et al. , 2009": "Cited to mention the unknown origin of Galactic Centre Radio Transients, which may be related to neutron stars.",
+  "Wang et al. 2021b": "Cited to highlight the discovery of radio variables in or near the Galactic plane that are comparable to known classes of neutron stars.",
+  "Hurley-Walker et al. 2022": "Referenced to mention the discovery of radio variables in or near the Galactic plane that are comparable to known classes of neutron stars.",
+  "Wang et al. 2022": "Cited to mention the discovery of radio variables in or near the Galactic plane that are comparable to known classes of neutron stars.",
+  "Güdel 2002": "Referenced to provide an overview of bursts or flares produced by stars.",
+  "Dulk 1985": "Cited to highlight the coherent and circularly polarised nature of bursts or flares produced by stars.",
+  "Forbrich et al. 2011": "Referenced to mention the hypothesis that variable quiescent emission from stellar systems originates from the combined contribution of multiple small flares.",
+  "Leto et al. 2006": "Cited to demonstrate that rotational modulation can cause variable quiescent emission in some instances."
+}
+{
+"Forbrich et al. 2011": "Referenced to support the statement that the phenomenon being discussed has been previously studied and demonstrated.",
+"Leto et al. 2006": "Cited as an example of rotational modulation causing the phenomenon being discussed."
+}
+{
+  "ASKAP": "Referenced as the telescope used in the study to search for transient and variable sources.",
+  "DWF": "Referenced as the tenth run during which the ASKAP observations were carried out.",
+  "FRBs": "Not cited in the text.",
+  "ASKAP": "Not cited in the text.",
+  "Parkes": "Not cited in the text.",
+  "DECam": "Referenced as the instrument used for the optical transient search.",
+  "DECam": "Not cited in the text."
+}

@@ -1,0 +1,35 @@
+{
+  "Cordes & Chatterjee 2019": "Referenced as an example of a study on extragalactic sources of Fast Radio Bursts (FRBs).",
+  "Lorimer et al. 2007": "Cited as the discovery paper of the Lorimer burst, which revealed a new radio transient class with implications for cosmological questions.",
+  "Gaensler 2009": "Referenced as a study on dispersion and rotation measures (DMs, RMs) of FRBs, highlighting their potential for probing cosmological questions.",
+  "Macquart et al. 2010": "Cited as a study on dispersion and rotation measures (DMs, RMs) of FRBs, emphasizing their significance in probing cosmological questions.",
+  "Akahori & Ryu 2011": "Referenced as a study on dispersion and rotation measures (DMs, RMs) of FRBs, highlighting their relevance to cosmological questions.",
+  "Macquart et al. 2015": "Cited as a study on dispersion and rotation measures (DMs, RMs) of FRBs, emphasizing their importance in probing cosmological questions.",
+  "Akahori et al. 2016": "Referenced as a study on dispersion and rotation measures (DMs, RMs) of FRBs, highlighting their implications for cosmological questions.",
+  "Macquart et al. 2020": "Cited as a study that utilized the dispersion measure of FRBs to conduct a baryon census and detect previously undetectable matter.",
+  "Simha et al. 2020": "Referenced as a study that utilized the dispersion measure of FRBs to conduct a baryon census and detect previously undetectable matter.",
+  "Piro & Gaensler 2018": "Cited as a study on the potential of FRBs to probe magnetic fields in the universe.",
+  "Hackstein et al. 2019": "Referenced as a study on the potential of FRBs to probe magnetic fields in the universe.",
+  "Springel 2010": "Cited as a theoretical study on magnetic fields in the universe, highlighting the need for observational constraints.",
+  "Pakmor et al. 2011": "Referenced as a theoretical study on magnetic fields in the universe, emphasizing the need for observational constraints.",
+  "Rodrigues et al. 2018": "Cited as a theoretical study on magnetic fields in the universe, emphasizing the need for observational constraints."
+}
+{
+  "Beck (2015)": "Referenced to provide a list of magnetic field components and observational methods.",
+  "Piro & Gaensler 2018": "Cited to support the discussion on the implication of magnetic fields in the production and amplification of magnetic fields in the progenitor object and its immediate environment.",
+  "Hackstein et al. 2019": "Referenced to highlight the role of magnetic fields in galactic and cosmic scales evolution.",
+  "Rodrigues et al. 2018": "Cited to emphasize the importance of comparing observed quantities to simulations in order to test our understanding of the relationship between magnetic fields and galaxy evolution.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Grand et al. 2017": "Referenced to indicate the use of the Auriga simulations, which are high resolution cosmological zoom-in simulations of Milky Way-like galaxies that reproduce important properties of observed counterparts.",
+  "Pakmor et al. 2017": "Referenced to highlight the inclusion of a selfconsistent model of magnetic field amplification and evolution over cosmic time in the Auriga simulations.",
+  "Pakmor et al. 2018": "Referenced to emphasize the realistic magnetic field strengths produced at z = 0 in the Auriga simulations.",
+  "Pakmor et al. 2020": "Referenced to indicate the use of the Auriga simulations to connect FRB observations to conditions in the local and global environments of their host galaxies.",
+  "Heintz et al. 2020": "Cited to explore possible connections between the RMs of FRBs and local characteristics determined by this work.",
+  "Bhandari et al. 2020a": "Cited to explore possible connections between the RMs of FRBs and local characteristics determined by this work.",
+  "Mannings et al. 2021": "Cited to explore possible connections between the RMs of FRBs and local characteristics determined by this work."
+}
+{
+  "N/A": "No citations appear in the text."
+}

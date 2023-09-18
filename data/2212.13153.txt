@@ -1,0 +1,48 @@
+{
+  "Lorimer et al. 2007": "Referenced to describe FRBs as millisecond duration radio transients.",
+  "Keane et al. 2012": "Referenced to describe FRBs as millisecond duration radio transients.",
+  "Thornton et al. 2013": "Referenced to describe FRBs as millisecond duration radio transients.",
+  "Bochenek et al. 2020": "Referenced to report a bright FRB-like burst from a Galactic magnetar, suggesting magnetars as likely physical origins of FRBs.",
+  "CHIME/FRB Collaboration et al. 2020b": "Referenced to report a bright FRB-like burst from a Galactic magnetar, suggesting magnetars as likely physical origins of FRBs.",
+  "Platts et al. 2019": "Referenced to provide details about FRBs.",
+  "Zhang 2020": "Referenced to provide details about FRBs.",
+  "Xiao et al. 2021": "Referenced to provide details about FRBs.",
+  "Lyubarsky 2021": "Referenced to provide details about FRBs.",
+  "Kumar et al. 2017": "Referenced to describe close-in models of FRBs, i.e., inside the neutron star magnetosphere.",
+  "Yang & Zhang 2018, 2021": "Referenced to describe close-in models of FRBs, i.e., inside the neutron star magnetosphere.",
+  "Lu et al. 2020": "Referenced to describe close-in models of FRBs, i.e., inside the neutron star magnetosphere.",
+  "Wang et al. 2019": "Referenced to describe close-in models of FRBs, i.e., inside the neutron star magnetosphere.",
+  "Wang et al. 2020": "Referenced to describe close-in models of FRBs, i.e., inside the neutron star magnetosphere.",
+  "Lyubarsky 2014": "Referenced to describe far-away models of FRBs, i.e., outside the neutron star magnetosphere.",
+  "Beloborodov 2020": "Referenced to describe far-away models of FRBs, i.e., outside the neutron star magnetosphere.",
+  "Metzger et al. 2019": "Referenced to describe far-away models of FRBs, i.e., outside the neutron star magnetosphere.",
+  "Margalit et al. 2020b": "Referenced to describe far-away models of FRBs, i.e., outside the neutron star magnetosphere.",
+  "Petroff & Yaron 2020": "Referenced to mention the Transient Name Server system for newly reported FRBs."
+}
+{
+  "Dai et al. 2021": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "Nimmo et al. 2021": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "CHIME/FRB Collaboration et al.": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "Liu et al. 2019": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "Gajjar et al. 2018": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "Michilli et al. 2018": "Referenced to support the statement that most FRBs have strong linear polarization (LP) fractions near 100% and have a flat PA across each pulse.",
+  "Luo et al. 2020": "Referenced to highlight that some FRB sources show partial linear or circular polarization and PAs vary remarkably with time.",
+  "Cho et al. 2020": "Referenced to highlight that some FRB sources show partial linear or circular polarization and PAs vary remarkably with time.",
+  "Lorimer & Kramer 2012": "Referenced to mention that radio pulsars exhibit an 'S' or 'inverse S' shape pattern in their profiles, which has been predicted by the rotating vector model.",
+  "Radhakrishnan & Cooke 1969": "Referenced to mention that the rotating vector model predicts the 'S' or 'inverse S' shape pattern observed in radio pulsars.",
+  "Jiang et al. 2022": "Referenced to report the observation of significant circular polarization (CP) in the FRB repeater FRB 20201124A.",
+  "Hilmarsson et al. 2021": "Referenced to report the observation of significant circular polarization (CP) in the FRB repeater FRB 20201124A.",
+  "Kumar et al. 2021": "Referenced to report the observation of significant circular polarization (CP) in the FRB repeater FRB 20201124A and to mention that a burst with a significant CP fraction can be as high as 47%.",
+  "Xu et al. 2021": "Referenced to report the observation of significant circular polarization (CP) in the FRB repeater FRB 20201124A and to mention that the CP fraction can be up to 75% in a good fraction of bursts.",
+  "Jiang et al. (2022)": "Referenced to report that most of the bursts have low CP degree and a small part of bursts have CP fraction higher than 70%.",
+  "Wang et al. 2022b,c": "Referenced to mention that the highly circular polarization (CP) fraction in FRBs may be caused by an intrinsic radiation mechanism.",
+  "Tong & Wang 2022": "Referenced to mention that the highly circular polarization (CP) fraction in FRBs may be caused by an intrinsic radiation mechanism.",
+  "Beniamini et al. 2022": "Referenced to mention that the highly circular polarization (CP) fraction in FRBs may be caused by propagation effects."
+}
+{
+  "Kumar et al. 2017": "Cited as one of the models proposing coherent curvature radiation for repeating FRBs.",
+  "Yang & Zhang 2018": "Cited as one of the models proposing coherent curvature radiation for repeating FRBs.",
+  "Lu et al. 2020": "Cited as one of the models proposing coherent curvature radiation for repeating FRBs.",
+  "Wang et al. 2019": "Cited as one of the models proposing coherent curvature radiation for repeating FRBs.",
+  "Wang et al. 2020": "Cited as one of the models proposing coherent curvature radiation for repeating FRBs."
+}

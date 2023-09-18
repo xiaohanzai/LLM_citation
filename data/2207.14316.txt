@@ -1,0 +1,55 @@
+Lorimer et al. 2007; Thornton et al. 2013:
+These papers are cited to acknowledge the initial discovery of fast radio bursts (FRBs) and the ongoing mystery surrounding their origin.
+
+Mc-Quinn 2014; Zheng et al. 2014; Zhou et al. 2014; Masui & Sigurdson 2015; Akahori et al. 2016; Madhavacheril et al. 2019:
+These references are cited to highlight the cosmological applications and the potential utility of studying FRBs as a population, emphasizing the need for understanding their nature.
+
+Luo et al. 2020:
+Referenced to support the suggestion of inferring the luminosity function of FRBs as a way to gain insights into their observables and compare them with other astrophysical events.
+
+James et al. 2022a:
+Cited to acknowledge the challenges in studying FRBs as a population, including the unknown number of distinct populations and the dominant progenitor channel.
+
+Cui et al. 2021; Pleunis et al. 2021:
+These papers are cited to highlight the possibility of repeaters and non-repeaters comprising two distinct populations of FRBs based on observational properties.
+Marcote et al. 2020; Nimmo et al. 2022:
+These papers are cited to provide examples of FRBs originating within star-forming regions and offset from the closest knot of local star formation, respectively.
+
+Tendulkar et al. 2021:
+Referenced to support the statement that repeaters have been shown to be offset by approximately 250 pc from the closest knot of local star formation.
+
+Bhardwaj et al. 2021; Kirsten et al. 2022:
+These papers are cited to highlight the surprising localization of the repeating FRB 20200120E to a globular cluster associated with M81, which is unexpected given that globular clusters host a much older stellar population than star-forming regions.
+
+CHIME/FRB Collaboration et al. 2020a; Bochenek et al. 2020; Kirsten et al. 2021:
+These papers are referenced to mention the observation of FRB-like bursts from the Galactic magnetar SGR 1935+2154.
+
+Gohar & Flynn 2022:
+Referenced to suggest the possibility that more FRB-like events occur in the Milky Way but remain undetected due to interstellar medium scattering.
+
+Bannister et al. 2019; Heintz et al. 2020; Bhandari et al. 2020; Li & Zhang 2020; Mannings et al. 2021:
+These papers are cited to support the statement that apparent one-off FRBs have been localized to host galaxies, including regions of low star formation rate.
+
+Petroff et al. (2022):
+Referenced as a comprehensive overview of the breadth of FRB localization results.
+Petroff et al. (2016):
+Referenced to provide the number of verified FRBs in 2020, highlighting the increasing number of detected FRB events.
+
+Luo et al. (2020) and James et al. (2022b):
+Cited to support the implementation of an approach that simultaneously considers FRB energetics, distances, and abundances to minimize bias in studying the FRB population.
+Luo et al. 2020; James et al. 2022b:
+These papers are cited to indicate the need to combine burst detections from multiple surveys or telescopes in order to conduct large-number statistical studies of the FRB population, highlighting the previous methods used for such studies.
+
+CHIME/FRB Collaboration et al. 2021:
+Referenced to introduce the release of a catalog of 536 FRBs by the Canadian Hydrogen Intensity Mapping Experiment/Fast Radio Burst (CHIME/FRB) collaboration, which provides a large sample of bursts detected in a single survey and enables a statistical study with uniform selection effects.
+
+Merryfield et al. 2022:
+Cited to emphasize the ability to characterize the selection effects of the FRB population using the CHIME/FRB injections system, which is crucial for conducting a statistical study with the Catalog 1 sample.
+James et al. (2022b):
+Referenced to support the use of a joint brightness-DM model developed by the authors for fitting the Catalog 1 dataset.
+
+CHIME/FRB Collaboration et al. (2021):
+Cited to acknowledge the use of formalism that accounts for selection effects in the analysis, as detailed by the authors.
+
+Planck Collaboration et al. (2020):
+Referenced to indicate the adoption of Planck cosmological parameters in the analysis.

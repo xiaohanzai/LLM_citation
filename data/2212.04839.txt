@@ -1,0 +1,9 @@
+{
+  "Cordes & Rickett 1998": "Referenced to explain the concept of scattering and scintillation in relation to the total electron content and dispersion measure of fast radio bursts (FRBs).",
+  "Gajjar et al. 2018": "Cited as a reference for periods of extreme activity in repeating FRBs.",
+  "Li et al. 2021": "Cited as a reference for periods of extreme activity in repeating FRBs.",
+  "Nimmo et al. 2022a": "Cited as a reference for periods of extreme activity in repeating FRBs.",
+  "McKinven & Chime/Frb Collaboration 2022": "Cited as a reference for periods of extreme activity in repeating FRBs.",
+  "Main et al. (2022)": "Cited as the current paper to describe the previous work (M22A) that showed the measurement of scintillation timescale and derivation of scintillation velocity in active FRBs.",
+  "M22A": "Cited as an abbreviation for the previous work (Main et al. 2022) that showed the measurement of scintillation timescale and derivation of scintillation velocity in active FRBs."
+}

@@ -1,0 +1,30 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the unknown progenitors of Fast Radio Bursts (FRBs).",
+  "Thornton et al. 2013": "Referenced to provide additional sources on the unknown progenitors of Fast Radio Bursts (FRBs).",
+  "Bhandari et al. 2018": "Cited to support the statement that Fast Radio Bursts (FRBs) have an appearance rate of approximately 1000 per day.",
+  "Chen et al. 2022": "Cited to highlight the uncertainty regarding whether apparently non-repeating FRBs are truly non-repeaters, which is important for understanding their progenitors and emission mechanisms.",
+  "Hashimoto et al. 2022": "Cited to emphasize the ongoing uncertainty regarding whether apparently non-repeating FRBs are truly non-repeaters.",
+  "Ai et al. 2021": "Cited to underscore the importance of determining whether apparently non-repeating FRBs are truly non-repeaters in order to gain insights into their progenitors and emission mechanisms."
+}
+{
+  "Petroff et al. 2016": "Referenced to indicate the number of FRBs discovered to date.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to indicate the number of FRBs discovered to date.",
+  "Bochenek et al. 2020b": "Referenced to highlight the detection of a confirmed FRB progenitor.",
+  "Scholz & CHIME/FRB Collaboration 2020": "Referenced to highlight the detection of a confirmed FRB progenitor.",
+  "CHIME/FRB Collaboration et al. 2018": "Referenced to highlight the localization uncertainties of current survey telescopes."
+}
+{
+  "Platts et al. 2019": "Cited to support the statement that identifying whether FRBs are repeaters or non-repeaters is essential to reveal their mysterious origins, and to provide examples of possible progenitors for repeating and nonrepeating FRBs.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Lin et al. 2022": "Referenced to provide information about the BURSTT telescope, including its unique fisheye design, antenna array, field of view, and spectral bandwidth.",
+  "Ai et al. 2021": "Cited to highlight the potential of BURSTT in resolving the missing repeating FRB problem through long-term monitoring observations."
+}
+{
+  "Bhat et al. 2004": "Cited to describe the scattering of pulses as a function of DM due to the Interstellar Medium (ISM) in the Milky Way.",
+  "Lin et al. 2022": "Referenced to simulate the BURSTT experiment and compare its performance to STARE2 and Galactic Radio Explorer (GReX) in probing the Milky Way for bursts.",
+  "Bochenek et al. 2020a": "Cited to compare the performance of STARE2 to Galactic Radio Explorer (GReX) in the previous paper.",
+  "Connor et al. 2021": "Referenced to compare the performance of Galactic Radio Explorer (GReX) to STARE2 in the previous paper.",
+  "Gohar & Flynn 2022": "Cited to propose the comparison of performance between STARE2 and Galactic Radio Explorer (GReX) in the previous paper."
+}

@@ -1,0 +1,76 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the statement about the short duration of fast radio bursts (FRBs) and their high dispersion measure (DM).",
+  "Cordes & Lazio 2002": "Cited to provide a reference for the maximum estimated dispersion measure (DM) from the electron column density model.",
+  "Yao et al. 2017": "Referenced to provide an additional source for the maximum estimated dispersion measure (DM) from the electron column density model.",
+  "Thornton et al. 2013": "Cited to support the claim that almost all fast radio bursts (FRBs) are considered extragalactic due to their high dispersion measure (DM).",
+  "Petroff et al. 2019": "Referenced to highlight the discovery of hundreds of fast radio burst (FRB) sources.",
+  "Cordes & Chatterjee 2019": "Cited to provide a reference for the discovery of repeated bursts from a small number of fast radio burst (FRB) sources.",
+  "Zhang 2020": "Referenced to support the claim that almost all fast radio bursts (FRBs) are considered extragalactic due to their high dispersion measure (DM).",
+  "Spitler et al. 2014": "Cited to highlight the discovery of the first repeater fast radio burst (FRB) source.",
+  "CHIME/FRB Collaboration et al. 2019b": "Referenced to provide a source for the detection of repeated bursts from 20 fast radio burst (FRB) sources.",
+  "Fonseca et al. 2020": "Cited to support the claim of detecting repeated bursts from multiple fast radio burst (FRB) sources.",
+  "The CHIME/FRB Collaboration et al. 2021": "Referenced to provide a source for the detection of repeated bursts from multiple fast radio burst (FRB) sources.",
+  "Bochenek et al. 2020": "Cited to highlight the detection of a Galactic fast radio burst (FRB) from a Galactic magnetar.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to support the claim of detecting a Galactic fast radio burst (FRB) from a Galactic magnetar."
+}
+{
+  "Cordes & Chatterjee 2019": "Referenced to acknowledge the unsolved mysteries surrounding the physical origin and emission mechanism of FRBs.",
+  "Petroff et al. 2019": "Referenced to acknowledge the unsolved mysteries surrounding the physical origin and emission mechanism of FRBs.",
+  "Zhang 2020": "Referenced to acknowledge the unsolved mysteries surrounding the physical origin and emission mechanism of FRBs.",
+  "Pleunis et al. 2021": "Referenced to highlight the different radiation patterns between repeaters and non-repeaters, specifically the narrower frequency band emission and broader temporal width of repeater bursts.",
+  "CHIME/FRB Collaboration et al. 2019a,b": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Hessels et al. 2019": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Josephy et al. 2019": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Chime/FRB Collaboration et al. 2020": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Fonseca et al. 2020": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Day et al. 2020": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Li et al. 2021": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Platts et al. 2021": "Referenced to highlight the discovery of the sub-pulse frequency drifting feature in repeated bursts, which provides constraints on theoretical models.",
+  "Wang et al. 2019": "Referenced to acknowledge the interesting constraints on theoretical models brought by the discovery of the sub-pulse frequency drifting feature in repeated bursts.",
+  "Zhang 2022": "Referenced to acknowledge the interesting constraints on theoretical models brought by the discovery of the sub-pulse frequency drifting feature in repeated bursts.",
+  "Hardy et al. 2017": "Referenced to acknowledge the detection of precursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Caleb et al. 2020": "Referenced to acknowledge the detection of precursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Rajwade et al. 2020": "Referenced to acknowledge the detection of precursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Scholz et al. 2017": "Referenced to acknowledge the detection of postcursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Gourdji et al. 2019": "Referenced to acknowledge the detection of postcursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Cruces et al. 2021": "Referenced to acknowledge the detection of postcursors from some repeaters, which deviate from the trend of frequency drifting of the bursts.",
+  "Chime/FRB Collabortion (2021)": "Referenced to acknowledge the discovery of FRB 20201124A, an active repeater.",
+  "Rajwade et al. 2020": "Referenced to acknowledge the discovery of FRB 20121102A, an active repeater.",
+  "Chime/FRB Collaboration et al. 2020": "Referenced to acknowledge the discovery of FRB 20180916, an active repeater.",
+  "Lanman et al. 2021": "Referenced to acknowledge extensive observations carried out during the active phase of FRB 20201124A.",
+  "Nimmo et al. 2021": "Referenced to acknowledge extensive observations carried out during the active phase of FRB 20201124A.",
+  "Xu et al. 2022": "Referenced to acknowledge extensive observations carried out during the active phase of FRB 20201124A.",
+  "Wharton et al. 2021b": "Referenced to acknowledge the well-determined location of FRB 20201124A within an arcsecond.",
+  "Nimmo et al. 2021": "Referenced to acknowledge the well-determined location of FRB 20201124A within an arcsecond."
+}
+{
+  "al. 2021": "N/A",
+  "Nimmo et al. 2021": "Referenced to indicate that the location of the event has been well-determined within an arcsecond by the European VLBI Network (EVN).",
+  "Xu et al. 2022": "Referenced to indicate that studies have been carried out, but the specific reason is not mentioned.",
+  "Wharton et al. 2021b": "Referenced to indicate that the location of the event has been well-determined within an arcsecond by the European VLBI Network (EVN).",
+  "Fong et al. 2021": "Referenced to provide the spectroscopic redshift of the host galaxy of the event.",
+  "Ravi et al. 2022": "Referenced to provide the spectroscopic redshift of the host galaxy of the event.",
+  "Piro et al. 2021": "Referenced to provide the spectroscopic redshift of the host galaxy of the event."
+}
+{
+  "Main et al. (2021a)": "Referenced to provide the scintillation timescale and power index of FRB 20201124A based on observations at different frequencies.",
+  "Hilmarsson et al. (2021)": "Cited for the discovery of circular polarization and frequency downward drifting structures in FRB 20201124A at 1.36GHz.",
+  "Ravi et al. (2022)": "Referenced for the discovery of the persistent radio source, PRS 201124, at the location of FRB 20201124A, and the consistency of the spectral energy distribution with a star formation galaxy.",
+  "Piro et al. (2021)": "Cited to highlight that the persistent radio source associated with FRB 20201124A is extended rather than local to the source.",
+  "Wharton et al. (2021a)": "Referenced for the detection of a bright burst of the repeater with a flux density of 0.7±0.01 mJy at 650 MHz using uGMRT.",
+  "Ricci et al. (2021)": "Cited for the detection of the flux density of the repeater at 3 and 9 GHz using the VLA."
+}
+{
+  "Nan et al. 2011": "The Five-hundred-meter Aperture Spherical radio telescope (FAST) is referenced as the largest and most sensitive single antenna radio telescope in the world, which makes it an ideal facility for detecting weak radio signals from FRBs and pulsars.",
+  "Luo et al. 2020": "Referenced for their work on detecting weak radio signals from FRBs using FAST.",
+  "Li et al. 2021": "Referenced for their work on detecting weak radio signals from FRBs using FAST.",
+  "Niu et al. 2021": "Referenced for their work on detecting weak radio signals from FRBs using FAST.",
+  "Han et al. 2021": "Referenced for their work on detecting pulsars using FAST and recording polarization signals in the pulsar search mode.",
+  "Jiang et al. 2020": "Referenced for their work on the pointing accuracy of FAST.",
+  "Xu et al. 2022": "Referenced for their report on the detection of 1863 bursts during the active period of FRB 20201124A.",
+  "CHIME": "Referenced as the trigger for monitoring FRB 20201124A with FAST.",
+  "Main et al. 2021b": "Referenced for their report on FRB 20201124A.",
+  "Y.K. Zhang et al. 2022": "Referenced for their analysis of the energy distribution of the detected bursts.",
+  "J.C. Jiang et al. 2022": "Referenced for their analysis of the polarization properties of the detected bursts.",
+  "J.R. Niu et al. 2022": "Referenced for their analysis of the bursts arrival time."
+}

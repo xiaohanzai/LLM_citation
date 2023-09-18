@@ -1,0 +1,44 @@
+[1,2]:
+These references are cited to support the statement that the ultimate upper limit on the rest mass of the photon is approximately 10^-69 kg, based on the age of the universe and the uncertainty principle.
+[1][2][3][4][5][6][7]:
+These references are cited to indicate that various terrestrial and extra-terrestrial approaches have been used to set upper limits on the photon rest mass, including measurement of the frequency dependence in the speed of light, null tests of Coulomb's inverse square law, tests of Ampère's law, torsion balance, Jupiter magnetic field, magnetohydrodynamic phenomena of the solar wind, cosmic magnetic fields, gravitational deflection of massive photons, suppermassive black hole spin, and pulsar spindown.
+
+[8][9][10][11][12][13][14][15][16][17][18][19][20][21]:
+These references are cited to indicate that the common approaches for determining the photon mass include measurement of the frequency dependence in the speed of light.
+
+[22]:
+This reference is cited to indicate that null tests of Coulomb's inverse square law have been used as an approach for determining the photon mass.
+
+[23]:
+This reference is cited to indicate that tests of Ampère's law have been used as an approach for determining the photon mass.
+
+[24,25]:
+These references are cited to indicate that torsion balance has been used as an approach for determining the photon mass.
+
+[26]:
+This reference is cited to indicate that the Jupiter magnetic field has been used as an approach for determining the photon mass.
+
+[27][28][29]:
+These references are cited to indicate that magnetohydrodynamic phenomena of the solar wind have been used as an approach for determining the photon mass.
+
+[30][31][32]:
+These references are cited to indicate that cosmic magnetic fields have been used as an approach for determining the photon mass.
+
+[33,34]:
+These references are cited to indicate that gravitational deflection of massive photons has been used as an approach for determining the photon mass.
+
+[35]:
+This reference is cited to indicate that suppermassive black hole spin has been used as an approach for determining the photon mass.
+
+[36]:
+This reference is cited to indicate that pulsar spindown has been used as an approach for determining the photon mass.
+Lorimer et al. (2013):
+N/A
+
+Lieu & Duan 2013; Lovelace & Richards 2013:
+These papers are cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts.
+
+Ref. [11-13, 15, 18-21]:
+These references are cited to support the claim that fast radio bursts (FRBs) provide a celestial laboratory for constraining the photon mass, with each reference presenting different upper limits on the photon mass based on various measurements and analyses of FRBs.
+Lieu & Duan 2013; Lovelace & Richards 2013; [37]; [38]; [39]:
+These citations are used to support the discussion of the second-order Taylor expansion of the dispersion due to a nonzero photon mass, and to provide references for the dedispersed pulses from the Crab pulsar and FRB 180916B used in the study.

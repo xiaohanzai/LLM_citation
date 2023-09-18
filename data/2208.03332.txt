@@ -1,0 +1,35 @@
+{
+  "Narayan & Bartelmann 1996": "Referenced to provide the probability of strong lensing by an intervening galaxy and the conditions required for strong lensing to occur.",
+  "Eichler 2017; Zitrin & Eichler 2018; Li et al. 2018; Liu et al. 2019; Wucknitz et al. 2021; Connor & Ravi 2022; Leung et al. 2022": "Cited to support the suggestion that FRB lensing can be a good probe of cosmology and specifically to measure the Hubble constant by observing the rate of change in the lensing delay."
+}
+{
+  "Zitrin & Eichler 2018": "Referenced to support the idea that lensing delay from FRB-repeaters can be used to measure the Hubble constant.",
+  "Li et al. 2018": "Cited to provide additional support for the concept of using lensing delay from FRB-repeaters to measure the Hubble constant.",
+  "Liu et al. 2019": "Referenced to support the idea of using lensing delay from FRB-repeaters to measure the Hubble constant.",
+  "Wucknitz et al. 2021": "Cited to provide further evidence for the potential use of lensing delay from FRB-repeaters in measuring the Hubble constant.",
+  "Carr & Hawking 1974": "Referenced to discuss the lensing probability of micro-lensing of FRBs by primordial black holes.",
+  "Nakamura & Deguchi 1999": "Cited to explain the condition that needs to be satisfied for gravitational lensing to occur and how it is not easily satisfied by sources observable at cosmological distances.",
+  "Grillo & Cordes 2018": "Referenced to support the argument that FRBs can be used to probe wave effects of plasma and gravitational lensing.",
+  "Cordes et al. 2017": "Cited to provide additional support for the idea of using FRBs to probe wave effects of plasma and gravitational lensing.",
+  "Katz et al. 2020": "Referenced to support the concept of using FRBs to probe wave effects of plasma and gravitational lensing.",
+  "Jow et al. 2020": "Cited to provide further evidence for the potential use of FRBs to probe wave effects of plasma and gravitational lensing."
+}
+{
+  "Grillo & Cordes 2018": "Referenced to support the statement that micro-lensing events become frequency dependent in the physical optics regime.",
+  "Cordes et al. 2017": "Referenced to support the statement that micro-lensing events become frequency dependent in the physical optics regime.",
+  "Katz et al. 2020": "Referenced to support the statement that micro-lensing events become frequency dependent in the physical optics regime.",
+  "Jow et al. 2020": "Referenced to support the statement that micro-lensing events become frequency dependent in the physical optics regime.",
+  "Muñoz et al. 2016": "Referenced to highlight the application of micro-lensing of FRBs by stellar mass objects to constrain the possibility of dark matter being composed of massive compact halo objects (MACHOS) in a specific mass range."
+}
+{
+  "Bannister et al. 2019": "Cited to support the statement that the spectra of many FRBs suffer from spectral decoherence.",
+  "Thornton et al. 2013": "Referenced to indicate that the light-curves of many FRBs show signatures of scatter broadening.",
+  "Beniamini & Kumar 2020": "Cited to highlight that multi-path propagation induced by plasma scintillation can lead to induced temporal variability in observed FRB signals.",
+  "Beniamini et al. 2022": "Referenced to emphasize that plasma scintillation can induce depolarization and induced circular polarization in observed FRB signals.",
+  "Cordes & Chatterjee 2019": "Cited to mention that plasma scintillation effectively increases the size of the source and suppresses lensing effects for lenses below a critical mass.",
+  "Bisnovatyi-Kogan & Tsupko 2010, 2017": "Referenced to indicate that the effects of uniform and non-uniform plasma on gravitational lensing by a point source were considered by these authors.",
+  "Eshleman 1979": "Cited to highlight that Eshleman explored how the magnification of a background source's brightness due to gravitational lensing by the Sun is limited by waves traveling through the solar corona."
+}
+{
+  "N/A": "No citations appear in the text."
+}

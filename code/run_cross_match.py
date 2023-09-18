@@ -6,6 +6,7 @@ from refs_txt_functions import extract_txt_refs
 from refs_ads_functions import get_ads_refs
 from cross_match_functions import cross_match_txt_and_ads
 from utils import get_year_from_arxivid
+# import json
 
 def add_new_entries(rst_full, rst, reason):
     '''
@@ -32,8 +33,46 @@ def add_new_entries(rst_full, rst, reason):
             rst_full.loc[len(rst_full)] = {
                 'txt_ref': entry['txt_ref'], 'arxiv_id': entry['arxiv_id'], 'reasons': r}
 
+def read_data_and_cross_match(fname, refs_ads, current_year, rst_full):
+    json_file = False
+    with open(fname) as f:
+        lines = f.readlines()
+        if lines[0][0] == '{':
+            json_file = True
+
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if ':' not in line or 'N/A' in line:
+                i += 1
+                continue
+
+            refs_txt = extract_txt_refs(line) # list of ref dicts
+
+            if len(refs_txt) > 0:
+                # the reason for citation
+                ind = line.index(':')+1
+                reason = None
+                if json_file:
+                    tmp = line[ind:]
+                    reason = tmp[tmp.index('"')+1:tmp.rindex('"')].lower()
+                else:
+                    if re.search(r'(cited|referenced|mentioned)', line.lower()[ind:]):
+                        reason = line.lower()[ind:]
+                    elif re.search(r'(cited|referenced|mentioned)', lines[i+1].lower()):
+                        reason = lines[i+1].lower()
+                        i += 1
+
+                # cross match with ads
+                rst = cross_match_txt_and_ads(refs_txt, refs_ads, current_year)
+                # add to results
+                if reason is not None:
+                    add_new_entries(rst_full, rst, reason)
+
+            i += 1
+
 def main():
-    fnames = glob.glob('../data/23*txt')
+    fnames = glob.glob('../data/2[23]*txt')
     token = os.environ.get('ADS_API_TOKEN')
 
     rst_full = pd.DataFrame(columns=['txt_ref', 'arxiv_id', 'reasons'])
@@ -44,34 +83,7 @@ def main():
 
         refs_ads = get_ads_refs(current_arxiv_id, token)
 
-        with open(fname) as f:
-            lines = f.readlines()
-            i = 0
-            while i < len(lines):
-                line = lines[i]
-
-                # check if line contains reference
-                # using @ doesn't seem to be problematic for text references but... ignore it maybe
-                if ':' in line:
-                    refs_txt = extract_txt_refs(line) # list of ref dicts
-                    # cross match with ads
-                    if len(refs_txt) > 0:
-                        rst = cross_match_txt_and_ads(refs_txt, refs_ads, current_year)
-
-                        # the reason for citation
-                        ind = line.index(':')+1
-                        reason = None
-                        if re.search(r'(cited|referenced|mentioned)', line.lower()[ind:]):
-                            reason = line.lower()[ind:]
-                        elif re.search(r'(cited|referenced|mentioned)', lines[i+1].lower()):
-                            reason = lines[i+1].lower()
-                            i += 1
-
-                        # add to results
-                        if reason is not None:
-                            add_new_entries(rst_full, rst, reason)
-
-                i += 1
+        read_data_and_cross_match(fname, refs_ads, current_year, rst_full)
 
     rst_full.to_csv('../data/data_23.csv', index=False)
 

@@ -1,0 +1,43 @@
+{
+  "Chevalier 1977": "Referenced to describe the expansion of the pulsar wind nebula (PWN) into the supernova ejecta and the formation of a dense thin shell of material.",
+  "Chevalier & Gull 1975": "Cited as an example of a study that observed the filamentary structure in the Crab Nebula.",
+  "Jun 1998": "Cited as another example of a study that observed the filamentary structure in the Crab Nebula.",
+  "Trimble 1968": "Referenced to support the observed acceleration of the Crab filaments.",
+  "Staelin & Reifenstein 1968": "Cited as the authors who discovered the Crab Pulsar through the detection of individual radio pulses.",
+  "Eilek & Hankins 2016": "Referenced as a review paper on the extensive study of the Crab Pulsar.",
+  "Hankins et al. 2003": "Cited to describe the phenomenon of 'giant pulses' observed in the Crab Pulsar.",
+  "Sallmen et al. 1999": "Cited as a study that observed the properties of 'giant pulses' in the Crab Pulsar at lower observing frequencies.",
+  "Hankins & Eilek 2007": "Cited as another study that observed the properties of 'giant pulses' in the Crab Pulsar at lower observing frequencies.",
+  "Moffett & Hankins 1996": "Cited to describe the presence of an interpulse in the Crab Pulsar at radio frequencies above ∼ 4 GHz."
+}
+{
+  "Moffett & Hankins 1996": "Referenced to provide empirical evidence of the strong alignment between the MP and IP components of giant pulses from radio to γ observations.",
+  "Shearer et al. 2003(Shearer et al. , 2012)": "Cited to highlight the correlation between radio giant pulses and optical pulses.",
+  "Enoto et al. 2021": "Referenced to support the correlation between radio giant pulses and X-ray pulses.",
+  "Romani & Yadigaroglu 1995": "Cited to suggest alternative magnetospheric gaps where giant pulse emissions may occur.",
+  "Muslimov & Harding 2004": "Referenced to propose additional magnetospheric gaps as potential locations for giant pulse emissions.",
+  "Harding et al. 2008": "Cited to suggest regions beyond the light cylinder as possible emission regions for giant pulses.",
+  "Lyubarskii 1996": "Referenced to support the idea of emission regions beyond the light cylinder.",
+  "Philippov et al. 2019": "Cited to suggest the occurrence of plasma instabilities and magnetic reconnection in regions beyond the light cylinder.",
+  "Cordes et al. (1983)": "Referenced to describe the use of scintillation to probe pulsar magnetospheres and infer limits on the transverse separations of emitting regions.",
+  "Wolszczan & Cordes 1987": "Cited as an example of applying the scintillation method to probe emitting regions in pulsars.",
+  "Smirnova et al. 1996": "Cited as an example of applying the scintillation method to probe emitting regions in pulsars.",
+  "Gupta et al. 1999": "Cited as an example of applying the scintillation method to probe emitting regions in pulsars.",
+  "Pen et al. 2014": "Cited as an example of applying the scintillation method to probe emitting regions in pulsars."
+}
+{
+  "Rankin & Counselman 1973": "Referenced to support the statement about observations of the Crab Pulsar's scintillation and its angular and temporal broadening.",
+  "Vandenberg 1976": "Cited to favor two screen locations for the angular and temporal broadening of the Crab Pulsar's emission.",
+  "Cordes et al. (2004)": "Referenced to highlight their findings of strong correlation between pulses close in time, supporting the expectation of different frequency structures but the same impulse response function.",
+  "Karuppusamy et al. (2010)": "Cited to support the similar levels of correlation found for spectra of MPs and IPs in the same pulse rotation, as well as between different microbursts of individual MPs."
+}
+{
+  "Main et al. (2021, hereafter Paper I)": "Referenced as the source that found a low correlation coefficient when correlating power spectra of nearby MP-MP pairs and MP-IP pairs, suggesting that individual giant pulses arose in different parts of an extended emission region.",
+  "Cordes et al. (2004)": "Referenced to support the claim that the observations had smaller scattering time when scaled to the observing frequency.",
+  "Karuppusamy et al. (2010)": "Referenced to support the claim that the observations had smaller scattering time when scaled to the observing frequency.",
+  "Rickett 1990": "Referenced to explain the assumption that the standard deviation should be √3 times larger than the mean in the case of multiple nanoshots going through the same screen with Gaussian statistics."
+}
+{
+  "Bij et al. (2021)": "Cited to support the suggestion that the plasma emitting the pulses moves highly relativistically, which helps resolve the paradox of the resolved nanoshots.",
+  "N/A": "No citations found in the text."
+}

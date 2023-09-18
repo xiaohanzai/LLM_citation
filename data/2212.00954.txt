@@ -1,0 +1,65 @@
+{
+  "Lorimer et al. 2007": "Referenced to identify the first FRB (Lorimer burst) and establish the history of FRB detections.",
+  "Bannister et al. 2017": "Cited to highlight the contribution of the Commensal Real-time ASKAP Fast Transients Survey (CRAFT) in increasing the rate of FRB detection.",
+  "CHIME/FRB Collaboration et al. 2019": "Referenced to emphasize the role of the Canadian Hydrogen Intensity Mapping Experiment FRB project (CHIME/FRB) in significantly increasing the rate of FRB detection.",
+  "Michilli et al. 2018a": "Cited to support the hypothesis that repeating FRBs may arise from events that do not destroy the central engine, with young magnetars being a lead candidate.",
+  "Usov & Katz 2000": "Referenced to propose the possibility that non-repeating FRBs may originate from the merger of two compact objects, such as binary neutron stars.",
+  "Hansen & Lyutikov 2001": "Cited to suggest the possibility that non-repeating FRBs may result from the inspiral, merger, and/or remnant collapse of a binary neutron star system.",
+  "Totani 2013": "Referenced to propose the idea that non-repeating FRBs could be produced by the merger of binary neutron stars.",
+  "Lyutikov 2013": "Cited to support the hypothesis that non-repeating FRBs may arise from the merger of binary neutron stars.",
+  "Zhang 2014": "Referenced to propose the possibility that non-repeating FRBs may result from the merger of two compact objects, such as binary neutron stars.",
+  "Wang et al. 2016": "Cited to suggest the possibility that non-repeating FRBs may originate from the merger of binary neutron stars.",
+  "Caleb et al. 2019": "Referenced to acknowledge the possibility that apparent non-repeaters may be too distant or repeat too rarely for more than one burst to be observable.",
+  "James 2019": "Cited to recognize the possibility that apparent non-repeaters may be too distant or repeat too rarely for more than one burst to be observable.",
+  "Gardenier et al. 2021": "Referenced to acknowledge the possibility that apparent non-repeaters may be too distant or repeat too rarely for more than one burst to be observable.",
+  "Pleunis et al. 2021": "Cited to highlight the observation that bursts from repeating FRBs tend to be broader in time and narrower in frequency, suggesting the existence of two source populations."
+}
+{
+  "Moroianu et al. (2022)": "Referenced to support the claim of a common origin between the binary neutron star merger GW190425 and FRB 20190425A, based on the time delay between the events and the consistency of sky localization, time offset, and distance.",
+  "Abbott et al. (2020)": "Cited as the source of the detection of the binary neutron star merger GW190425 by the LIGO-Virgo-KAGRA collaboration.",
+  "Amiri et al. (2021)": "Cited as the source of the detection of FRB 20190425A by CHIME/FRB.",
+  "Zhang (2014)": "Referenced for the theoretical explanation of the FRB emission arising from the collapse of a supramassive neutron star or quark star to a black hole.",
+  "The LIGO Scientific Collaboration et al. (2022)": "Cited as the source of the dedicated deep search by the LVK for gravitational wave signals associated with CHIME/FRB events.",
+  "Wang & Nitz (2022)": "Cited as the source of an independent search using LVK public data to find coincidences between CHIME/FRB events and GW triggers.",
+  "Nitz et al. (2021)": "Cited as the source of the 4th Open Gravitational Wave Catalog used in the search for coincidences between CHIME/FRB events and GW triggers."
+}
+{
+  "Marcote et al. 2020": "Referenced to support the statement that three repeating FRBs from nearby galaxies have been localized to individual hosts by CHIME.",
+  "Bhardwaj et al. 2021a,b": "Cited to indicate that exceptions to the majority of FRBs observed by CHIME not being localized to individual hosts are the three repeating FRBs from nearby galaxies.",
+  "N/A": "No citations found for the association of UGC10667 with FRB 20190425A being the first identified host galaxy of a one-off CHIME FRB.",
+  "N/A": "No citations found for the possibility of GW190425 and FRB 20190425A having a common origin and the identified host being the second galaxy known to have hosted a BNS detected via gravitational waves."
+}
+{
+  "Rowlinson & Anderson 2019": "Referenced to provide a summary of progenitor models for cosmological FRBs and their association with cataclysmic events such as gamma-ray bursts (GRBs) and merging binary neutron stars.",
+  "Bannister et al. 2012": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Palaniswamy et al. 2014": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Obenberger et al. 2014": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Kaplan et al. 2015": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Andreoni et al. 2017": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Anderson et al. 2018": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Callister et al. 2019": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Rowlinson et al. 2019": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Bouwhuis et al. 2020": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Anderson et al. 2021": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Tian et al. 2022a": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Tian et al. 2022b": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Curtin et al. 2022": "Cited as part of the search for FRB-like signals associated with GRBs and GWs.",
+  "Abbott et al. 2017": "Referenced to highlight the case of GW170817 and the expectation of associated afterglow emission from an expanding jet or kilonova event.",
+  "Petroff et al. 2015": "Cited as part of the multi-wavelength follow-up of FRBs to investigate their association with GRB- or SNe-like emission.",
+  "Marnoch et al. 2020": "Cited as part of the multi-wavelength follow-up of FRBs to investigate their association with GRB- or SNe-like emission.",
+  "Núñez et al. 2021": "Cited as part of the multi-wavelength follow-up of FRBs to investigate their association with GRB- or SNe-like emission.",
+  "Gourdji et al. 2020": "Cited as part of the multi-wavelength follow-up of FRBs to investigate their association with GRB- or SNe-like emission.",
+  "Kilpatrick et al. 2021": "Cited as part of the multi-wavelength follow-up of FRBs to investigate their association with GRB- or SNe-like emission."
+}
+{
+  "Taggart & Perley 2021": "Cited as an example of transients arising from host galaxies with high star formation rates.",
+  "Panther et al. 2019": "Cited as an example of transients associated with galaxies that have long since ceased star formation.",
+  "Perley et al. 2016": "Cited as an example of connections between transients and gas-phase metallicity to yield information about likely progenitors.",
+  "Heintz et al. 2020;Bhandari et al. 2022": "Cited to highlight that only a comparatively small number of FRBs have been localized to individual host galaxies.",
+  "Niu et al. 2021": "Cited as an example of repeating FRBs with very precise localizations, enabling detailed study of their local environments within their hosts."
+}
+{
+  "Heintz et al. 2020": "Referenced to support the statement that the majority of FRBs are found in environments with star formation rates of ∼ 0.05 -10 M yr -1 and that FRB host galaxies are unlikely to be associated with exclusively old stellar populations.",
+  "Bhandari et al. 2022": "Cited to highlight that many hosts of apparent non-repeaters reside in the green valley, that a significant fraction of apparent non-repeating FRBs are found in galaxies with low ionization nuclear emission line (LINER) emission, and that FRB hosts show no trend for low metallicities.",
+  "Moroianu et al. 2022": "Referenced to describe the search for a host galaxy of GW190425 and FRB 20190425A within the CHIME 1 𝜎 uncertainty region and the identification of UGC10667 as the likely host based on redshift range and dispersion measure (DM) of FRB 20190425A."
+}

@@ -1,0 +1,21 @@
+{
+  "Daksha": "Referenced as a proposed high-energy transients mission with specific science goals, including the study of electromagnetic counterparts to gravitational wave sources and prompt emission gamma ray bursts (GRBs), as well as the study of X-ray pulsars, creating a high-energy all-sky map with Compton imaging, and detecting X-ray polarization from transients and pulsars."
+}
+{
+  "LIGO Scientific Collaboration et al. 2017": "Referenced to support the joint detection of gravitational waves and electromagnetic radiation from a binary neutron star merger, GW170817, which provided valuable insights into various aspects of astrophysics.",
+  "Abbott et al. 2017": "Referenced to support the joint detection of gravitational waves and electromagnetic radiation from a binary neutron star merger, GW170817, which provided valuable insights into various aspects of astrophysics.",
+  "Watson et al. 2019": "Cited to highlight the insights into r-process nucleosynthesis gained from the joint detection of gravitational waves and electromagnetic radiation from GW170817.",
+  "Kasliwal et al. 2019": "Cited to highlight the insights into r-process nucleosynthesis gained from the joint detection of gravitational waves and electromagnetic radiation from GW170817.",
+  "LIGO Scientific Collaboration et al. 2021": "Referenced to support the independent measurement of H0 (Hubble constant) obtained from the joint detection of gravitational waves and electromagnetic radiation from GW170817.",
+  "De et al. 2018": "Cited to support the measurements of the equation of state obtained from the joint detection of gravitational waves and electromagnetic radiation from GW170817.",
+  "Hosseinzadeh et al. 2019": "Cited to highlight the lack of electromagnetic counterparts for subsequent binary neutron star mergers detected by advanced gravitational wave networks.",
+  "Coughlin et al. 2019": "Cited to highlight the lack of electromagnetic counterparts for subsequent binary neutron star mergers detected by advanced gravitational wave networks.",
+  "Goldstein et al. 2017": "Cited to emphasize the sensitivity of current satellites to gamma ray emissions from binary neutron star mergers and the potential for missing events if they are fainter."
+}
+{
+  "Gehrels et al. 2004": "Referenced to highlight the progress made in the study of long and short gamma ray bursts, specifically mentioning missions like BATSE, Swift, and Fermi.",
+  "Meegan et al. 2009": "Referenced to emphasize the progress made in the study of long and short gamma ray bursts, specifically mentioning the Fermi mission.",
+  "Bhalerao et al. 2017a": "Cited to describe the characterization of the polarization of gamma ray bursts using AstroSat CZTI.",
+  "Produit et al. 2005": "Cited to describe the characterization of the polarization of gamma ray bursts using PO-LAR.",
+  "Bhalerao et al., (2022)": "Mentioned as the source where a detailed discussion of the science case for Daksha is deferred to."
+}

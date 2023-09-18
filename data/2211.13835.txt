@@ -1,0 +1,24 @@
+{
+  "Petroff et al. 2022": "Referenced to indicate that the progenitors and emission mechanisms of Fast Radio Bursts (FRBs) are still unknown.",
+  "Kumar et al. 2017; Metzger et al. 2019": "Cited to highlight proposed emission models for FRBs that have a limited range of radio frequency and/or spectral index.",
+  "Pastor-Marazuela et al. 2021; Bethapudi et al. 2022": "Referenced to emphasize the importance of simultaneous observations covering a wide range of frequencies for FRB 20180916B in understanding the nature of these sources.",
+  "Josephy et al. 2019; Gajjar et al. 2018": "Cited to indicate the observation of FRB 20121102 at various frequencies from 400 MHz to 8 GHz.",
+  "Chawla et al. 2020; Pleunis et al. 2021b; Bethapudi et al. 2022": "Referenced to highlight the observation of FRB 20180916B at frequencies ranging from 110 MHz to 5 GHz.",
+  "Ravi 2019; Ai et al. 2021; Gardenier et al. 2021": "Cited to indicate the active debate regarding whether all FRBs are capable of repeating or not.",
+  "Hashimoto et al. 2020a": "Referenced to support the proposal that FRBs can be classified into two populations, with not all FRBs repeating.",
+  "Hashimoto et al. 2020b; Pleunis et al. 2021a; Kim et al. 2022": "Cited to highlight the different trends observed in repeating FRBs compared to one-off FRBs, including duration time, bandwidth, redshift evolution, and energy."
+}
+{
+  "Cruces et al. 2021": "Referenced to indicate that FRB 121102 is an example of a repeating FRB with periodic burst activity.",
+  "CHIME/FRB Collaboration 2020": "Cited to highlight FRB 180916B as another example of a repeating FRB with periodic burst activity.",
+  "CHIME/FRB Collaboration 2021": "Referenced to mention the active phase of repeating FRB 20201124A in April 2021, during which multiple observatories recorded bursts from the source.",
+  "Lanman et al. 2022": "Cited to provide additional information about the active phase of repeating FRB 20201124A in April 2021.",
+  "Ould-Boukattine et al. 2022a": "Referenced to indicate the active phase of repeating FRB 20201124A in January-March 2022.",
+  "Ould-Boukattine et al. 2022b": "Cited to provide further information about the active phase of repeating FRB 20201124A in January-March 2022.",
+  "Atri et al. 2022": "Referenced to mention the active phase of repeating FRB 20201124A in January-March 2022.",
+  "Usuda Deep Space Center (UDSC)/JAXA": "Cited to indicate the facility used for the detection of the bright FRB from the repeater FRB 20201124A source at 2.2-2.3 GHz.",
+  "Section 2": "Referenced to indicate where the observational setup and analyses are presented.",
+  "Section 3": "Cited to indicate where the details of the detected burst, dispersion measure (DM) determination, digital artifact, and spectral index estimation are described.",
+  "Section 4": "Referenced to indicate where the comparison between the detected burst and previous bursts from FRB 20201124A and other FRBs is presented.",
+  "Section 5": "Cited to indicate where the summary of the paper is provided."
+}

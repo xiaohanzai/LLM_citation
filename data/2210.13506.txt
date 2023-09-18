@@ -1,0 +1,19 @@
+{
+  "Bransgrove et al. 2020": "Referenced to support the statement that star quakes in the crust of neutron stars can launch Alfvén waves along the magnetic field.",
+  "Yuan et al. 2021": "Cited to explain that Alfvén waves can convert spontaneously to fast magnetosonic (fms) waves due to propagation on curved field lines.",
+  "Blaes et al. 1989": "Referenced to provide the characteristic frequency of ω ∼ 10 kHz for fms waves.",
+  "Petroff et al. 2019": "Cited for a review on fast radio bursts (FRBs) and their association with strongly magnetized neutron stars.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to support the association of FRBs with galactic magnetars based on simultaneous observations of an FRB and an X-ray burst.",
+  "Bochenek et al. 2020": "Cited as additional evidence for the association of FRBs with strongly magnetized neutron stars.",
+  "Mereghetti et al. 2020": "Referenced as further corroboration of the association of FRBs with galactic magnetars.",
+  "Lyubarsky 2014": "Cited as one of the theoretical models for FRBs that invokes a shock produced by a relativistic ejecta in the wind at large distances.",
+  "Plotnikov & Sironi 2019": "Referenced as a source that shows the shock front in the theoretical model can generate coherent GHz emission through the synchrotron maser mechanism.",
+  "Sironi et al. 2021": "Cited as another source that supports the capability of the shock front in the theoretical model to generate coherent GHz emission through the synchrotron maser mechanism.",
+  "Kumar et al. 2017": "Referenced as one of the theoretical models for FRBs that invokes plasma instabilities close to the magnetar, creating 'bunches' of charged particles which radiate coherently.",
+  "Lu et al. 2020": "Cited as another source that supports the theoretical model of plasma instabilities close to the magnetar producing GHz waves.",
+  "Lyubarsky 2020": "Referenced as a source that supports the theoretical model of plasma instabilities close to the magnetar producing GHz waves in reconnecting current sheets."
+}
+{
+  "Beloborodov 2022(Beloborodov , 2021)": "Referenced to support the proposal that low frequency fms waves may suffer strong scattering by charged particles in the magnetosphere.",
+  "Qu et al. 2022": "Cited to introduce the scenario of low frequency fms waves suffering strong scattering by charged particles in the magnetosphere, and to acknowledge that the scenario was studied considering the response of a single test particle."
+}

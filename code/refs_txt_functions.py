@@ -7,7 +7,6 @@ def clean_up_string(input_string):
     Given an input reference string, clean it up before matching the citation patterns.
     Input should look like e.g. 'Sloth et al. (2001)', 'Sloth 2002; Sloth et al. 2001a; Sloth & Flash 2002b'
     There are also cases of numbered references.
-    TODO: this function will look difference once I ask gpt to output in json format.
     '''
     # get rid of parentheses and @
     string = re.sub(r'[@\(\)]', '', input_string)

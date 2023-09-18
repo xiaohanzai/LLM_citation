@@ -1,0 +1,42 @@
+{
+  "Lorimer et al. 2007": "Referenced to establish the cosmological distances at which fast radio bursts (FRBs) originate.",
+  "Shannon et al. 2018": "Referenced to provide additional evidence of the cosmological distances at which FRBs originate.",
+  "Gajjar et al. 2018": "Referenced to provide additional evidence of the cosmological distances at which FRBs originate.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to provide additional evidence of the cosmological distances at which FRBs originate.",
+  "Pleunis et al. 2021a": "Referenced to provide additional evidence of the cosmological distances at which FRBs originate.",
+  "Platts et al. 2019": "Referenced to highlight the existence of multiple proposed progenitor models for FRBs.",
+  "Spitler et al. 2016": "Referenced to highlight the observation of repeating FRBs.",
+  "Rajwade et al. 2020": "Referenced to highlight the observation of cyclical phases of irregular activity in FRBs.",
+  "Chime/Frb Collaboration et al. 2020": "Referenced to highlight the observation of cyclical phases of irregular activity in FRBs.",
+  "Pleunis et al. 2021b": "Referenced to support the evidence that FRBs come from more than one source class.",
+  "Hewitt et al. 2022": "Referenced to propose the possibility that apparent morphological differences in the time-frequency properties of the FRB population can be produced by a single progenitor.",
+  "McQuinn 2014": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Masui & Sigurdson 2015": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Prochaska & Zheng 2019": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Madhavacheril et al. 2019": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Caleb et al. 2019": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Lee et al. 2022a": "Referenced to highlight the potential of FRBs as cosmological probes to trace ionized gas and magnetic fields in various structures.",
+  "Macquart et al. 2020": "Referenced to highlight the use of localised FRBs to resolve the 'missing baryons problem' and constrain the total baryon density of the Universe and the degree of galactic baryon feedback."
+}
+{
+  "Freedman et al. 2001": "Referenced to indicate the previous accuracy of Hubble constant measurements from the Hubble Space Telescope.",
+  "Riess et al. 2016": "Cited to highlight recent improvements in the accuracy of Hubble constant measurements.",
+  "Suyu et al. 2017": "Referenced to emphasize the further reduction in uncertainty in Hubble constant measurements.",
+  "Planck Collaboration et al. 2020": "Cited to provide the Hubble constant value inferred from Planck observations of the Cosmic Microwave Background (CMB).",
+  "Riess et al. 2021": "Referenced to provide the Hubble constant value derived from calibrating standard candles such as local type Ia supernovae (SNe Ia) calibrated by the distance ladder.",
+  "Abdalla et al. 2022": "Cited as a recent review that discusses potential solutions to the tension in Hubble constant measurements."
+}
+{
+  "Planck Collaboration et al. 2020": "Referenced to indicate that the precise measurement of Ω 𝑏 𝐻 2 0 by CMB and Big Bang Nucleosynthesis analysis implies DM cosmic ∝ 𝐻 -1 0.",
+  "Mossa et al. 2020a": "Referenced to support the implication that DM cosmic ∝ 𝐻 -1 0 based on the precise measurement of Ω 𝑏 𝐻 2 0 by CMB and Big Bang Nucleosynthesis analysis.",
+  "James et al. (2022a, hereafter J22a)": "Referenced to highlight the development of an advanced model of FRB observations using ASKAP and Parkes data, providing insights into the distribution of FRBs in SNR, 𝑧, and DM space.",
+  "Lorimer et al. (2013)": "Referenced to support the statement that the analysis of FRB observations offers an independent and local test, and to emphasize the potential impact of future technology in detecting a significant number of FRB events.",
+  "N/A": "No citations found in the text."
+}
+{
+  "J22a": "Referenced to extend the model developed by J22a to constrain H0.",
+  "Parkes and ASKAP radio telescopes": "Described in §4 as the source of the FRB sample data used in the analysis.",
+  "Commensal Real-time ASKAP Fast Transients (CRAFT) Survey": "Described in §4 as the survey that localized a total of 16 ASKAP FRBs.",
+  "Monte Carlo simulations": "Referenced in §6 as the method used to create mock sample surveys to test the validity of the model.",
+  "precision cosmology": "Mentioned in §7 as a future prospect of using an extended FRB dataset for precision cosmology."
+}

@@ -1,0 +1,5 @@
+{
+  "Lorimer et al. (2007)": "Referenced as the first detection of a fast radio burst (FRB) and the discovery of FRB 010724 during an analysis of archived pulsar survey data.",
+  "Keane et al. (2012)": "Cited as the discoverers of FRB 010621, which has a lower galactic latitude.",
+  "Thornton et al. (2013)": "Referenced for reporting a sample of four new FRBs, highlighting the growing importance of studying FRBs in high energy astrophysics."
+}

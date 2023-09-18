@@ -1,0 +1,82 @@
+{
+  "Cho et al. 2020": "Cited as a reference for the durations of fast radio bursts (FRBs) mentioned in the text.",
+  "Nimmo et al. 2021": "Cited as a reference for the durations of fast radio bursts (FRBs) mentioned in the text.",
+  "Petroff et al. 2016": "Cited as a reference for the fluences of fast radio bursts (FRBs) mentioned in the text.",
+  "Shannon et al. 2018": "Cited as a reference for the fluences of fast radio bursts (FRBs) mentioned in the text.",
+  "Chatterjee et al. 2017": "Cited as a reference for the confirmation of the extragalactic origin of fast radio bursts (FRBs) through identifying host galaxies.",
+  "Macquart et al. 2020": "Cited as a reference for the confirmation of the extragalactic origin of fast radio bursts (FRBs) through identifying host galaxies.",
+  "Zhang 2020": "Cited as a reference for the existence of numerous proposed models to explain the emission behavior of fast radio bursts (FRBs)."
+}
+{
+  "CHIME": "Referenced as the Canadian Hydrogen Intensity Mapping Experiment (CHIME) that has contributed to the rapid expansion of the FRB population and the detection of more than 700 FRBs.",
+  "CHIME/FRB": "Cited as the Fast Radio Burst project associated with CHIME, highlighting its role in the detection and classification of FRBs.",
+  "Spitler et al. 2016": "Referenced as the source that identified repeaters among the FRB population.",
+  "Petroff et al. 2015": "Cited as a source that identified non-repeaters among the FRB population.",
+  "Shannon et al. 2018": "Referenced as a source that identified non-repeaters among the FRB population.",
+  "CHIME/FRB Collaboration et al. 2019a": "Cited as a source that supports the existence of two populations of FRBs.",
+  "Fonseca et al. 2020a": "Referenced as a source that supports the existence of two populations of FRBs.",
+  "CHIME/FRB Collaboration et al. 2021b": "Cited as a recent study that further supports the existence of two populations of FRBs.",
+  "Spitler et al. 2016": "Referenced as the source that identified 24 repeating sources among the FRB population.",
+  "CHIME/FRB Collaboration et al. 2019a": "Cited as a source that identified repeating sources among the FRB population.",
+  "CHIME/FRB Collaboration et al. 2021b": "Cited as a source that identified repeating sources among the FRB population.",
+  "Rajwade et al. 2020b": "Referenced as a source that reported evidence for periodic activity from FRB 20121102A.",
+  "Cruces et al. 2021": "Cited as a source that reported evidence for periodic activity from FRB 20121102A.",
+  "CHIME/FRB Collaboration et al. 2020a": "Cited as a source that reported evidence for periodic activity from FRB 20180916B.",
+  "Ioka & Zhang 2020": "Referenced as a source that proposed possible explanations for the periodic activity observed in some FRBs.",
+  "Beniamini et al. 2020": "Cited as a source that proposed possible explanations for the periodic activity observed in some FRBs.",
+  "Levin et al. 2020": "Cited as a source that proposed possible explanations for the periodic activity observed in some FRBs.",
+  "Bochenek et al. 2020": "Referenced as a source that suggested magnetars as a potential source of some FRBs.",
+  "CHIME/FRB Collaboration et al. 2020b": "Cited as a source that supports the association between magnetars and FRBs.",
+  "CHIME/FRB Collaboration et al. 2021a": "Cited as a source that identified sub-second periodicity from the sub-components of FRB 20191221A."
+}
+{
+  "Scholz et al. 2016": "Referenced to support the statement that repeating FRBs tend to have larger burst widths than non-repeating FRBs.",
+  "CHIME/FRB Collaboration et al. 2019c": "Cited to provide evidence for the larger burst widths of repeating FRBs compared to non-repeating FRBs.",
+  "Fonseca et al. 2020a": "Referenced to support the claim that repeating FRBs tend to have larger burst widths than non-repeating FRBs.",
+  "Pleunis et al. 2021b": "Cited to provide evidence for the larger burst widths of repeating FRBs compared to non-repeating FRBs.",
+  "Hessels et al. 2019": "Referenced to highlight the common feature of downward drifting of subpulses in frequency with time among repeating FRBs.",
+  "CHIME/FRB Collaboration et al. 2019b": "Cited to provide evidence for the common feature of downward drifting of subpulses in frequency with time among repeating FRBs.",
+  "Michilli et al. 2018": "Referenced to support the statement that some repeating FRBs share flat polarisation position angles within and between bursts.",
+  "Nimmo et al. 2021": "Cited to provide an example of repeating FRBs that share flat polarisation position angles within and between bursts.",
+  "Luo et al. 2020": "Referenced to highlight the diversity of position angle swings in the bursts of FRB 20180301.",
+  "Chawla et al. 2020": "Cited to provide evidence for the detection of FRB repeating sources at frequencies between 300 MHz and 8 GHz.",
+  "Pilia et al. 2020": "Referenced to support the statement that FRB repeating sources have been detected at frequencies between 300 MHz and 8 GHz.",
+  "Parent et al. 2020": "Cited to provide evidence for the detection of FRB repeating sources at frequencies between 300 MHz and 8 GHz.",
+  "Gajjar et al. 2018": "Referenced to support the statement that FRB repeating sources have been detected at frequencies between 300 MHz and 8 GHz.",
+  "Gourdji et al. 2019": "Cited to highlight the finding that individual pulses of repeating FRBs are narrow-band but scattered across a wide range of frequencies with time.",
+  "Bethapudi et al. 2022": "Referenced to provide an example of a repeating FRB (FRB 20180916B) detected up to 5.3 GHz.",
+  "Pearlman et al. 2020": "Cited to demonstrate the frequency dependent activity of FRB 20180916B, as evidenced by the absence of simultaneous detections at frequencies 2.3 and 8.4 GHz.",
+  "Chawla et al. 2020": "Referenced to support the statement that FRB 20180916B was detected at 300-400 MHz using the Green Bank Telescope.",
+  "Kumar et al. 2021a": "Cited to provide evidence for the narrow-band emission of FRB 20190711A.",
+  "Gourdji et al. 2019": "Referenced to support the statement that narrow-band emission has been demonstrated for FRB 20121102A.",
+  "Majid et al. 2020": "Cited to provide evidence for the narrow-band emission of FRB 20121102A."
+}
+{
+  "Law et al. 2017": "Referenced as one of the sources for simultaneous, multiband, targeted searches for FRB emission below 300 MHz.",
+  "Sokolowski et al. 2018": "Referenced as one of the sources for simultaneous, multiband, targeted searches for FRB emission below 300 MHz.",
+  "Houben et al. 2019": "Referenced as one of the sources for simultaneous, multiband, targeted searches for FRB emission below 300 MHz.",
+  "Coenen et al. 2014": "Referenced as one of the sources for widefield blind searches for FRB emission below 300 MHz.",
+  "Karastergiou et al. 2015": "Referenced as one of the sources for widefield blind searches for FRB emission below 300 MHz.",
+  "Tingay et al. 2015": "Referenced as one of the sources for widefield blind searches for FRB emission below 300 MHz.",
+  "Rowlinson et al. 2016": "Referenced as one of the sources for widefield blind searches for FRB emission below 300 MHz.",
+  "Sanidas et al. 2019": "Referenced as one of the sources for widefield blind searches for FRB emission below 300 MHz.",
+  "Kaplan et al. 2015": "Referenced as one of the sources for searches for prompt and dispersed signals associated with gamma-ray bursts.",
+  "Rowlinson et al. 2019": "Referenced as one of the sources for searches for prompt and dispersed signals associated with gamma-ray bursts.",
+  "Rowlinson et al. , 2021": "Referenced as one of the sources for searches for prompt and dispersed signals associated with gamma-ray bursts.",
+  "Anderson et al. 2021": "Referenced as one of the sources for searches for prompt and dispersed signals associated with gamma-ray bursts.",
+  "Tian et al. 2022a,b": "Referenced as one of the sources for searches for prompt and dispersed signals associated with gamma-ray bursts.",
+  "Pleunis et al. (2021a)": "Referenced as the source for the detection of 18 bursts from FRB 20180916B between 110-188 MHz using LOFAR, confirming the existence and detectability of low frequency bursts from repeating FRBs at cosmological distances.",
+  "Pastor-Marazuela et al. 2021": "Referenced as one of the sources for demonstrating the ∼ 3 day delay in the peak activity between bursts observed at different frequencies."
+}
+{
+  "de Oliveira-Costa et al. 2008": "Referenced to support the claim that the increase in sky background temperature at low radio frequencies can increase the noise level in low frequency observations and reduce the observed signal-to-noise ratio (S/N).",
+  "Cong et al. 2021": "Referenced to support the claim that the increase in sky background temperature at low radio frequencies can increase the noise level in low frequency observations and reduce the observed signal-to-noise ratio (S/N).",
+  "Lanman et al. 2022": "Referenced to highlight the phenomenon of repeating FRBs suddenly turning on and entering periods of long-term activity, which makes it difficult to define proper burst rates for sources that exhibit burst clustering.",
+  "Josephy et al. 2019": "Referenced to highlight the challenge of defining proper burst rates for sources that exhibit burst clustering, which may be more/less active at higher/lower frequencies.",
+  "Pearlman et al. 2020": "Referenced to highlight the challenge of defining proper burst rates for sources that exhibit burst clustering, which may be more/less active at higher/lower frequencies."
+}
+{
+  "Pleunis et al. 2021a": "Referenced to support the statement that low frequency FRB measurements would place more stringent constraints on the size of the emission site based on propagation effects such as free-free absorption.",
+  "Petroff et al. 2022": "Cited to highlight that low frequency FRB emission is sensitive to propagation effects such as dispersion, scattering, and Faraday rotation, and could provide precise measurements of the dispersion measure, scattering timescale, and rotation measure of FRBs.",
+  "Tremblay et al. 2015": "Referenced to describe the archival MWA observations taken with the voltage capture system (VCS) used in the study."
+}

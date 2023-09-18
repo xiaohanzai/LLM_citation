@@ -1,0 +1,38 @@
+{
+"Lieu & Duan 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts.",
+"Lovelace & Richards 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts.",
+"Naab & Ostriker 2017": "Referenced to support the statement that the circumgalactic medium (CGM) is a crucial component in the baryonic processes in the universe.",
+"Tumlinson et al. 2017": "Cited to emphasize the questions that remain about the distribution and mass of the circumgalactic medium (CGM) around galaxies.",
+"McGaugh et al. 2010": "Cited to highlight the "missing baryon problem" and the detection of only a fraction of the baryons associated with halos.",
+"Dai et al. 2010": "Cited to highlight the "missing baryon problem" and the detection of only a fraction of the baryons associated with halos.",
+"McQuinn 2016": "Cited to highlight the "missing baryon problem" and the detection of only a fraction of the baryons associated with halos.",
+"Cordes & Chatterjee 2019": "Referenced to support the statement that fast radio bursts (FRBs) are starting to provide an unprecedented probe of the circumgalactic medium (CGM) with the advent of many radio telescopes geared for this science coming online across the globe.",
+"Petroff et al. 2019": "Cited to support the statement that fast radio bursts (FRBs) are starting to provide an unprecedented probe of the circumgalactic medium (CGM) with the advent of many radio telescopes geared for this science coming online across the globe.",
+"Petroff et al. , 2022": "Cited to support the statement that fast radio bursts (FRBs) are starting to provide an unprecedented probe of the circumgalactic medium (CGM) with the advent of many radio telescopes geared for this science coming online across the globe.",
+"Prochaska & Zheng 2019": "Cited to support the statement that fast radio bursts (FRBs) are starting to provide an unprecedented probe of the circumgalactic medium (CGM) with the advent of many radio telescopes geared for this science coming online across the globe.",
+"Keating & Pen 2020": "Cited to support the statement that fast radio bursts (FRBs) are starting to provide an unprecedented probe of the circumgalactic medium (CGM) with the advent of many radio telescopes geared for this science coming online across the globe.",
+"McQuinn 2014": "Cited to highlight the use of dispersion measure (DM) measurements from fast radio bursts (FRBs) to constrain the circumgalactic medium (CGM) gas distribution.",
+"Ravi 2019": "Cited to highlight the use of dispersion measure (DM) measurements from fast radio bursts (FRBs) to constrain the circumgalactic medium (CGM) gas distribution."
+}
+{
+  "Kulkarni et al. 2015": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "Connor et al. 2016": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "Tendulkar et al. 2017": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "Yang et al. 2017": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "Niu et al. 2022": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "Cordes et al. 2022": "Referenced to support the statement that the host galaxy and local environment around the FRB can contribute to the excess DM measurement.",
+  "McQuinn 2014": "Referenced to highlight that cosmic structures can contribute scatter at the hundreds of pc cm -3 level.",
+  "Macquart et al. 2020": "Referenced to highlight that cosmic structures can contribute scatter at the hundreds of pc cm -3 level.",
+  "Ravi 2019": "Referenced to support the statement that previous theoretical works predict a certain number of FRBs required to put constraints on the CGM when stacking arcsecond-localized FRBs.",
+  "Petroff et al. 2022": "Referenced to provide the current number of sufficiently well localized FRBs.",
+  "Platts et al. 2020": "Referenced to mention an alternative approach for constraining the Milky Way DM using a small number of transients.",
+  "Amiri et al. 2021": "Referenced to describe the first FRB catalog published by the Canadian Hydrogen Intensity Mapping Experiment (CHIME) FRB project."
+}
+{
+  "Schaan et al. 2021": "Referenced to highlight the thermal and kinetic Sunyaev-Zeldovich effect as a method of studying the circumgalactic medium (CGM) in higher mass halos.",
+  "Chadayammuri et al. 2022": "Cited to mention halo X-ray emission as another method of studying the CGM in higher mass halos.",
+  "Bregman et al. 2021": "Referenced for a measurement of nearby Milky Way size halos in the context of studying the CGM."
+}
+{
+  "N/A": "No citations in the text"
+}

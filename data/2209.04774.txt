@@ -1,0 +1,90 @@
+{
+  "Cordes & Chatterjee 2019": "Referenced to provide a recent source on the study of fast radio bursts (FRBs) and their characteristics.",
+  "Petroff et al. 2019a": "Referenced to provide a recent source on the study of fast radio bursts (FRBs) and their characteristics.",
+  "Xiao et al. 2021": "Referenced to provide a recent source on the study of fast radio bursts (FRBs) and their characteristics.",
+  "Lorimer et al. 2007": "Referenced as the first discovery of a fast radio burst (FRB) and to establish the timeline of FRB detections.",
+  "Petroff & Yaron 2020": "Referenced to provide a recent source on the study of fast radio bursts (FRBs) and their characteristics.",
+  "Amiri et al. 2021": "Referenced to provide a recent source on the study of fast radio bursts (FRBs) and their characteristics.",
+  "Bochenek et al. 2020": "Referenced to provide a recent source on the detection of FRB 200428 and its association with an X-ray burst from a Galactic magnetar.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to provide a recent source on the detection of FRB 200428 and its association with an X-ray burst from a Galactic magnetar.",
+  "Mereghetti et al. 2020": "Referenced to provide a recent source on the detection of FRB 200428 and its association with an X-ray burst from a Galactic magnetar.",
+  "Bhardwaj et al. 2021": "Referenced to provide a recent source on the localization of the repeating FRB 20200120E in a globular cluster of M81 and its implications for the origins of FRBs.",
+  "Kirsten et al. 2022": "Referenced to provide a recent source on the localization of the repeating FRB 20200120E in a globular cluster of M81 and its implications for the origins of FRBs.",
+  "Lyubarsky 2014": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Dai et al. 2016": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Katz 2016": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Murase et al. 2016": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Beloborodov 2017": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Kumar et al. 2017": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Lyutikov 2017": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Waxman 2017": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Zhang 2017": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Yang & Zhang 2018": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Metzger et al. 2019": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Wadiasingh & Timokhin 2019": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Beloborodov 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Dai 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Geng et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Lu et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Margalit et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Wang et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Wu et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Xiao & Dai 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Yang et al. 2020": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Zhang 2020a": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Wang et al. 2021": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Yang & Zhang 2021": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs).",
+  "Yu et al. 2021": "Referenced to provide a source on the unknown radiation mechanism of fast radio bursts (FRBs)."
+}
+{
+  "Yang et al. 2020": "Referenced as the first author in the paper's contact information.",
+  "Zhang 2020a": "Referenced as an author in the paper's contact information.",
+  "Wang et al. 2021": "Referenced as an author in the paper's contact information.",
+  "Yang & Zhang 2021": "Referenced as authors in the paper's contact information.",
+  "Yu et al. 2021": "Referenced as an author in the paper's contact information.",
+  "Spitler et al. 2016": "Cited to highlight FRB sources that can exhibit repeating behaviors.",
+  "CHIME/FRB Collaboration et al. 2019": "Cited to highlight FRB sources that can exhibit repeating behaviors.",
+  "Keane et al. 2016": "Cited to highlight FRB sources that can only be observed once even after long-term observations.",
+  "Bhandari et al. 2018": "Cited to highlight FRB sources that can only be observed once even after long-term observations.",
+  "Shannon et al. 2018": "Cited to highlight FRB sources that can only be observed once even after long-term observations.",
+  "Petroff et al. 2019b": "Cited to highlight FRB sources that can only be observed once even after long-term observations.",
+  "Qiu et al. 2019": "Cited to highlight FRB sources that can only be observed once even after long-term observations.",
+  "Amiri et al. 2021": "Cited as the source of information about the First CHIME/FRB Catalog.",
+  "Pleunis et al. 2021": "Cited to highlight significant differences in pulse width and bandwidth for one-off and repeating FRBs.",
+  "Connor et al. 2020": "Cited as an example of the open question regarding whether one-off FRBs are one kind of repeaters with a very low burst rate."
+}
+{
+  "Rajwade et al. 2020": "Referenced to support the characterization of FRB 121102 by its possible ∼ 160 days periodic activity.",
+  "Cruces et al. 2021": "Referenced to support the characterization of FRB 121102 by its possible ∼ 160 days periodic activity.",
+  "Li et al. 2021a": "Cited to highlight the high burst rate of FRB 121102 with a peak burst rate of about 122 h -1 or even higher.",
+  "Jahns et al. 2022": "Cited to highlight the high burst rate of FRB 121102 with a peak burst rate of about 122 h -1 or even higher.",
+  "Nimmo et al. 2022": "Referenced to support the characterization of FRB 20201124A by its high burst rate of about 45.8 h -1.",
+  "Xu et al. 2021": "Referenced to support the characterization of FRB 20201124A by its high burst rate of about 45.8 h -1.",
+  "Yang & Zhang 2021": "Cited to propose that the burst rates of repeating FRB sources are due to the crust fracturing of a magnetar.",
+  "Li et al. 2021b": "Cited to propose that the burst rate of repeating FRB sources is caused by starquakes due to the spin evolution of the neutron star (NS) in a binary model, with the interaction between the NS magnetosphere and the accreted material.",
+  "Dehman et al. 2020": "Cited to support the simulation of the crust of young magnetars and the evolution of magnetic fields in the crust causing crustal failures."
+}
+{
+  "Ruderman (1991a,b,c)": "Referenced to support the proposal that shear stresses in the NS crust can cause large-scale crust cracking events.",
+  "Blaes et al. 1989": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture.",
+  "Thompson & Duncan 1995, 1996": "Referenced to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture.",
+  "Ruderman et al. 1998": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture.",
+  "Jones 2003": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture, and to support the theory that cracks and voids may not form in the NS crust.",
+  "Horowitz & Kadau 2009": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture, and to support the theory that cracks and voids may not form in the NS crust.",
+  "Levin & Lyutikov 2012": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture.",
+  "Thompson et al. (2000)": "Referenced to support the argument that the mechanical failures of the NS crust consist of brittle fractures and plastic deformation.",
+  "Jones (2003)": "Cited to support the theory that cracks and voids may not form in the NS crust.",
+  "Horowitz & Kadau (2009)": "Cited to support the theory that cracks and voids may not form in the NS crust.",
+  "Levin & Lyutikov (2012)": "Cited to contribute to the ongoing controversy regarding whether the failure of the NS crust is plastic flow or brittle fracture.",
+  "Kojima": "N/A"
+}
+{
+  "Horowitz & Kadau 2009": "Referenced to support the finding that voids heal quickly under extreme pressure in the crust based on molecular simulations.",
+  "Kojima & Suzuki 2020; Gourgouliatos & Lander 2021": "Cited as examples of global simulations of NS crusts based on plastic flows in the entire crust.",
+  "Thompson et al. 2017": "Referenced to suggest that the lifetime of voids in the NS crust may be longer due to concentrated zones of strong shear.",
+  "McDermott et al. 1988; Li & Wang 2022": "Cited to highlight that some oscillation modes and energy can amplify cracks, potentially prolonging the lifetime of voids.",
+  "Suvorov & Kokkotas 2019": "Referenced to suggest that a very young NS or magnetar may experience easier cracking of the crust compared to an older NS."
+}
+{
+  "N/A": "No citations appear in the text."
+}

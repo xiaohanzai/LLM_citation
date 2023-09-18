@@ -1,0 +1,75 @@
+{
+  "Lorimer et al., 2007": "Referenced to highlight the discovery of the first reported FRB (now called FRB 20010724) and its characteristics, including peak flux density, duration, and dispersion measure (DM).",
+  "Keane et al., 2012": "Cited to report another highly dispersed burst-like event (later termed as FRB 20010621A) and discuss the possibility of it being a giant pulse of an underlying pulsar or from a Rotating RAdio Transient (RRAT).",
+  "McLaughlin et al., 2006": "Referenced to mention the possibility of the burst reported by Keane et al. (2012) being from a Rotating RAdio Transient (RRAT).",
+  "Thornton et al., 2013": "Cited to provide strong support for the existence of extragalactic/cosmological FRBs and estimate the high event rate of FRBs.",
+  "Lorimer et al., 2013": "Referenced to forecast the potential of widefield radio interferometers in detecting a significant number of FRBs per day."
+}
+{
+  "Burke-Spolaor et al., 2011": "Referenced to describe the detection of FRB-like signals by the Parkes telescope that were later identified as artificial signals caused by microwave ovens.",
+  "Petroff et al., 2015c": "Cited to provide further information on the identification of the artificial signals as 'perytons' caused by microwave ovens.",
+  "Spitler et al., 2016": "Referenced as the first report of FRB 121102, a repeating FRB source, and its detection with similar dispersion measure (DM) as detected by the Arecibo 305-m radio telescope.",
+  "Chatterjee et al., 2017": "Cited to highlight the use of targeted observations with the Karl G. Jansky Very Large Array (VLA) and the Arecibo telescope to detect additional bursts and localize the source using the interferometric technique.",
+  "Marcote et al., 2017": "Referenced for very long-baseline radio interferometric observations that refined the persistent radio source associated with FRB 121102 to milliarcsecond scale and provided information on the source's distance.",
+  "Tendulkar et al., 2017": "Cited for the direct identification of the source host galaxy of FRB 121102 in the optical band, establishing its cosmological origin."
+}
+{
+  "Masui et al., 2015": "Referenced to report evidence of large rotation measure (RM) in excess of the Galactic value for FRB 20110523A, indicating a dense magnetized plasma associated with the FRB.",
+  "Michilli et al., 2018": "Cited to highlight the extreme and evolving rotation measure (RM) of rFRB 20121102A, as well as the non-varying polarization angle across each burst during individual bursts.",
+  "Luo et al., 2020b": "Referenced to describe the diverse polarization angle swings among different bursts of the active repeating source FRB 20180301A, and to mention the discovery of more repeaters through deep monitoring with the Fivehundred-meter Aperture Spherical radio Telescope (FAST) in China.",
+  "CHIME/FRB Collaboration et al., 2019a,b": "Cited to mention the discovery of a few more repeating sources by the Canadian Hydrogen Intensity Mapping Experiment (CHIME).",
+  "Kumar et al., 2019": "Referenced to highlight the discovery of more repeaters through deep monitoring with the Australian Square Kilometre Array Pathfinder (ASKAP).",
+  "Niu et al., 2021": "Cited to mention the discovery of more repeaters with the Fivehundred-meter Aperture Spherical radio Telescope (FAST) in China.",
+  "Bannister et al., 2019": "Referenced to indicate the use of interferometry by the ASKAP collaboration and other groups to localize FRBs and reveal host galaxy types and positions.",
+  "Bhandari et al., 2022": "Cited to highlight the use of interferometry by the Deep Synotic Array (DSA) collaboration to localize FRBs and reveal host galaxy types and positions.",
+  "Macquart et al., 2020": "Referenced to mention the use of interferometry to localize FRBs and confirm the theoretically expected dispersion measure (DM) IGM-z correlation.",
+  "Marcote et al., 2020": "Cited to indicate the use of interferometry to localize FRBs and reveal host galaxy types and positions.",
+  "Prochaska et al., 2019": "Referenced to mention the use of interferometry to localize FRBs and reveal host galaxy types and positions.",
+  "Ravi et al., 2019": "Cited to indicate the use of interferometry to localize FRBs and reveal host galaxy types and positions.",
+  "Xu et al., 2022": "Referenced to mention the use of interferometry to localize FRBs and reveal host galaxy types and positions."
+}
+{
+  "The CHIME/FRB Collaboration et al., 2020": "Referenced to report the apparent ∼ 16 day periodicity of a repeating source and the detection of an extremely high fluence FRB-like event.",
+  "Pastor-Marazuela et al., 2021": "Cited to suggest that the active window of the repeating source is 'chromatic', with bursts detected in higher frequencies appearing at somewhat earlier phases than those detected in lower frequencies.",
+  "Pleunis et al., 2021b": "Referenced to support the observation that bursts from the repeating source are detected in higher frequencies at earlier phases.",
+  "Rajwade et al., 2020": "Cited to suggest a tentative ∼ 157-day period for the repeating source.",
+  "Li et al., 2021b": "Referenced to provide the number of bursts detected during one active window of the repeating source.",
+  "CHIME/FRB Collaboration et al., 2020": "Cited to report the detection of an extremely high fluence FRB-like event with two pulses.",
+  "Bochenek et al., 2020": "Referenced to mention that one pulse of the FRB-like event was also detected by the Survey for Transient Astronomical Radio Emission 2 (STARE2).",
+  "Li et al., 2021a": "Cited to associate the radio burst with a hard X-ray burst from a Galactic magnetar.",
+  "Mereghetti et al., 2020": "Referenced to associate the radio burst with a hard X-ray burst from a Galactic magnetar.",
+  "Ridnaia et al., 2021": "Cited to associate the radio burst with a hard X-ray burst from a Galactic magnetar.",
+  "Tavani et al., 2021": "Referenced to associate the radio burst with a hard X-ray burst from a Galactic magnetar.",
+  "Lin et al., 2020": "Cited to suggest that the majority of X-ray bursts emitted by the magnetar are not associated with FRBs.",
+  "Kirsten et al., 2021": "Referenced to mention the discovery of fainter radio pulses from the magnetar.",
+  "Zhang et al., 2020a": "Cited to mention the discovery of fainter radio pulses from the magnetar."
+}
+{
+  "Bhardwaj et al., 2021": "Referenced to provide the discovery of a repeating source rFRB 20200120E associated with a nearby spiral galaxy M81.",
+  "Kirsten et al., 2022": "Cited for the surprising localization of the source rFRB 20200120E to a globular cluster in the host galaxy.",
+  "Nimmo et al., 2021": "Referenced for the observation of bursts from the source rFRB 20200120E with rapid temporal structures.",
+  "Niu et al., 2021": "Cited for the detection of another repeating FRB source, rFRB 20190520B, and its resemblance to rFRB 20121102A.",
+  "Dai et al., 2022": "Referenced for the extremely large and varying RM observed in both rFRB 20190520B and rFRB 20121102A.",
+  "Michilli et al., 2018": "Cited for the extremely large and varying RM observed in rFRB 20190520B.",
+  "Xu et al., 2022": "Referenced for the intense follow-up observations of the repeating source rFRB 20201124A and the discovery of peculiar short-term polarization property variations.",
+  "Kumar et al., 2022b": "Cited for the discovery of significant circular polarization from the source rFRB 20201124A.",
+  "Anna-Thomas et al., 2022": "Referenced for the observation of extreme RM variations, including a reversal of RM, in rFRB 20190529.",
+  "Feng et al., 2022": "Cited for the notice of frequency-dependent polarization degree in a sample of repeating FRBs."
+}
+{
+  "Feng et al., 2022": "Cited to support the interpretation of frequency-dependent polarization degree in a sample of repeating FRBs as a scatter of RM due to multi-path propagation effect of radio emission.",
+  "Chime/Frb Collaboration et al., 2022": "Referenced to identify a special source detected by CHIME, FRB 20191221A, which shows a 216.8(1) ms periodicity with a significance of 6.5σ and has a roughly 3 s long duration, making it an outlier in the FRB population.",
+  "Nemiroff, 1994": "Cited to draw a parallel between the field of gamma-ray bursts and the early years of FRB study, highlighting the large number of theoretical papers dedicated to guessing the origin of FRBs based on limited observational data.",
+  "Platts et al., 2019": "Referenced to mention the existence of a survey of proposed FRB models and an online FRB theory Wiki page, but the article focuses on a critical assessment of the leading ideas of interpreting FRBs currently under active investigations."
+}
+{
+  "Bailes, 2022": "Referenced as a source for more comprehensive observational reviews.",
+  "Cordes and Chatterjee, 2019": "Referenced as a source for more comprehensive observational reviews.",
+  "Petroff et al., 2019Petroff et al., , 2022": "Referenced as a source for more comprehensive observational reviews.",
+  "Katz (2018b)": "Referenced as an early theory review on the surveys of many theoretical models.",
+  "Platts et al. (2019)": "Referenced as an early theory review on the surveys of many theoretical models.",
+  "Popov et al. (2018)": "Referenced as an early theory review on the surveys of many theoretical models.",
+  "Zhang (2020c)": "Referenced as a concise theory review on the physical mechanisms of FRBs.",
+  "Lyubarsky (2021)": "Referenced as a concise theory review on the physical mechanisms of FRBs.",
+  "Xiao et al. (2021)": "Referenced as a concise theory review on the physical mechanisms of FRBs."
+}

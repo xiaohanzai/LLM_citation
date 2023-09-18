@@ -37,7 +37,7 @@ def extract_ads_refs(response):
         # check if big collaboration first
         # damn it... ligo virgo and another one can all appear in the same paper???
         # I have no idea how papers like that are gonna be cited so... those will be ignored for now
-        if len(authors) <= 3:
+        if len(authors) <= 3 and 'Collaboration' not in authors[0]:
             for author in authors:
                 names.append(extract_lastname_ads(author))
         else:

@@ -1,0 +1,33 @@
+{
+  "Ge et al. 2022": "Referenced to report the timing behaviors and glitch characteristics of the fast radio burst (FRB) 200428 from the soft gamma ray repeater (SGR) 1935+2154 (SGR 1935), including the relative size of the glitch and the possible physical associations between glitch and FRB-like bursts.",
+  "DSU": "Cited to describe the delayed spin up process observed in large Crab pulsar glitches, which is similar to the 8-day-long slow rise component observed in the glitch associated with SGR 1935.",
+  "SGR 1935": "Mentioned as the second pulsar where DSU has been observed, highlighting its relevance to the study of torque reversal and delayed spin up."
+}
+{
+  "pulsars1": "N/A",
+  "Dai et al. 2018": "Referenced to support the statement that cases of ∆ν/ν > 1 have been found in high magnetic field pulsars and magnetars following glitches.",
+  "Tong & Huang 2020": "Referenced to support the statement that cases of ∆ν/ν > 1 have been deduced in high magnetic field pulsars and magnetars following glitches.",
+  "Link, Epstein, & Lattimer 1999": "Referenced to support the statement that glitches are widely accepted as a probe of neutron star (NS) physics, such as the NS equation of state.",
+  "Newton, Berger, & Haskell 2015": "Referenced to support the statement that glitches are widely accepted as a probe of neutron star (NS) physics, such as the NS equation of state.",
+  "Montoli, Antonelli, & Pizzochero 2020": "Referenced to support the statement that glitches are widely accepted as a probe of neutron star (NS) physics, such as the NS equation of state.",
+  "Ho et al. 2015": "Referenced to support the statement that glitches are believed to be a manifestation of sudden vortex outward motion and can provide information about NS mass.",
+  "Pizzochero et al. 2017": "Referenced to support the statement that glitches are believed to be a manifestation of sudden vortex outward motion and can provide information about NS mass.",
+  "Anderson & Itoh 1975": "Referenced to support the statement that glitches are believed to be a manifestation of sudden vortex outward motion and angular momentum transfer from crustal superfluid to the crust.",
+  "Pizzochero 2011": "Referenced to support the statement that glitches are believed to be a manifestation of sudden vortex outward motion and angular momentum transfer from crustal superfluid to the crust.",
+  "Alpar et al. 1984": "Referenced to support the statement that the vortex creep model has been established to describe the postglitch recovery process.",
+  "Haskell et al. 2018": "Referenced to support the statement that improved models have considered the hydrodynamical process of vortex motion to extract information through glitch rise process.",
+  "Graber, Cumming, & Andersson 2018": "Referenced to support the statement that improved models have considered the hydrodynamical process of vortex motion to extract information through glitch rise process.",
+  "Sourie & Chamel 2020": "Referenced to support the statement that improved models have considered the hydrodynamical process of vortex motion to extract information through glitch rise process."
+}
+{
+  "Dodson, McCulloch, & Lewis 2002": "Referenced to provide the estimated rise timescale of 2000 Vela glitch as 40 s.",
+  "Palfreyman et al. 2018": "Cited to constrain the rise timescale of 2017 Vela glitch to be 48 s.",
+  "Ashton et al. 2019": "Referenced to further constrain the rise timescale of 2017 Vela glitch to be less than 12.6 s with 90% confidence level.",
+  "Shaw et al. 2021": "Cited to highlight the partial resolution of several Crab glitches and the discovery of a slow rise process with a timescale of days, named delayed increases in rotation rate (DSU), delayed spin up, or extended spin up.",
+  "Lyne, Smith, & Pritchard 1992": "Referenced to introduce the slow rise phenomenon called delayed spin up (DSU) observed during the 1989 Crab pulsar glitch.",
+  "Wong, Backer, & Lyne 2001": "Cited to identify one of the five DSUs found in the large Crab pulsar glitches of 1996, 2004, 2011, 2017, and 2019.",
+  "Ge et al. 2020": "Referenced to identify one of the five DSUs found in the large Crab pulsar glitches of 1996, 2004, 2011, 2017, and 2019."
+}
+{
+  "N/A": "No citations found in the text."
+}

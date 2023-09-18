@@ -1,0 +1,60 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the year of discovery of fast radio bursts (FRBs).",
+  "Spitler et al. 2016": "Cited to introduce the concept of repeating FRBs and their distinction from one-off events.",
+  "Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020; Lin et al. 2020; Li et al. 2021; Tavani et al. 2021": "These papers are cited to support the suggestion that magnetars could be a source of at least some FRBs, based on the detection of FRB 200428 associated with the galactic magnetar SGR J1935+2154."
+}
+{
+  "Li et al. 2021": "Referenced to highlight the lack of detected periods in the millisecond to second range for FRB 20121102A and FRB 20201124A, despite thousands of pulses being detected, and to discuss the challenges this poses to the theory of single rotating compact objects.",
+  "Caleb et al. 2020": "Cited for their use of the PRESTO 1 software to perform a Fast Fourier Transform (FFT) periodic search of FRB 20121102A using MeerKAT, as well as their use of the Fast Folding Algorithm (FFA) to search for periods ranging from 500 ms to 10 min.",
+  "Cruces et al. 2021": "Referenced for their extensive multi-wavelength observation of FRB 20121102A and their use of DM trials for the acceleration search and the FFA search.",
+  "Gourdji et al. 2019": "Cited for their contribution to the study of FRB 20201124A.",
+  "Xu et al. 2021": "Referenced for their contribution to the study of FRB 20201124A.",
+  "Chime/Frb Collaboration et al. 2020": "Cited for their contribution to the study of FRB 20180916B.",
+  "Chawla et al. 2020": "Referenced for their contribution to the study of FRB 20180916B.",
+  "Marthi et al. 2020": "Cited for their contribution to the study of FRB 20180916B.",
+  "Ransom 2011": "Referenced as the source of the PRESTO 1 software used by Caleb et al. (2020) for their periodic search of FRB 20121102A.",
+  "Staelin 1969": "Cited as the source of the Fast Folding Algorithm (FFA) used by Caleb et al. (2020) and Cruces et al. (2021) for their periodic searches.",
+  "Morello et al. 2020": "Referenced as a source for the Fast Folding Algorithm (FFA) used by Caleb et al. (2020) and Cruces et al. (2021) for their periodic searches.",
+  "Jahns et al. 2022": "Cited for their study of the period and waiting time characteristics of FRB 20121102A with the Arecibo Telescope, using the Pearson χ2 test and the Lomb-Scargle Periodogram (LSP) to search for periods between 10 ms and 100 s."
+}
+{
+  "Jahns et al. (2022)": "Referenced to support the study of the period and waiting time characteristics of FRB 20121102A with the Arecibo Telescope, using the Pearson χ2 test and the LSP to search for periods.",
+  "Nimmo et al. (2022)": "Cited for observing FRB 20200120E using the Effelsberg telescope and using PRESTO's accelsearch, brute force search, and fold search with χ2 statistic to find no strict periodicity in the burst arrival times during the storm.",
+  "Chime/Frb Collaboration et al. (2020)": "Referenced to mention the active-dormant cycle of FRB 20180916B -16 days.",
+  "Rajwade et al. (2020); Cruces et al. (2021); Li et al. (2021)": "Cited to highlight the active-dormant cycle of FRB 20121102A -160 days.",
+  "Ioka & Zhang 2020; Zhang & Gao 2020; Sridhar et al. 2021": "Referenced to discuss theoretical interpretations for the long cycles of FRBs, including binary systems.",
+  "Yang & Zou 2020; Levin et al. 2020; Zanazzi & Lai 2020; Sob'yanin 2020; Tong et al. 2020": "Cited to mention magnetar precession as a theoretical interpretation for the long cycles of FRBs.",
+  "Dai & Zhong (2020); Voisin et al. (2021); Du et al. (2021)": "Referenced to discuss theoretical interpretations for the long cycles of FRBs, including asteroid interactions.",
+  "Beniamini et al. (2020)": "Cited to mention slow rotating magnetars as a theoretical interpretation for the long cycles of FRBs."
+}
+{
+  "Hessels et al. (2019)": "Referenced to report the first observation of subsecond periodic fine pulse structures in FRB events.",
+  "Gourdji et al. (2019)": "Referenced to support the observation of subsecond periodic fine pulse structures in FRB events.",
+  "Amiri et al. (2019)": "Referenced to report the observation of subsecond periodic fine pulse structures in FRB 180814B.",
+  "Andersen et al. (2021)": "Referenced to report the discovery of three FRB signals with multiple components showing a tentative periodicity.",
+  "Chen et al. (2021)": "Referenced to propose the micro-lensing effect as a possible cause for the observed periodic multi-component bursts.",
+  "Cordes et al. (1990)": "Referenced to highlight the observation of similar fine structures in some normal and millisecond pulsars.",
+  "De et al. (2016)": "Referenced to support the observation of similar fine structures in some normal and millisecond pulsars.",
+  "Liu et al. (2022)": "Referenced to highlight the observation of similar fine structures in some normal and millisecond pulsars."
+}
+{
+  "Rajwade et al. 2020": "Referenced to support the observation of active and dormant cycles of tens to hundreds of days in some FRBs.",
+  "Chime/Frb Collaboration et al. 2020": "Referenced to support the observation of active and dormant cycles of tens to hundreds of days in FRB 20180916B.",
+  "Wharton et al. 2021": "Referenced as the source that located FRB 20201124A discovered by CHIME.",
+  "Nimmo et al. 2021": "Referenced as the source that located FRB 20201124A discovered by European VLBI Network (EVN).",
+  "Lanman et al. 2021": "Referenced for the morphology, fluences, and arrival times of FRB 20201124A.",
+  "Hilmarsson et al. 2021": "Referenced for polarization observations of FRB 20201124A.",
+  "Marthi et al. 2021": "Referenced for observations of FRB 20201124A in the incoherent array mode and the detection of persistent radio emissions and bursts.",
+  "Ransom 2011": "Referenced as the period search method used in the analysis of FRB 20201124A bursts.",
+  "Andersen & Ransom 2018": "Referenced as the jerk search method used in the analysis of FRB 20201124A bursts.",
+  "Staelin 1969": "Referenced as the Fast Folding Algorithm (FFA) analysis method used in the analysis of FRB 20201124A bursts.",
+  "Morello et al. 2020": "Referenced as the Fast Folding Algorithm (FFA) analysis method used in the analysis of FRB 20201124A bursts.",
+  "Xu et al. 2021": "Referenced for the discovery of significant and irregular variations of the Faraday Rotation Measurement (RM) and the evidence of polarization Faraday conversion in FRB 20201124A.",
+  "N/A": "No citations found for the given text."
+}
+{
+  "Main et al. 2021": "Referenced to report the outburst of FRB 20201124A observed by CHIME 2 and Effelsberg telescope.",
+  "Zhou et al. 2022": "Cited to acknowledge that the number of pulses reported in this paper differs from those reported in Zhou et al. 2022.",
+  "Zhang et al. 2022": "Cited to acknowledge that the number of pulses reported in this paper differs from those reported in Zhang et al. 2022.",
+  "Jiang et al. 2022": "Cited to acknowledge that the number of pulses reported in this paper differs from those reported in Jiang et al. 2022."
+}

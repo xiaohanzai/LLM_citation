@@ -1,0 +1,40 @@
+{
+  "Lorimer et al. 2007": "Referenced as the source of the first detection of Fast Radio Bursts (FRBs) at the Parkes telescope.",
+  "Spitler et al. 2014": "Cited as the source of the first repeating FRB event (FRB121102) detected at the Arecibo radio telescope.",
+  "Rafiei-Ravandi et al. 2021": "Referenced for the detection of repeating FRBs at CHIME and non-repeating FRBs at CHIME.",
+  "Law et al. 2020": "Cited for the detection of repeating FRBs at VLA and non-repeating FRBs at VLA.",
+  "Price et al. 2018": "Referenced for the detection of non-repeating FRBs at Parkes.",
+  "Bhandari et al. 2020": "Cited for the detection of non-repeating FRBs at ASKAP.",
+  "Gupta et al. 2020": "Referenced for the detection of non-repeating FRBs at UTMOST.",
+  "Zhu et al. 2020": "Cited for the detection of non-repeating FRBs at FAST.",
+  "Parent et al. 2020": "Referenced for the detection of non-repeating FRBs at GBT.",
+  "Ravi et al. 2019": "Cited for the detection of non-repeating FRBs at DSA-10.",
+  "Marcote et al. 2020": "Referenced for the detection of non-repeating FRBs at Effelsberg.",
+  "Pilia et al. 2020": "Cited for the detection of non-repeating FRBs at SRT.",
+  "van Leeuwen et al. 2022": "Referenced for the detection of non-repeating FRBs at Apertif.",
+  "Rajwade et al. 2022": "Cited for the detection of non-repeating FRBs at MeerKAT.",
+  "Caleb et al. 2018": "Referenced to support the possibility of non-repeating FRBs forming a separate population distinct from repeating FRBs.",
+  "Palaniswamy et al. 2018": "Cited to support the possibility of non-repeating FRBs forming a separate population distinct from repeating FRBs.",
+  "Lu & Piro 2019": "Referenced to support the possibility of non-repeating FRBs forming a separate population distinct from repeating FRBs."
+}
+{
+  "Zhang (2020)": "Referred to for a quick review on the proposed FRB progenitor models.",
+  "Platts et al. (2019)": "Referred to for a quick review on the proposed FRB progenitor models.",
+  "Macquart et al. (2019)": "Analyzed a sample of 23 FRBs detected at ASKAP to infer the mean value of the spectral index 𝛼.",
+  "Houben et al. (2019)": "Utilized the fact that FRB 121102 was not simultaneously detected at 1.4 GHz and 150 MHz to propose a lower limit for the spectral index 𝛼.",
+  "James et al. (2021)": "Modelled the FRB energy distribution using a simple power law.",
+  "James et al. (2022)": "Used the FRBs detected at Parkes and ASKAP to constrain the exponent for the energy distribution."
+}
+{
+  "Bera et al. (2016)": "Referenced as an earlier work that modelled the FRB population and made predictions for FRB detection for different telescopes.",
+  "Bhattacharyya & Bharadwaj (2021)": "Cited for using the two-dimensional Kolmogorov-Smirnov (KS) test to compare observed FRBs with simulated predictions for different FRB population models.",
+  "Bhattacharyya et al. (2022)": "Referenced as a recent work that used a sample of non-repeating FRBs to perform a maximum likelihood analysis and determine the best fit parameter values for the FRB population model."
+}
+{
+  "Amiri et al. 2021": "Referenced as the source of the CHIME/FRB catalog, which reports the detection of 535 FRBs from 492 different sources.",
+  "Rafiei-Ravandi et al. 2021": "Cited as one of the studies that have shown the existence of at least two distinct classes of FRBs in the CHIME/FRB catalog.",
+  "Chawla et al. 2022": "Cited as one of the studies that have shown the existence of at least two distinct classes of FRBs in the CHIME/FRB catalog.",
+  "Pleunis et al. 2021": "Cited as one of the studies that have shown the existence of at least two distinct classes of FRBs in the CHIME/FRB catalog.",
+  "Josephy et al. 2021": "Cited as one of the studies that have shown the existence of at least two distinct classes of FRBs in the CHIME/FRB catalog.",
+  "Cui et al. 2022": "Referenced for proposing that the low DM and high DM FRBs may originate from two different kinds of sources or the same sources with different environmental conditions."
+}

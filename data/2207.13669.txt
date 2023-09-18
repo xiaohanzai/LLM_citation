@@ -1,0 +1,64 @@
+Lorimer et al. (2007):
+Referenced as the discovery of the first FRB, providing a historical context for the study of FRBs.
+
+Thornton et al. (2013):
+Cited to support the mention of theoretical models of cataclysmic origins for FRBs, indicating the motivation for investigating the origins of these phenomena.
+
+Spitler et al. (2016):
+Referenced for the discovery of repeat bursts from FRB 20121102A, highlighting the existence of a new class of repeating FRBs.
+
+The CHIME Collaboration et al. (2022, CHIME):
+Cited as the discoverers of FRB 20180916B, the specific repeating FRB that is the focus of the paper.
+Chime/Frb Collaboration et al. (2020):
+Referenced to provide information about the repeating FRB 20180916B, including its activity period, active window, and the number of detections at 600 MHz.
+
+Marcote et al. (2020):
+Cited to support the claim that the source of FRB 20180916B has been localized to a star-forming region of a massive spiral galaxy at a specific redshift, based on milli-arcsecond localization using Very Long Baseline Interferometry (VLBI) with the European VLBI Network (EVN).
+
+Tendulkar et al. (2021) and Mannings et al. (2021):
+Referenced to highlight the studies conducted with the Hubble Space Telescope (HST) and Gran Telescopio Canarias (GTC) to determine the nature of FRB 20180916B, with Tendulkar et al. (2021) suggesting it could be an old neutron star/magnetar High Mass X-ray Binary (HMXBs) or a 𝛾-ray binary with a late OB-type star.
+
+Scholz et al. (2020); Tavani et al. (2020); Pilia et al. (2020):
+Cited to mention the multiple X-ray campaigns performed to detect prompt/contemporaneous emission from FRB 20180916B at different wavelengths, with no signal detected yet, which helps in placing limits on the emission mechanisms and understanding the nature of the source.
+
+Pastor-Marazuela et al. (2021); Pleunis et al. (2021):
+Referenced to indicate the number of detections of FRB 20180916B at 150 MHz using LOFAR, providing information about the frequency of detections at this specific radio frequency.
+
+Chawla et al. (2020):
+Cited to mention the number of detections of FRB 20180916B at 300 MHz using GBT.
+
+Pilia et al. (2020):
+Referenced to provide the number of detections of FRB 20180916B at 328 MHz using SRT.
+
+Sand et al. (2021):
+Cited to indicate the number of detections of FRB 20180916B at 400 MHz using GMRT.
+
+Marthi et al. (2020):
+Referenced to mention the number of detections of FRB 20180916B at 650 MHz using GMRT.
+
+Sand et al. (2021):
+Cited to provide the number of detections of FRB 20180916B at 800 MHz using GBT.
+
+Aggarwal et al. (2020):
+Referenced to mention the detection of FRB 20180916B at 1350 MHz using VLA/realfast.
+Pilia et al. 2020, Sand et al. 2021, Chime/Frb Collaboration et al. 2020, Pleunis et al. 2021, Marthi et al. 2020, Aggarwal et al. 2020, Pastor-Marazuela et al. 2021, and Marcote et al. 2020:
+These references are cited to provide specific examples of radio telescopes and their respective frequencies that have been used for detections in the context of low-frequency observations.
+Pearlman et al. (2020):
+Referenced to describe a previous observing campaign on FRB 20180916B at high frequencies using the Deep Space Network (DSN) in S- (2.3 GHz) and X- (8.4 GHz) bands.
+
+Gajjar et al. (2018):
+Cited to indicate that FRB 20121102A has been observed up to 8 GHz using the GBT.
+
+Niu et al. (2021); Anna-Thomas et al. (2022):
+These papers are referenced to mention that FRB 20190520 has been studied with the GBT at 6 GHz.
+
+Bhardwaj et al. (2021); Majid et al. (2021):
+Cited to state that FRB 20200120E was studied with the DSN at approximately 2 GHz.
+
+Hilmarsson et al. (2021b); Anna-Thomas et al. (2022):
+These references are mentioned to highlight the usefulness of high frequency detections in measuring RMs, specifically in the cases of FRB 20121102A and FRB 20190520.
+
+Pleunis et al. (2021); Pastor-Marazuela et al. (2021):
+Referenced to discuss the burst detections of FRB 20180916B by LOFAR and APERTIF, noting the frequency dependency in the occurrence of bursts and the "chromaticity" of the source.
+
+N/A

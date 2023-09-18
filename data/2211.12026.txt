@@ -1,0 +1,33 @@
+{
+  "Witten 1984": "Referenced to support the claim that strange quark matter (SQM) may be the true ground state of hadrons.",
+  "Alcock et al. 1986": "Cited to provide evidence for the existence of strange quark stars (SSs) and their composition mainly of SQM.",
+  "Haensel et al. 1986": "Referenced to support the claim that strange quark stars (SSs) are extremely compact stellar objects.",
+  "Weber 2005": "Cited to provide additional evidence for the existence of strange quark stars (SSs).",
+  "Frieman & Olinto 1989": "Referenced to highlight the potential connection between strange quark stars (SSs) and various high energy astronomical phenomena.",
+  "Bombaci 1997": "Cited to support the claim that strange quark stars (SSs) may be connected to millisecond magnetars, X-ray or gamma-ray bursters, Quark-nova, etc.",
+  "Cheng et al. 1998": "Referenced to provide additional evidence for the potential connection between strange quark stars (SSs) and high energy astronomical phenomena.",
+  "Dai & Lu 1998": "Cited to support the claim that strange quark stars (SSs) may be connected to high energy astronomical phenomena.",
+  "Ouyed et al. 2002": "Referenced to provide further evidence for the potential connection between strange quark stars (SSs) and high energy astronomical phenomena.",
+  "Du et al. 2009": "Cited to support the claim that strange quark stars (SSs) may be connected to high energy astronomical phenomena.",
+  "Alcock et al. 1986": "Referenced to highlight the difficulty in distinguishing between strange quark stars (SSs) and neutron stars (NSs) via observations.",
+  "Huang & Lu 1997a": "Cited to provide information about the thin crust of normal hadronic matter that may cover strange quark stars (SSs) and make them similar to neutron stars (NSs) for an outside observer.",
+  "Huang & Lu 1997b": "Referenced to provide numerical calculations regarding the mechanical equilibrium condition at the bottom of the crust of strange quark stars (SSs).",
+  "Jia & Huang 2004": "Cited to support the claim that the collapse of the crust of a strange quark star (SS) can lead to an intense explosion of short duration."
+}
+{
+  "Lorimer et al. 2007": "Referenced to provide background information on Fast Radio Bursts (FRBs) and their characteristics.",
+  "Petroff et al. 2019; Cordes & Chatterjee 2019": "Cited to support the statement that the extra-galactic origin of FRBs was hinted from the large dispersion measure (DM) along the line of sight and later confirmed by direct redshift measurement in a few cases.",
+  "Petroff et al. 2022; Xu et al. 2022; Lanman et al. 2022; Feng et al. 2022": "Referenced to provide the number of detected FRB sources and repeaters, as well as the identification of host galaxies for some sources.",
+  "Cui et al. 2021; Lu et al. 2020": "Cited to mention the widely believed connection between FRBs and magnetars, as well as the possibility of perturbations in the magnetosphere.",
+  "Platts et al. 2019": "Referenced to highlight that various other models for FRBs have been proposed.",
+  "Vanderburg et al. 2015": "Cited to support the proposal that periodically repeating FRBs may be triggered by a magnetized NS interacting with its planet in a highly eccentric orbit, with the disrupted clumps interacting with the pulsar wind to produce FRBs via the Alfvén wing mechanism."
+}
+{
+  "Zhang et al. (2018)": "Referenced to support the argument that FRBs may be triggered by the collapse of SS crust when the SS accretes matter from the surrounding environment.",
+  "Geng et al. (2021)": "Cited to further argue that the accreted matter will not diffuse on the crust due to the strong surface magnetic field, leading to the collapse of the crust at the polar cap region and the natural production of periodic FRBs.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Kurban et al. (2022)": "Referenced to incorporate the essential ingredients of their model into the new model for periodically repeating FRBs.",
+  "Geng et al. (2021)": "Referenced to incorporate the essential ingredients of their model into the new model for periodically repeating FRBs."
+}

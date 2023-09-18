@@ -1,0 +1,24 @@
+Output:
+[1]:
+Cited to support the statement that lensed quasar systems are useful for studying the nature of lens galaxies and quasars, as well as the geometry of the Universe.
+[2]: Referenced to support the statement that more lenses are being identified, indicating that the number of strongly lensed quasars known will continue to increase.
+
+[3]: Cited to highlight the Legacy Survey of Space and Time (LSST) in Vera Rubin Observatory as a current and upcoming optical/infrared survey that will contribute to the identification of more strongly lensed quasars.
+
+[1]: These references are cited to emphasize the various astrophysical issues that can be addressed by studying lensed quasars, including studying the spatial mass distribution, determining the overall geometry and components of the Universe, and probing distant objects that are currently unresolved or undetected.
+
+[4]: Referenced to highlight the cosmological application of time-delay cosmology, where the time delay between pairs of lensed images can be used to measure the Hubble constant H0 directly and independently of the cosmic distance ladder.
+Refsdal (N/A)
+6, 7:
+These references are cited to support the statement that stars in the Milky Way and M31 Andromeda galaxy were monitored to search for micro-lensing events caused by intervening stars or compact dark objects.
+
+8:
+This reference is cited to explain that the monitoring of stars in the Milky Way and M31 Andromeda galaxy can also be used to detect extrasolar planets based on the distortion of the lightcurve caused by the lensing effect.
+
+9:
+This reference is cited to highlight the discovery of the first strongly lensed supernova "SN Refsdal" with multiple images, which has opened up new opportunities for astrophysics and cosmology.
+
+10, 11, 12, 13, 14, 15, 16, 17:
+These references are cited to emphasize the importance of current and upcoming large surveys and facilities in various wavelengths (optical/infrared, radio, gravitational waves) for detecting transient signals, including lensed transient explosive sources like gamma ray bursts (GRBs), fast radio bursts (FRBs), and gravitational waves (GWs).
+Oguri [18]:
+Referenced as a previous review that provides more details and different points of view on the topic of lensed transients, which is relevant to the discussion in the current paper.
