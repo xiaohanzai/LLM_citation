@@ -1,4 +1,5 @@
 work/
 .venv/
 __pycache__/
+*db/
 
