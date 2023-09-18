@@ -3,14 +3,15 @@ import pandas as pd
 import pickle
 
 def main():
-    arxiv_ids = pd.read_csv('../data/FRB_arxivIDs.csv')['arxiv_id'].values
+    arxiv_ids = pd.read_csv('../data/FRB_abstracts.csv')['arxiv_id'].values
 
     # get intro sections using scipdf
     for i in range(len(arxiv_ids)):
         arxiv_id = arxiv_ids[i][6:]
-        # focus on more recent than 2207 for now
-        if arxiv_id[:4] < '2207':
-            continue
+        # # for debugging
+        # if arxiv_id not in ['2305.11302', '2305.09428', '2211.06048']:
+        #     continue
+
         # run scipdf
         try:
             article_dict = scipdf.parse_pdf_to_dict('https://arxiv.org/pdf/%s.pdf' % arxiv_id, as_list=False)
@@ -36,7 +37,7 @@ def main():
         # nothing found then ignore
         if ind < 0:
             print(arxiv_id, 'no intro section found; first section also ignored')
-            continue
+            continue # somehow those papers are in disk... I probably ran some old codes of saving the 0th section a long time ago
 
         # save to disk
         with open('../data/%s.pickle' % arxiv_id, 'wb') as f:
