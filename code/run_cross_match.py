@@ -31,7 +31,7 @@ def add_new_entries(rst_full, rst, reason):
             if entry['duplicate']:
                 r = '*' + reason
             rst_full.loc[len(rst_full)] = {
-                'txt_ref': entry['txt_ref'], 'arxiv_id': entry['arxiv_id'], 'reasons': r}
+                'txt_ref': entry['txt_ref'], 'arxiv_id': 'arXiv:' + entry['arxiv_id'], 'reasons': r}
 
 def read_data_and_cross_match(fname, refs_ads, current_year, rst_full):
     json_file = False
@@ -85,7 +85,7 @@ def main():
 
         read_data_and_cross_match(fname, refs_ads, current_year, rst_full)
 
-    rst_full.to_csv('../data/data_23.csv', index=False)
+    rst_full.to_csv('../data/FRB_citations_23.csv', index=False)
 
 if __name__ == '__main__':
     main()
