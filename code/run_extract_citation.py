@@ -44,10 +44,8 @@ llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
 prompt = ChatPromptTemplate.from_template(template_prompt)
 chain = LLMChain(llm=llm, prompt=prompt)
 
-# only deal with 2023 and late 2022 papers in this round
-fnames = glob.glob('../../common_dataset/data/FRB_papers/all/23*.pickle')
-fnames += glob.glob('../../common_dataset/data/FRB_papers/all/221*.pickle')
-fnames += glob.glob('../../common_dataset/data/FRB_papers/all/220[7-9]*.pickle')
+# get all intro texts
+fnames = glob.glob('../data/2*.pickle')
 
 # in reality this can't be run in one go because openai may get stuck at some point
 # I ran it in batches of 20 in a jupyter notebook...

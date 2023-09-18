@@ -80,11 +80,14 @@ def extract_ads_refs(response):
 
     return refs
 
-def call_ads_api(arxiv_id, token, max_refs=500):
+def call_ads_api(arxiv_id, token, get_refs=True, max_refs=500):
     '''
     Make an API call to fetch all references assuming max 500 references.
+    if not get_refs, then only fetch the info of the paper itself.
     '''
-    query = f'references(identifier:arxiv:{arxiv_id})'
+    query = f'identifier:arxiv:{arxiv_id}'
+    if get_refs:
+        query = 'references({})'.format(query)
     encoded_query = urlencode({'q': query, 'fl': 'author,pubdate,identifier', 'start': 0, 'rows': max_refs})
     response = requests.get("https://api.adsabs.harvard.edu/v1/search/query?{}".format(encoded_query), \
                        headers={'Authorization': 'Bearer ' + token})
@@ -95,5 +98,5 @@ def get_ads_refs(arxiv_id, token, max_refs=500):
     This is the "main" function to call to extract all references of a paper being identified by its arxiv id.
     Make an API call to fetch all references and convert response to ref dicts.
     '''
-    response = call_ads_api(arxiv_id, token, max_refs)
+    response = call_ads_api(arxiv_id, token, get_refs=True, max_refs=max_refs)
     return extract_ads_refs(response)

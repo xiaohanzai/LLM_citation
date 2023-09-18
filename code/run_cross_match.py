@@ -72,7 +72,7 @@ def read_data_and_cross_match(fname, refs_ads, current_year, rst_full):
             i += 1
 
 def main():
-    fnames = glob.glob('../data/2[23]*txt')
+    fnames = glob.glob('../data/2*txt')
     token = os.environ.get('ADS_API_TOKEN')
 
     rst_full = pd.DataFrame(columns=['txt_ref', 'arxiv_id', 'reasons'])
