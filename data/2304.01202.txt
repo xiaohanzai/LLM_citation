@@ -1,0 +1,80 @@
+@Chwolson, 1924:
+Referenced as the first theoretical predictions of gravitational lensing.
+
+@Hewitt et al., 1988:
+Referenced as the first observation of an Einstein ring.
+
+@Kelly et al., 2015:
+Referenced to highlight the detection of lensed supernovae.
+
+@Abbott et al., 2016; Abbott et al., 2017; Abbott et al., 2021a:
+Referenced to suggest that wavemechanical effects should be observable in the lensing of gravitational wave (GW) signals from binary black holes, binary neutron stars, and black hole-neutron star mergers, as well as a large population of fast radio bursts (FRBs) at low frequencies.
+
+@CHIME/FRB Collaboration et al., 2021:
+Referenced to indicate the potential for observing wavemechanical effects in the lensing of a large population of fast radio bursts (FRBs) at low frequencies.
+
+@Takahashi, 2017:
+Referenced to highlight the use of interference effects in gravitational lensing for unique tests of gravity, such as testing the equivalence principle using precise measurements of time lags between electromagnetic and gravitational-wave images.
+
+@Miller & Wheeler, 1997; Jacques et al., 2007; Doyle & Carico, 2009; Leung et al., 2018:
+Referenced to suggest the interest in wave-mechanical effects in gravitational lensing from the perspective of testing the foundations of quantum mechanics.
+
+N/A
+@Falco et al., 1985; Saha, 2000:
+These references are cited to illustrate the mass-sheet degeneracy, which is a challenge in lensing-based inference and can be mitigated by considering wave-mechanical effects in gravitational lensing.
+
+@Wucknitz et al., 2021; Jow et al., 2020:
+These papers are referenced to highlight the potential for interferometric measurements of lensing time delays in the context of lensing of Fast Radio Bursts (FRBs), which can provide significantly increased precision compared to measurements from FRB light curves alone.
+
+@Lin et al., 2022:
+This reference is cited to demonstrate the use of wave-mechanical effects in gravitational lensing to resolve the emission region of the Crab pulsar, showcasing the potential of gravitational lenses as astrophysical-scale interferometers.
+
+@Ohanian, 1973; Ohanian, 1974; Peters, 1974:
+These references are mentioned to indicate the development of the theory of interference effects in gravitational lensing since the early 1970s, emphasizing the historical background of this field of study.
+@Ohanian, 1973; Ohanian, 1974; Peters, 1974:
+These references are cited to indicate that the theory of interference effects in gravitational lensing has been developed since the 1970s.
+
+@Deguchi & Watson, 1986a,b; Nakamura, 1998; Nakamura & Deguchi, 1999; Baraldo et al., 1999; Takahashi & Nakamura, 2003; Macquart, 2004:
+These papers are referenced to highlight further developments in gravitational wave (GW) lensing and the focus on interference effects at low emission frequencies.
+
+@Gould, 1992; Stanek et al., 1993; Nemiroff et al., 1993:
+These references are cited to provide an early example of using "femtolensing" to analyze the spectra of gamma ray bursts (GRBs) and probe extremely low mass scales.
+
+@Sugiyama et al., 2020:
+This paper is referenced as an example of optical microlensing searches for primordial black holes (PBHs) and the limitations imposed by wave-mechanical effects.
+
+@Katz et al., 2020; Kader et al., 2022; Leung et al., 2022:
+These papers are cited to highlight searches for primordial black holes (PBHs) using lensed fast radio bursts (FRBs) and the challenges posed by wave-mechanical effects.
+
+@Venumadhav et al., 2017; Dai & Miralda-Escudé, 2020:
+These references are cited as examples of searches for small-scale density perturbations in minihalos or axion dark matter and the impact of wave-mechanical effects.
+
+@Xiao et al., 2022:
+This paper is referenced to illustrate the search for lensing by cosmic strings and the consideration of wave-mechanical effects.
+
+N/A
+@Sec. 2:
+Referenced to derive the Fresnel-Kirchhoff integral from first principles.
+
+@Sec. 4:
+Referenced to analyze the stationary-phase (a.k.a. Eikonal) regime.
+
+@Sec. 5:
+Referenced to present some analytical solutions from the diffractive (a.k.a. wave optics) regime.
+
+N/A
+
+@Sec. 6:
+Referenced to discuss the challenge posed by the finite angular sizes of sources to detecting interference effects.
+
+@Sec. 7:
+Referenced to discuss how the chromaticity of lensing in the wave optics regime can be observed and used to increase the information extracted from systems exhibiting wave optics effects.
+
+@Sec. 8,9:
+Referenced to discuss the effect of diffraction near caustics.
+
+@Sec. 10:
+Referenced to discuss how wave optics alters calculations of the lensing optical depth in searches for exotic objects.
+
+@Sec. 11:
+Referenced to comment on how various compact transients offer opportunities for detections in the future.

@@ -1,0 +1,53 @@
+Behroozi et al. 2010; Tumlinson et al. 2017:
+These papers are cited to support the statement that if there were only cooling, the baryons associated with each dark matter halo would have condensed into stars, resulting in a much more massive Milky Way galaxy.
+
+Chisari et al. 2018; Schneider et al. 2019; Debackere et al. 2020; Osato et al. 2021:
+These papers are cited to emphasize the importance of understanding the redistribution of gas in galaxies, as it is relevant to questions about the cessation of gas accretion and the transition to red and dead galaxies, as well as for precision cosmology with weak lensing.
+
+Bahcall & Spitzer 1969; Thom et al. 2012; McQuinn 2016:
+These papers are cited to highlight that most of the understanding of the distribution of baryons around halos is derived from observations of absorption lines against a bright background source, typically a quasar, which have revealed large column densities in atomic hydrogen and metal ions.
+Sunyaev & Zeldovich 1970, 1972:
+Referenced to introduce the thermal and kinetic Sunyaev Zeldovich (SZ) effects, which measure the inverse Compton heating and Doppler shifting of CMB photons when scattering off free electrons.
+
+Planck Collaboration et al. 2013; Greco et al. 2015; Schaan et al. 2016; Amodeo et al. 2021:
+These papers are cited to highlight the use of the thermal Sunyaev Zeldovich (SZ) effect in measuring the projected pressure profile of gas in halos, as well as the use of the kinetic SZ effect to measure the electron profile in massive luminous red galaxies.
+
+Amodeo et al. 2021:
+Referenced to discuss the use of the kinetic Sunyaev Zeldovich (SZ) effect in measuring the electron profile in ∼ 10^13.5 M halos of massive luminous red galaxies.
+Thornton et al. (2013):
+Referenced to confirm the rediscovery of fast radio bursts (FRBs), establishing their existence as a new class of sources.
+
+Lorimer et al. (2007):
+Referenced to support the earlier report on fast radio bursts (FRBs), providing additional evidence for their existence.
+
+Petroff et al. (2019); Cordes & Chatterjee (2019):
+These papers are cited to suggest that magnetars are likely the source of fast radio bursts (FRBs), contributing to the understanding of their origin.
+
+Petroff et al. (2021):
+Referenced to indicate that the number of detections of fast radio bursts (FRBs) is expected to increase significantly with the advent of many wide-field instruments coming online.
+
+McQuinn (2014); Deng & Zhang (2014); Macquart et al. (2020); Simha et al. (2021); Connor & Ravi (2021); Lee et al. (2021):
+These papers are cited to highlight the role of dispersion measure (DM) measurements in understanding the properties of fast radio bursts (FRBs) and their implications for the gas profiles around galaxies.
+Centrella & Melott 1983; Davis et al. 1985:
+These papers are cited to highlight the use of N-body simulations as the primary numerical method for modeling nonlinear structure formation in large regions, which is relevant to the discussion of the technique developed in the paper.
+
+Fielding et al. 2017; Su et al. 2020; Li & Tonnesen 2020; Stern et al. 2019; Lochhaas et al. 2020:
+These papers are referenced to emphasize that hydrodynamic simulations of galaxy formation are the preferred method for capturing feedback physics, such as gas cooling and redistribution, which is relevant to the limitations of N-body simulations discussed in the paper.
+
+Somerville & Davé 2015; Faucher-Giguère et al. 2016:
+These papers are cited to highlight that hydrodynamic simulations adopt varied prescriptions for injecting energy into the gas on resolved scales, which is relevant to the discussion of energy injection from supernovae and AGN in the simulations.
+
+Zhu et al. 2018:
+This paper is referenced to emphasize the limitation of hydrodynamic simulations in adequately sampling the cosmological density field, which is relevant to the advantages of using large N-body simulations in the hybrid approach proposed in the paper.
+Schneider & Teyssier (2015):
+Referenced to describe the "baryonification" method that adds a displacement due to baryonic pressure and feedback in post-processing to the positions of particles in N-body simulations, which has been used to interpret data and reproduce the effect of baryons on the matter power spectrum.
+
+Schneider et al. (2022):
+Cited to highlight the use of the "baryonification" method to interpret data and reproduce the effect of baryons on the matter power spectrum in more complex hydrodynamic simulations.
+
+Osato & Nagai (2022):
+Referenced to present two post-processing methods for constructing tSZ and kSZ maps from N-body outputs, including a halo-based method and a more expensive particle-based method that handles halo and field particles.
+
+Schneider & Teyssier (2015):
+Cited again to compare the approach of processing every particle in the "baryonification" method to the CGMBrush algorithm, which operates on a 2D projected density field, bin halos by mass, and uses fast 2D convolutions to apply a gas model to the entire mass bin, allowing faster calculations of full 2D maps with less resources.
+N/A

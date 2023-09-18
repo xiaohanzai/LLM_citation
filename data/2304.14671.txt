@@ -1,0 +1,87 @@
+@Lorimer et al. (2007):
+Referenced as the first discovery of fast radio bursts (FRBs).
+
+@Ravi et al. (2016), Prochaska et al. (2019), Macquart et al. (2020):
+Cited to support the statement that the cosmological origin and energetic nature of FRBs make them useful for probing various aspects of astrophysics.
+
+@Li et al. (2021):
+Referenced to provide the peak burst rate of FRB 20121102A.
+
+@Zhang et al. (2022b):
+Cited to provide the peak burst rate of FRB 20201124A.
+
+@Nan et al. (2011), Li et al. (2018):
+Referenced as the sources of data obtained by the Five-hundred-meter Aperture Spherical radio Telescope (FAST).
+
+@Niu et al. (2022):
+Cited to mention the detection of FRB 20190520B in multiple observations at FAST and other telescopes.
+@McKinven & Chime/Frb Collaboration 2022:
+Referenced to report the discovery of a repeating FRB source, FRB 20220912A, and provide information on the burst rate and dispersion measure (DM) of the source.
+
+@Cordes & Lazio 2002:
+Cited to provide the maximum Galactic DM contribution for the NE2001 model in the context of the dispersion measure (DM) of FRB 20220912A.
+
+@Yao et al. 2017:
+Cited to provide the maximum Galactic DM contribution for the YMW16 model in the context of the dispersion measure (DM) of FRB 20220912A.
+
+@Ravi 2022:
+Referenced to highlight the follow-up observations of FRB 20220912A using the Deep Synoptic Array (DSA-110) telescope.
+
+@Fedorova & Rodin 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Big Scanning Antenna (BSA).
+
+@Herrmann 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Stockert telescope.
+
+@Feng et al. 2022b:
+Cited to mention the follow-up observations of FRB 20220912A using the Robert C. Byrd Green Bank Telescope (GBT).
+
+@Kirsten et al. 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Effelsberg telescope.
+
+@Zhang et al. 2022a:
+Cited to mention the follow-up observations of FRB 20220912A using the FAST telescope.
+
+@Perera et al. 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Arecibo 12-m telescope.
+
+@Sheikh et al. 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Allen Telescope Array.
+
+@Yu et al. 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the Tianlai telescope.
+
+@Bhusare et al. 2022:
+Cited to mention the follow-up observations of FRB 20220912A using the upgraded Giant Metrewave Radio Telescope (GMRT).
+
+@Ravi et al. 2022:
+Referenced to provide the localization of FRB 20220912A and its association with the galaxy PSO J347.2702+48.7066 at a redshift of 0.0771.
+@Feng et al. 2022c:
+Cited to provide information on the highest rotation measure (RM) scatter (σ RM ) observed in FRB 20121102A and FRB 20190520B, which is attributed to multi-path scattering arising from complex plasma.
+
+@Michilli et al. 2018, Hilmarsson et al. 2021:
+Referenced to support the statement that the RM of FRB 20121102A decreased between January 2017 and August 2019.
+
+@Feng et al. 2023:
+Cited to indicate that the RM of FRB 20121102A continued to decrease in 2023.
+
+@Dai et al. 2022, Anna-Thomas et al. 2022:
+Referenced to provide information on the rapid increase and subsequent reversal of the RM of FRB 20190520B.
+
+@Piro & Gaensler 2018, Margalit & Metzger 2018, Zhao & Wang 2021, Katz 2022, Yang et al. 2022, Yang et al. 2023:
+These papers are cited to suggest that the complex dynamic magneto-ionic environments near the FRB source may be related to supernova remnants (SNR) or wind nebulae.
+
+@Xu et al. 2022:
+Cited to support the claim that FRB 20201124A shows irregular short-time variation of the RM followed by a constant RM, indicating a complicated, dynamically evolving, magnetized immediate environment.
+@Yang et al. 2023:
+Cited to support the statement about the year of publication for a study.
+
+@Xu et al. 2022:
+Referenced to provide evidence for the irregular short-time variation of the rotation measure (RM) in FRB 20201124A.
+
+@Wang et al. 2022a:
+Cited to suggest that some FRB sources might be in a binary system with an elliptical orbit.
+
+@Zhao et al. 2023:
+Referenced to support the statement about the year of publication for a study.
+@N/A

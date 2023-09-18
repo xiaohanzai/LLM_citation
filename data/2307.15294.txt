@@ -1,0 +1,41 @@
+@Bochenek et al. (2020); The Chime/Frb Collaboration et al. (2020):
+These references are cited to support the claim that the repeating FRB source, FRB20200428, is associated with a well-studied Galactic magnetar.
+
+@Beniamini & Kumar 2020; Wang et al. 2019; Lu et al. 2020; Wang et al. 2020; Zhang 2020; Lu et al. 2022; Beniamini & Kumar 2023:
+These papers are referenced to provide theoretical arguments supporting the magnetospheric model as the origin of FRBs.
+
+@Nimmo et al. 2021; Nimmo et al. 2022; Zhang et al. 2023; Snelders et al. 2023:
+These references are cited to support the claim that some FRB data also supports the magnetospheric model.
+
+@Cordes & Wasserman (2016); Cordes et al. 2004:
+These papers are referenced to support the suggestion that FRBs are composed of incoherent superposition of coherent pulses produced in the magnetosphere.
+
+@Beloborodov 2021:
+This reference is cited to acknowledge concerns raised about the magnetospheric model's ability to produce FRB radiation due to the magnetar magnetosphere's opacity.
+
+@Qu et al. 2022:
+This reference is cited to support the claim that large amplitude, coherent radio waves can escape the magnetosphere under certain conditions.
+
+@Metzger et al. 2019:
+This reference is cited to highlight the possible difficulty of the central engine operating for > ∼ 10ms to produce the longest-duration FRBs in the magnetospheric model.
+@Beniamini & Kumar 2020:
+Cited to highlight the short time variability compared with burst duration and narrow band spectra for many bursts in the far-away class of models for FRBs.
+
+@Kumar & Lu 2020:
+Referenced to emphasize the large induced-Compton optical depth in the upstream medium in the far-away class of models for FRBs.
+
+@Chime/Frb Collaboration et al. 2022; Beniamini & Kumar 2023:
+These papers are cited to mention the discovery of a recent highly periodic series of peaks in a long duration non-repeating FRB, which is a drawback of the far-away class of models for FRBs.
+@Kumar et al. 2017; Kumar & Bošnjak 2020:
+These papers are cited to support the claim that magnetospheric models propose a small source size for FRBs.
+
+@Lyubarsky 2014; Metzger et al. 2017; Beloborodov 2017; Metzger et al. 2019; Beloborodov 2019; Margalit et al. 2020:
+These papers are referenced to highlight the far-away models that propose a larger source size for FRBs, determined by the distance from the neutron star and the Lorentz factor of the relativistic outflow.
+@Farah et al. 2018; Ocker et al. 2022; Sammons et al. 2023:
+These papers are cited to provide evidence of scintillation originating from scattering screens within the host galaxy and the Milky Way, highlighting the presence of scattering in FRB observations.
+
+@Pastor-Marazuela et al. 2021; Gopinath et al. 2023:
+These papers are referenced to support the evidence of scattering of radio waves within the Milky Way, emphasizing the importance of measuring intensity fluctuations over frequency scales in FRB observations.
+@N/A
+@Narayan 1992:
+Referenced to support the statement that the scintillation bandwidth is inversely related to the scatter-broadening time.

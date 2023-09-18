@@ -1,0 +1,37 @@
+{
+  "Lorimer et al. 2007": "Referenced to credit the Parkes Telescope for the first discovery of Fast Radio bursts (FRBs) in 2007.",
+  "Katz 2018": "Cited for a review on FRBs.",
+  "Popov et al. 2018": "Cited for a review on FRBs.",
+  "Cordes & Chatterjee 2019": "Cited for a review on FRBs.",
+  "Petroff et al. 2019": "Cited for a review on FRBs.",
+  "Platts et al. 2019": "Cited for a review on FRBs and theories proposed to explain their properties.",
+  "Zhang 2020": "Cited for a review on FRBs and theories proposed to explain their properties.",
+  "Xiao et al. 2021": "Cited for a review on FRBs and theories proposed to explain their properties.",
+  "Xiao et al. 2022": "Cited for a review on FRBs.",
+  "Petroff et al. 2022": "Cited for a review on FRBs."
+}
+{
+  "Spitler et al. 2016; Scholz et al. 2016": "Referenced to support the mention of the discovery of the first repeater FRB 20121102A in 2016.",
+  "CHIME/FRB Collaboration et al. 2021": "Cited to provide information on the number of repeater bursts and apparently non-repeating FRB bursts listed in the first CHIME/FRB catalog.",
+  "Palaniswamy et al. 2018; Caleb et al. 2019; Ai et al. 2021": "These studies are cited to indicate that the distinction between repeaters and apparent non-repeaters has been discussed extensively in the literature.",
+  "Andersen et al. 2019; Fonseca et al. 2020; Li et al. 2021a; Aggarwal 2021; Pleunis et al. 2021; Li et al. 2021b; Xiao & Dai 2022; Zhang et al. 2022; Cui et al. 2022; Zhong et al. 2022": "Referenced to highlight studies that suggest differences in properties between repeating and non-repeating FRBs, potentially indicating distinct physical mechanisms and origins.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Wagstaff et al. 2016": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Zhang et al. 2018": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Connor & van Leeuwen 2018": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "The CHIME/FRB Collaboration 2019": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Wu et al. 2019": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Farah et al. 2019": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Adámek & Armour 2020": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Agarwal et al. 2020": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Yang et al. 2021": "Cited as an example of the utilization of machine learning in the detection of FRBs.",
+  "Luo et al. 2022": "Cited as the first paper where the results using supervised machine learning methods for the classification of FRBs were reported."
+}
+{
+  "Chen et al. (2022)": "Referenced to describe the use of UMAP for FRB classification and the identification of hidden repeating FRBs based on similarities with observed repeaters.",
+  "Chaikova et al. (2022)": "Cited for building a pipeline to analyze FRB waveforms and identifying two clusters.",
+  "CHIME/FRB Collaboration et al. (2021)": "Referenced for the source of input data on FRB features and basic physical properties from the first CHIME/FRB catalog.",
+  "Luo et al. (2022)": "Mentioned for providing candidates for repeating FRBs in a previous paper, with overlapping candidates compared in Table 2."
+}

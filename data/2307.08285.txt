@@ -1,0 +1,66 @@
+@Riess et al. (2021); Riess et al. (2022):
+These references are cited to highlight the improved precision in the observation of the distance ladder of the late universe and the varying outcomes in constraining the Hubble constant 𝐻 0 using diverse datasets.
+
+@Abbott et al. (2018); Alam et al. (2017); Hildebrandt et al. (2020); Hikage et al. (2019):
+These papers are referenced to emphasize the use of cosmic microwave background radiation (CMB) and baryon acoustic oscillation (BAO) as additional datasets to constrain 𝐻 0.
+
+@Riess et al. (2022):
+Referenced to provide the specific value of 𝐻 0 = 73.04 ± 1.04 km s -1 Mpc -1 obtained from the Cepheid-calibrated SNe Ia from SH0ES.
+
+@Freedman (2021):
+Cited to mention the significantly higher value of 𝐻 0 = 69.8 ± 1.9 km s -1 Mpc -1 obtained when the local distance ladder is calibrated by the tip of the red giant branch (TRGB) methods.
+
+N/A
+@Bochenek et al. (2020):
+Referenced to support the statement that magnetars have emerged as a potential source of FRBs through observational studies.
+
+@Macquart et al. (2020); Wu et al. (2020); James et al. (2022); Kumar & Linder (2019); Zhao et al. (2020); Liu et al. (2023); Gao et al. (2022); Zhao et al. (2022):
+These papers are cited to highlight the use of extragalactic FRBs for cosmological research, specifically mentioning the dispersion measurement (DM) and redshift relationship.
+
+@Lorimer et al. (2007); Chatterjee et al. (2017):
+Referenced to mention the discovery of the first FRB by the Parkes Telescope in Australia in 2007.
+
+@Spitler et al. (2016); Scholz et al. (2016):
+Cited to mention the localization of the first repeating FRB121102 discovered by the Very Large Array (VLA) to a dwarf galaxy at 𝑧 = 0.19.
+
+@Chatterjee et al. (2017); Tendulkar et al. (2017); Marcote et al. (2017):
+Referenced to mention the localization of the first repeating FRB121102 to a dwarf galaxy at 𝑧 = 0.19 after some years.
+
+@Amiri et al. (2019); Andersen et al. (2019); Fonseca et al. (2020):
+Cited to highlight the involvement of projects like Canadian Hydrogen Intensity Mapping Experiment (CHIME) in the advancement of FRB observations.
+
+@Bannister et al. (2019); Bhandari et al. (2020):
+Referenced to mention the involvement of projects like Australian Square Kilometre Array Pathfinder (ASKAP) in the advancement of FRB observations.
+
+@Nan et al. (2011):
+Cited to mention the involvement of the Five hundred-meter Aperture Spherical Telescope (FAST) in the advancement of FRB observations.
+@Chiba & Nakamura (1998); Visser (2004Visser ( , 2005)); Capozziello et al. (2013); Dunsby & Luongo (2016):
+These references are cited to support the use of the cosmographic approach, which defines cosmological parameters through the derivatives of scale factors and does not depend on a specific cosmological model.
+
+@Cattoen & Visser (2008):
+This paper is cited to explain how the cosmographic approach can be used to expand observation-related parameters and constrain cosmographic parameters, which are related to parameters in the cosmological model.
+
+@Li et al. (2020a); Liu et al. (2022):
+These papers are referenced to show the use of the cosmographic approach in constraining the curvature of space.
+
+@Luongo (2013); Luongo et al. (2016):
+These references are cited to demonstrate the application of the cosmographic approach in studying the properties of dark energy.
+
+@Aviles et al. (2013a,b):
+These papers are referenced to highlight the use of the cosmographic approach in studying modified gravity.
+
+@Xu & Wang (2011); Aviles et al. (2012Aviles et al. ( , 2017)):
+These references are cited to show the application of the cosmographic approach in studying other cosmological parameters.
+
+N/A
+@Sec. 2:
+Referenced to describe the construction of the Hubble parameter, luminosity distance, and mean dispersion measure of the intergalactic medium based on a cosmographic approach.
+
+@Sec. 3:
+Cited to discuss the theory and observation of SNe Ia (Type Ia supernovae) and FRBs (Fast Radio Bursts).
+
+@Sec. 4:
+Referenced to present the numerical results obtained using the Markov Chain Monte Carlo (MCMC) method and analyze those results.
+
+@Sec. 5:
+Cited to summarize the work presented in the paper.

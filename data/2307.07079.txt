@@ -1,0 +1,50 @@
+@Woosley & Bloom 2006; Abbott et al. 2017:
+These references are cited to support the classification of gamma-ray bursts (GRBs) into long GRBs (LGRBs) and short GRBs (SGRBs) based on their duration, with LGRBs originating from massive star core collapses and SGRBs originating from binary neutron star or neutron star-black hole mergers.
+
+@Woods & Thompson 2006:
+This paper is cited to support the division of soft gamma-ray repeaters (SGRs) into three types of bursts based on their duration, namely short-duration bursts, intermediate bursts (IBs), and giant flares (GFs), and to highlight the differences in their light curve shapes.
+
+@Hurley et al. 1999; Yang et al. 2020; Svinkin et al. 2021:
+These references are cited to provide examples of different shapes of light curves for different types of bursts, specifically highlighting the characteristics of a giant flare (GF) with a hard initial spike followed by a rapidly decaying tail.
+
+@Guidorzi et al. (2016):
+Referenced to introduce the definition of the dominant variation timescale for gamma-ray bursts (GRBs) as determined by the break frequency in the power density spectra (PDS), which is used to characterize the timescales for astrophysical sources.
+@Schmidt 1978; Fenimore et al. 1993; Titarchuk et al. 2007; Ackermann et al. 2014; Golkhou & Butler 2014; Golkhou et al. 2015:
+These references are cited to support the statement that the minimum variation timescale (MVT) can provide insights into the dynamics of energy dissipation and the dissipation region, as well as distinguish the origin of a burst.
+
+@Yang et al. 2020; Xiao et al. 2022a:
+These papers are referenced to highlight the ability of the minimum variation timescale (MVT) to distinguish the origin of a burst.
+
+@MacLachlan et al. (2013); MacLachlan et al. (2012):
+These references are cited to discuss the definition of the MVT and the correlation between MVT and the rise time of the shortest pulse in a gamma-ray burst (GRB).
+
+@Golkhou & Butler (2014); Golkhou et al. (2015):
+These papers are referenced to provide an alternative definition of the MVT based on the transition between correlated and uncorrelated variability, which is approximately the same as the rise time of the shortest pulse in a light curve.
+
+@Camisasca et al. (2023):
+This reference is cited to discuss a different definition of the MVT as the full width half maximum duration of the shortest pulse in the time domain and its correlation with the results of Golkhou & Butler (2014).
+
+@Ackermann et al. 2014; Vianello et al. 2018:
+These references are cited to mention that some authors have found that half of the shortest Bayesian block (BB) is consistent with the MVT obtained by the Wavelet analysis of individual GRBs, but the robustness of the MVT estimated by BB has not been systematically compared with other methods.
+@Li et al. 2021; Bochenek et al. 2020; Mereghetti et al. 2020; Younes et al. 2021; Ridnaia et al. 2021; Tavani et al. 2021:
+These papers are cited to provide evidence that SGR J1935+2154, a well-known Galactic magnetar, has been observed with a fast radio burst (FRB) associated with an X-ray burst (XRB), suggesting a connection between magnetar activities and FRBs.
+
+@Israel et al. 2016:
+Referenced to estimate the dipole-magnetic field of SGR J1935+2154 based on its spin period and spin-down rate.
+
+@Xiao et al. 2023:
+Cited to report recent findings that the XRBs from SGR J1935+2154 have a linear energy dependence of the spectral lag similar to the Crab pulsar.
+
+@Zhang 2020, 2022:
+These papers are cited to provide a review of the physical mechanisms responsible for FRBs and XRBs from magnetars, including pulsarlike models and GRB-like models.
+
+@Li et al. 2021; Cai et al. 2022:
+Referenced to highlight the large sample of bursts observed from SGR J1935+2154 by Insight-HXMT and the potential for studying the MVTs of its XRBs.
+
+@Xiao et al. 2022b; Xie et al. 2022:
+Cited to emphasize the availability of burst data from SGR J1935+2154 observed by GECAM.
+
+@Lin et al. 2020; Zou et al. 2021:
+Referenced to mention the observation of bursts from SGR J1935+2154 by Fermi/GBM.
+
+N/A

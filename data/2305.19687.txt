@@ -1,0 +1,72 @@
+@Landau (1932):
+Referenced to provide historical context for the term "gigantic nucleus" used to describe a compact object composed of dense matter at supra-nuclear density.
+
+@Xu 2023:
+Cited to indicate that the issue of whether compact stars can release further huge free energy besides rotational energy is still relevant and challenging in both physics and astronomy.
+
+@Dai & Lu 1998; Zhang & Mészáros 2001; Mei et al. 2022:
+These papers are cited to support the idea that an evolution of a post-burst relativistic fireball with free energy injection from the compact star through magnetic dipole radiation can explain the plateau of 𝛾-ray bursts (GRBs).
+
+@Wang et al. 2018(Wang et al. , 2022;;Luo et al. 2020;Li et al. 2021;Xu et al. 2022):
+These papers are referenced to suggest that fast radio bursts (FRBs), especially the repeating ones with high burst rate, are associated with compact central engines, most likely pulsar-like objects, which release enormous free energy.
+
+@Hurley et al. 2005; CHIME/FRB Collaboration et al. 2020; Fermi-LAT Collaboration et al. 2021:
+Cited to highlight the detections of flares from galactic and extragalactic sources, known as soft 𝛾-ray repeaters, and their association with tremendous free energy.
+
+@Hurley et al. 1999; Palmer et al. 2005:
+Referenced to provide examples of extremely bright giant flares with energy of 10^44-47 erg, demonstrating the presence of tremendous free energy in these events.
+@Ruderman 1972; Canuto & Chitre 1973:
+These papers are cited to acknowledge that the possibility of a solid core in a neutron star cannot yet be ruled out.
+
+@Duncan & Thompson 1992; Usov 1992; Thompson & Duncan 1993:
+Referenced to support the claim that a conventional neutron star could have a significant free energy in case of a state strongly magnetized, known as magnetars.
+
+@Thompson & Duncan 1995; Kouveliotou et al. 1998:
+Cited to highlight the existence of magnetars with extremely strong magnetic fields.
+
+@Xu 2003; Lai & Xu 2009; Lai et al. 2023:
+These papers are referenced to discuss the formation and properties of strangeon stars, which are globally solid due to the large masses of and the strong coupling between strangeons.
+
+@Xu et al. 2006:
+Cited to mention a previous calculation of the free energy for anisotropic strangeon stars in Newtonian gravity, which showed a significant amount of energy released via starquakes.
+
+N/A
+@Bodmer 1971; Witten 1984:
+These references are cited to support the statement that the equation of state of bulk matter at supra-nuclear density, with a focus on the role of strangeness, is an important factor in understanding the free energy of pulsar-like compact objects.
+
+@Xu 2018:
+Referenced for a brief introduction to the topic.
+
+@Haensel et al. 1986; Alcock et al. 1986:
+Cited to suggest that pulsars could be strange quark stars (QSs) and to highlight the similarity in mass and radius between QSs and normal neutron stars (NSs), making QSs a possible candidate model for compact objects.
+
+@Xu 2003:
+Referenced to discuss the possibility of strangeons as the basic units of a strange star, similar to quarks in a strange quark star (QS).
+
+@Xu et al. 1999; Lu et al. 2019:
+These papers are cited to support the success of the strange star (SS) model in explaining phenomena of pulsar-like stars, specifically the subpulse-drifting.
+
+@Zhou et al. 2004; Zhou et al. 2014; Lai et al. 2018b; Wang et al. 2021; Lu et al. 2023:
+Cited to highlight the success of the SS model in explaining various phenomena of pulsar-like stars, including glitches, optical/UV excess in X-ray dim isolated NSs, and massive pulsars.
+
+@Wang et al. 2017:
+Referenced to support the success of the SS model in explaining the Optical/UV excess in X-ray dim isolated NSs.
+
+@Lai & Xu 2009:
+Cited to support the claim that the SS model is consistent with the existence of massive pulsars.
+
+@Lai et al. 2019:
+Referenced to support the consistency of the SS model with the results of tidal deformability.
+
+@Lai et al. 2018a:
+Cited to support the consistency of the SS model with the light curve from GW170817.
+
+@Chen et al. 2007:
+Referenced to discuss the photon-driven mechanism as a potential explanation for the difficulty in core-collapse supernovae.
+
+@Melson et al. 2015:
+Cited to support the claim that the photon-driven mechanism could produce more free energy injected into explosive shock waves than conventional neutrino-driven mechanisms.
+
+@Zhang et al. 2023:
+Referenced to suggest that the model of strangeon stars could be tested in the future by detecting gravitational-wave echoes.
+N/A

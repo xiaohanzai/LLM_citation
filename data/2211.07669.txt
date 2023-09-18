@@ -1,0 +1,35 @@
+{
+  "CHIME Chime/Frb Collaboration et al. (2022)": "Referenced as the source that detected the multicomponent lightcurve of the non-repeating fast radio burst (FRB) 20191221A and provided various measurements and limits associated with the burst."
+}
+{
+  "Masui et al. 2015": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Katz 2016": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Kumar et al. 2017": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Metzger et al. 2017": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Margalit & Metzger 2018": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Metzger et al. 2019": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Kumar & Bošnjak 2020": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Michilli et al. 2018": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Wadiasingh & Timokhin 2019": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Heintz et al. 2020": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "The Chime/Frb Collaboration et al. 2020": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Li et al. 2020": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Bochenek et al. 2020": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Lu et al. 2022": "Referenced to support the argument connecting FRBs with neutron star progenitors.",
+  "Coroniti 1990": "Referenced to explain the exception to the rule of magnetic field lines not reflecting the periodicity associated with the NS spin.",
+  "Lyubarsky & Kirk 2001": "Referenced to explain the exception to the rule of magnetic field lines not reflecting the periodicity associated with the NS spin.",
+  "Drenkhahn & Spruit 2002": "Referenced to explain the exception to the rule of magnetic field lines not reflecting the periodicity associated with the NS spin.",
+  "Giannios 2006": "Referenced to explain the exception to the rule of magnetic field lines not reflecting the periodicity associated with the NS spin.",
+  "Lyubarsky 2005": "Referenced to provide an estimate of the reconnection velocity in the striped wind outflow.",
+  "Beniamini & Granot 2016": "Referenced to explain the duration of each spike in the lightcurve in the context of plasma accelerated at reconnection sites."
+}
+{
+  "Beniamini & Granot 2016": "Referenced to support the statement that the time interval between spikes in the lightcurve is larger than the separation between spikes.",
+  "Cerutti et al. 2016": "Cited to mention that the opposite situation has been explored in the context of pulsar gamma-ray radiation.",
+  "Philippov & Spitkovsky 2018": "Referenced to mention that the opposite situation has been explored in the context of pulsar gamma-ray radiation.",
+  "Kalapotharakos et al. 2018": "Cited to mention that the opposite situation has been explored in the context of pulsar gamma-ray radiation."
+}
+{
+  "Granot 2016": "Referenced to discuss the implications of associating the observed periodicity with crustal oscillations.",
+  "Beniamini & Kumar 2020": "Cited to highlight the requirement of fine-tuned geometry and the loss of efficiency in converting outflow energy to observed radiation in the context of reducing 𝑡 F by reducing the spatial extent of the region from which matter flows towards the reconnection layer."
+}

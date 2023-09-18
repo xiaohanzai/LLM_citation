@@ -1,0 +1,60 @@
+@2,3,4,5,6:
+These references are cited to support the statement about the radio frequency range and duration of Fast Radio Bursts (FRBs).
+
+@7:
+This reference is cited to acknowledge the ongoing debate about the physical mechanism responsible for FRBs.
+
+@8:
+Referenced to highlight the suggestion that the large observed dispersion measure (DM) of FRBs indicates an extragalactic or cosmological origin.
+
+@9:
+Cited to acknowledge the discovery of FRBs by the Parkes Telescope in 2007.
+
+@70:
+This reference is cited to mention the Canadian Hydrogen Intensity Mapping Experiment (CHIME) as a new telescope that has contributed to the detection of over one hundred FRBs.
+
+@11:
+Referenced to emphasize the need for better determination of density fluctuations in the dispersion measure (DM) due to spatial variation in cosmic electron distribution.
+
+@12:
+Cited to highlight the limitation of poor knowledge about the host galaxy contribution of FRBs (DM host) and the factors that influence it.
+
+@13:
+This reference is cited to mention a previous study that used a simple log-normal form to describe the redshift evolution of DM host with a median value of 100 pc cm-3.
+
+@14:
+Referenced to acknowledge previous works that studied different functions, including a normal or log-normal distribution, to describe the redshift evolution of DM host with a median value as a free parameter in the range 20-200 pc/cm3.
+@15: Referenced to support the statement that the dispersion measure can be combined with the redshift to obtain the DM-z relation.
+
+@16: Cited to highlight the potential of using FRBs to probe the anisotropic distribution of baryon matter in the Universe.
+
+@17: Referenced to suggest that FRBs can be used to test the weak equivalence principle.
+
+@18, 19: Cited to indicate that FRBs can be used to constrain cosmological parameters, such as the Hubble constant.
+
+@20, 21, 22: Referenced to support the claim that FRBs can be used to constrain the Hubble constant.
+
+@23, 24, 25: Cited to suggest that FRBs can be used to constrain the baryon mass fraction in the intergalactic medium (fIGM).
+
+@26: Referenced to highlight the possibility of variation in fIGM with respect to redshift.
+
+@27: Cited to provide an estimate of fIGM at a specific redshift.
+
+@1: Referenced to indicate the use of a cosmological model-independent method to constrain fIGM.
+
+@28: Cited to emphasize the challenge of identifying the host galaxy of FRBs and the scarcity of well-localized FRBs in the literature.
+
+@69: Referenced to mention the coherent upgrade CRACO system of Australian Square Kilometre Array Pathfinder (ASKAP) as an instrument being built to localize FRBs.
+
+@70: Cited to highlight the Canadian Hydrogen Intensity Mapping Experiment (CHIME) outriggers as an instrument being built to localize FRBs.
+
+@71: Referenced to mention SKA1-Mid as an instrument being built to localize FRBs.
+
+N/A: No citations appear in the text.
+@29: Referenced to indicate that the literature has explored redshift distributions of fast radio bursts (FRBs) based on general aspects such as star formation history/rate.
+
+@30: Cited to suggest that the literature has also explored redshift distributions of FRBs assuming a specific astrophysical origin, such as gamma-ray bursts.
+
+@31: Referenced to direct the reader to a general analysis of possible redshift distributions of FRBs and related references.
+
+@1: Cited to indicate that the mass of baryon fraction in the intergalactic medium (IGM) is obtained in a model-independent manner as presented in this reference, where FRBs data from Monte Carlo simulated data are combined with type Ia supernovae (SNe) observations.

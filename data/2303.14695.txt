@@ -1,0 +1,38 @@
+@Lorimer et al. 2007; Keane et al. 2012; Thornton et al. 2013:
+These references are cited to provide evidence of the unusual dispersion measures (DMs) of fast radio bursts (FRBs) and their indication of cosmological distance and large energy releases.
+
+@Zhang 2020 and Petroff et al. 2022:
+These recent reviews are cited to provide additional information and context on fast radio bursts (FRBs).
+
+@Popov & Postnov 2010; Kulkarni et al. 2014; Lyubarsky 2014; Geng & Huang 2015; Dai et al. 2016; Wang et al. 2016; Gu et al. 2016; Katz 2016a; Connor et al. 2016; Cordes & Wasserman 2016; Lyutikov 2017; Zhang 2017:
+These references are cited to support the hypothesis that fast radio bursts (FRBs) may result from violent activities of compact objects, particularly highly magnetized neutron stars (NSs).
+
+@Spitler et al. 2016; Tendulkar et al. 2017; Chatterjee et al. 2017; CHIME/FRB Collaboration et al. 2019a,b:
+These references are cited to provide evidence of the discovery of repeating fast radio bursts (FRBs), which further support the neutron star (NS) activity model.
+
+@Cao et al. 2017b; Kashiyama & Murase 2017; Metzger et al. 2017; Dai et al. 2017; Michilli et al. 2018:
+These references are cited to highlight the persistent radio counterpart of a repeating fast radio burst (FRB) and its implications for constraining the environment and age of the neutron star (NS).
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020; Li et al. 2021; Dong & CHIME/FRB Collaboration 2022; Wang et al. 2022:
+These references are cited to provide evidence of the observation of fast radio bursts (FRBs) from the Galactic magnetar SGR 1935+2154, which offers support for the neutron star (NS) origin of some FRBs.
+@Gaensler 2014; Kothes et al. 2018; Zhong et al. 2020; Zhou et al. 2020:
+These references are cited to support the association of magnetar SGR 1935+2154 with the supernova remnant G57.2+0.8, suggesting it was born from a core-collapse supernova event.
+
+@Kirsten et al. 2022:
+This paper is cited to indicate that the repeating FRB 20200120E has been localized in an old globular cluster (GC) in the nearby galaxy M81, suggesting an association with old stellar population.
+
+@Kremer et al. 2021; Lu et al. 2022:
+These papers are cited to propose various possibilities for the nature of the neutron star (NS) producing FRB 20200120E, including an accreting NS, a millisecond pulsar (MSP), a young NS formed from accretion-induced collapse of a white dwarf (WD), or a merger product of compact binaries.
+
+@Bassa et al. 2017; Marcote et al. 2020; Fong et al. 2021; Ravi et al. 2022; Piro et al. 2021; Nimmo et al. 2022:
+These references are cited to highlight the diversity in the origins of repeater FRBs, with some being close to star-forming regions and others deviating from star-forming regions.
+
+@Tendulkar et al. 2021:
+This paper is cited to emphasize that repeater FRBs can sometimes largely deviate from star-forming regions.
+
+@Heintz et al. 2020; Mannings et al. 2021; Bhandari et al. 2022:
+These references are cited to indicate that non-repeater FRBs are usually found in low star-forming galaxies and even outskirts of host galaxies.
+@Yu et al. (2014); Bera et al. (2016); Caleb et al. (2016); Katz (2016b); Li et al. (2017); Lu & Kumar (2016); Oppermann et al. (2016); Vedantham et al. (2016); Fialkov & Loeb (2017); Lawrence et al. (2017); Cao & Yu (2018); Macquart & Ekers (2018); Zhang et al. (2021); James et al. (2022); Cao et al. (2017a, 2018); Rafiei-Ravandi et al. (2021); Chawla et al. (2022); Pleunis et al. (2021); Josephy et al. (2021); Zhang & Zhang (2022); Hashimoto et al. (2022); Bhattacharyya et al. (2022).
+
+These references are cited to provide statistical studies and constraints on the origins of Fast Radio Bursts (FRBs), including investigations of redshift-dependent rates, cosmic star formation rates (CSFRs), and the relationship between FRB production and star formation, as well as to highlight the rising number of observed FRBs and enable more detailed statistical works.
+@N/A

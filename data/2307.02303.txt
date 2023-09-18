@@ -1,0 +1,80 @@
+@Petroff et al. 1,2:
+Referenced for recent reviews on FRBs.
+
+@3:
+Cited to support the statement that repeating FRBs generally show narrower spectral and wider temporal extents than non-repeaters.
+
+@4:
+Cited to highlight the uncertainty regarding the cause of the different observational properties between repeaters and one-offs.
+
+@5:
+Referenced to emphasize the low percentage of known FRBs that are repeaters.
+
+@[6][7][8][9]:
+Cited to support the use of very long baseline interferometry (VLBI) localizations for probing the local environments of repeating FRBs.
+
+@10:
+Cited to highlight the use of long-term monitoring to explore how the properties of repeating FRBs vary with time, specifically mentioning the scattering timescale.
+
+@11,12:
+Referenced to support the use of long-term monitoring to explore the Faraday rotation measure (RM) of repeating FRBs.
+
+@[13][14][15][16]:
+Cited to highlight the use of long-term monitoring to explore the dispersion measure (DM) of repeating FRBs.
+
+@17:
+Referenced to emphasize the mapping of sometimes periodic activity rate in repeating FRBs.
+
+@18,19:
+Cited to support the use of multi-epoch, multi-wavelength searches spanning radio wavelengths for repeating FRBs.
+
+@20,21:
+Referenced to highlight the use of multi-epoch, multi-wavelength searches spanning high energies for repeating FRBs.
+@22:
+Referenced to rule out cataclysmic models to explain all FRBs and emphasize the repeating nature of FRB 20121102A.
+
+@23:
+Cited to support the claim that FRB 20121102A was the first FRB to be precisely localized to a host galaxy, confirming the extragalactic distances to FRBs implied by their high DMs.
+
+@24:
+Referenced to highlight the importance of high dispersion measures (DMs) in determining the extragalactic distances to FRBs.
+
+@6, 25, 26:
+These references are cited to provide additional information about the location and distance of FRB 20121102A in a star-forming region in a dwarf galaxy.
+
+@PRS:
+Cited to support the claim that the FRB emitter may be in a dense nebula or in the near vicinity of a massive black hole based on its association with a compact persistent radio source.
+
+@11, 19:
+These references are cited to indicate that FRB 20121102A is in an extreme and dynamic magneto-ionic environment, as evidenced by its exceptionally high and variable rotation measure (RM).
+
+@27:
+Referenced to highlight the range of timescales over which the rotation measure (RM) of FRB 20121102A is variable.
+
+@12, 28, 29:
+Cited to provide specific values and time frame for the variability of the rotation measure (RM) of FRB 20121102A.
+@30: This reference is cited to support the statement that in some cases, raw voltage data are saved, allowing for detailed studies of FRBs on shorter timescales.
+
+@31: This reference is cited to provide evidence that the non-repeating FRB 20170827A exhibited a narrow sub-component of duration roughly 30 µs.
+
+@11: This reference is cited to show that FRB 20121102A occasionally shows narrow temporal features within a broader envelope.
+
+@32: This reference is cited to demonstrate that the repeating source FRB 20180916B has temporal sub-structures with durations of microseconds.
+
+@33: This reference is cited to indicate that the repeating source FRB 20200120E has temporal sub-structures with durations of tens of nanoseconds.
+
+@[31][32][33]: These references are cited collectively to emphasize that short-timescale variations have been observed in other repeating FRBs, but have not been explored for FRB 20121102A.
+@FRB morphology 3,14:
+These references are cited to support the statement that the bursts from FRB 20121102A show a variety of different morphologies, including complex drifting islands of emission.
+
+@600 MHz 15 and 8 GHz 19:
+These references are cited to provide the frequencies at which the FRB 20121102A bursts have been observed.
+
+@GBT 19:
+This reference is cited to highlight that the 8 GHz detections with the Green Bank Telescope (GBT) remain the highest-frequency FRB detections to date.
+
+@Gajjar et al. 19:
+This reference is cited to describe the 4-8 GHz GBT data presented in the paper, which includes the discovery of 21 bursts in the first hour of a 5-hour observing block.
+
+@Zhang et al. 34:
+This reference is cited to mention the re-analysis of the same dataset by Zhang et al., which used a machine learning search technique and discovered an additional 72 candidate bursts.

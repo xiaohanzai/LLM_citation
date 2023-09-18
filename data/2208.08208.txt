@@ -1,0 +1,19 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that FRBs are a new class of extra-galactic millisecond duration radio transients.",
+  "Petroff et al. 2019": "Referenced to support the statement that FRB signals exhibit a frequency dispersion, usually termed as the 'dispersion measure' (DM), which can be used to estimate the free electrons along the line of sight to the FRBs.",
+  "Tendulkar et al. 2017": "Referenced to support the statement that the large DM observed in some FRBs shows their cosmological origin.",
+  "Yang & Zhang 2017": "Referenced to support the statement that the contribution of the DM can come from the Milky Way, the inter-galactic medium, and the host galaxy.",
+  "Amiri et al. 2021": "Referenced to support the statement that the number of identified FRBs has increased dramatically in recent years.",
+  "Liu et al. 2019": "Referenced to support the statement that the predicted number of strongly lensed FRBs by galaxies is significant, ∼ 10 per year, and that lensed FRBs can be used to study cosmology and fundamental physics.",
+  "Dai & Lu 2017": "Referenced to support the statement that lensed FRBs can be used to study cosmology and fundamental physics.",
+  "Wucknitz et al. 2021": "Referenced to support the statement that lensed FRBs can be used to study cosmology and fundamental physics.",
+  "Eshleman 1979": "Referenced to support the statement that plasma can cause deflection to the radio signal.",
+  "Perlick et al. 2015": "Referenced to support the statement that plasma can cause deflection to the radio signal.",
+  "Hsueh et al. 2016": "Referenced to support the statement that plasma can cause deflection to the radio signal.",
+  "Spingola et al. 2018": "Referenced to support the statement that plasma can cause deflection to the radio signal.",
+  "Crisnejo et al. 2019": "Referenced to support the statement that plasma can cause deflection to the radio signal.",
+  "Er & Mao 2014": "Referenced to support the statement that the lensed images of FRBs will be slightly different in image positions and arrival times depending on the observing bands."
+}
+{
+  "Planck Collaboration et al. 2020": "Referenced to provide the parameters of the standard ΛCDM cosmology adopted in the paper."
+}

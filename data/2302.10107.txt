@@ -1,0 +1,88 @@
+@Lorimer et al. (2007):
+Referenced as the first discovery of Fast Radio Bursts (FRBs) in 2007, establishing the existence of this phenomenon.
+
+@Thornton et al. (2013):
+Cited as the confirmation of FRBs as a population, contributing to the understanding of the nature and characteristics of FRBs.
+
+@CHIME/FRB Collaboration et al. (2021):
+Referenced as an example of a wide-field radio interferometer survey (CHIME) that has contributed to the significant increase in the sample size of FRBs.
+
+@Petroff et al. (2019, 2022):
+Cited to emphasize the unknown origins and physical mechanisms behind FRBs, highlighting the current interest and importance of studying this phenomenon.
+
+@Platts et al. (2019):
+Referenced to support the idea that the majority of FRBs are one-off bursts that could be the result of cataclysmic events.
+
+@Spitler et al. (2016):
+Cited as the discovery of repeating FRBs, suggesting a noncataclysmic origin for at least some of these bursts.
+
+@Bochenek et al. (2020); CHIME/FRB Collaboration et al. (2020); Li et al. (2021a):
+Referenced to establish a connection between repeating FRBs and magnetars, specifically the discovery of FRB-like bursts from the Galactic magnetar SGR J1935+2154.
+
+N/A:
+No citations were found in the provided text.
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to suggest that the sample of repeating FRBs may form a separate class and that most research efforts are focused on discovering and characterizing new one-off FRBs and expanding the sample of repeating sources.
+
+@Keane et al. 2018:
+Cited as an example of a survey project, SUPERB, conducted at the Parkes Murriyang radio telescope that has driven the field in the last few years.
+
+@Bailes et al. 2017:
+Referenced as another survey project, the UTMOST FRB search project, conducted at the Molonglo Synthesis Radio Telescope (MOST).
+
+@Macquart et al. 2010:
+Cited as the survey project, CRAFT, conducted at the Australian Square Kilometre Array Pathfinder (ASKAP).
+
+@CHIME/FRB Collaboration et al. 2018:
+Referenced as the survey project, CHIME/FRB project, conducted at CHIME.
+
+@van Leeuwen 2014:
+Cited as the project, ARTS, conducted at the Westerbork Synthesis Radio Telescope (WSRT).
+
+@Li et al. 2018b:
+Referenced as the survey project, CRAFTS, conducted at the Five-hundred-meter Aperture Spherical Telescope (FAST).
+
+@Kocz et al. 2019:
+Cited as the Deep Synoptic Array (DSA), a facility currently in the design or early-science phase.
+
+@Vanderlinde et al. 2019:
+Referenced as the Canadian Hydrogen Observatory and Radio-transient Detector (CHORD), a facility currently in the design or early-science phase.
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to indicate that the total number of published FRBs is already sufficient for population studies.
+
+@Eftekhari & Berger 2017:
+Cited to highlight the limitation of poor radio localizations preventing robust associations between FRBs and their host galaxies, hindering redshift measurements.
+
+@Heintz et al. 2020:
+Referenced to emphasize the characterization of robust FRB to host associations with low chance coincidence probabilities.
+
+@Aggarwal et al. 2021:
+Cited to emphasize the characterization of robust FRB to host associations with high association probabilities.
+
+@Bannister et al. 2019; Macquart et al. 2020:
+These papers are cited to highlight the success of the CRAFT team in localizing one-off bursts to their host galaxies using ASKAP.
+
+@Chatterjee et al. 2017; Marcote et al. 2020:
+Cited to highlight the successful localization of several repeaters to milliarcsecond precision using multi-station very-long baseline interferometry (VLBI).
+
+@Marcote et al. 2022:
+Referenced to highlight the PRECISE project's contribution to localizing repeaters using EVN dishes.
+
+N/A
+@Macquart et al. (2020):
+Referenced to support the statement that FRBs are bright and temporally narrow radio pulses, highlighting their potential as probes of the intervening ionised media.
+
+@Cordes & Chatterjee 2019:
+Cited to explain that the turbulent plasmas that an FRB traverses from its host to the observer can imprint characteristic signatures onto its radio signal through propagation effects such as dispersion, pulse broadening (scattering), scintillation, refraction (lensing), or absorption.
+
+@Cordes & Lazio 2002; Yao et al. 2017; Yamasaki & Totani 2020; Zhang 2018; Macquart et al. 2020:
+These references are cited to indicate that the dispersion measure (DM) of an FRB can be used as a proxy for distance, assuming various Galactic and extragalactic free-electron models.
+
+@Cordes et al. 2022:
+Referenced to explain that measured scattering times of FRBs can be used to estimate host galaxy DM contributions, act as a combined DM-scattering time estimator for host galaxy redshifts, or constrain the intergalactic medium's (IGM) baryonic fraction if the host redshift is known.
+
+N/A
+@Planck Collaboration et al. 2020:
+Referenced to provide the parameters of the "Planck 2018" cosmology that were used in the analysis.
+
+N/A

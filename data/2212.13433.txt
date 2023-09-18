@@ -1,0 +1,23 @@
+{
+  "Planck 2018 data of the cosmic microwave background (CMB) anisotropies": "Referenced to provide the constraint on the Hubble constant H0 based on the ΛCDM model.",
+  "SH0ES team": "Cited for the direct measurement of the Hubble constant H0 using the 'distance ladder' method.",
+  "[1]": "Cited as the source of the Planck 2018 data.",
+  "[2]": "Cited as the source of the direct measurement by the SH0ES team.",
+  "[3]": "Referenced to indicate the proposal of extensions to the ΛCDM model as a solution to the Hubble tension.",
+  "[4]": "Referenced to indicate the proposal of extensions to the ΛCDM model as a solution to the Hubble tension.",
+  "[5]": "Referenced to indicate the proposal of extensions to the ΛCDM model as a solution to the Hubble tension.",
+  "[6]": "Referenced to indicate the proposal of extensions to the ΛCDM model as a solution to the Hubble tension and the current limitations in resolving the tension.",
+  "[7]": "Cited to highlight the potential of fast radio bursts (FRBs) as a cosmological probe due to their high event rate.",
+  "[8]": "Cited to support the claim that most FRBs are likely of extragalactic origin.",
+  "[9]": "Cited to support the claim that most FRBs are likely of extragalactic origin."
+}
+{
+  "Macquart et al.": "Referenced to support the use of localized FRBs to derive a cosmic baryon density constraint consistent with other measurements.",
+  "[10]": "Cited as the specific reference for the work by Macquart et al.",
+  "[11][12][13][14]": "These references are cited to indicate that multiple independent groups have obtained H0 measurements from localized FRBs with a precision of around 10%.",
+  "[15][16][17][18][19]": "These references are cited to introduce the concept of the dark siren method in gravitational wave cosmology, which inspires the statistical method developed in this work.",
+  "[20]": "Cited as the specific reference for the testing of the dark siren method using mock data."
+}
+{
+  "N/A": "No citations found in the text."
+}

@@ -1,0 +1,31 @@
+@Lorimer et al., 2007:
+Referenced to provide background information on fast radio bursts (FRBs) and their detection at radio wavelengths.
+
+@Petroff et al., 2022:
+Cited to indicate the large number of FRBs that have been discovered since the first reported FRB.
+
+@CHIME/FRB Collaboration et al., 2021:
+Referenced to highlight the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst (CHIME/FRB) project as the primary instrument for detecting FRBs.
+
+@Ng et al., 2017; CHIME/FRB Collaboration et al., 2018:
+These papers are cited to describe the CHIME/FRB experiment and its capabilities for detecting and localizing FRBs in real time.
+
+@Michilli et al., 2021:
+Cited to provide information on the signal-to-noise ratio threshold used by the CHIME/FRB experiment for saving buffered raw voltage data.
+@CHIME/FRB Collaboration et al., 2019a,b, 2023; Fonseca et al., 2020; Cruces et al., 2021; Rajwade et al., 2020; Chatterjee et al., 2017; Bhardwaj et al., 2021a,b; Ibik et al., 2023; Bhandari et al., 2020, 2022; Sharma et al., 2023; Connor et al., 2023; Heintz et al., 2020; Mannings et al., 2021; Fong et al., 2021; Piro et al., 2021; Bassa et al., 2017; Tendulkar et al., 2021; Li & Zhang, 2020; Marcote et al., 2020; Nimmo et al., 2022:
+These references are cited to provide evidence and support for various aspects of the discussion, including the detection and periodic activity of repeating fast radio bursts (FRBs), the challenges of follow-up studies and host galaxy identification, the limitations of current technology in precise sky localization, and the identification of host galaxies for bright FRBs with low dispersion measure (DM) excess.
+@Marcote et al., 2020; Nimmo et al., 2022; Kirsten et al., 2022:
+These papers are cited to reference traditional approaches to VLBI for FRBs that have been implemented for repeaters, highlighting the challenges of localizing one-off FRBs with traditional VLBI techniques.
+
+@Bannister et al., 2019; Ravi et al., 2019; Ravi & DSA-110 Collaboration, 2023; Rajwade et al., 2022; Law et al., 2020:
+These papers are cited to mention the use of connected-element interferometers such as ASKAP, DSA-10, DSA-110, MeerKAT, and VLA for localizing apparently non-repeating FRBs, emphasizing the need for sub-arcsecond localizations of one-off FRBs on a routine basis for a large number of sources.
+@Bandura et al., 2014a:
+Referenced to describe the CHIME Pathfinder telescope, which is the precursor to CHIME and is part of the CHIME/FRB Outriggers project.
+
+@Leung et al., 2021:
+Cited to discuss the re-commissioning of the CHIME Pathfinder telescope for high-bandwidth data recording and in-beam calibration strategies.
+
+@Cassanelli et al., 2022:
+Referenced to describe the commissioning of a single-dish outrigger at the Algonquin Radio Observatory (ARO) using the 10-meter dish (ARO10).
+
+N/A

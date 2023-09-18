@@ -1,0 +1,24 @@
+@Lorimer et al. 2007:
+Referenced to indicate the year of the discovery of Fast Radio Bursts (FRBs) and establish the timeline of research on this phenomenon.
+
+@Petroff et al. 2022:
+Cited to acknowledge recent research on FRBs and highlight the ongoing interest and investigation into their properties.
+
+@Lyutikov et al. 2016:
+Referenced to support the widely assumed hypothesis that FRBs originate from highly energetic processes tied to compact objects, providing a potential explanation for their nature.
+
+@Josephy et al. 2019:
+Cited to introduce the concept of the "sad trombone" effect, which refers to the downward drift in frequency of consecutive sub-bursts in FRBs, contributing to the discussion on spectrotemporal properties and source dynamics.
+
+N/A
+@Rajabi et al. 2020; Houde et al. 2019:
+These papers are cited to reference the triggered relativistic dynamical model (TRDM) and its application to FRB emission, specifically the sub-burst slope law and the relationships between spectro-temporal properties.
+
+@Houde et al. 2018(Houde et al. , 2019):
+Referenced to highlight the inspiration for the TRDM model and its connection to superradiance in FRB emission.
+
+@Rajabi et al. 2020; Jahns et al. 2023; Chamma et al. 2023:
+These papers are cited to support the observation of predicted patterns in FRB 20121102A, including the relationships between sub-burst slope, duration, center frequency, and bandwidth.
+
+N/A
+@N/A

@@ -1,0 +1,22 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the discovery of fast radio bursts (FRBs) and establish the intense study of FRBs in radio astronomy.",
+  "Thornton et al. 2013": "Referenced to indicate the discovery of fast radio bursts (FRBs) and establish the intense study of FRBs in radio astronomy.",
+  "Bassa et al. 2017": "Referenced to establish the cosmological origins of FRBs after the localization of FRB 121102 to a host galaxy.",
+  "Chatterjee et al. 2017": "Referenced to establish the cosmological origins of FRBs after the localization of FRB 121102 to a host galaxy.",
+  "Marcote et al. 2017": "Referenced to establish the cosmological origins of FRBs after the localization of FRB 121102 to a host galaxy.",
+  "Wang et al. 2020": "Referenced to indicate that over 800 fast radio bursts (FRBs), including 25 repeaters, have been observed and suggest magnetars as probable sources for at least some FRBs."
+}
+{
+  "Chen 2012": "Referenced to describe the FRB digital backend of the Tianlai dish pathfinder array and its role in testing key technologies for 21-cm intensity mapping method.",
+  "Xu et al. 2014": "Referenced to describe the FRB digital backend of the Tianlai dish pathfinder array and its role in testing key technologies for 21-cm intensity mapping method.",
+  "Li et al. 2020": "Referenced to describe the Tianlai experiment and its components, specifically the cylinder pathfinder array.",
+  "Zhang et al. 2016": "Referenced to describe the Tianlai experiment and its components, both the cylinder pathfinder array and the dish pathfinder array.",
+  "Sun et al. 2022": "Referenced to describe the Tianlai experiment and its components, specifically the cylinder pathfinder array.",
+  "Li et al. 2021": "Referenced to describe the Tianlai experiment and its components, specifically the cylinder pathfinder array.",
+  "Wu et al. 2021": "Referenced to describe the Tianlai experiment and its components, specifically the dish pathfinder array and the labeling of antennas.",
+  "Das et al. 2018": "Referenced to describe the Tianlai experiment and its components, specifically the dish pathfinder array.",
+  "Phan et al. 2022": "Referenced to describe the Tianlai experiment and its components, specifically the dish pathfinder array.",
+  "Zuo et al. 2021": "Referenced to describe the original Tianlai correlator and its limitations in outputting visibilities with a ∼ 1 second time sampling.",
+  "Perdereau et al. 2022": "Referenced to highlight the potential of the Tianlai dish array, with its field of view (FoV) of ∼ 19.6 square degrees, to discover large numbers of FRBs while conducting its HI survey.",
+  "Wu et al. 2021": "Referenced to explain the labeling of antennas in the Tianlai dish array."
+}

@@ -1,0 +1,16 @@
+@Petroff et al. 2022:
+Referenced to provide more details and references about the number of detected and reported FRBs, including the number of repeaters and those with associated host galaxies.
+
+@Nicastro et al. 2021:
+Cited to emphasize the importance of repeating FRBs in studying their origin and the need to discover larger numbers of FRBs with accurate position measurements.
+
+@Rajwade et al. 2020; CHIME/FRB Collaboration et al. 2020a:
+These papers are cited to support the claim that two repeating FRBs have been discovered to show periodicity in their activity cycle, suggesting a binary system origin.
+
+@Ioka & Zhang 2020; Beniamini et al. 2020; Zanazzi & Lai 2020; Sridhar et al. 2021:
+These papers are cited to acknowledge alternative explanations for the periodicity observed in repeating FRBs, apart from a binary system origin.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020b:
+Referenced to highlight the extremely bright radio bursts and high-energy flaring observed from the Galactic magnetar SGR J1935+2154, suggesting a link between neutron stars and FRBs.
+@Tendulkar et al. 2021:
+Referenced to support the need for a detailed examination of systems combining binary nature and magnetar connection in order to compare them to known FRB properties.

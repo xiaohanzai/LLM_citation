@@ -1,0 +1,70 @@
+@Lorimer et al. (2007):
+Referenced to introduce the concept of Fast Radio Bursts (FRBs) and their dispersion effects.
+
+@Chatterjee et al. (2017); Bannister et al. (2019b):
+Cited to provide additional references for the existence of FRBs and their extragalactic origin.
+
+@Thornton et al. (2013); Keane (2016):
+These references are cited to support the definition of FRBs based on their dispersion measures (DMs) exceeding the maximum contribution from the Milky Way.
+
+@Macquart et al. (2020):
+Referenced to highlight the observed correlation between extragalactic DM and luminosity distance, further supporting the extragalactic origin of FRBs.
+
+@Macquart & Koay (2013); Prochaska et al. (2019); Chittidi et al. (2021):
+Cited to discuss the propagation effects on FRB pulse morphology, including scatter broadening and Faraday rotation caused by plasma structures and magnetic fields along the line of sight.
+
+@Simha et al. (2020):
+Referenced to emphasize the usefulness of propagation effects as probes of the extragalactic medium.
+
+@Prochaska et al. (2019):
+Cited to highlight the application of propagation effects in measuring the density and magnetic fields of foreground galaxy haloes.
+@Keane et al. 2018:
+Referenced to discuss the trade-off between processing speed and thoroughness in data cleaning in the search for FRBs.
+
+@Lorimer et al. 2007:
+Cited as one of the algorithms used to detect FRBs.
+
+@Keane et al. 2012:
+Cited as one of the algorithms used to detect FRBs.
+
+@Burke-Spolaor & Bannister 2014:
+Cited as one of the algorithms used to detect FRBs.
+
+@Spitler et al. 2016:
+Cited as one of the algorithms used to detect FRBs.
+
+@Barsdell et al. 2012:
+Cited as one of the algorithms used to detect FRBs.
+
+@CHIME/FRB Collaboration et al. 2018:
+Cited as one of the algorithms used to detect FRBs.
+
+@Bannister et al. 2017(Bannister et al. , 2019a):
+Cited as one of the algorithms used to detect FRBs.
+
+@Sclocco et al. 2020:
+Cited as one of the algorithms used to detect FRBs.
+
+@Armour et al. 2011; Carels et al. 2019; Adámek & Armour 2020:
+Cited as one of the algorithms used to detect FRBs.
+@Connor 2019; Luo et al. 2020; James et al. 2022:
+These papers are cited to emphasize the importance of the underlying population distribution estimated from the observed sample in cosmological parameter estimations using Fast Radio Bursts (FRBs).
+
+@CHIME/FRB Collaboration et al. 2018:
+Referenced to highlight the deployment of mock FRB injection systems in major FRB observing facilities such as CHIME.
+
+@Farah et al. 2019:
+Cited to emphasize the deployment of mock FRB injection systems in major FRB observing facilities such as UTMOST.
+
+@Agarwal et al. 2020:
+Referenced to highlight the development of the greenburst system for GBT and the measurement of the system recall curve.
+
+@Gupta et al. 2021:
+Cited to showcase the results of systematic injection tests showing the recovery of synthetic injections by heimdall used on UTMOST.
+@Bannister et al. 2017; Bannister et al. 2019a:
+Referenced to introduce the Fast Real-time Engine for Dedispersing Amplitudes (fredda) search pipeline used on the Australian Square Kilometre Array Pathfinder (ASKAP) for the Commensal Real-time ASKAP Fast Transients (CRAFT) project.
+
+@Zackay & Ofek 2017:
+Cited to describe the Fast Dispersion Measure Transform (FDMT), which is the rapid dedispersion trial algorithm implemented in fredda to detect dispersed single pulses.
+
+@N/A

@@ -1,0 +1,5 @@
+1. N/A
+2. N/A
+3. N/A
+4. Kuhn et al. (2021):
+Referenced to indicate that the noise temperature assessment of the HIRAX antenna in a custom-built facility at Yale University builds upon previous work conducted by Kuhn et al. in 2021.

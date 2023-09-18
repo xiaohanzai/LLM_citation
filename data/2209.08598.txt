@@ -1,0 +1,32 @@
+{
+  "Turolla, Zane, & Watts 2015": "Referenced to support the statement that magnetars drive a wide range of astrophysical phenomena, including short X-ray bursts, storms of bursts, prolonged intermediate events, and rare giant γ-ray flares.",
+  "Kaspi & Beloborodov 2017": "Referenced to support the statement that magnetars drive a wide range of astrophysical phenomena, including short X-ray bursts, storms of bursts, prolonged intermediate events, and rare giant γ-ray flares.",
+  "Mereghetti et al. 2020": "Cited as an observation that shows magnetars are the central engines for at least some fast radio bursts (FRBs).",
+  "Bochenek et al. 2020": "Cited as an observation that shows magnetars are the central engines for at least some fast radio bursts (FRBs).",
+  "CHIME/FRB Collaboration et al. 2020": "Cited as an observation that shows magnetars are the central engines for at least some fast radio bursts (FRBs).",
+  "Li et al. 2021": "Cited as an observation that shows magnetars are the central engines for at least some fast radio bursts (FRBs).",
+  "Ridnaia et al. 2021": "Cited as an observation that shows magnetars are the central engines for at least some fast radio bursts (FRBs).",
+  "Burns et al. 2021": "Cited as an observation that shows some short γ-ray bursts are the result of giant flares from extragalactic magnetars.",
+  "Hurley-Walker et al. 2022": "Cited as an observation that suggests certain ultralong-period radio emitters may be old magnetars.",
+  "Caleb et al. 2022": "Cited as an observation that suggests certain ultralong-period radio emitters may be old magnetars.",
+  "Beniamini et al. 2022": "Cited as an observation that suggests certain ultralong-period radio emitters may be old magnetars.",
+  "Ruderman 1991": "Referenced to support the statement that the solid crust of a magnetar plays a key role in its activity.",
+  "Thompson & Duncan 1995": "Referenced to support the statement that the solid crust of a magnetar plays a key role in its activity.",
+  "Perna & Pons 2011": "Referenced to support the statement that the solid crust of a magnetar plays a key role in its activity.",
+  "Lander et al. 2015": "Referenced to support the statement that the solid crust of a magnetar plays a key role in its activity.",
+  "Dehman et al. 2020": "Referenced to support the statement that the solid crust of a magnetar plays a key role in its activity."
+}
+{
+  "Pons & Viganò 2019": "Referenced to highlight detailed quantitative simulations of crustal magnetic-field evolution, which are compared to the rudimentary modelling of crustal energy release in the current study.",
+  "Gourgouliatos, De Grandis, & Igoshev 2022": "Referenced to highlight detailed quantitative simulations of crustal magnetic-field evolution, which are compared to the rudimentary modelling of crustal energy release in the current study.",
+  "Thompson, Yang, & Ortiz 2017": "Referenced to acknowledge the conceptual challenges faced by the rudimentary modelling of crustal energy release in the current study.",
+  "Younes et al. 2022": "Referenced to acknowledge the potential role of the outer crust in weak bursts, although its effect is neglected in the current study.",
+  "Jones 2003": "Referenced to support the expectation that the crust flows plastically rather than undergoing brittle fracture when it yields, releasing elastic energy.",
+  "Lander & Gourgouliatos 2019": "Referenced to highlight the use of the TOV stellar structure equations and the SLy4 equation of state to determine profiles of mass, charge density, and composition throughout the crust in a previous study."
+}
+{
+  "Chugunov & Horowitz (2010)": "Referenced to evaluate the formula for τ el and calculate the maximum elastic energy of the crust.",
+  "Palmer et al. (2005)": "Cited to compare the total energy reservoir of the crust with the energy of the most powerful known giant flare.",
+  "Lyutikov (2006)": "Referenced to discuss the role of crustal yielding in driving the transfer of energy in the magnetar paradigm.",
+  "Horowitz & Kadau (2009)": "Cited to mention microscopic molecular-dynamics simulations of collective local failure in the crust."
+}

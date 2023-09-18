@@ -1,0 +1,54 @@
+@Masamitsu Mori, Ryo Sawada:
+These authors are cited as the corresponding authors of the paper, providing their contact information.
+
+N/A
+@Ruiter 2020:
+Referenced as a source for the information about a promising progenitor of AIC being a merger remnant of binary carbon-oxygen WDs.
+
+@Yoon et al. 2007:
+Cited to support the statement that a merger remnant of binary carbon-oxygen WDs may cause a type Ia supernova if it slowly accretes from a tidally disrupted WD.
+
+@Schwab et al. 2012; Ji et al. 2013:
+These papers are referenced to highlight the findings of magnetohydrodynamic simulations reporting that magnetic viscosity leads to a high accretion rate and ignites carbon deflagration.
+
+@Gvaramadze et al. 2019; Kashiyama et al. 2019; Oskinova et al. 2020; Lykou et al. 2023; Ko et al. 2023:
+These references are cited to support the mention of WD J005311 as a WD merger remnant candidate, which is relevant to the discussion of the ignition of carbon deflagration.
+
+@Saio & Nomoto 1985; Schwab et al. 2016:
+These papers are cited to provide information about the conversion of materials of a merger remnant from carbon-oxygen to oxygen-magnesium-neon or heavier elements through carbon deflagration.
+
+@Nomoto & Kondo 1991:
+Referenced to support the statement that if the merger remnant has super-Chandrasekhar mass, it will cause AIC.
+
+@Kashiyama & Murase 2017; Kirsten et al. 2022:
+These references are cited to establish the connection between AIC and unresolved astrophysical phenomena such as fast radio bursts (FRBs).
+
+@Gautam et al. 2022:
+Cited to highlight the connection between AIC and the Galactic Center GeV Excess (GCE).
+
+@Bailyn & Grindlay 1990; Canal et al. 1990:
+These papers are referenced to support the statement that historically AIC has been proposed to explain millisecond pulsars in globular clusters and galactic disks.
+
+@Sawada et al. 2022:
+Cited to mention the discovery of Fast Blue Optical Tangents (FBOTs) and their relation to AIC.
+
+@Ofek et al. 2021; Mor et al. 2023:
+These references are cited to further discuss the suggestion of FBOTs in relation to AIC.
+
+N/A
+@Baron et al. (1987):
+Referenced as the pioneering AIC simulation that set a precedent for subsequent works on the topic.
+
+@Woosley & Baron (1992), Fryer et al. (1999), Dessart et al. (2006):
+Cited as subsequent works on AIC simulations that build upon the pioneering study by Baron et al. (1987).
+
+@Sharon & Kushnir (2020), Mor et al. (2023), Longo Micchi et al. (2023):
+Referenced as more recent studies on AIC simulations, highlighting the ongoing research in the field.
+
+@Longo Micchi et al. (2023):
+Cited as an example of a past work that employed Newtonian gravity, in contrast to the current study that takes into account general relativity (GR).
+
+@Sharon & Kushnir (2020):
+Referenced for suggesting that neutrino handling changes the dynamics of AIC simulations, contributing to the accuracy and reliability of the current study's results.
+@Marquardt et al. (2015):
+Referenced to support the statement that if silicon-group elements are formed, a white dwarf can undergo core-collapse instead of a type Ia supernova.

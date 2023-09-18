@@ -1,0 +1,7 @@
+@Testori et al. 2001; Bajaja et al. 2005; Kalberla et al. 2005:
+These references are cited to highlight the high-impact publications resulting from the collaboration between the Argentine Institute of Radio astronomy (IAR) and German and Dutch institutions, specifically in relation to the successful survey of neutral hydrogen in the southern hemisphere.
+
+@Gancio et al. 2020:
+Referenced to indicate the recent upgrade of the IAR antennas to conduct high-quality radio astronomy, enabling various science projects after a period of inactivity.
+
+N/A

@@ -1,0 +1,37 @@
+{
+  "Cordes & Chatterjee 2019": "Cited for a review on the duration and extragalactic nature of FRBs, as well as the identification of extragalactic host galaxies.",
+  "Heintz et al. 2020": "Referenced for the identification of extragalactic host galaxies of FRBs.",
+  "Hashimoto et al. 2020; Pleunis et al. 2021": "Cited to highlight the ongoing debate regarding whether repeating and non-repeating FRBs belong to the same population.",
+  "Platts et al. 2019": "Referenced to mention the various theoretical models proposed to explain FRBs.",
+  "The CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020": "Cited for the detection of a millisecond-duration radio burst from the Galactic magnetar SGR 1935+2154, suggesting a magnetar origin of other extragalactic FRBs."
+}
+{
+"Le Floc'h et al. 2006": "Referenced to demonstrate the importance of observations of host galaxies in understanding the nature of astronomical transients such as gamma-ray bursts (GRBs).",
+"Perley et al. 2016": "Referenced to emphasize the significance of observations of host galaxies in constraining models of astronomical transients.",
+"Niino et al. 2017": "Referenced to highlight the role of observations of host galaxies in understanding the nature of astronomical transients.",
+"Hashimoto et al. 2019": "Referenced to support the importance of observations of host galaxies in understanding the nature of astronomical transients.",
+"Chatterjee et al. 2017": "Referenced to demonstrate the recent advancements in facilities and follow-up campaigns enabling the localization of fast radio bursts (FRBs) and identification of host galaxies.",
+"Bannister et al. 2019": "Referenced to highlight the recent advancements in facilities and follow-up campaigns enabling the localization of FRBs and identification of host galaxies.",
+"Prochaska et al. 2019": "Referenced to emphasize the recent advancements in facilities and follow-up campaigns enabling the localization of FRBs and identification of host galaxies.",
+"Macquart et al. 2020": "Referenced to support the recent advancements in facilities and follow-up campaigns enabling the localization of FRBs and identification of host galaxies.",
+"Marcote et al. 2020": "Referenced to demonstrate the recent advancements in facilities and follow-up campaigns enabling the localization of FRBs and identification of host galaxies.",
+"Heintz et al. 2020": "Referenced to highlight the wide range of properties observed in the hosts of FRBs through optical/near-infrared observations.",
+"Bhandari et al. 2022": "Referenced to support the wide range of properties observed in the hosts of FRBs through optical/near-infrared observations.",
+"Li et al. 2019": "Referenced to compare the environments of FRBs with those of long-duration gamma-ray bursts (LGRBs) and superluminous supernovae (SLSNe) in order to understand the progenitor formation channels.",
+"Li & Zhang 2020": "Referenced to compare the environments of FRBs with those of LGRBs and SLSNe in order to understand the progenitor formation channels.",
+"Bhandari et al. 2020": "Referenced to compare the environments of FRBs with those of LGRBs and SLSNe in order to understand the progenitor formation channels.",
+"Bower et al. (2018)": "Referenced to highlight the use of CO observations of host galaxies in determining physical properties of the interstellar medium in the environment of FRBs."
+}
+{
+  "ALMA": "Referenced to describe the molecular gas observations in the host galaxies of three FRBs and the properties of molecular gas in the six host galaxies.",
+  "Chabrier (2003)": "Adopted as the initial mass function throughout the paper.",
+  "Planck Collaboration et al. 2020": "Used to determine the cosmological parameters in the paper.",
+  "Johnston et al. 2008": "Cited to mention the Australian Square Kilometre Array Pathfinder (ASKAP) used for detecting FRB 20180924B.",
+  "Bannister et al. 2019": "Referenced to provide information about the host galaxy of FRB 20180924B, including its stellar mass, star formation rate, gas-phase metallicity, and its classification as a low-ionization narrow-emission line region (LINER) in a Baldwin, Phillips & Terlevich (BPT) diagram.",
+  "Heintz et al. 2020": "Cited to provide additional details about the host galaxy of FRB 20180924B, including its location in the color-magnitude diagram and SFR-M * plot."
+}
+{
+  "Macquart et al. 2020": "Referenced to support the detection and localization of FRB 20190102C and FRB 20190711A using ASKAP, providing information about the host galaxies and their redshifts.",
+  "Heintz et al. 2020": "Cited to provide details about the stellar mass, star formation rate, and metallicity of the host galaxies of FRB 20190102C and FRB 20190711A.",
+  "Bhandari et al. 2020": "Referenced to describe the location of the host galaxy of FRB 20190102C on the BPT diagram, indicating its position relative to star-forming galaxies and active galactic nuclei."
+}

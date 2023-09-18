@@ -1,0 +1,37 @@
+{
+  "LIGO Scientific Collaboration et al. 2017;Abbott et al. 2017a": "Referenced to support the statement about the joint detection of a faint gamma-ray burst (GRB) coincident with the gravitational wave detection of a binary neutron star (BNS) merger GW170817, providing the first direct proof of the link between short GRBs and BNS mergers.",
+  "Watson et al. 2019;Kasliwal et al. 2017a": "Cited to highlight the papers that provided a detailed understanding of the production of r-process elements in kilonovae in the context of the GRB counterpart of GW170817.",
+  "De et al. 2018": "Referenced to indicate the paper that provided independent measurements of the neutron star equation of state in the context of GW170817.",
+  "Zhang et al. 2018": "Cited to support the statement about the faintness of the GRB counterpart of GW170817 and its detection by most current space-based detectors.",
+  "Hosseinzadeh et al. 2019;Coughlin et al. 2019": "These papers are cited to indicate the extensive searches for EM counterparts of BNS and NSBH events detected in LIGO-Virgo observing run 3 (O3) and the lack of detections.",
+  "N/A": "No citations appear in the text."
+}
+{
+  "Schönfelder et al. 1984": "Referenced to highlight the mission BATSE's contribution to X-ray and gamma-ray transient astronomy.",
+  "Band et al. 1993a": "Referenced to highlight the mission BATSE's contribution to X-ray and gamma-ray transient astronomy.",
+  "Boella et al. 1997": "Referenced to highlight the mission BeppoSAX's contribution to X-ray and gamma-ray transient astronomy.",
+  "Gehrels et al. 2004": "Referenced to highlight the mission Swift's contribution to X-ray and gamma-ray transient astronomy.",
+  "Barthelmy et al. 2005": "Referenced to highlight the mission Swift's contribution to X-ray and gamma-ray transient astronomy.",
+  "Meegan et al. 2009": "Referenced to highlight the mission Fermi's contribution to X-ray and gamma-ray transient astronomy.",
+  "Bhalerao et al. 2017": "Referenced to highlight the instruments AstroSat CZTI's contribution to characterizing the polarization of GRBs.",
+  "Produit et al. 2005": "Referenced to highlight the instruments POLAR's contribution to characterizing the polarization of GRBs.",
+  "Yonetoku et al. 2011a": "Referenced to highlight the instruments IKAROS-GAP's contribution to characterizing the polarization of GRBs.",
+  "Metzger et al. 2008": "Referenced to emphasize the remaining open questions in X-ray and gamma-ray transient astronomy.",
+  "Kumar & Zhang 2015": "Referenced to emphasize the remaining open questions in X-ray and gamma-ray transient astronomy.",
+  "LIGO Scientific Collaboration et al. 2015": "Referenced to highlight the need for the next generation of transient detection telescopes to match the detection horizons of GW detector networks.",
+  "Acernese et al. 2015": "Referenced to highlight the need for the next generation of transient detection telescopes to match the detection horizons of GW detector networks.",
+  "KAGRA Collaboration et al. 2020": "Referenced to highlight the need for the next generation of transient detection telescopes to match the detection horizons of GW detector networks.",
+  "Iyer et al. 2011": "Referenced to highlight the need for the next generation of transient detection telescopes to match the detection horizons of GW detector networks.",
+  "Saleem et al. 2022": "Referenced to highlight the need for the next generation of transient detection telescopes to match the detection horizons of GW detector networks.",
+  "Bellm 2014": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "LSST Science Collaboration et al. 2009": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "Dewdney et al. 2009": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "Gupta et al. 2017": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "van Haarlem et al. 2013": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "Johnston et al. 2007": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response.",
+  "Aartsen et al. 2017": "Referenced to highlight the need for low-latency alerts to coordinate with new synoptic telescopes for EM followup response."
+}
+{
+  "Bhalerao et al": "Referenced as a companion paper (Paper I) that provides the technical details of Daksha, the mission being discussed in the current paper.",
+  "N/A": "No citations found in the text."
+}

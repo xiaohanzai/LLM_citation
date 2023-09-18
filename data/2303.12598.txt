@@ -1,0 +1,54 @@
+@Spitler et al. (2016):
+Referenced to establish that FRB 20121102A was the first fast radio burst (FRB) source found to repeat, ruling out certain progenitor models for FRBs.
+
+@Chatterjee et al. (2017):
+Cited twice, once to indicate that FRB 20121102A was the first FRB source to be precisely localized to a host galaxy, and again to note that it was the first FRB found to be co-located with a persistent radio source (PRS).
+
+@Tendulkar et al. (2017):
+Referenced to provide the redshift of the host galaxy of FRB 20121102A, which suggests a possible connection to long gamma-ray bursts and super-luminous supernovae.
+@Marcote et al. (2017):
+Referenced to support the claim that the FRB and the PRS are located within 40 pc of each other based on VLBI observations with the European VLBI Network.
+
+@Bassa et al. (2017):
+Cited to highlight optical and far-infrared observations using the Hubble Space Telescope that revealed the slight offset of the FRB/PRS location from the centroid of a star formation knot within the host.
+
+@Resmi et al. (2021):
+Referenced to provide information about the flat spectral index of the PRS below 10 GHz.
+
+@Mondal et al. (2020):
+Cited to mention the possible turnover in the spectral index of the PRS at lower frequencies.
+
+@Michilli et al. (2018):
+Referenced to indicate that bursts from FRB 20121102A have high and variable Faraday rotation measure (RM).
+
+@Hessels et al. (2019); Platts et al. (2021):
+Cited to highlight the secular changes in the dispersion measure (DM) of FRB 20121102A.
+
+@Murase et al. (2016); Margalit & Metzger (2018):
+Referenced to present the plausible case for an FRB engine that is a young, highly magnetized neutron star embedded in an expanding supernova remnant and powering a pulsar wind nebula (PWN).
+
+@Zhao & Wang (2021):
+Cited to mention the alternative explanation that the FRB engine is within the vicinity of a massive black hole, with magnetar wind nebulae also discussed as the source of the persistent radio emission.
+@Niu et al. (2022):
+Referenced to mention the only other repeating FRB co-localised to a PRS currently known, providing context for the discussion of PRSs in relation to FRBs.
+
+@Gaensler & Slane 2006:
+Cited to suggest that if PRSs are wind nebulae, their limited lifespan could explain why only a subset of FRBs have a PRS counterpart.
+
+@Law et al. (2022):
+Referenced to support the estimation that PRS occurrence could be as high as 20% for repeating FRBs, based on a sample of 15 localised FRBs with radio sensitivity limits that could allow for PRS detection.
+@Reines et al. (2020):
+Referenced to support the identification of a sample of compact radio sources associated with dwarf galaxies and the suggestion that they may be intermediate-mass black holes (IMBHs), as well as to highlight the similarities between the compact radio sample and the PRS associated with FRB 20121102A.
+
+@McConnell & Ma 2013; Reines & Volonteri 2015:
+These papers are cited to provide background information on the prediction that intermediate-mass black holes (IMBHs) could reside in dwarf galaxies.
+
+@Eftekhari et al. 2020:
+Referenced to discuss the connection between IMBHs, PRSs, and FRBs, and to highlight the preference for a magnetar progenitor in FRB models.
+
+@Shimwell et al. 2022:
+Referenced to describe the LOFAR Two-Meter Sky Survey (LoTSS) second data release, which is used as the radio reference catalogue in the study.
+
+@Cook et al. 2019:
+Referenced to describe the Palomar Observatory's 48-inch Samuel Oschin Telescope's 'Census of the Local Universe' (CLU), which is used as the optical reference catalogue in the study.
+@N/A

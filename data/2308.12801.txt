@@ -1,0 +1,93 @@
+@Petroff et al. 2022; Gordon et al. 2023:
+These references are cited to provide sources for the statement that most known FRBs come from distant extragalactic astronomical sources, specifically in star-forming galaxies.
+
+@Amiri et al.:
+Referenced to support the claim that most known FRBs appear as one-off events.
+
+@Cordes & Lazio 2002; Yao et al. 2017:
+These papers are cited to support the discussion of the expectations of Galactic electron density models in relation to FRBs.
+
+@Bhandari et al. 2020; Nimmo et al. 2022; Dong et al. 2023:
+These references are cited to define and discuss persistent radio sources (PRSs) and their association with FRB sources.
+
+@Law et al. 2022:
+Referenced to provide the criteria for defining PRSs based on their luminosity.
+
+@Marcote et al. 2017:
+Cited to provide the criteria for defining PRSs based on their compactness.
+
+@Chatterjee et al. 2017; Niu et al. 2022:
+These references are cited to highlight FRB sources that are known to be associated with a PRS.
+
+@Michilli et al. 2018; Anna-Thomas et al. 2022:
+These papers are cited to provide information on the specific FRB sources that are associated with a PRS, including their characteristics and environments.
+@Marcote et al. (2017); Niu et al. (2022):
+These papers are cited to provide the spectral indices of FRB 20121102A and FRB 20190520B, respectively, and to support the statement that the PRSs have a flat spectrum from 1.6-10 GHz.
+
+@Resmi et al. (2021):
+Referenced to highlight that the PRS spectrum for FRB 20121102A remains optically thin down to 400 MHz with a flat spectral index.
+
+@Chatterjee et al. (2017):
+Cited multiple times to provide information on the spectral index, flux density, and flux density variability of both PRSs, as well as to discuss the lack of a link between flux density fluctuations of the PRS and burst activity.
+
+@Waxman (2017):
+Referenced to support the statement that the observed flux density variability of FRB 20121102A's PRS at 3 GHz is consistent with refractive scintillation in the Milky Way.
+
+@Chen et al. (2022):
+Cited to present the findings that the level of radio flux variability of FRB 20121102A's PRS at 12-26 GHz is lower than expected from scintillation, ruling out active galactic nuclei (AGNe) as a possible model for the PRS.
+
+@Rhodes et al. (2023):
+Referenced to discuss the ∼30% change in the flux density of FRB 20121102A's PRS at 1.3 GHz over three years, which is argued to be more likely intrinsic to the source than due to scintillation, but further measurements are needed to confirm.
+
+@Zhang et al. (2023):
+Cited twice, once to report a marginal decrease in the flux density of FRB 20190520B's PRS at 3 GHz over a year, and again to discuss the potential intrinsic or scintillation-related nature of this decrease and its implications for the size of the variable component of the radio source.
+@Marcote et al. (2017):
+Referenced to support the constraint on the size of FRB 20121102A's associated persistent radio source (PRS) and its projected linear separation from the burst source.
+
+@Plavin et al. (2022):
+Cited to provide evidence against a young supernova scenario for the PRS of FRB 20121102A based on the steady flux density observed over a year after detection, and to highlight the significant difference in polarization between the burst and PRS emission.
+
+@Michilli et al. (2018):
+Referenced to show the high level of polarization in the burst from FRB 20121102A and the lack of polarization in the PRS emission.
+
+@Gourdji et al. (2019):
+Cited to support the conclusion that the bursts and PRS of FRB 20121102A are not of the same nature, ruling out the possibility of persistent emission driven by regular, low-level burst activity from the FRB source.
+
+@Margalit & Metzger (2018):
+Referenced to present the concordance picture of an FRB source as a flaring magnetar embedded in a magnetized wind nebula, where the persistent emission is powered by relativistic electrons heated at the termination shock of the magnetar wind and the RM originates from non-relativistic electrons injected earlier in the nebula's evolution.
+@Marcote et al. (2017):
+Referenced to provide tight constraints on the size of the radio nebula, which is relevant to the discussion of the size and luminosity of the persistent radio source (PRS).
+
+@Hilmarsson et al. (2021):
+Cited to explain the observed size and luminosity of the PRS, as well as the large and decreasing rotation measure (RM) of the bursts.
+
+@Zhang (2018):
+Referenced to present a model involving a 'cosmic comb' that explains the production of fast radio bursts (FRBs) through the interaction of an astrophysical gas flow with the magnetosphere of a foreground neutron star.
+
+@Sridhar & Metzger (2022):
+Cited to propose a model involving a 'hypernebula' where an accreting compact object produces FRBs along a jet cone, and the surrounding turbulent baryon-rich outflow from the accretion disk is responsible for the persistent radio emission and the overall decreasing and fluctuating RM.
+
+@Sridhar et al. (2022):
+Referenced to suggest that the baryons accelerated at the jet termination shock of potential persistent radio source (PRS) sources could also be sources of persistent high-energy neutrinos.
+
+@Anna-Thomas et al. (2022):
+Cited to describe FRB 20190520B, a repeating FRB with similar burst and host properties to FRB 20121102A, and to highlight its extreme magneto-ionic environment in a dwarf galaxy.
+
+@James et al. (2022):
+Referenced to compare the estimated host galaxy contribution to the dispersion measure (DM) of FRB 20190520B with typical FRB host galaxies, indicating that the host DM is significantly larger.
+
+@Tendulkar et al. (2017):
+Cited to provide an estimate of the DM for FRB 20121102A, which is compared to the estimated host galaxy contribution of FRB 20190520B.
+
+@Niu et al. (2022):
+Referenced to confine the size of the apparent persistent radio source (PRS) using Karl G. Jansky Very Large Array (VLA) observations.
+@Tendulkar et al. 2017:
+Referenced to provide an estimate of the factor by which the dispersion measure (DM) of FRB 20121102A exceeds the DM of known pulsars.
+
+@Niu et al. 2022:
+Cited to support the confinement of the apparent persistent radio source (PRS) size to less than 1.4 kiloparsecs based on Karl G. Jansky Very Large Array (VLA) observations.
+
+@Zhang et al. 2023:
+Referenced to establish a lower size limit of at least 0.22 parsecs for the PRS using equipartition and self-absorption assumptions, as well as the radio spectrum and integrated radio luminosity in the 1-12 GHz range.
+@Planck Collaboration et al. (2020):
+Referenced to provide the standard cosmology used in the paper.

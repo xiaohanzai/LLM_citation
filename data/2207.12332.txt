@@ -1,0 +1,16 @@
+Cordes & Lazio 2002:
+Referenced to determine the maximum expected Galactic dispersion measure (DM) from the NE2001 Galactic electron model.
+
+Manchester et al. 1996; Lyne et al. 1998; D'Amico et al. 1998:
+These papers are cited to indicate that the complete details and results from the original Parkes 70-cm pulsar survey were presented in these three publications.
+McLaughlin et al. (2006):
+Cited to reference the discovery of rotating radio transients (RRATs) in 2006, which demonstrated the potential of searching for dispersed impulsive signatures in pulsar surveys.
+
+Lorimer et al. (2007):
+Referenced to highlight the discovery of the first extragalactic fast radio burst (FRB) in 2007, known as the Lorimer Burst, which further emphasized the importance of searching for dispersed astrophysical signals in pulsar surveys.
+
+Petroff et al. (2019, 2022):
+These reviews are cited to provide a summary of the current state of the field of FRB science, indicating the rapid growth of the field since the initial discoveries of FRBs.
+
+Zhang et al. (2020); Yang et al. (2021):
+These papers are referenced to mention a similar analysis that has already been conducted on a large amount of data acquired with the multibeam receiver at Parkes, highlighting the relevance of previous studies in the context of the current re-analysis of the Parkes 70-cm pulsar survey.

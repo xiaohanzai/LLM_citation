@@ -1,0 +1,73 @@
+@Petroff et al. 2019; Cordes & Chatterjee 2019; Zhang 2020a; Xiao et al. 2021; Zhang 2020b; Zhang 2022:
+These references are cited to provide reviews on fast radio bursts (FRBs) and their cosmological distances, highlighting the existing literature on the topic.
+
+@Lorimer et al. 2007; Thornton et al. 2013; Spitler et al. 2016; Chatterjee et al. 2017; Bannister et al. 2019:
+These papers are referenced to indicate the detection of a few hundred FRB sources, emphasizing the current knowledge and research on FRBs.
+
+@Chime/Frb Collaboration et al. 2023:
+This reference is cited to highlight the detection of over 50 FRB sources showing repeating activities, underscoring the significance of this finding.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020a; Mereghetti et al. 2020; Li et al. 2021a; Tavani et al. 2021:
+These papers are referenced to support the association of FRB 20200428 with an X-ray burst from the Galactic magnetar SGR 1935+2154, establishing an FRB-magnetar connection.
+
+@Michilli et al. 2018:
+This reference is cited to provide information on the first observed repeating FRB 20121102A and its Faraday rotation measurement (RM).
+
+@Hilmarsson et al. 2021a:
+This paper is referenced to highlight the decrease in RM and the increase in dispersion measure (DM) of the repeating FRB 20121102A over time.
+
+@Li et al. 2021b:
+This reference is cited to provide information on the increase in DM of the repeating FRB 20121102A over a six-year period.
+
+@Feng et al. 2022a:
+This paper is referenced to discuss the observation of significant circular polarization (CP) in a dozen bursts out of nearly 2000 bursts detected by the Five-hundred-meter Aperture Spherical radio Telescope (FAST).
+
+@Feng et al. 2022b; Yang et al. 2022:
+These references are cited to discuss the significant frequency-dependent depolarization observed in FRB 20121102A and FRB 20190520B, suggesting a possible origin from multi-path propagation.
+@Niu et al. 2022; Ocker et al. 2022:
+These papers are cited to provide evidence of FRB 20190520B having a very large host dispersion measure (DM) compared to other FRBs.
+
+@Anna-Thomas et al. 2023:
+Referenced to support the statement that FRB 20190520B showed a sign reversal in rotation measure (RM) over six months.
+
+@Feng et al. 2022a:
+Cited to highlight the fluctuations in circular polarization (CP) observed in FRB 20190520B.
+
+@Xu et al. 2022:
+These papers are referenced to describe the significant and irregular short timescale RM variations observed in FRB 20201124A, as well as the significant CP observed in the same source.
+
+@Jiang et al. 2022:
+Cited to support the statement that FRB 20201124A has a significant CP.
+
+@Wang et al. 2022:
+Referenced to suggest that the significant and diverse variations in RMs and polarizations of some FRB repeaters indicate the presence of a dynamically evolving magnetized environment around the FRB source.
+@CHIME/FRB Collaboration et al. 2020b:
+Referenced to provide evidence of the periodic activity of the repeating FRB 20180916B.
+
+@Cruces et al. 2021; Rajwade et al. 2020:
+Cited to support the possibility of FRB 20121102A having a 160-day period, potentially corresponding to the orbital period of a binary star system.
+
+@Tendulkar et al. 2021a:
+Referenced to indicate the ∼ 250 pc offset between FRB 20180916B and the brightest region of the nearest young stellar clump in its host galaxy, suggesting the possible birthplace of FRB 20180916B and the age of the central object.
+
+@Tendulkar et al. 2021b:
+Cited to highlight the inconsistency of the age of the central object of FRB 20180916B with the scenario involving a young magnetar.
+
+@Bodaghee et al. 2012:
+Referenced to support the agreement of the age of the central object of FRB 20180916B with scenarios of high-mass X-ray binaries.
+
+@Mckinven et al. 2022; Xu et al. 2022:
+Cited to explain the significant RM variations observed in FRB 20180916B and FRB 20201124A, which can be attributed to the magnetic field reversal of the binary star along the line of sight.
+
+@Wang et al. 2022; Zhao et al. 2023:
+Referenced to provide an explanation for the significant RM variations observed in FRB 20180916B and FRB 20201124A, suggesting the magnetic field reversal of the binary star along the line of sight.
+
+@Kirsten et al. 2022:
+Cited to indicate the location of FRB 20200120E in a globular cluster, known to be rich in binaries from dynamical interactions.
+
+@Xu et al. 2022:
+Referenced to explain the changes in circular polarization observed in FRB 20201124A, potentially explained by fast circularization near a highly magnetized companion.
+
+@Li et al. 2023:
+Cited to highlight the irregular large RM variation observed in PSR B1744-24A in a binary system, which is similar to the observed irregular large RM variation in FRB 20201124A.
+@N/A

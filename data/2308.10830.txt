@@ -1,0 +1,17 @@
+@Ref. [1]:
+Cited to support the measurement of time delay distances using galactic lensing of quasars, which provides a Hubble constant measurement in tension with the Planck CMB measurements.
+
+@Ref. [2]:
+Referenced to provide the Hubble constant measurement from the Planck CMB measurements, which is in tension with the Hubble constant measurement from galactic lensing of quasars.
+
+N/A
+@3:
+Referenced to support the claim that uncertainties in measurements of the lensing time-delays of fast radio bursts (FRBs) are limited by the wavelength of the light, potentially yielding nanosecond precision.
+
+@4:
+Cited to highlight that the remarkable precision of FRBs in measuring lensing time-delays will make them sensitive to stellar microlenses with typical time delays of order milliseconds.
+@5,6:
+These references are cited to support the statement that a substantial fraction of FRBs are observed to scintillate, which is relevant to the proposal of using scintillation of lensed images to measure cosmic expansion.
+
+@7:
+This reference is cited to highlight that a direct measurement of the Hubble constant to percent accuracy would be competitive with other local probes of cosmic expansion and would inform debates on the Hubble tension.

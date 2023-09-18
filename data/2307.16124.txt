@@ -1,0 +1,18 @@
+@1: Referenced to indicate the detection of a megajansky radio burst from the Galactic magnetar SGR J1935+2154 on April 28, 2020.
+@2: Referenced to indicate the detection of two pulses in the megajansky radio burst from SGR J1935+2154.
+@3: Referenced to indicate the composition of the megajansky radio burst from SGR J1935+2154.
+@4: Referenced to indicate the source of the megajansky radio burst as the Galactic magnetar SGR J1935+2154.
+@5: Referenced to indicate the identification of the event as FRB 20200428.
+@6: Referenced to indicate the significance of the event in shedding light on cosmological fast radio bursts (FRBs).
+@7: Referenced to indicate the prevalence of cosmological FRBs in the radio sky.
+@8: Referenced to indicate the relevance of the event in suggesting that some FRBs originate from magnetars.
+@9: Referenced to indicate the mysterious nature of cosmological FRBs.
+@10: Referenced to indicate the importance of the event in understanding FRBs.
+@11: Referenced to indicate that most magnetars are radio-quiet.
+@12: Referenced to indicate that magnetars occasionally emit highly variable radio emission.
+@13: Referenced to indicate the ongoing debate regarding the physical conditions and mechanism for magnetars to emit bright coherent radio emission.
+@14: Referenced to indicate the ongoing debate regarding the physical conditions and mechanism for magnetars to emit bright coherent radio emission.
+@15: Referenced to indicate the ongoing debate regarding the physical conditions and mechanism for magnetars to emit bright coherent radio emission.
+@16: Referenced to indicate the ongoing debate regarding the physical conditions and mechanism for magnetars to emit bright coherent radio emission.
+@17: Referenced to indicate the ongoing debate regarding the physical conditions and mechanism for magnetars to emit bright coherent radio emission.
+@18: Referenced to indicate the contrasting phase of the radio pulses with the X-ray pulsation phase in the FRB 20200428 event.

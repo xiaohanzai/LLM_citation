@@ -1,0 +1,64 @@
+@Lorimer et al. (2007); Cordes & Chatterjee 2019; Petroff et al. (2022); Zhang (2022):
+These references are cited to provide background information on Fast Radio Bursts (FRBs), including their dispersed, millisecond duration bright radio pulses and their cosmological distances, in the introduction section of the paper.
+@Margalit et al. 2019; Gourdji et al. 2020:
+These references are cited to support the connection between FRB progenitor models and young and rapidly spinning neutron stars with extremely strong magnetic fields, known as "magnetars".
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020:
+These papers are referenced to strengthen the connection between FRB progenitor models and the detection of an FRB-like event (FRB 20200428A) from the Galactic magnetar SGR 1935+2154.
+
+@Chatterjee et al. 2017; Niu et al. 2022; Bhandari et al. 2023; Gordon et al. 2023:
+These references are cited to highlight the diversity of FRB host environments, including both star-forming and quiescent and massive galaxies.
+
+@Li & Zhang 2020; Gordon et al. 2023; Sharma et al. 2023:
+These papers are referenced to emphasize the existence of FRB host environments in quiescent and massive galaxies.
+
+@Bhardwaj et al. 2021a; Kirsten et al. 2022:
+These references are cited to support the characterization of the immediate environments of FRBs, including the discovery of the repeating FRB 20200120E coincident with an old globular cluster in the nearby M81.
+
+@Mannings et al. 2021; Tendulkar et al. 2021:
+These papers are referenced to highlight the discovery of repeating and non-repeating FRBs coincident with the spiral arms of their host galaxies.
+
+@Chatterjee et al. 2017; Niu et al. 2022:
+These references are cited to mention the discovery of compact, persistent radio sources (PRSs) coincident with two repeating FRBs located in low-mass dwarf galaxies.
+
+@Law et al. 2022(Law et al. , 2023):
+This reference is cited to mention the efforts to discover additional compact, persistent radio sources (PRSs) but no success to date.
+
+N/A
+@CHIME/FRB; CHIME/FRB Collaboration et al. 2021:
+Referenced as the first report of the repeating FRB 20201124A by the Canadian Hydrogen Intensity Mapping Experiment FRB collaboration.
+
+@Lanman et al. 2022; Xu et al. 2022:
+Cited to highlight the observation of heightened activity with hundreds of bursts recorded over several months for the repeating FRB 20201124A.
+
+@Day et al. (2021):
+Referenced for determining an interferometric subarcsecond location for the source of the repeating FRB 20201124A using the Australian Square Kilometre Array Pathfinder (ASKAP).
+
+@Marcote et al. 2021; Nimmo et al. 2022:
+Cited for improving the location precision of the source of the repeating FRB 20201124A to milliarcsecond level using the European Very Large Baseline Interferometry (VLBI) Network.
+
+@Wharton et al. 2021:
+Referenced as one of the radio facilities reporting over 2500 distinct bursts of the repeating FRB 20201124A using the Upgraded Giant Metrewave Radio Telescope (uGMRT).
+
+@Xu et al. 2022; Zhou et al. 2022:
+Cited as radio facilities, including the Five-hundred-meter Aperture Spherical radio Telescope (FAST), reporting bursts of the repeating FRB 20201124A.
+
+@Law et al. 2021:
+Referenced as one of the radio facilities reporting bursts of the repeating FRB 20201124A using the Karl G. Jansky Very Large Array (VLA).
+
+@Kirsten et al. 2023:
+Cited to establish FRB 20201124A as one of the most prolific repeating FRBs to date.
+@Fong et al. 2021; Ricci et al. 2021; Ravi et al. 2022; Xu et al. 2022:
+These papers are cited as follow-up observational efforts that have contributed to the understanding of FRB 20201124A, including the identification of its host galaxy and the interpretation of radio emission as star formation.
+
+@Piro et al. 2021:
+This paper is referenced to support the suggestion that the FRB progenitor formed in-situ in a star forming region, based on deep observations at 22 GHz.
+
+@Marcote et al. 2021; Nimmo et al. 2022:
+These papers are cited to highlight the detection of resolved radio emission at the VLBI scale with the EVN, providing further evidence for the in-situ progenitor formation of FRB 20201124A.
+
+@Xu et al. 2022:
+This paper is referenced to challenge the notion of in-situ progenitor formation by presenting ground-based optical observations of the host galaxy that show FRB 20201124A is offset from any region of apparent star formation.
+
+@Planck Collaboration et al. 2020:
+Referenced to provide the adopted cosmological parameters used throughout the paper.

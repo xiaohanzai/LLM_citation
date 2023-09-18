@@ -1,0 +1,51 @@
+{
+  "Lorimer et al. (2013)": "Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.",
+  "Macquart relation": "Cited to describe the relationship between dispersion measure (DM) and redshift z, which allows for the measurement of cosmological parameters.",
+  "refs. [1,2]": "Cited to mention the detection of one FRB event within the Milky Way, indicating that most FRBs are likely of extragalactic origin.",
+  "refs. [3]": "Cited to mention the use of the Macquart relation to measure cosmological parameters using the value of DM.",
+  "refs. [4][5][6][7][8][9][10][11][12][13][14][15][16][17][18]": "Cited to highlight works that propose using FRB data to constrain cosmological parameters.",
+  "refs. [19][20][21][22][23][24]": "Cited to mention works that propose using FRB data to constrain related parameters.",
+  "refs. [25][26][27][28]": "Cited to refer to recent reviews and other cosmological applications."
+}
+{
+  "CHIME/FRB project": "Referenced to indicate the number of FRB events detected by the project and the limited localization of these events.",
+  "Macquart et al. [3]": "Cited to support the use of localized FRBs observed by ASKAP to derive constraints on the cosmic baryon density.",
+  "groups [30][31][32][33][34]": "Referenced to highlight the use of different methods by independent groups to measure H0 using FRBs and the consistency of their constraints.",
+  "CHIME Outrigger telescopes1": "Mentioned to indicate the ongoing construction of telescopes that are expected to detect a large number of localized FRBs in the future.",
+  "Commensal Real-time ASKAP Fast Transients Coherent upgrade project 2": "Cited to highlight the ongoing project that aims to upgrade ASKAP for detecting more localized FRBs.",
+  "Square Kilometre Array (SKA) project": "Mentioned to indicate the ongoing construction of the SKA project, which is expected to contribute to the accumulation of FRB data.",
+  "wCDM and Chevallier-Polarski-Linder (CPL) models": "Referenced to forecast the number of localized FRBs needed to constrain the dark energy parameters in these models.",
+  "holographic dark energy and Ricci dark energy models": "Cited to indicate the higher number of localized FRBs needed to constrain the dark energy parameters in these models."
+}
+{
+  "ref. [37]": "Referenced to provide a recent review of interacting dark energy (IDE) models, which are relevant to the discussion of dark energy's direct interaction with cold dark matter.",
+  "ref. [38][39][40][41][42]": "Cited to highlight the theoretical and observational problems that IDE models could help resolve, such as the cosmic coincidence problem.",
+  "ref. [43][44][45][46][47][48][49][50]": "Referenced to emphasize the potential of IDE models in addressing the H0 tension.",
+  "ref. [51][52][53][54][55][56][57][58][59][60][61][62]": "Cited to discuss the phenomenological consideration of the energy transfer rate in IDE models, specifically the proportionality coefficient βH or βH0.",
+  "βH or βH0": "Referenced to explain the dimensionless coupling parameter β in IDE models.",
+  "ref. [63,64]": "Cited to provide references for the dimensionless coupling parameter β in IDE models.",
+  "H": "Referenced to explain that H is the Hubble parameter."
+}
+{
+  "65": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "66": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "67": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "68": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "69": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "70": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "71": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "72": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "73": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "74": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "75": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "76": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "77": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "78": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "79": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "80": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "81": "To indirectly detect the interaction between dark sectors and constrain the parameter β in the IDE models using cosmological data.",
+  "82": "To highlight that current observational data cannot precisely constrain β.",
+  "83": "To highlight that current observational data cannot precisely constrain β.",
+  "84": "To highlight that current observational data cannot precisely constrain β.",
+  "85": "To highlight that current observational data cannot precisely constrain β."
+}

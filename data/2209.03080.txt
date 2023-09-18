@@ -1,0 +1,45 @@
+{
+  "Norris 2017": "Referenced to introduce the concept of 'known unknowns' and 'unknown unknowns' in the context of astronomical discoveries.",
+  "Ekers 2009": "Cited to highlight the suitability of radio astronomy surveys for discovering astronomical objects.",
+  "Lorimer et al. 2007": "Referenced to showcase the Parkes telescope's capability of discovering fast radio bursts (FRBs) through its observations.",
+  "Manchester et al. 2001": "Cited to demonstrate the Parkes telescope's ability to discover pulsars through its observations.",
+  "Burgay et al. 2003": "Referenced to illustrate the Parkes telescope's capability of discovering double pulsars through its observations.",
+  "McLaughlin et al. 2006": "Cited to showcase the Parkes telescope's ability to discover rotating radio transients through its observations.",
+  "Merali 2015": "Referenced to mention the involvement of the Parkes telescope in the Breakthrough Listen project, which aims to search for extraterrestrial intelligence (SETI).",
+  "Isaacson et al. 2017": "Cited to highlight the open access availability of data from the Breakthrough Listen project.",
+  "Price et al. 2018": "Referenced to mention the open access availability of data from the Breakthrough Listen project."
+}
+{
+  "Ekers et al. 2002": "Referenced to indicate that many theories and speculations have been proposed regarding unknown signals in SETI.",
+  "Wright 2022": "Referenced to highlight that the nature of such sources in SETI remains a mystery.",
+  "Cocconi & Morrison 1959": "Cited as a pioneering suggestion to look for 'beacons' or indications of technosignatures in the radio frequency range in SETI.",
+  "Drake 1961": "Referenced to describe the typical SETI experiments that search for narrowband spectral signals with a Doppler drift rate.",
+  "Tarter 2001; Siemion et al. 2013; Enriquez et al. 2017; Wright et al. 2018; Price et al. 2020; Perez et al. 2020; Sheikh et al. 2020; Wlodarczyk-Sroka et al. 2020; Margot et al. 2021; Gajjar et al. 2021; Traas et al. 2021": "These papers are cited to highlight the issue of false candidates due to terrestrial and/or space-borne radio frequency interference (RFI) in SETI.",
+  "Sheikh et al. 2021": "Cited to mention the establishment of a narrowband technosignature verification framework to eliminate false events attributed to RFI in SETI.",
+  "Cole & Ekers 1979": "Referenced to propose the possibility of extraterrestrial beacons being compressed in time as short broadband pulses in SETI.",
+  "Siemion et al. 2010; von Korff 2010; Harp et al. 2018; Li et al. 2020; Gajjar et al. 2021": "Cited to discuss the dispersion measure (DM) of radio pulses in the interstellar medium and the potential of extraterrestrial civilizations sending artificially induced broadband signals with negative DM in SETI.",
+  "Gajjar et al. 2021": "Cited to mention the conducted searches for artificial dispersed signals in SETI."
+}
+{
+  "Ransom 2001": "Referenced to describe the Pul-saR Exploration and Search TOolkit3 (PRESTO), one of the most common open source pulsar search software packages.",
+  "Ransom et al. 2002": "Referenced to support the statement that PRESTO has been rigorously tested and maintained, and has been used to discover many pulsed radio sources.",
+  "Lorimer 2011": "Referenced to describe SIGPROC4, another common open source pulsar search software package.",
+  "Barsdell 2012": "Referenced to describe Heimdall5, a GPU-based single pulse search software package.",
+  "Barr 2014(Barr , 2020)": "Referenced to describe peasoup6, another GPU-based single pulse search software package.",
+  "Adámek & Armour 2020": "Referenced to describe AstroAccelerate7, a GPU-based single pulse search software package.",
+  "Zackay & Ofek 2017": "Referenced to describe the fast DM transform, a fast dedispersion technique.",
+  "Bassa et al. 2022": "Referenced to describe the Fourier-domain de-dispersion, another fast dedispersion technique.",
+  "Barsdell et al. 2012": "Referenced to highlight the factors that can affect the sensitivity and completeness of the search, such as the presence of RFI and poorly matched filters.",
+  "Keane & Petroff 2015": "Referenced to highlight the factors that can affect the sensitivity and completeness of the search, such as the presence of RFI and poorly matched filters.",
+  "van Heerden et al. 2017": "Referenced to highlight the factors that can affect the sensitivity and completeness of the search, such as the presence of RFI and poorly matched filters."
+}
+{
+  "Zhang et al. 2018": "Referenced to highlight the application of machine learning and deep learning approaches in classifying single pulses.",
+  "Connor & van Leeuwen 2018": "Referenced to highlight the application of machine learning and deep learning approaches in classifying single pulses.",
+  "Agarwal et al. 2020": "Referenced to highlight the application of machine learning and deep learning approaches in classifying single pulses.",
+  "Künkel et al. 2021": "Referenced to highlight the application of machine learning and deep learning approaches in classifying single pulses.",
+  "Hložek 2019": "Referenced to mention the setup of data challenges in the astronomy community.",
+  "Kessler et al. 2019": "Referenced to highlight a data challenge related to the Large Synoptic Survey Telescope.",
+  "Hopkins et al. 2015": "Referenced to highlight a data challenge related to the Australian Square Kilometre Array Pathfinder and Evolutionary Map of the Universe.",
+  "Bonaldi & Braun 2018": "Referenced to highlight a data challenge related to the Square Kilometre Array."
+}

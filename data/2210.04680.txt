@@ -1,0 +1,77 @@
+{
+  "N/A": "No citations found in the text."
+}
+{
+  "(1,2)": "N/A",
+  "(3)": "N/A",
+  "(4)": "N/A",
+  "(5)": "N/A",
+  "(6)": "N/A",
+  "(7)": "N/A",
+  "(8)": "N/A",
+  "(9)": "N/A",
+  "(10,11)": "N/A",
+  "(11)": "N/A"
+}
+{
+  "10": "N/A",
+  "11": "N/A",
+  "4": "N/A",
+  "12": "N/A"
+}
+{
+  "13": "The reference (13) is cited to support the claim that the burst shows an exponentially decreasing tail consistent with scatter broadening due to turbulence in intervening plasma.",
+  "14": "The reference (14) is cited to mention the limit on Faraday dispersion (σ RM ) reported for other FRBs and induced by fluctuations in rotation measure in intervening turbulent plasma, constraining σ RM < 0.6 rad m -2.",
+  "11": "The reference (11) is cited to support the statement that ground-based optical and infrared observations were undertaken to identify and characterize the burst host galaxy, and that simultaneous optical and infrared spectroscopy of components A, B, and C with the Very Large Telescope (VLT) resulted in the detection of multiple emission lines, yielding a redshift for the host system of 1.016 ± 0.002.",
+  "15": "The reference (15) is cited to mention the Bayesian framework used to assess the chance of coincidence between transients and host galaxies, and to state that the probability of correct association between the burst and the host galaxy is greater than 99.99%."
+}
+{
+  "VLT": "Referenced as the instrument used for simultaneous optical and infrared spectroscopy of components A, B, and C, resulting in the detection of multiple emission lines and the determination of the redshift for the host system.",
+  "Table 1": "Referenced as the source for a complete summary of properties of the host system.",
+  "FRB hosts (16,17)": "Referenced to compare the total stellar mass and star formation history of the complex to that of nearby FRB hosts.",
+  "Figure 2": "Referenced as the source of the image showing components A, B, and C.",
+  "(11)": "Referenced as the source of the redshift value for the host system."
+}
+{
+"11": "The total mass is measured to be approximately 10^10 solar masses and we estimate the current star formation rate to be 0.4 solar masses per year.",
+"18": "Cited to support the claim that the presence of two bright clumps A and C, and the diffuse feature B between them, is suggestive of two galaxies interacting or merging, with the possibility of clumpy morphologies in galaxies at these redshifts.",
+"19": "Referenced to suggest that higher spatial resolution could help discriminate between the components forming via gravitational instabilities in gas-rich disks.",
+"20": "Cited to suggest that higher spatial resolution could help discriminate between the components forming via gravitational instabilities in gas-rich disks.",
+"21": "Referenced to suggest that higher spatial resolution could help discriminate between the components forming via gravitational instabilities in gas-rich disks, or if an interaction or merger event is in progress."
+}
+{
+  "Macquart relation": "Referenced to discuss the extension of the Macquart relation to higher redshift and the relationship between dispersion measure and redshift for the ASKAP FRB sample.",
+  "Milky-Way contribution": "Referenced to subtract off a model for the Milky-Way contribution to the observed DM and estimate the extragalactic DM.",
+  "Lyα forest": "Referenced to confirm the inference that the gas of the cosmic web is highly ionized, based on other experiments such as the Lyα forest.",
+  "FRB 20220610A": "Referenced to mention follow-up observations that will identify all galaxies towards FRB 20220610A and permit studies of their circumgalactic medium.",
+  "He II reionization": "Referenced to discuss the potential analysis of He II reionization in the context of extending the Macquart relation to higher redshifts."
+}
+{
+  "Macquart relation": "Referenced to compare the observed excess dispersion measure (DM) of FRB 20220610A to the median expectation from the Macquart relation.",
+  "FRB 20220610A": "Cited to discuss the observed excess dispersion measure (DM) and its potential origins in the immediate vicinity of the source, the interstellar medium of the host galaxy, or foreground intervening gas.",
+  "FRB sources": "Referenced to highlight the contrast in the absence of strong Faraday rotation or depolarization in FRB 20220610A compared to other FRB sources that show excess dispersion.",
+  "circum-burst media": "Cited to suggest that the excess dispersion for FRB 20220610A originates in a less magnetoionically active plasma, such as in the interstellar medium of the host galaxy, rather than primarily in the circum-burst media hypothesized for other sources.",
+  "spiral galaxy": "Referenced to discuss the unlikelihood of a typical spiral galaxy exceeding a few hundred pc cm -3 in dispersion measure (DM), but higher DM values can be produced by high-density clumps of gas within the host galaxy.",
+  "galaxies at z ∼ 1": "Cited to support the possibility of higher dispersion measure (DM) values in galaxies at redshift z ∼ 1 due to a substantially higher fraction of their baryons in gas rather than stars.",
+  "foreground intergalactic medium": "Referenced as a potential origin of the dispersion measure (DM) observed in FRB 20220610A.",
+  "galaxy merger": "Cited as a potential source of additional ionized material associated with a putative galaxy merger that could contribute to the observed dispersion measure (DM)."
+}
+{
+  "11": "The bandwidth-averaged fluence for this event is 45 ± 5 Jy ms, implying an energy of (6.4 ± 0.7) × 10^32 erg Hz^-1.",
+  "4": "This exceeds the characteristic E max derived from previous FRB population models, suggesting FRBs to be even more extreme phenomena than previously thought.",
+  "27": "Using previous methods, we re-estimate the characteristic maximum FRB energy to be E max = 5 +3 -2 × 10^32 erg Hz^-1.",
+  "28": "This rules out the lower range of allowed maximum FRB energies from previous estimates.",
+  "29": "This rules out the lower range of allowed maximum FRB energies from previous estimates.",
+  "3": "The burst energy, ∼ 2×10^42 erg, is the highest in all unambiguously localized FRBs.",
+  "Figure 3": "The burst energy, ∼ 2×10^42 erg, is the highest in all unambiguously localized FRBs.",
+  "statistical analysis of the FRB rate function": "Based on statistical analysis of the FRB rate function, this is near the maximum energy that the entire FRB source population can produce.",
+  "neutron star": "In one class of models, the emission is produced near the surface of a neutron star."
+}
+{
+  "ASKAP": "Additional details of the search system have previously been provided along with earlier ASKAP FRB discoveries (8).",
+  "8": "Additional details of the search system have previously been provided along with earlier ASKAP FRB discoveries."
+}
+{
+  "ASKAP": "Referenced as the instrument used for FRB searches and the detection of FRB 20220610A.",
+  "32": "Referenced as the source of the previous detection of FRB 220501C by ASKAP."
+}

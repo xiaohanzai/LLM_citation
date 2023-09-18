@@ -1,0 +1,50 @@
+@Verde et al. 2019; Di Valentino et al. 2021:
+These papers are cited to highlight the significant disparity between the determination of the Hubble constant at early times and in our local neighborhood, emphasizing the need to investigate the "Hubble tension" and the possibility of new physics beyond ΛCDM.
+
+@Riess et al. 2022:
+Referenced to provide the nearby value of the Hubble constant measured from Cepheid-calibrated type Ia supernovae, which shows a tension with the value inferred from Planck cosmic microwave background observations.
+
+@Planck Collaboration et al. 2020:
+Cited to provide the value of the Hubble constant inferred from Planck cosmic microwave background observations in the context of standard ΛCDM, which shows a tension with the nearby value measured from Cepheid-calibrated type Ia supernovae.
+
+@Melia 2020; Vagnozzi 2020; Melia 2022:
+These papers are cited to suggest that new physics beyond ΛCDM may be required to alleviate the "Hubble tension" between the determination of the Hubble constant at early times and in our local neighborhood.
+
+@Lorimer et al. 2007; Thornton et al. 2013; Petroff et al. 2019; Platts et al. 2019; Xiao et al. 2021; Zhang 2022:
+These papers are referenced to provide background information on fast radio bursts (FRBs) and their excess dispersion measures (DMs) with respect to the expected contributions from the Milky Way, highlighting the relevance of FRBs in the context of measuring the Hubble constant.
+
+@CHIME/FRB Collaboration et al. 2021:
+Cited to provide the number of detected fast radio bursts (FRBs) and the confirmation that most, if not all, FRBs originate at cosmological distances.
+@Deng & Zhang 2014; McQuinn 2014; Macquart et al. 2020; Yang et al. 2022:
+These references are cited to support the statement that the combined dispersion measure (DM) and redshift information of fast radio bursts (FRBs) can be used to study cosmology, including constraining the baryon number density of the Universe.
+
+@Gao et al. 2014; Zhou et al. 2014; Walters et al. 2018; Wei et al. 2018; Zhang & Li 2020; Zhao et al. 2020; Qiu et al. 2022:
+These papers are cited to highlight the use of DM and redshift information of FRBs in studying the dark energy equation of state.
+
+@Deng & Zhang 2014; Zheng et al. 2014; Hashimoto et al. 2021:
+These references are cited to support the statement that the DM and redshift information of FRBs can be used to study the cosmic reionization history.
+
+@Yu & Wang 2017:
+This paper is cited to emphasize the use of DM and redshift information of FRBs in studying the cosmic proper distance.
+
+@Li et al. 2019; Li et al. 2020; Walters et al. 2019; Wei et al. 2019; Wang & Wei 2023:
+These references are cited to highlight the use of DM and redshift information of FRBs in studying the baryon mass fraction in the intergalactic medium (IGM).
+
+@Hagstotz et al. 2022; James et al. 2022b; Wu et al. 2022:
+These papers are cited to support the statement that the DM and redshift information of FRBs can be used to study the Hubble constant.
+
+@Muñoz et al. 2016; Wang & Wang 2018:
+These references are cited to highlight the proposal of using strongly lensed FRBs for probing the nature of compact dark matter.
+
+@Li et al. 2018:
+This paper is cited to emphasize the use of strongly lensed FRBs in measuring the Hubble constant and cosmic curvature.
+
+@Gao et al. 2022:
+This reference is cited to highlight the proposal of using strongly lensed FRBs for determining the post-Newtonian parameter.
+@Hagstotz et al. 2022; James et al. 2022b; Wu et al. 2022:
+These papers are cited to indicate previous studies that have used fast radio bursts (FRBs) to measure H0 in ΛCDM, but not for model selection, which is the focus of the current paper.
+
+@Melia 2007; Melia & Shevchuk 2012; Melia 2020:
+These references are cited to introduce the alternative Friedmann-Lemaître-Robertson-Walker cosmology known as the R h = ct universe and compare it with ΛCDM in the context of localized FRBs.
+
+N/A

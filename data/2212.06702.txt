@@ -1,0 +1,18 @@
+{
+  "Abbasi et al. 2009": "Referenced to describe the IceCube Neutrino Observatory and its instrumentation.",
+  "Aartsen et al. 2017": "Referenced to provide additional information about the IceCube Neutrino Observatory and its instrumentation.",
+  "Abbasi et al. 2012": "Referenced to highlight the higher density sub-volume of IceCube for detecting neutrinos with lower energies.",
+  "Aartsen et al. 2013": "Referenced to mention the observation of a diffuse flux of high-energy astrophysical neutrinos by IceCube.",
+  "Aartsen et al. 2014a": "Referenced to mention the observation of a diffuse flux of high-energy astrophysical neutrinos by IceCube.",
+  "Aartsen et al. 2015": "Referenced to mention the observation of a diffuse flux of high-energy astrophysical neutrinos by IceCube.",
+  "Aartsen et al. 2020b": "Referenced to discuss the 3.3σ inconsistency with background expectations for four sources observed by IceCube.",
+  "Abbasi et al. 2022": "Referenced to highlight further evidence of neutrino emission from NGC 1068 observed by IceCube at a significance of 4.2σ."
+}
+{
+  "Murase & Bartos 2019": "Referenced to support the statement that transient astrophysical objects are among the primary candidates for producing the astrophysical neutrino flux.",
+  "Aartsen et al. 2018a,b": "Cited as the first evidence of neutrino emission from a flaring object, specifically the blazar TXS 0506+056.",
+  "Metzger et al. 2020": "Referenced to highlight that FRBs are a class of transient astrophysical objects that could contribute to the diffuse neutrino flux, and to support the prediction of TeV-PeV neutrinos produced by photo-hadronic interactions after FRBs.",
+  "Anderson et al. 2020": "Cited to support the suggestion that the Galactic magnetar SGR 1935+2154 may be a source of FRBs, based on the localization of FRB200448.",
+  "Wang et al. 2021": "Referenced to support the statement that the polarization of some FRBs further supports the idea that magnetars may be a source of FRBs.",
+  "Qu & Zhang 2022": "Cited to support the prediction that TeV-PeV neutrinos are produced by photo-hadronic interactions on varying timescales after FRBs."
+}

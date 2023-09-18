@@ -1,0 +1,77 @@
+{
+  "IceCube Collaboration et al. 2018aCollaboration et al. , 2020": "Referenced to support the measurement of the flux and spectrum of the diffuse high-energy neutrino background by the IceCube Observatory.",
+  "Abbasi et al. 2021aAbbasi et al. , 2022a": "Cited to provide additional measurements of the flux and spectrum of the diffuse high-energy neutrino background.",
+  "Baikal Collaboration et al. 2022": "Referenced to support the measurement of the flux and spectrum of the diffuse high-energy neutrino background by the Baikal-GVD Telescope.",
+  "Blandford & Ostriker 1978": "Cited to explain the nonthermal acceleration of ions to relativistic energies via difusive shock acceleration in magnetized shocks of electron-ion plasmas.",
+  "Comisso & Sironi 2022": "Referenced to explain the nonthermal acceleration of ions to relativistic energies via turbulence in magnetized shocks of electron-ion plasmas.",
+  "Waxman & Bahcall 1997": "Cited to support the generation of neutrinos via hadronuclear and photohadronic interactions by relativistic ions.",
+  "Mészáros & Waxman 2001": "Referenced to support the generation of neutrinos via hadronuclear and photohadronic interactions by relativistic ions.",
+  "Dermer & Atoyan 2003": "Cited to support the generation of neutrinos via hadronuclear and photohadronic interactions by relativistic ions.",
+  "Guetta & Granot 2003": "Referenced to support the generation of neutrinos via hadronuclear and photohadronic interactions by relativistic ions.",
+  "Aartsen et al. 2017": "Cited to support the finding that the contribution from the Galactic plane to the all-sky neutrino flux is 5%-10% at around 100 TeV, suggesting that most of the observed apparently isotropic diffuse neutrino flux is extragalactic.",
+  "Albert et al. 2018": "Referenced to support the finding that the contribution from the Galactic plane to the all-sky neutrino flux is 5%-10% at around 100 TeV, suggesting that most of the observed apparently isotropic diffuse neutrino flux is extragalactic.",
+  "Fang & Murase 2021": "Cited to support the finding that the contribution from the Galactic plane to the all-sky neutrino flux is 5%-10% at around 100 TeV, suggesting that most of the observed apparently isotropic diffuse neutrino flux is extragalactic.",
+  "IceCube Collaboration et al. 2018b,c": "Referenced to provide evidence for at least one gamma-ray blazar, TXS 0506+056, contributing to the neutrino signal.",
+  "Aartsen et al. 2020": "Cited to support the finding that the type-II Seyfert starburst galaxy NGC 1068 is the most significant steady source of neutrinos.",
+  "IceCube Collaboration et al. 2022": "Referenced to support the finding that the type-II Seyfert starburst galaxy NGC 1068 is the most significant steady source of neutrinos."
+}
+{
+  "Paczynski & Xu 1994": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Waxman & Bahcall 1997": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Mészáros & Waxman 2001": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Dermer & Atoyan 2003": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Fasano et al. 2021": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Kimura 2022": "Cited as one of the studies that have investigated gamma-ray bursts (GRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Eichler 1979": "Cited as one of the studies that have investigated active galactic nuclei (AGN) as potential sources of high-energy (HE) neutrinos.",
+  "Stecker et al. 1991": "Cited as one of the studies that have investigated active galactic nuclei (AGN) as potential sources of high-energy (HE) neutrinos.",
+  "Jacobsen et al. 2015": "Cited as one of the studies that have investigated active galactic nuclei (AGN) as potential sources of high-energy (HE) neutrinos.",
+  "Murase 2017": "Cited as one of the studies that have investigated active galactic nuclei (AGN) as potential sources of high-energy (HE) neutrinos.",
+  "Kun et al. 2022": "Cited as one of the studies that have investigated active galactic nuclei (AGN) as potential sources of high-energy (HE) neutrinos.",
+  "Razzaque et al. 2004": "Cited as one of the studies that have investigated supernovae (SNe) as potential sources of high-energy (HE) neutrinos.",
+  "Murase et al. 2011": "Cited as one of the studies that have investigated supernovae (SNe) as potential sources of high-energy (HE) neutrinos.",
+  "Murase 2018": "Cited as one of the studies that have investigated supernovae (SNe) as potential sources of high-energy (HE) neutrinos.",
+  "Chang et al. 2022": "Cited as one of the studies that have investigated supernovae (SNe) as potential sources of high-energy (HE) neutrinos.",
+  "Romero & Torres 2003": "Cited as one of the studies that have investigated starburst galaxies as potential sources of high-energy (HE) neutrinos.",
+  "Loeb & Waxman 2006": "Cited as one of the studies that have investigated starburst galaxies as potential sources of high-energy (HE) neutrinos.",
+  "Thompson et al. 2006": "Cited as one of the studies that have investigated starburst galaxies as potential sources of high-energy (HE) neutrinos.",
+  "Wang & Liu 2016": "Cited as one of the studies that have investigated tidal disruption events (TDEs) as potential sources of high-energy (HE) neutrinos.",
+  "Dai & Fang 2017": "Cited as one of the studies that have investigated tidal disruption events (TDEs) as potential sources of high-energy (HE) neutrinos.",
+  "Senno et al. 2017": "Cited as one of the studies that have investigated tidal disruption events (TDEs) as potential sources of high-energy (HE) neutrinos.",
+  "Lunardini & Winter 2017": "Cited as one of the studies that have investigated tidal disruption events (TDEs) as potential sources of high-energy (HE) neutrinos.",
+  "Fang et al. 2020": "Cited as one of the studies that have investigated nonrelativistic shock-powered transients as potential sources of high-energy (HE) neutrinos.",
+  "Metzger et al. 2020": "Cited as one of the studies that have investigated fast radio bursts (FRBs) as potential sources of high-energy (HE) neutrinos.",
+  "Bhattacharya et al. 2022": "Cited as one of the studies that have investigated proto-magnetars as potential sources of high-energy (HE) neutrinos.",
+  "Jaroschewski et al. 2022": "Cited as one of the studies that have investigated supermassive black hole mergers as potential sources of high-energy (HE) neutrinos.",
+  "Guo et al. 2022": "Cited as one of the studies that have investigated collapsars as potential sources of high-energy (HE) neutrinos.",
+  "Aartsen et al. 2016": "Cited as one of the studies that have shown through stacking analysis with IceCube and ANTARES that none of the previously mentioned sources are likely to contribute a major fraction of the all-sky neutrino flux.",
+  "Albert et al. 2021": "Cited as one of the studies that have shown through stacking analysis with IceCube and ANTARES that none of the previously mentioned sources are likely to contribute a major fraction of the all-sky neutrino flux.",
+  "Liodakis et al. 2022": "Cited as one of the studies that have shown through stacking analysis with IceCube and ANTARES that none of the previously mentioned sources are likely to contribute a major fraction of the all-sky neutrino flux."
+}
+{
+  "Ackermann et al. 2015": "Referenced to cite the observation of the diffuse isotropic gamma-ray background (IGRB) by Fermi Large Area Telescope (LAT) and its implications for the dominance of gamma-ray bright sources as sources of high-energy (HE) neutrinos.",
+  "Abbasi et al. 2021b": "Cited to support the argument that the observed all-sky neutrino flux at 10 TeV is larger than the expected gamma-ray flux, indicating that the dominant source of the HE diffuse background neutrino flux must be opaque to GeV-TeV gamma-rays.",
+  "Murase et al. 2016": "Referenced to highlight the suggestion that the dominant source of the HE diffuse background neutrino flux must be opaque to GeV-TeV gamma-rays.",
+  "Capanema et al. 2020": "Cited to support the suggestion that the dominant source of the HE diffuse background neutrino flux must be opaque to GeV-TeV gamma-rays.",
+  "Capanema et al. 2021": "Cited to support the suggestion that the dominant source of the HE diffuse background neutrino flux must be opaque to GeV-TeV gamma-rays.",
+  "Fang et al. 2022": "Cited to support the suggestion that the dominant source of the HE diffuse background neutrino flux must be opaque to GeV-TeV gamma-rays."
+}
+{
+  "Sridhar & Metzger 2022": "Referenced to introduce the concept of 'hypernebulae' as a new class of astrophysical objects and their role in powering repeating fast radio bursts (FRBs) and imparting rotation measure onto the pulses.",
+  "Sridhar et al. (2021a)": "Cited to support the claim that the flaring collimated jets launched by the compact object at the heart of hypernebulae could power periodically repeating FRBs.",
+  "Chatterjee et al. 2017": "Referenced to highlight the association between persistent radio emission and FRBs, suggesting that the radio-bright hypernebulae surrounding hypernebulae could be the source of this emission.",
+  "Niu et al. 2021": "Cited to support the claim that the radio-bright hypernebulae surrounding hypernebulae could be responsible for the spatially coincident persistent radio emission observed with FRBs.",
+  "Becker et al. 1995": "Referenced to suggest that hypernebulae could already be present in blind wide-field radio surveys such as FIRST as off-nuclear radio sources.",
+  "Lacy et al. 2020": "Cited to propose that hypernebulae could be detected and spatially resolved by the next generation VLA as off-nuclear radio sources."
+}
+{
+  "pp": "Referenced to describe the interactions between ions accelerated at shock fronts in hypernebulae.",
+  "pγ": "Cited to describe the interactions between ions and the 'background' disk thermal and Comptonized nonthermal UV/X-ray photons in hypernebulae.",
+  "§2.1": "Referenced to discuss the properties of the shocks and their associated timescales in the outflows from the accreting engine.",
+  "§2.2": "Cited to describe the sources of background radiation in the outflows from the accreting engine.",
+  "§3.1": "Referenced to discuss the pion production channels in the model for neutrino production.",
+  "§3.2": "Cited to discuss the pion production efficiency in the model for neutrino production.",
+  "§3.3": "Referenced to discuss the ion heating and acceleration in the model for neutrino production.",
+  "§3.4": "Cited to discuss the neutrino production from pion decay in the model for neutrino production.",
+  "§4": "Referenced to present some observational implications of the model.",
+  "§5": "Cited to conclude the paper."
+}

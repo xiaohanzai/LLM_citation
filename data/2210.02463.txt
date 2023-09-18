@@ -1,0 +1,48 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that FRBs are a type of millisecond luminous cosmic bursts in the radio wavelength.",
+  "Thornton et al. 2013": "Referenced to provide additional evidence for the existence of fast radio bursts (FRBs).",
+  "Petroff et al. 2022": "Referenced to highlight the ongoing interest and research in understanding the origins of FRBs.",
+  "Cordes & Chatterjee 2019": "Referenced to emphasize the need for further investigation into the origins of FRBs.",
+  "Platts et al. 2019": "Referenced to acknowledge the existence of multiple proposed models for the origin of FRBs.",
+  "Zhang 2020": "Referenced to acknowledge the existence of multiple proposed models for the origin of FRBs.",
+  "Xiao et al. 2022": "Referenced to acknowledge the existence of multiple proposed models for the origin of FRBs.",
+  "Spitler et al. 2016": "Referenced to introduce the concept of repeating FRBs and their implications for understanding the origin of FRBs.",
+  "Katz 2022": "Referenced to present an argument that repeating and non-repeating FRBs may have different progenitors.",
+  "Palaniswamy et al. 2018": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Ravi 2019": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Caleb et al. 2019": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Lu et al. 2020": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Ai et al. 2021": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Guo & Wei 2022": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Zhong et al. 2022": "Referenced to highlight the need to prove the existence of a dichotomy between repeating and non-repeating FRBs.",
+  "Andersen et al. 2019": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Fonseca et al. 2020": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Li et al. 2021a": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Aggarwal 2021": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Pleunis et al. 2021": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Li et al. 2021b": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Xiao & Dai 2022": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Zhang et al. 2022": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs.",
+  "Cui et al. 2022": "Referenced to support the statement that there are differences in parameter distributions between repeating and non-repeating FRBs."
+}
+{
+  "Ball & Brunner 2012": "Referenced for reviews on the application of machine learning in astronomy.",
+  "Baron 2019": "Referenced for reviews on the application of machine learning in astronomy.",
+  "Ivezić et al. 2014": "Referenced for reviews on the application of machine learning in astronomy.",
+  "Wagstaff et al. 2016": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Zhang et al. 2018": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Connor & van Leeuwen 2018": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "The CHIME/FRB Collaboration 2019": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Wu et al. 2019": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Farah et al. 2019": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Adámek & Armour 2020": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Agarwal et al. 2020": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Yang et al. 2021": "Cited as an example of machine learning methods used in aiding the discovery of FRBs.",
+  "Chen et al. (2021)": "Cited for using unsupervised machine learning methods to find non-repeating FRBs and identify repeater candidates.",
+  "Chaikova et al. (2022)": "Cited for finding two clusters of FRBs with distinct properties using unsupervised machine learning methods."
+}
+{
+  "Pedregosa et al. 2011": "Referenced to indicate the use of supervised machine learning algorithms implemented in scikit-learn and other open-source libraries for the classification of repeating and non-repeating FRBs.",
+  "Zhu-Ge et al. 2022": "Referenced as a companion paper where unsupervised machine learning methods were used to classify the same data set, and the consistency between the supervised and unsupervised methods is checked."
+}

@@ -1,0 +1,93 @@
+@Lorimer et al. (2007):
+Referenced as the discovery of the first FRB in archival Parkes data.
+
+@CHIME/FRB Collaboration et al. (2021):
+Referenced to indicate the number of FRB detections published.
+
+@Chime/FRB Collaboration et al. (2020); Rajwade et al. (2020):
+Cited to highlight the periodic activity of FRB 20121102A and FRB 20180916B.
+
+@Caleb et al. (2019):
+Referenced to acknowledge the uncertainty regarding whether all FRBs can eventually be observed to repeat.
+
+@Pleunis et al. (2021a):
+Cited to indicate the wide range of frequencies at which FRBs have been observed.
+
+@Gajjar et al. (2018):
+Referenced to highlight the frequency bands in which FRBs have been observed.
+
+@Thornton et al. (2013):
+Cited as the initial speculation that FRBs were associated with cataclysmic events, which had to be updated after the discovery of the first repeating FRB.
+
+@Ravi (2019):
+Referenced for an analysis considering the CHIME/FRB detections, indicating a higher FRB volumetric occurrence rate compared to cataclysmic source classes.
+
+N/A
+@Bannister et al. 2019; Prochaska et al. 2019; Cho et al. 2020; Day et al. 2020:
+These references are cited to support the statement that interferometric localizations of one-off FRB sources to their host galaxies have enabled the measurement of the cosmic baryon density in the low-redshift Universe.
+
+@Macquart et al. 2020:
+Referenced to emphasize that the interferometric localizations of one-off FRB sources have enabled the measurement of the cosmic baryon density in the low-redshift Universe.
+
+@James et al. 2022:
+Cited to highlight that localised FRB sources from ASKAP, along with Parkes-detected FRBs, have provided an independent measurement of Hubble's constant, and that a more precise measurement may be possible with a larger sample of localised FRBs in the future.
+
+@Hessels et al. 2019; CHIME/FRB Collaboration et al. 2019:
+These papers are cited to support the statement that repeating FRBs can show linear frequency drift of intra-burst emission with time, known as "sad-trombone" structure.
+
+@Gourdji et al. 2019; CHIME/FRB Collaboration et al. 2021; Kumar et al. 2021; Pleunis et al. 2021b:
+These references are cited to highlight the evidence that the bursts from repeating FRBs are generally of longer duration than non-repeating FRBs and that repeating FRBs show band-limited structure.
+
+@Bethapudi et al. 2022:
+Cited to mention that some repeating FRBs also exhibit an increase in fractional bandwidth with frequency.
+@Kumar et al. (2021):
+Cited to reference the initial 5-GHz polarimetric studies of the first known repeating FRB 20121102A, which reported a high degree of linear polarization and a flat polarisation position angle (PPA).
+
+@Michilli et al. (2018):
+Referenced to support the initial 5-GHz polarimetric studies of the first known repeating FRB 20121102A, which reported a high degree of linear polarization and a flat polarisation position angle (PPA).
+
+@Kumar et al. (2022):
+Cited to highlight subsequent reported observations of repeaters, such as FRB 20201124A, indicating more diverse polarimetric behavior with the polarisation position angle (PPA) varying across the burst envelope.
+
+@Luo et al. (2020):
+Referenced to emphasize subsequent reported observations of repeaters, such as FRB 20180301A, indicating more diverse polarimetric behavior with the polarisation position angle (PPA) varying across the burst envelope.
+
+@Cho et al. (2020); Day et al. (2020):
+These papers are cited to highlight the variety of polarisation fractions observed in the sample of non-repeaters with polarimetric information, with the majority showing high degrees of linear polarization and some showing a relatively high degree of circular polarization.
+
+@Bhandari et al. (2020); Day et al. (2020):
+Cited to support the observation that some non-repeating FRBs show a relatively high degree of circular polarization.
+
+@Cho et al. (2020); Day et al. (2020):
+Referenced to highlight the observation that some non-repeating FRBs exhibit sub-burst to sub-burst variation in the polarisation fraction along with varying Rotation Measures (RM).
+@Michilli et al. (2018):
+Referenced to provide the measured RM magnitude and secular decline in RM for the first detected repeater FRB 201211202A, as well as the short-term variations in RM for this FRB.
+
+@Hilmarsson et al. (2021):
+Cited to support the mention of short-term variations in RM for the first detected repeater FRB 201211202A.
+
+@Dai et al. (2022); Anna-Thomas et al. (2022):
+These papers are cited to explain the interpretation of the variation in RM shown in FRBs 20190520B and 20121102A as arising from a complex turbulent circumburst magnetoionic environment.
+
+@Dai et al. (2022):
+Referenced to speculate on the cause of the detected reversal in the magnetic field in FRB 20190520B as the presence of a highly magnetised stellar or black-hole companion.
+
+@Mannings et al. (2022):
+Cited to support the observation that non-repeating FRBs have less extreme rotation measures, consistent with passage through Milky-Way-like columns in the interstellar medium.
+@Gardner & Whiteoak 1963:
+Referenced to support the early observations of the spectral depolarisation of burst emission in the Crab nebula and the explanation of the variation of the linear polarisation fraction as a function of frequency.
+
+@Burn 1966:
+Cited to explain the depolarisation behavior seen in extended sources and the differential RM in the source itself.
+
+@Feng et al. 2022:
+Referenced to report the recent observations of depolarisation behavior in repeating FRBs, including the quantification of the scatter RM measure and the correlation between 𝜎 RM , RM, and scatter-broadening time 𝜏 𝑠.
+
+@Chatterjee et al. 2017:
+Cited to provide the value of 𝜎 RM for FRB 20121102A.
+
+@Niu et al. 2022:
+Referenced to provide the value of 𝜎 RM for FRB 20190520B.
+@N/A
+@Bannister et al. 2019; Cho et al. 2020; Day et al. 2020; Macquart et al. 2020:
+These papers are cited to provide references for the ASKAP reported FRBs and the repeating source FRB 20190711A, which are studied in the paper.

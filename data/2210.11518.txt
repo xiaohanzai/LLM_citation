@@ -1,0 +1,216 @@
+{
+"SGR 1935+2154": "Referenced to describe the properties and characteristics of the isolated neutron star, including its spin frequency, magnetic field strength, and X-ray burst capabilities.",
+"FRBs": "Cited to explain the connection between magnetars and Fast Radio Bursts (FRBs), and to highlight the significance of SGR 1935+2154 emitting a radio burst resembling an extragalactic FRB.",
+"4,5": "Referenced to indicate the sources that provide evidence for the nature of the progenitor of at least some FRBs."
+}
+{
+  "NICER": "Referenced as one of the X-ray instruments used to monitor SGR 1935+2154 in the soft, 1-3 keV band.",
+  "XMM-Newton": "Referenced as one of the X-ray instruments used to monitor SGR 1935+2154 in the soft, 1-3 keV band."
+}
+{
+  "Lorimer et al. (2013)": "Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.",
+  "Lieu & Duan 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts.",
+  "Lovelace & Richards 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of DM measurements in the context of highly dispersed radio bursts."
+}
+{
+  "Fermi/GBM": "Cited to support the lack of detection of strong bursting activity from SGR 1935+2154 by large field-of-view hard X-ray instruments.",
+  "Swift/BAT": "Cited to support the lack of detection of strong bursting activity from SGR 1935+2154 by large field-of-view hard X-ray instruments.",
+  "NuSTAR": "Referenced to provide a constraint on the upper limit of the source intrinsic X-ray flux associated with the glitch based on an observation on 2020 October 4.",
+  "NICER": "Referenced to indicate the start of a NICER observation on October 6, which is relevant to the discussion of variability in the source intrinsic X-ray flux associated with the glitch.",
+  "FAST": "Cited to highlight the detection of a pulsed radio component from SGR 1935+2154 for the first time by the FAST radio telescope, as well as the absence of this component in previous radio observations of the source."
+}
+{
+  "14": "This reference is cited to support the statement that the spin-down glitch may be caused by a release of magnetic energy stored in twisted magnetospheric field configurations.",
+  "15": "This reference is cited to mention the hypothesis that a sudden increase in oblateness and/or moment of inertia could explain the first anti-glitch observed for 1E 2259+586.",
+  "16": "This reference is cited to suggest that angular momentum transfer to a more slowly spinning inner crust could be a seed for strong spin down.",
+  "N/A": "No citations found for the given text."
+}
+{
+  "17": "These references are cited to support the discussion of general plasma loading of magnetar magnetospheres and the calculation of mass loss and luminosity/mass loss rate in the context of a putative transient wind.",
+  "18": "This reference is cited to highlight the elements long deemed essential to radio emission in pulsars, which are not expected to be present during the glitch.",
+  "19": "This reference is cited to suggest that most of the elements essential for the generation of fast radio bursts are likely to be present in the conditions after the abrupt spin-down event.",
+  "20,21": "These references are cited to suggest that powerful winds can modify the magnetic field geometry in a way that may permit FRB-like emission as well as the pulsed radio signal."
+}
+{
+  "20": "N/A",
+  "21": "N/A",
+  "22": "N/A",
+  "23": "N/A",
+  "24": "N/A",
+  "25": "N/A"
+}
+{
+  "Fig. 6": "Referenced to show that keV emissions are not impacted by the spin-down glitch.",
+  "19": "Cited to suggest that radio bursts may be triggered by the spin-down glitch.",
+  "26": "Cited to suggest that pulsed radio emission may be triggered by the spin-down glitch.",
+  "27": "Referenced to propose that the spin-down glitch temporarily moves the radio 'death line' on the pulsar period-period derivative diagram to longer periods.",
+  "obs IDs 3020560176 and 3020560177": "Mentioned to indicate the observations that resulted in a combined exposure of 2 ks, which was insufficient for meaningful analysis.",
+  "obs IDs 3655010302-03 and 3020560120-48": "Cited as the detailed timing analysis performed on heavy-cadence NICER observations covering the 2020 June 18 to August 06 period.",
+  "SGR 1935+2154": "Referenced to explain why observations of it could not be made for two months due to its proximity to the Sun.",
+  "NICERDAS version v008c": "Mentioned as the version used for data analysis in the study."
+}
+{
+  "NICERDAS version v008c": "Referenced as the software used for data analysis and processing in the study.",
+  "NICER Data Analysis Guide 1": "Referenced as the source of information for the standard filtering applied to the observations.",
+  "nibackgen3C50 tool": "Referenced as the tool used to estimate the background number counts per NICER-energy channel.",
+  "20% systematic uncertainty": "Referenced as the amount of uncertainty added to the estimate of background number counts."
+}
+{
+  "XMM-Newton": "XMM-Newton is referenced to describe the observations and data reduction process, including the specific observations taken and the software used for cleaning and filtering the events.",
+  "SAS": "SAS (Science Analysis Software) is mentioned as the software version used for cleaning and filtering the events in the XMM-Newton observations.",
+  "NuSTAR": "NuSTAR is mentioned to describe the observations and data reduction process, including the extraction of source events, light curves, and spectra."
+}
+{
+  "JPL ephemerides DE405": "Referenced as the source for converting cleaned events time stamps to Barycentric Dynamical Time (TDB) for timing analysis.",
+  "Hubble Space Telescope": "Referenced as the source for the best known source location used in the timing analysis.",
+  "XMM-Newton": "Referenced for the observations on October 18 and 19, which were used to establish an accurate spin-frequency of the source.",
+  "NICER": "Referenced for the observations on October 18 and 19, which were used to establish an accurate spin-frequency of the source.",
+  "Z 2 n test": "Referenced as the test used to find the strongest signal in the energy range 1-3 keV at a specific frequency and epoch.",
+  "MJD (TDB)": "Referenced as the epoch used in the measurement of the pulse arrival time.",
+  "non-binned maximum likelihood technique": "Referenced as the technique used to measure the pulse time of arrival for segments of data from October 1 to November 27.",
+  "Fourier series": "Referenced as the model used to build the pulse shape for fitting to each unbinned data segment.",
+  "MCMC sampler emcee": "Referenced as the sampler used to establish the 1σ uncertainty on the phase shift in the fitting process.",
+  "φ(t)": "Referenced as the model for pulse evolution used to fit the pulse arrival time from October 6 to November 27."
+}
+{
+  "XMM-Newton observation": "N/A",
+  "NICER October 6th observation": "N/A",
+  "Figure 1": "N/A",
+  "Figure 2": "N/A",
+  "Figure 3": "N/A"
+}
+{
+  "emcee MCMC sampler": "Referenced as the method used to sample the full parameter space of the model in the analysis.",
+  "Figure 3": "Referenced as the figure that shows the 1-and 2-D posterior probability densities.",
+  "XMM-Newton": "Referenced as the instrument used to obtain pulse profiles for comparison and verification purposes.",
+  "NICER": "Referenced as the instrument used to obtain the high S/N pulse profile for comparison and verification purposes.",
+  "Figure 4": "Referenced as the figure that demonstrates the consistency of the residuals with a horizontal line model, supporting the conclusion that a change in pulse shape is not responsible for the pulse-arrival-time residuals.",
+  "σ": "Referenced as the unit used to measure the deviations of the profiles in Figure 4.",
+  "timing analysis": "Referenced as an additional set of analysis performed to verify the results."
+}
+{
+  "Lieu & Duan 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of timing analysis and spin frequency measurements.",
+  "Lovelace & Richards 2013": "Cited to highlight proposed schemes for measuring dispersion measure (DM) towards time-steady astrophysical sources, which is relevant to the discussion of timing analysis and spin frequency measurements.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Figure 5": "N/A",
+  "Table 2": "N/A",
+  "NICER": "N/A",
+  "XMM-Newton": "N/A",
+  "Fourier series": "N/A",
+  "NuSTAR": "N/A",
+  "Figure 1": "N/A",
+  "October 1st data": "N/A",
+  "October 6 to 28 period": "N/A",
+  "Figure 4": "N/A"
+}
+{
+  "HEASOFT": "Referenced as the software used for spectral analysis.",
+  "XMM-Newton": "Referenced as one of the instruments used for spectral analysis.",
+  "NuSTAR": "Referenced as another instrument used for spectral analysis.",
+  "NICER": "Referenced as a supplementary instrument used for spectral analysis.",
+  "Figure 6": "Referenced as a figure showing the model's fit to the data.",
+  "Table 3": "Referenced as a table summarizing the best-fit model parameters.",
+  "October 16": "Referenced as the date of a simultaneous NICER observation.",
+  "October 14": "Referenced as the date of a quasi-simultaneous NICER observation.",
+  "659 dof": "Referenced as the degrees-of-freedom for the fit of the NuSTAR spectra.",
+  "October 4th": "Referenced as the date of a NuSTAR observation that provides constraints on radiative variability."
+}
+{
+  "Table 3": "Referenced to summarize the spectral results",
+  "NuSTAR +NICER": "Referenced to confirm the stability of the thermal and non-thermal components",
+  "October 4th NuSTAR observation": "Referenced to place constraints on the time-scale of any induced radiative variability",
+  "NICER spectra": "Referenced to highlight the inability to constrain the power-law component due to low S/N at energies > 3 keV",
+  "XMM-Newton": "Referenced to fix the power-law model parameters for the NICER spectra",
+  "Figure 1": "Referenced to present the 1-10 keV flux evolution throughout the full October and November period",
+  "Poisson methodology": "Referenced to describe the method used for burst searches",
+  "SGR 1935+2154": "Referenced to describe the average NICER count rate and the upper-limit for burst detection",
+  "N H": "Referenced to specify the absorption correction factor",
+  "kT": "Referenced to specify the temperature of the blackbody spectrum",
+  "10 kpc": "Referenced to specify the distance used for calculating burst luminosity"
+}
+{
+  "SGR 1935+2154 has been coherently timed on two occasions, 2014 July-2014 November 1 and our current epoch covering 2020 October-November, for a total of 180 days.": "N/A",
+  "Any spin-down glitch with a magnitude similar to the one presented in Table 1 would be easily detectable during the above two-periods, implying a rough upper limit of one spin-down glitch every 0.5 year.": "N/A",
+  "We also note that such events are exceedingly rare within the magnetar population, having been conclusively detected in only one other magnetar 1E 2259+586. In the latter, three such events have been detected in the course of 20 years of monitoring 2,8 implying a rate of at most one in 6 years.": "N/A",
+  "The CHIME radio dishes have good daily coverage of SGR 1935+2154 totalling 15 minutes.": "N/A",
+  "Including the detection of the FRB on April 28, this translates to a rate of roughly 4 × 10 -4 radio bursts per CHIME-day in 2020 (less if one considers CHIME observations in 2018 and\n2019, yet SGR 1935+2154 was mainly quiet during these years).": "N/A",
+  "Again, note that this assumes a Poisson process. From continuous radio observations of SGR 1935+2154 in the weeks and months following the April 28 event, it is evident that these radio bursts are rare and highly clustered 11,13,42 .": "N/A"
+}
+{
+  "11": "N/A",
+  "13": "N/A",
+  "42": "N/A",
+  "15": "N/A"
+}
+{
+  "Figure 8": "Depicted to illustrate the basic geometry of the wind and stellar configuration.",
+  "Eq. ( 3)": "Referenced to provide the equation for the net angular momentum transfer from the magnetar to the wind.",
+  "Eq. ( 4)": "Cited to provide the equation constraining R_eq, the equipartition radius at which the plasma energy density begins to exceed the magnetic field energy density.",
+  "Eq. ( 5)": "Referenced to provide the equation for R_eq in terms of various parameters.",
+  "λ = (5π/8 ) β w sin α": "Cited to define the parameter λ in the equation for R_eq.",
+  "10 hours": "Mentioned as the duration of the transient wind used for evaluation."
+}
+{
+  "N/A": "No citations found in the text."
+}
+{
+  "pulsar plasma simulations 20,21": "Cited to mention more realistic descriptions of plasma-loaded magnetospheres.",
+  "magnetar analytic models 17": "Cited to mention more realistic descriptions of plasma-loaded magnetospheres.",
+  "Eq. ( 5)": "Referenced to explain the effect of shortening the rotation period on the size of the magnetosphere and the net mass loss.",
+  "Eq. ( 3)": "Referenced to explain the effect of shortening the rotation period on the net mass loss.",
+  "Eq. ( 4)": "Referenced to explain the effect of plasma loading on the field structure and average mass loss rates.",
+  "NuSTAR and NICER observations": "Cited to support the claim that the wind does not significantly obscure the surface and magnetospheric signals.",
+  "Eq. ( 7)": "Referenced to provide the equation for the non-magnetic Thomson opacity in the wind zone."
+}
+{
+"Lieu & Duan 2013": "Cited to support the reduction in optical depth by a factor of m_e/m_p when the plasma is hydrogenic, which is relevant to the discussion of opacity in the context of wind configuration.",
+"N/A": "No citations found in the text."
+}
+{
+  "pulsars 18": "This reference is cited to support the statement that an abundance of electron-positron pairs is required for persistent radio emission in pulsars.",
+  "radio emission 44,45": "These references are cited to provide constraints on the altitude of radio emission in pulsars and its presumed occurrence over the magnetic poles.",
+  "cascading. 46": "This reference is cited to explain the process of primary electron acceleration and subsequent curvature radiation that leads to QED magnetic pair creation and cascading.",
+  "magnetars 23,24": "These references are cited to highlight the possibility of magnetic photon splitting as a competitor to pair creation in magnetars and its potential role in suppressing radio emission.",
+  "Baring & Harding 24": "This reference is cited to support the conclusion that suppression of pair creation by photon splitting is efficient in magnetars and could explain the lack of detected radio magnetars prior to 2000."
+}
+{
+  "47": "N/A",
+  "21": "N/A",
+  "48": "N/A",
+  "49": "N/A",
+  "50": "N/A",
+  "22": "N/A",
+  "23": "N/A",
+  "24": "N/A",
+  "51": "N/A"
+}
+N/A
+{
+  "NASA's new Imaging X-ray Polarimetry Explorer 52 (IXPE)": "Referenced to highlight its potential to help constrain field structure in bright magnetars around glitch epochs through polarization measurements of soft X-ray emission.",
+  "Ohmic dissipation": "Referenced to emphasize its role in the evolution of field morphology in the context of the conjecture presented.",
+  "gamma-ray opacity": "Referenced to highlight its potential influence on the evolution of field morphology in the context of the conjecture presented.",
+  "pair creation considerations": "Referenced to emphasize their potential influence on the evolution of field morphology in the context of the conjecture presented."
+}
+{
+  "L w": "N/A",
+  "L γ": "N/A",
+  "FAST radio telescope 13": "N/A"
+}
+{
+  "N/A": "No citations found in the text."
+}
+{
+  "SGR 1935+2154": "Referenced to describe the state of the magnetar during earlier radio bursts and the need for continued monitoring of all magnetars to understand their transient behavior.",
+  "Figure 3": "Referenced to describe the posterior probability density distributions of the parameters of the timing model used in the study.",
+  "Figure 4": "Referenced to describe the pulse profiles in the 1-3 keV energy band during the October/November monitoring.",
+  "Table 1": "N/A",
+  "XMM-Newton": "Referenced to indicate that the red profiles in Figure 4 were constructed from XMM-Newton-only data.",
+  "NICER": "Referenced to indicate that the black profiles in Figure 4 were from NICER."
+}
+{
+  "XMM-Newton": "The XMM-Newton instrument is referenced to indicate the source pulse profile from the November 12 observation, which was not shown due to low signal-to-noise ratio.",
+  "NICER": "The NICER instrument is referenced to indicate the black profile used in the analysis, and the lower-panels of the NICER November profiles are referenced to show no significant variability in the pulse shape throughout the validity period of the timing solution.",
+  "NuSTAR": "The NuSTAR observation is referenced to note that it covers the 1σ lower-limit on the glitch epoch."
+}

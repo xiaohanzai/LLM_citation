@@ -1,0 +1,64 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that FRBs are generally of extragalactic origin.",
+  "Thornton et al. 2013": "Referenced to support the statement that hundreds of FRBs have been discovered to date.",
+  "Tendulkar et al. 2017": "Referenced to support the statement that tens of FRBs have been found to be repeating.",
+  "Bannister et al. 2019": "Referenced to support the statement that hundreds of FRBs have been discovered to date.",
+  "Cordes & kyboone@uw.edu mcquinn@uw.edu arXiv:2210.07159v3 [astro-ph.CO] 10 Apr 2023": "Referenced to support the statement that FRBs are generally of extragalactic origin.",
+  "Chatterjee 2019": "Referenced to support the statement that hundreds of FRBs have been discovered to date.",
+  "Petroff et al. 2022": "Referenced to support the statement that hundreds of FRBs have been discovered to date.",
+  "Spitler et al. 2016": "Referenced to support the statement that tens of FRBs have been found to be repeating.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to support the statement that tens of FRBs have been found to be repeating.",
+  "Bochenek et al. 2020": "Referenced to support the statement that FRBs are interesting for identifying and studying the extreme radiative processes that create them, likely associated with magnetars.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to support the statement that FRBs are interesting for identifying and studying the extreme radiative processes that create them, likely associated with magnetars.",
+  "McQuinn 2014": "Referenced to support the statement that propagation effects that alter the received electromagnetic waves can be used as a tool to study the missing baryon problem, the circumgalactic media of galaxies, and the cosmic reionization history.",
+  "Ravi 2019": "Referenced to support the statement that propagation effects that alter the received electromagnetic waves can be used as a tool to study the missing baryon problem, the circumgalactic media of galaxies, and the cosmic reionization history.",
+  "Prochaska et al. 2019": "Referenced to support the statement that propagation effects that alter the received electromagnetic waves can be used as a tool to study the missing baryon problem, the circumgalactic media of galaxies, and the cosmic reionization history.",
+  "Beniamini et al. 2021": "Referenced to support the statement that propagation effects that alter the received electromagnetic waves can be used as a tool to study the missing baryon problem, the circumgalactic media of galaxies, and the cosmic reionization history.",
+  "Heimersheim et al. 2021": "Referenced to support the statement that propagation effects that alter the received electromagnetic waves can be used as a tool to study the missing baryon problem, the circumgalactic media of galaxies, and the cosmic reionization history.",
+  "Macquart et al. 2020": "Referenced to support the statement that the host galaxy electron column will not be small enough to allow a precise determination of the electron column versus redshift relation.",
+  "Masui & Sigurdson 2015": "Referenced to support the statement that correlations between sightlines are only sensitive to the cosmological density fluctuations, which can be used to constrain cosmological parameters."
+}
+{
+  "Li et al. 2018": "Referenced to highlight the current use of slowly varying quasars in strong lensing time delay analyses and their potential for putting competitive constraints on the Hubble constant.",
+  "Kochanek 2021": "Cited to acknowledge uncertainties in the mass modeling of the lens system that may limit the accuracy of cosmology constraints using lensing time delays.",
+  "Bar-Kana 1996": "Referenced to acknowledge uncertainties in the projected mass that may limit the accuracy of cosmology constraints using lensing time delays.",
+  "Zitrin & Eichler 2018; Wucknitz et al. 2021": "These papers are cited to propose the use of lensed, repeating FRBs to measure the evolution in the time between lensed images and constrain cosmology, although the rate of evolution is comparable to that from the mass assembly of the lens."
+}
+{
+  "D 'Orazio &Loeb 2021": "This paper is cited to reference a similar idea that has been applied to pulsar timing arrays, providing support for the proposed geometric approach to constrain cosmology with FRBs.",
+  "McGrath et al. 2022": "This paper is cited to reference a similar idea that has been applied to pulsar timing arrays, providing additional support for the proposed geometric approach to constrain cosmology with FRBs.",
+  "Phillips 1993": "This paper is cited to highlight one of the distance methods that requires assumptions, contrasting it with the proposed geometric measurement of distance in cosmology using FRBs.",
+  "Dodelson 2003": "This paper is cited to highlight another distance method that requires assumptions, contrasting it with the proposed geometric measurement of distance in cosmology using FRBs."
+}
+{
+  "Schuh & Behrend 2012": "Referenced to support the statement that sub-nanosecond timing is regularly done with very long baseline interferometry (VLBI), which is necessary for the proposed experiment.",
+  "Beasley et al. 2002": "Cited to highlight that VLBI timing has allowed measuring the angular coordinates of thousands of radio sources with milli-arcsecond errors.",
+  "Event Horizon Telescope Collaboration et al. 2019": "Referenced to emphasize that VLBI timing has achieved an accuracy of approximately 10 µ-arcsecond for specific sources.",
+  "Hirabayashi et al. 1998": "Cited to mention that VLBI has been done in space, specifically with the 10 m dish on the Spektr-R satellite as part of the RadioAstron program.",
+  "Kardashev et al. 2013": "Referenced to support the statement that VLBI has been done in space, specifically with correlations found using a 30 Earth radius baseline.",
+  "Marcote et al. 2017": "Cited to highlight that VLBI is regularly being done on fast radio bursts (FRBs).",
+  "Marcote et al. 2020": "Referenced to emphasize that VLBI is regularly being done on fast radio bursts (FRBs).",
+  "Kirsten et al. 2022": "Cited to mention that VLBI is regularly being done on fast radio bursts (FRBs)."
+}
+{
+"Misra & Enge 2012": "Referenced to support the claim that modern positioning systems can localize global navigation satellite systems (GNSS) to meter or even centimeter precision.",
+"Border & Paik 2009": "Cited to highlight the precision ranging regularly performed to NASA satellites across the Solar System by the Deep Space Network, reaching several meter precision in the separation and with the potential for improvement."
+}
+{
+  "Riess et al. 2019": "Referenced to support the statement that there are 10% tensions in the Hubble parameter determined with the most accepted techniques, namely the cosmic microwave background and Type Ia supernovae calibrated with parallaxes and then Cepheid variable stars.",
+  "Di Valentino et al. 2021": "Referenced to support the statement that there are 10% tensions in the Hubble parameter determined with the most accepted techniques, namely the cosmic microwave background and Type Ia supernovae calibrated with parallaxes and then Cepheid variable stars.",
+  "Riess et al. 2022": "Referenced to compare the proposed measurement of the Hubble constant using a single FRB to the SHOES 1% measurement of the Hubble constant using ≈ 100 Type Ia supernovae with a median distance of d = 200 Mpc."
+}
+{
+  "Maggiore et al. 2020": "Referenced to provide forecasts for the proposed next-generation instrument, the Einstein Telescope, in terms of distance errors and assumptions about source demographics and electromagnetic counterparts.",
+  "Freivogel et al. 2006": "Cited to discuss the potential for measuring the spatial curvature of the Universe and the anthropic reasons for inhabiting a region with enhanced negative spatial curvature."
+}
+{
+  "§ 2": "N/A",
+  "§ 3": "N/A",
+  "§ 4": "N/A",
+  "§ 6": "N/A",
+  "§ 7": "N/A",
+  "§ 8": "N/A",
+  "Appendix A": "N/A"
+}

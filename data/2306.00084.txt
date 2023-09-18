@@ -1,0 +1,116 @@
+@Lorimer et al. (2007):
+Referenced to introduce Fast Radio Bursts (FRBs) as a relatively new class of transients.
+
+@Pleunis et al. (2021a):
+Cited to provide the observed frequency range of FRBs, specifically mentioning the lowest frequency of 110 MHz.
+
+@Gajjar et al. (2018):
+Referenced to provide the observed frequency range of FRBs, specifically mentioning the highest frequency of 8 GHz.
+
+@Spitler et al. (2016); CHIME/FRB Collaboration et al. (2019):
+These papers are cited to support the classification of some FRBs as repeaters based on observations that show they emit more than once.
+
+@CHIME/FRB Collaboration et al. (2021):
+Cited to reference a larger sample that suggests repeaters and non-repeaters have different statistical properties.
+
+@Pleunis et al. (2021b):
+Referenced to support the previous citation and provide additional information on the statistical properties of repeaters and non-repeaters.
+
+@Petroff et al. (2022); Lyubarsky (2021):
+These papers are cited as recent reviews to highlight that the source and emission mechanisms of FRBs are still not fully understood.
+
+@Bochenek et al. (2020); Collaboration et al. (2020); Dong & Chime/Frb Collaboration (2022):
+Cited to support the connection between FRBs and magnetars, specifically referencing the recent detections of FRB-like bursts from the galactic source SGR 1935+2154.
+@McQuinn 2014; Prochaska & Zheng 2019; Walters et al. 2019:
+These references are cited to support the proposal of using FRBs as tools for finding the 'missing' baryons and locating baryonic matter in various astrophysical contexts.
+
+@Keating & Pen 2020; Platts et al. 2020:
+These papers are cited to highlight the proposal of using FRBs to locate baryonic matter in the intergalactic medium, around galaxies, and specifically in the Milky Way.
+
+@Zhou et al. 2014; Gao et al. 2014:
+These references are cited to emphasize the potential of using FRBs to measure cosmological parameters.
+
+@Deng & Zhang 2014; Zheng et al. 2014; Bhattacharya et al. 2021:
+These papers are cited to support the proposal of using FRBs to observe the reionization epochs of H and He ii.
+
+@Akahori et al. 2016; Vazza et al. 2018; Hackstein et al. 2019:
+These references are cited to highlight the potential of using FRBs to measure intergalactic magnetic fields.
+
+@Zheng et al. 2014; Muñoz et al. 2016; Kader et al. 2022; Leung et al. 2022:
+These papers are cited to support the proposal of using FRBs to constrain the abundance of massive compact halo objects.
+
+@Wei et al. 2015; Nusser 2016; Sen et al. 2022:
+These references are cited to highlight the potential of using FRBs to test Einstein's equivalence principle.
+
+@Wu et al. 2016; Bonetti et al. 2016:
+These papers are cited to support the proposal of using FRBs to constrain the photon mass.
+
+@Li et al. 2018; Zitrin & Eichler 2018; Wagner et al. 2019; Wucknitz et al. 2021:
+These references are cited to highlight various applications of strongly lensed (repeating) FRBs.
+@Ginzburg 1973:
+Referenced to support the statement that the baryons in the intergalactic medium (IGM) are detected via their contribution to the dispersion measure (DM), emphasizing the importance of knowing the redshift of fast radio bursts (FRBs) for determining the baryon density.
+
+@McQuinn 2014:
+Cited to highlight the need for redshift as a second distance estimate to determine the baryon density, as the dispersion measure (DM) increases with distance.
+
+@Wei & Wu 2020:
+Referenced to explain that a hypothetical photon mass produces a delay that increases with light-travel-time and therefore redshift, underscoring the importance of redshift measurements in understanding the effects of photon mass on FRBs.
+
+@Walters et al. 2018; Jaroszynski 2019:
+These papers are cited to emphasize that cosmological parameters influence the shape of the average dispersion measure (DM) of the intergalactic medium (IGM) as a function of redshift, requiring redshift measurements to study the impact of cosmological parameters on FRBs.
+
+@Beniamini et al. 2021:
+Cited to highlight that the redshift location of high-redshift FRBs can be directly determined through the dispersion measure (DM) and redshift measurements, providing a means to study the epoch of H reionization.
+
+@Heintz et al. 2020; Bhandari et al. 2022:
+These papers are referenced to emphasize that localized FRBs can provide insights into their local environments and potential progenitors, highlighting the importance of redshift measurements for understanding the full potential of FRBs.
+@Eftekhari & Berger 2017:
+Cited to support the statement that the location of an FRB needs to be known with arcsecond precision in order to identify its host galaxy and measure its redshift.
+
+@Chatterjee et al. 2017; Marcote et al. 2020:
+Referenced to highlight that interferometric follow-up observations can provide localization for FRBs that repeat frequently.
+
+N/A
+@Bhandari et al. 2022:
+Referenced to provide the number of localized FRBs at the time of submission, highlighting the current status of FRB localizations.
+
+@Kocz et al. 2019:
+Cited to provide information about the commissioning and future operations of DSA-110, an instrument that will contribute to the localization of FRBs.
+
+@Ravi & Hallinan 2022:
+Referenced to provide information about the expected full operations of DSA-110 by the end of 2022.
+
+@James et al. 2022c:
+Cited to highlight the ongoing upgrade of ASKAP's CRAFT (CRACO), which will significantly increase the number of FRBs detected by ASKAP.
+
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to provide information about the construction of CHIME outriggers, which will enable very-long-baseline interferometry localization of FRBs detected by CHIME.
+
+@Vanderlinde et al. 2019:
+Cited to provide information about the expected operational timeline of CHIME outriggers.
+
+@Crichton et al. 2022:
+Referenced to mention HIRAX as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Connor et al. 2021:
+Cited to mention GReX as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Lin et al. 2022:
+Referenced to mention BURSTT as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Hallinan et al. 2019:
+Cited to mention DSA-2000 as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Cosmic Visions 21 cm Collaboration et al. 2018:
+Referenced to mention PUMA as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Dewdney et al. 2009:
+Cited to mention the square kilometre array (SKA) as an upcoming instrument capable of localizing a significant number of FRBs.
+
+@Law et al. 2018:
+Referenced to mention ngVLA as an upcoming instrument capable of localizing a significant number of FRBs.
+@Simha et al. 2020; Chittidi et al. 2021:
+These papers are cited to provide examples of the amount of optical follow-up time currently allocated to individual FRBs, highlighting the challenge of comprehensive cosmological analyses due to limited observing time.
+
+@James et al. 2022c:
+This paper is referenced to mention the simulation of a realistic distribution for ASKAP/CRACO, which is relevant to the discussion of previous forecasts of FRB applications and the consideration of redshift distributions.

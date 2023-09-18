@@ -1,0 +1,41 @@
+@N/A
+@1: Referenced to support the statement that FRBs are energetic bursts of coherent radio emission.
+@2-5: These references are cited to support the statement that FRBs typically emanate from sources located well outside the Milky Way galaxy.
+@6: Cited as a general reference to the wide variety of progenitor models and emission mechanisms proposed to explain FRB emission.
+@7-9: These references are cited to indicate that FRB progenitor models involving magnetars are currently favored.
+@10-13:
+These references are cited to support the statement that FRBs and radio magnetars in the Milky Way galaxy produce radio emission with similar characteristics.
+
+@11, 12:
+These references are cited to establish the strongest link between FRBs and magnetars, specifically referring to the detection of an FRB-like radio burst from the Galactic magnetar SGR 1935+2154.
+
+@14-17:
+These references are cited to highlight the detection of a prompt short X-ray burst near the time of an FRB-like radio burst from SGR 1935+2154, suggesting the possibility of accompanying X-ray emission from extragalactic magnetars.
+
+@15, 16:
+These references are cited to describe the spectrum of the X-ray burst detected from SGR 1935+2154, indicating that it was harder than other short X-ray bursts from the magnetar.
+
+@18:
+This reference is cited to mention the radio band frequency range (roughly 100 MHz to 8 GHz) within which electromagnetic radiation from extragalactic FRB sources has been detected.
+
+@19:
+This reference is cited to provide the upper limit of the radio band frequency range (8 GHz) within which electromagnetic radiation from extragalactic FRB sources has been detected.
+
+@20:
+This reference is cited to introduce FRB 20200120E, a repeating FRB source discovered using the Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope and the CHIME/FRB system.
+
+@21:
+This reference is cited to specify the frequency range (between 400 and 800 MHz) of the daily radio observations conducted by the CHIME/FRB system.
+
+@22:
+This reference is cited to mention the localization of FRB 20200120E to a ∼10 Gyr-old globular cluster in the M81 galactic system during interferometric observations with radio telescopes from the European Very Long Baseline Interferometry (EVN) Network.
+@EVN [22]:
+Referenced to indicate the source of the interferometric observations with radio telescopes that localized the FRB to a ∼10 Gyr-old globular cluster in the M81 galactic system.
+
+@[23], [24]:
+Cited to highlight the extremely narrow component widths of ∼10-100 ns observed in the radio bursts from FRB 20200120E, which is significant as it represents the shortest duration radio emission observed from any FRB source to date.
+
+@[25]-[27]:
+These references are mentioned to discuss previous simultaneous X-ray and radio observations of more distant FRB sources, emphasizing that the resulting upper limits have been unable to rule out most viable FRB progenitor models and that prompt X-ray emission on ultra-short timescales has not been searched for.
+
+N/A

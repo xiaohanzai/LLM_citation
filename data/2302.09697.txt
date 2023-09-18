@@ -1,0 +1,104 @@
+@Lorimer et al. (2007); Petroff et al. (2016):
+These references are cited to support the statement that Fast Radio Bursts (FRBs) have extremely high brightness temperatures, indicating the need for coherent emission mechanisms.
+
+@Ginzburg et al. (1969):
+Referenced to categorize the two types of coherent emission mechanisms, maser and antenna mechanisms, within the context of FRBs.
+
+@Lu & Kumar (2018); Zhang (2022a):
+Cited to provide an analysis of various coherent mechanisms operating within or outside the magnetosphere of an FRB source, specifically a magnetar.
+
+@Bochenek et al. (2020); CHIME/FRB Collaboration et al. (2020):
+These papers are referenced to highlight the breakthrough discovery of a bright radio burst (FRB 200428) and its association with a hard X-ray burst, suggesting that some FRBs are produced by magnetars.
+
+@Mereghetti et al. (2020); Li et al. (2021a); Ridnaia et al. (2021); Tavani et al. (2021):
+Cited to support the claim that the bright radio burst (FRB 200428) is associated with the Galactic magnetar SGR 1935+2154, indicating that at least some FRBs are produced by magnetars born from the core collapse of massive stars.
+
+@Petroff et al. (2019):
+Referenced to highlight the observation of non-repeaters and repeaters with diverse polarization patterns in FRBs, including linearly polarized emission.
+
+@Xu et al. (2022); Jiang et al. (2022):
+Cited to support the observation of bursts with polarization properties, including constant and varying polarization angles, for individual repeating sources.
+
+@Michilli et al. (2018):
+Referenced to highlight the observation of both constant and secular variations of the Faraday rotation measure (RM) for repeating sources.
+
+@Luo et al. (2020); Anna-Thomas et al. (2022):
+Cited to support the observation of both short-term variations of the Faraday rotation measure (RM) for repeating sources.
+@Masui et al. 2015; Petroff et al. 2015; Cho et al. 2020; Day et al. 2020:
+These papers are cited to support the statement that strong circular polarization has been detected in a good fraction of non-repeating FRBs, highlighting the interesting but puzzling features regarding circular polarization in FRB emission.
+
+@Dai et al. 2021:
+Referenced to suggest that circular polarization may be a characteristic of non-repeating FRBs that differentiates them from repeaters, based on early observations.
+
+@Price et al. 2019; Luo et al. 2020; Nimmo et al. 2021; Feng et al. 2022b; Day et al. 2020; Kumar et al. 2022a; Fonseca et al. 2020:
+These papers are cited to provide examples of repeating FRB sources that have not shown significant circular polarization yet, contrasting them with non-repeating FRBs that exhibit strong circular polarization.
+@Chime/Frb Collabortion 2021:
+Referenced to acknowledge the detection of an active repeater FRB 20201124A and the subsequent extensive studies conducted by various telescopes.
+
+@Xu et al. 2022; Zhou et al. 2022; Zhang et al. 2022; Jiang et al. 2022; Niu et al. 2022a:
+These papers are cited to highlight the studies conducted by FAST and other telescopes on the active repeater FRB 20201124A, including the detection of polarized bursts and the observation of oscillating features as a function of wavelength.
+
+@Kumar et al. 2022a:
+Referenced to report the detection of a burst with significant circular polarized emission using the Ultra-wideband Low receiver at the Parkes radio telescope.
+
+@Xu et al. 2022:
+Cited to provide further details on the detection of 1863 polarized bursts from FRB 20201124A during an active episode, including the observation of bursts with clear oscillating features.
+
+@Jiang et al. 2022:
+Referenced to highlight the detection of more than 90% bursts with a total degree of polarization greater than 90% during another active episode, as well as the observation of bursts with high circular polarization degree and reduced linear polarization degree.
+
+@Jiang et al. 2022:
+Cited again to emphasize the correlation between bursts with high circular polarization degree and reduced linear polarization degree, resulting in a total polarization degree close to 100%.
+@Feng et al. 2022a:
+Referenced to report the discovery of circular polarization in two active repeaters and the detection of circular polarization in a dozen bursts.
+
+@Spitler et al. 2014; Spitler et al. 2016:
+Cited to reference the discovery of the first repeater FRB 20121102A by the Arecibo Telescope.
+
+@Michilli et al. 2018:
+Referenced to provide information on the linear polarization degree and the large rotation measure (RM) in the source frame of FRB 20121102A.
+
+@Li et al. 2021b:
+Cited to mention that the linear polarization degree decreases in the L-band and is not detectable with the Fivehundred-meter Aperture Spherical radio Telescope (FAST) for FRB 20121102A.
+
+@Feng et al. 2022b; Yang et al. 2022a:
+Referenced to discuss the interpretation of the large RM scatter in FRB 20121102A as a result of the multipath effect.
+
+@Niu et al. 2022b:
+Cited to describe FRB 20190520B as a FAST-discovered repeater similar to FRB 20121102A.
+
+@Anna-Thomas et al. 2022:
+Referenced to report the detection of bursts with circular polarization in FRB 20190520B.
+
+@Feng et al. 2022a:
+Cited to mention the detection of circular polarization in a dozen bursts out of nearly 2000 bursts.
+@Zhang 2020:
+Referenced to classify intrinsic radiation mechanism models based on the location of the coherent emission.
+
+@Kumar et al. 2017; Yang & Zhang 2018, 2021; Wadiasingh & Timokhin 2019; Kumar & Bošnjak 2020; Lu et al. 2020; Zhang 2022b; Qu et al. 2023:
+These papers are cited to support the classification of pulsar-like models that invoke emission processes inside or slightly outside the magnetospheres.
+
+@Lyubarsky 2014; Beloborodov 2017, 2020; Plotnikov & Sironi 2019; Metzger et al. 2019; Margalit et al. 2020:
+These papers are cited to support the classification of GRB-like models that invoke emission processes in relativistic shocks far from the magnetospheres.
+
+@Katz 2014; Kumar et al. 2017; Yang & Zhang 2018; Lu et al. 2020; Cooper & Wĳers 2021; Wang et al. 2022d, c; Qu et al. 2023:
+These papers are cited to discuss the curvature radiation mechanism as a possible radiation mechanism for FRBs and its potential to generate circular polarization.
+
+@Wang et al. 2022b; Tong & Wang 2022; Wang et al. 2022c:
+These papers are cited to discuss the generation of circular polarization through the curvature radiation mechanism when the line of sight is off the emission beam.
+@Zhang 2022b; Qu et al. 2023:
+These references are cited to support the idea that inverse Compton scattering (ICS) off low-frequency waves could result in FRB emission in magnetar central engine models invoking crust cracking and Alfvén waves.
+
+@Qiao & Lin 1998; Xu et al. 2000:
+These papers are referenced to highlight previous studies on the polarization properties of inverse Compton scattering (ICS) within the context of radio pulsars, which is relevant to the analysis of high circular polarization produced at an off-axis geometry in this paper.
+
+@Lyubarsky 2014; Metzger et al. 2019; Beloborodov 2020; Plotnikov & Sironi 2019:
+These references are cited to indicate that the synchrotron maser mechanism in an ordered magnetic field has been widely discussed as a mechanism to produce FRBs in models invoking relativistic shocks, and to emphasize that the polarization properties of this mechanism have not been well studied in the literature, which will be analyzed in detail in this paper.
+
+@Luo & Melrose 2001; Petrova 2006; Wang et al. 2010:
+These papers are referenced to discuss the possibility of cyclotron absorption generating circular polarization for pulsar radio emission in the outer part of the pulsar magnetosphere, and to investigate the importance of this process for FRBs in this paper.
+@Melrose 2010; Vedantham Ravi 2019; Gruzinov & Levin 2019:
+These references are cited to discuss the effect of Generalized Faraday rotation, also known as Faraday conversion, which can convert linearly polarized waves to partially circularly polarized waves under certain conditions, and to support the investigation of this process in the paper.
+@Booker 1935; Melrose & McPhedran 1991; Wang et al. 2010:
+These references are cited to support the discussion of synchrotron absorption and the phenomenon of apparent Faraday conversion caused by selective absorption of different polarization modes in the presence of a synchrotron-radiating nebula.
+@N/A

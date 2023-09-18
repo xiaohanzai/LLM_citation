@@ -1,0 +1,48 @@
+@Lyne et al. 1987; Paulo Freire's pulsar catalog 2023:
+These references are cited to support the statement that the globular clusters in the Milky Way host robust populations of radio pulsars.
+
+@Kroupa 2001:
+Referenced to mention the typical initial mass function in relation to the formation of neutron stars in globular clusters.
+
+@Podsiadlowski et al. 2004:
+Cited to provide information on the formation of neutron stars through iron core-collapse and/or electron-capture supernovae in globular clusters.
+
+@Pfahl et al. 2002:
+Referenced to discuss the retention of neutron stars in the shallow potential wells of typical globular clusters.
+
+@Ruderman & Sutherland 1975:
+Cited to explain that pulsars formed through massive stellar evolution in present-day globular clusters would have spun down and become undetectable as radio sources.
+
+@Alpar et al. 1982:
+Referenced to describe the low-mass X-ray binary scenario where neutron stars are "recycled" and spun up to millisecond spin periods through accretion from a binary companion.
+
+@Sigurdsson & Phinney 1995; Ivanova et al. 2008; Ye et al. 2019:
+These papers are cited to discuss the formation of millisecond pulsars in dense stellar environments and their connection to the overabundance of X-ray sources in globular clusters.
+
+@Clark 1975:
+Referenced to mention the well-known overabundance of X-ray sources in globular clusters compared to the Galactic field.
+@Lyne et al. 1996; Boyles et al. 2011:
+These references are cited to support the existence of an additional class of apparently young pulsars with long spin periods and high magnetic fields, which challenges the recycling scenario for pulsar formation.
+
+@Bhattacharya & van den Heuvel 1991:
+Referenced to highlight the expected magnetic fields in a recycling scenario for pulsar formation and the potential burial of residual neutron star magnetic fields.
+
+@Tauris et al. 2013:
+Cited as evidence for alternative formation scenarios for the four young pulsars, specifically involving the collapse of massive white dwarfs.
+
+@Grindlay et al. 1995:
+Referenced to support the motivation for white dwarf dynamics in globular clusters, which is relevant to the alternative formation scenarios for the young pulsars.
+
+@Kremer et al. 2021a:
+Cited as a source of 𝑁-body simulations of white dwarfs in clusters that naturally lead to both accretion-induced collapse in binaries and massive white dwarf mergers, which is relevant to the alternative formation scenarios for the young pulsars.
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022:
+These references are cited to highlight the recent observation of a repeating fast radio burst (FRB) in an old globular cluster in M81, which adds a new piece to the puzzle of pulsar formation.
+
+@Popov & Postnov 2013; Bochenek et al. 2020:
+Referenced to dismiss the popular core-collapse supernova magnetar mechanism for FRB sources as inconsistent with the observed cluster source.
+
+@Kremer et al. 2021b; Lu et al. 2022:
+Cited as recent studies that argue the FRB source in the globular cluster may instead be powered by a neutron star born recently through the collapse of a massive white dwarf, similar to the formation channel of the four young pulsars.
+@M81 FRB source:
+Referenced to connect the formation of the four young radio pulsars in the Milky Way globular clusters with the M81 FRB source, suggesting a possible origin for the observed young pulsars as descendants of FRB sources.

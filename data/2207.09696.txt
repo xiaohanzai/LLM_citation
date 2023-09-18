@@ -1,0 +1,61 @@
+Benford's law [1,2]:
+Cited to introduce the concept of Benford's law and its application to various fields, including biology, finance, geophysics, seismology, spectroscopy, and nuclear and particle physics.
+
+[3,4]:
+Referenced to provide the mathematical expression of Benford's law.
+
+[5,6]:
+Cited to highlight the application of Benford's law in the field of biology.
+
+[7,8]:
+Referenced to emphasize the application of Benford's law in the field of finance, specifically in detecting banking frauds.
+
+[9]:
+Cited to mention the application of Benford's law in the field of geophysics.
+
+[10]:
+Referenced to highlight the application of Benford's law in the field of seismology.
+
+[11,12]:
+Cited to mention the application of Benford's law in the field of spectroscopy.
+
+[13][14][15][16]:
+Referenced to indicate the application of Benford's law in the field of nuclear and particle physics.
+
+[17]:
+Cited to mention the derivation of Benford's law using a central-limit-like theorem for significant digits.
+
+[18]:
+Referenced to highlight an alternative derivation of Benford's law using a Markov process.
+
+[19,20]:
+Cited to indicate the application of Benford's law in astrophysics, specifically in analyzing distances to stars and galaxies.
+
+[21]:
+Referenced to mention the application of Benford's law in analyzing masses, orbital periods, and semi-major axes of asteroids.
+
+[22]:
+Cited to highlight the application of Benford's law in analyzing GAIA-2 parallaxes.
+
+[23]:
+Referenced to indicate the application of Benford's law in analyzing light curves of cataclysmic variables and other X-ray transient sources in astrophysics.
+Lorimer et al. (2013):
+N/A
+
+Lieu & Duan 2013:
+N/A
+
+Lovelace & Richards 2013:
+N/A
+
+[24]:
+Cited to provide background information on pulsars and their use in Physics and Astronomy.
+
+[25]:
+Cited to provide background information on Fast radio bursts (FRBs) and their extragalactic distances.
+
+[26]:
+Cited to support the claim that Benford's law has been shown to be true for various pulsar properties, but not for barycentric period and barycentric rotation frequency.
+
+[27,28]:
+Cited to highlight the importance of precise measurements of Dispersion measure (DM) for millisecond pulsars in pulsar timing array experiments.

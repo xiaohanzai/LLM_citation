@@ -1,0 +1,64 @@
+@Lorimer et al. (2007):
+Referenced to indicate the discovery of the first FRB in Parkes archival observation.
+
+@Yao et al. (2017):
+Cited to support the statement that FRBs have dispersion measures (DMs) that exceed what can be attributed to our Galaxy, suggesting their extragalactic origin.
+
+@Bochenek et al. (2020); Andersen et al. (2020):
+These papers are cited to highlight the finding that one FRB (FRB 200428) has been shown to be originated from a Galactic magnetar.
+
+@Chatterjee et al. (2017); Bannister et al. (2019); Ravi et al. (2019); Prochaska et al. (2019); Macquart et al. (2020); Marcote et al. (2020):
+These references are cited to indicate that approximately 20 FRB sources have been localized to their host galaxies.
+@Spitler et al. 2016; Amiri et al. 2019; Andersen et al. 2019; Kumar et al. 2019; Fonseca et al. 2020; Kirsten et al. 2022; Niu et al. 2022; Xu et al. 2022:
+These references are cited to support the statement that nearly 30 repeaters have been identified among FRBs, highlighting the division of FRBs into two classes based on their repeatability.
+
+@Ravi (2019):
+Referenced to support the conclusion that most FRB events must originate from repeaters based on the evidence of their volumetric occurrence rate.
+
+@Lu et al. (2020):
+Cited to suggest that the Canadian Hydrogen Intensity Mapping Experiment (CHIME) repeater sample is consistent with the apparently non-repeating Australian Square Kilometre Array Pathfinder (ASKAP) sample, indicating they may come from the same population.
+
+@Michilli et al. 2018; Nimmo et al. 2021:
+These papers are cited to highlight that most of the repeaters are highly linearly polarized.
+
+@Luo et al. 2020:
+Referenced to mention that FRB180301 shows a diversity of polarimetric properties.
+
+@Rajwade et al. 2020; Chime/Frb Collaboration et al. 2020:
+Cited to state that only two out of the nearly 30 repeaters show a periodicity.
+
+@Good et al. 2022; Li et al. 2021; Xu et al. 2021:
+These references are cited to compare the repetition rates of some repeaters with notable repeating FRBs like FRB 20121102A and FRB 20201124A.
+
+@Guo & Wei (2022):
+Cited to introduce four new sub-types of repeaters and apparently non-repeaters based on the cosmic star formation history (SFH).
+@Li et al. 2021; Xu et al. 2021:
+These references are cited to acknowledge previous studies or works that are relevant to the topic being discussed.
+
+@Guo & Wei (2022):
+Referenced to support the application of the Kolmogorov-Smirnov (KS) test in the CHIME/FRB catalogue and the introduction of four new sub-types of repeaters and apparently non-repeaters based on the cosmic star formation history (SFH).
+
+N/A
+@Amiri et al. 2021:
+Referenced as the publication of the first FRB catalogue by the CHIME/FRB Collaboration in 2021, which is significant as it is the first large-sample homogeneous FRB catalogue.
+
+@Chen et al. 2022:
+Cited to highlight the utilization of an unsupervised machine learning algorithm based on UMAP by Chen et al. in classifying repeaters and apparently non-repeaters in the FRB catalogue, emphasizing the importance of dimensionality reduction techniques for accurate classification of FRBs.
+@Van der Maaten & Hinton 2008:
+Cited to establish the historical popularity of t-Distributed Stochastic Neighbor Embedding (t-SNE) as a nonlinear technique for dimensionality reduction in single-cell analysis before 2018.
+
+@McInnes et al. 2018:
+Referenced to highlight the increasing popularity of UMAP as a nonlinear technique for dimensionality reduction in single-cell analysis, emphasizing its advantages over t-SNE in terms of speed and ability to retain both local and global structures of data.
+
+@Becht et al. 2019:
+Cited to demonstrate the reputation of UMAP in the field of biology, specifically for providing fast run times, high reproducibility, and meaningful organization of cell clusters.
+
+@Dorrity et al. 2020:
+Referenced to showcase the efficiency of UMAP in identifying groups of genes and finding novel protein interactions in low dimensional space.
+
+@Sun et al. 2021:
+Cited to illustrate the application of UMAP in clustering astronomical data, specifically in separating H𝛼-emission spectra and randomly selecting spectra without H𝛼-emission.
+
+@Lamb et al. 2019:
+Referenced to highlight the use of UMAP in clustering auroral images in the context of astronomical data analysis.
+@N/A

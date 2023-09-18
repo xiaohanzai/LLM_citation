@@ -1,0 +1,76 @@
+@Lorimer et al. 2007:
+Referenced to indicate the number of reported fast radio bursts (FRBs) and establish the existence of these events.
+
+@CHIME/FRB Collaboration et al. 2021; Nimmo et al. 2023:
+Cited to acknowledge the sources reporting multiple FRBs that are coincident in sky location and dispersion measure (DM), highlighting the interest in studying these repeaters.
+
+@Platts et al. 2019:
+Referenced for a review of FRB models, providing background information on the current understanding of fast radio bursts.
+
+@Beloborodov 2017; Metzger et al. 2019:
+Cited to support the magnetar theory for FRBs and confirm the possible origin of FRBs from magnetars.
+
+@CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020:
+Referenced to highlight the discovery of a very luminous FRB-like burst from the Galactic magnetar SGR 1935 + 2154, confirming the magnetar theory for at least one FRB source.
+@Eftekhari et al. 2019; Eftekhari et al. 2021:
+These papers are cited to support the statement that the host galaxies of various types of transients have provided useful insight into their origins, allowing constraints on their ages and physical properties.
+
+@Chatterjee et al. 2017; Bhandari et al. 2020; Heintz et al. 2020; Bhandari et al. 2021; Bhardwaj et al. 2021b; Niu et al. 2021; Bhandari et al. 2022a; Michilli et al. 2022; Gordon et al. 2023; Sharma et al. 2023:
+These references are cited to indicate that approximately 32 fast radio bursts (FRBs) have been localized to their host galaxies, highlighting the difficulty of pinpointing FRBs and the importance of multi-wavelength follow-up.
+
+@Eftekhari & Berger 2017:
+Referenced to explain the difficulty of pinpointing FRBs within the required precision for robust host associations.
+
+@Scholz et al. 2017:
+Cited to emphasize the importance of multi-wavelength follow-up in studying FRBs.
+
+@Heintz et al. 2020; Bhandari et al. 2021; Bhandari et al. 2022b:
+These papers are cited to highlight the diverse properties of the host populations of both repeating and non-repeating FRBs.
+
+@Macquart et al. 2020:
+Referenced to indicate that FRBs with known host galaxies can serve as useful cosmological probes to study the missing baryons in the intergalactic medium.
+@CHIME/FRB Collaboration et al. (2018):
+Referenced to describe the publication of 25 new repeaters and 14 candidates by the CHIME/FRB project.
+
+@CHIME/FRB Collaboration et al. (2023):
+Cited to describe the publication of additional repeaters by the CHIME/FRB project and to discuss the lower average dispersion measure of CHIME/FRB repeaters compared to non-repeating sources.
+
+@CHIME/FRB Collaboration et al. (2019a,b); Fonseca et al. (2020); Bhardwaj et al. (2021a); Lanman et al. (2022); Mckinven & CHIME/FRB Collaboration (2022):
+These papers are cited to reference previously published CHIME/FRB repeaters observed in the frequency range 400-800 MHz.
+
+@Connor et al. (2020):
+Cited to discuss the possibility of the lower average dispersion measure of CHIME/FRB repeaters being a selection effect.
+
+@CHIME/FRB Collaboration et al. (2021); Pleunis et al. (2021):
+Referenced to confirm previously established characteristic properties of repeaters and to suggest a distinct astrophysical origin for repeaters.
+@Eftekhari & Berger 2017:
+Referenced to support the statement that robust host associations for FRBs require 1 arcsecond localizations.
+
+@Marcote et al. 2020; Nimmo et al. 2022:
+Cited to mention specific FRB repeaters discovered by CHIME/FRB that have been associated with their host galaxies using very long-baseline interferometry (VLBI).
+
+@Michilli et al. 2021:
+Referenced to describe the techniques for obtaining ∼1 arcminute localizations using baseband data from CHIME/FRB.
+
+@Bhardwaj et al. 2021a; Bhardwaj et al. 2021b; Mckinven & CHIME/FRB Collaboration 2022; Michilli et al. 2022:
+These papers are cited to highlight previous uses of the technique described by Michilli et al. (2021) to associate FRBs detected by CHIME/FRB with likely host galaxies.
+
+@Kirsten et al. 2021; Ravi et al. 2022:
+Cited to mention the eventual VLBI confirmation of the host galaxies for FRB 20200120E and FRB 20220912A, respectively.
+@Leung et al. 2021; Mena-Parra et al. 2022; Cassanelli et al. 2022:
+These references are cited to highlight future telescopes, such as the CHIME/FRB Outrigger project, that will improve the number of precisely localized FRBs.
+
+@Law et al. 2018:
+Referenced to mention the Real-time fast transients at the Karl Janskly Very Large Array (realfast VLA) as another facility for detecting fast radio transients.
+
+@Rajwade et al. 2022:
+Cited to mention the fast radio transient-detection program at MeerKAT (MeerTRAP) as another facility for detecting fast radio transients.
+
+@Ravi et al. 2022:
+Referenced to mention the Deep Synoptic Array (DSA-110) as another facility for detecting fast radio transients.
+
+@Michilli et al. 2022:
+Cited to support the statement that, until sub-arcseconds localization is possible for CHIME/FRB events, the baseband position remains a useful technique for associating local universe FRBs to their host galaxies.
+
+@CHIME/FRB Collaboration et al. (2023):
+Referenced as the source of the recently published sample of repeaters and repeater candidates used in the search for likely host galaxies, providing the basis for the analysis conducted in the paper.

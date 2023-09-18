@@ -1,0 +1,32 @@
+{
+  "Bochenek et al. 2020b": "Referenced to credit the detection of the 1.5 MJy fast radio burst (FRB) originating from the Galactic magnetar SGR J1935+2154 to the Suvery for Transient Astronomical Radio Emission (STARE2) radio array and Canadian Hydrogen Intensity Mapping Experiment (CHIME) at equal arrival times.",
+  "The CHIME/FRB Collaboration 2020": "Referenced to credit the detection of the 1.5 MJy fast radio burst (FRB) originating from the Galactic magnetar SGR J1935+2154 to the Suvery for Transient Astronomical Radio Emission (STARE2) radio array and Canadian Hydrogen Intensity Mapping Experiment (CHIME) at equal arrival times.",
+  "Li et al. 2021": "Referenced to credit the independent detection of a hard X-ray burst (XRB) associated with FRB 200428 to Insight-HXMT, INTEGRAL, AGILE, and Konus-Wind.",
+  "Mereghetti et al. 2020": "Referenced to credit the independent detection of a hard X-ray burst (XRB) associated with FRB 200428 to Insight-HXMT, INTEGRAL, AGILE, and Konus-Wind.",
+  "Tavani et al. 2021": "Referenced to credit the independent detection of a hard X-ray burst (XRB) associated with FRB 200428 to Insight-HXMT, INTEGRAL, AGILE, and Konus-Wind.",
+  "Ridnaia et al. 2021": "Referenced to credit the independent detection of a hard X-ray burst (XRB) associated with FRB 200428 to Insight-HXMT, INTEGRAL, AGILE, and Konus-Wind.",
+  "Yang et al. 2021": "Referenced to acknowledge the ongoing debate regarding whether the FRB-XRB event detected from the Galactic magnetar SGR J1935+2154 is an intrinsically unique event from the majority of FRB-absent SGR bursts.",
+  "Lin et al. 2020a": "Referenced to highlight the extensive monitoring of the source in radio and X-ray bands to investigate whether the observed scarcity of FRB-XRB events might be due to beaming.",
+  "Scholz et al. 2017": "Referenced to highlight the extensive monitoring of the source in radio and X-ray bands to investigate whether the observed scarcity of FRB-XRB events might be due to beaming."
+}
+{
+  "Zhang et al. 2020": "Cited to provide the detection of weak and highly polarized radio emission from SGR J1935+2154 by FAST.",
+  "Yang et al. 2021": "Referenced to report the 34 X-ray bursts (XRBs) from SGR J1935+2154 detected by Fermi Gamma-ray Burst Monitor (Fermi/GBM) during the observation windows conducted by FAST in April.",
+  "Younes et al. 2020": "Cited to mention the 121 detections of XRBs from SGR J1935+2154 reported by the Neutron star Interior Composition Explorer (NICER), of which 104 are unique from the Fermi/GBM detections.",
+  "Zhu et al. 2022": "Referenced to state that FAST detected no additional radio signals from SGR J1935+2154 during its daily monitoring until May 19.",
+  "Cai et al. 2022a": "Cited to report the detection of two XRBs from SGR J1935+2154 by Insight-HXMT on May 6 and May 12 during the extended observations conducted by FAST.",
+  "Kirsten et al. 2021": "Referenced to mention the weak radio bursts detected by the Westerbork Radio Telescope 1 (RT1) following FRB 200428.",
+  "Burgay et al. 2020": "Cited to report the weak radio bursts detected by the Northern Cross at the Medicina Radio Astronomical Station (Medicina Northern Cross; MNC) following FRB 200428.",
+  "Good & Chime/Frb Collaboration 2020": "Referenced to report the weak radio bursts detected by CHIME following FRB 200428.",
+  "Zhu et al. 2020": "Cited to report the weak radio bursts detected by FAST following FRB 200428.",
+  "Alexander & Fedorova 2020": "Referenced to report the weak radio bursts detected by the Big Scanning Array of Lebedev Physical Institute (BSA/LPI) following FRB 200428.",
+  "Palm 2022": "Cited to mention that SGR J1935+2154 entered another active bursting phase in early October 2022.",
+  "Dong & Chime/Frb Collaboration 2022": "Referenced to report the detection of additional weak radio bursts from SGR J1935+2154 during its active bursting phase.",
+  "Huang et al. 2022": "Cited to report the detection of additional weak radio bursts from SGR J1935+2154 during its active bursting phase.",
+  "Wang et al. 2022b": "Referenced to report the simultaneous XRB detections accompanying the weak radio bursts from SGR J1935+2154.",
+  "Li et al. 2022b": "Cited to report the simultaneous XRB detections accompanying the weak radio bursts from SGR J1935+2154."
+}
+{
+  "Zhang (2021)": "Referenced in Section 2 to reiterate the theory of SRBs.",
+  "Lin et al. 2020a": "Referenced in Section 3 to review FRB beaming constraints by non-detections of radio emission by FAST concurrent with XRBs."
+}

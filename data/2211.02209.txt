@@ -1,0 +1,48 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "Thornton et al. 2013": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "Petroff et al. 2016": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "Platts et al. 2019": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "Xiao et al. 2021": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "Zhang 2022": "Referenced to support the statement that FRBs have large dispersion measures (DMs) well in excess of the expected contributions from the Milky Way.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to provide the current status of FRB detections and repeaters.",
+  "Deng & Zhang 2014": "Cited to propose using localized FRBs to measure the baryon number density of the universe.",
+  "McQuinn 2014": "Cited to propose using localized FRBs to measure the baryon number density of the universe.",
+  "Macquart et al. 2020": "Cited to propose using localized FRBs to measure the baryon number density of the universe.",
+  "Yang et al. 2022": "Cited to propose using localized FRBs to measure the baryon number density of the universe.",
+  "Gao et al. 2014": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Zhou et al. 2014": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Walters et al. 2018": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Wei et al. 2018": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Zhao et al. 2020": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Qiu et al. 2022": "Cited to propose using localized FRBs to constrain the dark energy equation of state.",
+  "Deng & Zhang 2014": "Cited to propose using localized FRBs to constrain cosmic reionization history.",
+  "Zheng et al. 2014": "Cited to propose using localized FRBs to constrain cosmic reionization history.",
+  "Hashimoto et al. 2021": "Cited to propose using localized FRBs to constrain cosmic reionization history.",
+  "Yu & Wang 2017": "Cited to propose using localized FRBs to measure cosmological distance.",
+  "Kumar & Linder 2019": "Cited to propose using localized FRBs to measure cosmological distance.",
+  "Hagstotz et al. 2022": "Cited to propose using localized FRBs to measure the Hubble constant.",
+  "Wu et al. 2022": "Cited to propose using localized FRBs to measure the Hubble constant.",
+  "Muñoz et al. 2016": "Cited to propose using strongly lensed FRBs to probe the nature of compact dark matter.",
+  "Wang & Wang 2018": "Cited to propose using strongly lensed FRBs to probe the nature of compact dark matter.",
+  "Li et al. 2018": "Cited to propose using strongly lensed FRBs to measure the Hubble constant and cosmic curvature."
+}
+{
+  "Fukugita et al. 1998": "Referenced to support the statement that only a small fraction of the baryonic content of the universe resides in galaxies and galaxy clusters.",
+  "Cen & Ostriker 2006": "Referenced to support the statement that more than three-quarters of the baryonic content of the universe resides in the diffuse intergalactic medium (IGM).",
+  "Cen & Ostriker 1999, 2006": "Referenced to highlight numerical simulations of detecting the baryon fraction in the IGM.",
+  "Meiksin 2009": "Referenced to cite numerical simulations suggesting that approximately 90% of the baryons produced by the Big Bang are contained within the IGM at redshifts of z ≥ 1.5.",
+  "Fukugita & Peebles 2004": "Referenced as one of the observations of the baryon fraction in the IGM.",
+  "Shull et al. 2012": "Referenced as one of the observations of the baryon fraction in the IGM, specifically stating that 18 ± 4% of the baryons exist in galaxies, circumgalactic medium, intercluster medium, and cold neutral gas at z ≤ 0.4.",
+  "Hill et al. 2016": "Referenced as one of the observations of the baryon fraction in the IGM.",
+  "Muñoz & Loeb 2018": "Referenced as one of the observations of the baryon fraction in the IGM."
+}
+{
+  "Li et al. 2019(Li et al. , 2020;;Wei et al. 2019;Walters et al. 2019;Qiang & Wei 2020;Dai & Xia 2021;Lin et al. 2022;Lemos et al. 2022)": "Cited to reference the methods proposed for estimating the IGM baryon fraction by utilizing DM(z) data of FRBs.",
+  "Macquart et al. 2020": "Referenced to highlight the issue of the inability to exactly extract DMs contributed by FRB host galaxies and the inhomogeneities in the IGM from observations.",
+  "Jaroszynski 2019;Macquart et al. 2020;Zhang et al. 2020Zhang et al. , 2021;;Wu et al. 2022": "Cited to support the approach of treating DMs contributed by FRB host galaxies and the inhomogeneities in the IGM as probability distributions derived from cosmological simulations."
+}
+{
+  "Zhang et al. 2020(Zhang et al. , 2021)": "Referenced to support the adoption of reasonable probability distributions of DM host and DM IGM derived from the IllustrisTNG simulation to reduce systematic errors in the estimation of f IGM.",
+  "N/A": "No citations found in the text."
+}

@@ -1,0 +1,57 @@
+@Lorimer et al. 2007:
+Referenced as the original discovery of fast radio bursts (FRBs).
+
+@Petroff et al. 2019; Platts et al. 2019; CHIME/FRB Collaboration et al. 2020:
+Cited as recent reviews on the origin and radiation mechanism of FRBs.
+
+@Falcke & Rezzolla 2014; Zhang 2014; Zhang 2016; Kashiyama et al. 2013; Gu et al. 2016; Yamasaki et al. 2018; Dai et al. 2016; Fuller & Ott 2015; Keane et al. 2012:
+These papers are referenced to discuss various possible catastrophic events that could produce non-repeating FRBs.
+
+@Spitler et al. 2016:
+Cited as the discovery of the repeating FRB 20121102, suggesting a certain kind of energy release from neutron stars (NSs).
+
+@Lu et al. 2020:
+Referenced as an example of a study discussing the origin of repeating FRBs.
+
+@Chime/Frb Collaboration et al. 2020; Rajwade et al. 2020:
+Cited as the discovery of periodic repeating FRBs.
+
+@Yang & Zou 2020; Ioka & Zhang 2020; Zanazzi & Lai 2020; Beniamini et al. 2020; Chen 2020; Sob'yanin 2020; Tong et al. 2020; Sridhar et al. 2021; Li et al. 2021; Deng et al. 2021; Wei et al. 2022:
+These papers are referenced to highlight various proposed models for the periodicity of repeating FRBs, all of which are related to neutron stars (NSs).
+@CHIME/FRB Collaboration et al. (2020):
+Referenced to support the discovery of a special FRB in the Milky Way galaxy and its association with a soft gamma-ray repeater (SGR).
+
+@Israel et al. (2016):
+Cited as the source of the initial discovery of the SGR associated with the FRB.
+
+@Dong & CHIME/FRB Collaboration (2022):
+Referenced to report the detection of another radio burst from the direction of the SGR in its active window.
+
+@Cai et al. (2022):
+Cited to report the reactivity of the FRB in the X-ray band.
+
+@Baym et al. (1971):
+Referenced to describe the density of the crust in a neutron star and the behavior of partial neutrons in this region.
+
+@Kurkela et al. (2010):
+Cited to support the claim that dense matter in an NS's inner core consists of asymptotically free quark matter.
+
+@Lattimer & Prakash (2007):
+Referenced to provide information on the highest density in an NS's inner core and the possibility of a stiff equation of state in the core.
+
+@Burgio et al. (2021):
+Cited to suggest the presence of a stiff equation of state in the NSs' core, indicating the potential for quark deconfinement.
+
+@Ujevic et al. (2022):
+Referenced to highlight the finding of a phase transition that can go back and forth in numerical simulations.
+
+@Zhang et al. (2018):
+Cited to propose the idea that the repeating FRB can be powered by the collapsing of hadronic matter accreted onto a strange star crust.
+@Kaspi et al. (2000):
+Referenced to support the statement that glitches are a common phenomenon in pulsars, specifically citing the glitch detected in the anomalous X-ray pulsar 1RXS J170849.0-400910.
+
+@Xiao et al. (2011):
+Cited to suggest that glitches in pulsars could be caused by the phase transition of hadronic matter in the neutron star (NS) core, leading to changes in the NS's structure and inducing a glitch due to the conservation of spin angular momentum.
+
+@Wang et al. (2018):
+Referenced to discuss the possibility that starquakes, caused by the release of gravitational potential energy during a type-II starquake, could produce fast radio bursts (FRBs), with the released energy being adequate for one FRB event.

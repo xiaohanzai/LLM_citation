@@ -1,0 +1,66 @@
+@Kirsten et al. (2022):
+Referenced to provide the luminosity distance range of Fast Radio Bursts (FRBs) in the context of their energetic bursts of radio emission.
+
+@Ryder et al. (2022):
+Cited to provide the upper limit of the luminosity distance range of FRBs, highlighting the wide range over which these bursts can occur.
+
+@Luo et al. (2020):
+Referenced to provide the range of luminosities exhibited by FRBs, emphasizing their significantly higher luminosities compared to pulsars and rotating radio transients.
+
+@Platts et al. (2019):
+Cited to present popular progenitor models for FRBs, including synchrotron-maser emission and giant flares, which contribute to the understanding of the potential sources of these bursts.
+
+@Pleunis et al. (2021a):
+Referenced to provide the lowest observed frequency at which repeating FRBs have emitted, contributing to the discussion of the frequency range of FRB emissions.
+
+@Gajjar et al. (2018):
+Cited to provide the highest observed frequency at which repeating FRBs have emitted, highlighting the wide frequency range over which these bursts can occur.
+
+@Parent et al. (2020):
+Referenced to provide the lowest observed frequency at which apparently non-repeating FRB sources have been detected, contributing to the understanding of the frequency range of FRB emissions.
+@Caleb et al. 2018:
+Referenced to indicate that the question of whether all FRBs repeat or not is still open.
+
+@Chatterjee et al. 2017; Bannister et al. 2019:
+Cited to highlight the localization of both repeating and nonrepeating FRBs to (sub)-arcsec precision through repeat pulses or interferometric localizations upon detection.
+
+@Ryder et al. 2022; Gordon et al. 2023:
+These papers are referenced to mention the optical observations of well-localized FRBs that have resulted in a sample of 24 FRBs with secure host galaxy associations and redshifts in the range 𝑧 = 0.03-1.02.
+
+@Bhandari et al. 2022b:
+Cited to indicate that FRBs are typically not associated with the nuclei of host galaxies and to mention the positional offsets of FRBs from the centers of host galaxies.
+
+@Mannings et al. 2021:
+Referenced to highlight that a handful of galaxy images at high spatial resolution show FRBs residing in the spiral arms of galaxies.
+
+@Mannings et al. 2022:
+Cited to mention a sample of nine FRB host galaxies with redshifts below 0.5 that asserts a strong correlation between the rotation measures (RMs) of the host galaxies and the estimated host dispersion measure (DM) contributions, indicating a relationship between magnetic fields and DM in FRB host galaxies.
+@Marcote et al. (2017):
+Referenced to provide information on FRBs 20121102A and 20190520B residing in dwarf galaxies and associated with persistent emission on compact spatial scales.
+
+@Niu et al. (2022):
+Cited to support the observation of temporal RM variations in FRBs 20121102A and 20190520B, indicating magnetic fields varying on short timescales, and to highlight the significant host galaxy DM contributions of these FRBs.
+
+@Tendulkar et al. (2017):
+Referenced to emphasize the significant host galaxy DM contributions of FRBs 20121102A and 20190520B.
+
+@Rafiei-Ravandi et al. (2021):
+Cited to provide statistical evidence for a population of FRBs discovered with CHIME at 𝑧 ∼ 0.4 with host galaxy DM contributions of ∼ 400 pc cm -3 and to discuss possible explanations for these contributions.
+
+@James et al. (2022a):
+Referenced to mention the possibility of augmentation of host galaxy DM contributions by intervening foreground galaxies.
+
+@Connor et al. (2023):
+Cited to highlight the contribution of host galaxies belonging to massive galaxy clusters to the observed excess extragalactic DMs of two FRB sources.
+@Bhandari et al. (2022a):
+Referenced to support the statement that FRB 20210117A discovered by the ASKAP telescope has host galaxy characteristics similar to other FRBs and an excess DM contribution from the host.
+
+@Pleunis et al. (2021b):
+Cited to highlight the analysis of a large sample of repeaters and non-repeaters, showing clear distinctions in the pulse morphology between the two classes and the probabilistic classification of FRBs based on burst morphology.
+
+@Hessels et al. (2019):
+Referenced to explain the observed behavior of frequency downward-drifting and the 'sad-trombone' effect in repeating FRBs, which is likely a combination of the unknown emission mechanism and line-of-sight propagation effects.
+
+@Day et al. (2020):
+Cited to mention that in some cases, various sub-pulses of the same FRB are observed to have slightly different DMs.
+@N/A

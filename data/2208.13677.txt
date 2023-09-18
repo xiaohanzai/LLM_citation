@@ -1,0 +1,51 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the unknown physical mechanism of FRBs.",
+  "Petroff et al. 2019": "Referenced to highlight the unknown physical mechanism of FRBs.",
+  "Cordes & Chatterjee 2019": "Referenced to emphasize the unknown physical mechanism of FRBs.",
+  "Petroff et al. 2016": "Referenced to mention the large number of reported FRBs in the past decade.",
+  "CHIME/FRB Collaboration et al. 2021": "Referenced to highlight the large number of reported FRBs in the past decade.",
+  "Spitler et al. 2016": "Referenced to mention the observation of repeating FRBs.",
+  "CHIME/FRB Collaboration et al. 2019a,b": "Referenced to mention the observation of repeating FRBs.",
+  "Fonseca et al. 2020": "Referenced to mention the observation of repeating FRBs.",
+  "CHIME/FRB Collaboration et al. 2023": "Referenced to mention the observation of repeating FRBs.",
+  "Rajwade et al. 2020": "Referenced to mention the periodic activity of FRB 121102.",
+  "Cruces et al. 2021": "Referenced to mention the periodic activity of FRB 121102.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to mention the periodic activity of FRB 121102.",
+  "Kulkarni 2020": "Referenced to define the dispersion measure constant (D)."
+}
+{
+  "Kulkarni 2020": "Referenced to provide the value of the dispersion measure constant (D) in the equation.",
+  "Petroff et al. 2019; Cordes & Chatterjee 2019": "Cited to highlight the definition and units of dispersion measure (DM) in the context of radio bursts.",
+  "Hessels et al. 2019; Pleunis et al. 2021": "Referenced to discuss the potential confounding effects on high precision DM measurements.",
+  "Platts et al. 2019": "Cited to mention the existence of over 50 proposed models to explain the origin of FRBs.",
+  "Kaspi & Beloborodov 2017; Bera & Chengalur 2019": "Referenced to provide examples of models explaining the origin of FRBs.",
+  "Li & Zanazzi 2021; Zanazzi & Lai 2020; Levin et al. 2020": "Cited to mention possible explanations for repeating FRBs.",
+  "Lyutikov et al. 2020; Ioka & Zhang 2020": "Referenced to provide additional possible explanations for repeating FRBs.",
+  "Connor et al. 2016": "Cited to connect the linear polarization-angle swing to the scenario of magnetar or supernova remnant pulsar.",
+  "Yang & Zhang 2017; Lyutikov et al. 2020": "Referenced to highlight the relationship between the range of DM variation and the physical origin of repeating FRBs.",
+  "Main et al. 2018": "Cited to mention the observation of DM variation in PSR B1957+20, a black widow pulsar with a companion, across the orbital phase near the eclipse."
+}
+{
+  "Hessels et al. 2019": "Referenced to support the statement that the traditional way of measuring DM through maximizing the peak S/N would not align the drifting substructure of the intensity across frequencies in repeating FRBs, and to mention that several algorithms have been proposed to improve the DM measurement.",
+  "Seymour et al. 2019": "Cited for the creation of the DM-phase1 algorithm to precisely measure the DM of FRBs with complex structure.",
+  "Marthi et al. 2020": "Referenced for the method of fitting a Gaussian profile to the noise-free profile at the highest Doppler frequency in the power spectrum to measure the DM and the uncertainty in the power spectrum.",
+  "Platts et al. 2021": "Cited as one of the papers proposing algorithms to improve the DM measurement.",
+  "Marthi et al. 2022": "Referenced for the method of fitting a Gaussian profile to the noise-free profile at the highest Doppler frequency in the power spectrum to measure the DM and the uncertainty in the power spectrum.",
+  "CHIME/FRB Collaboration et al. 2019b": "Cited to mention the typical uncertainty of the DM in the order of ∼0.1 pc cm -3.",
+  "Fonseca et al. 2020": "Cited to mention the typical uncertainty of the DM in the order of ∼0.1 pc cm -3.",
+  "Yang & Zou 2020": "Mentioned to support the statement that high-precision DM measurements could be used to probe the local environment around pulsars, magnetars, and repeating FRBs, and to mention that the 16-day periodicity of FRB 20180916B can change and the intrinsic pulse structure could vary on minutes timescales.",
+  "Yang & Zhang 2017": "Cited to support the statement that high-precision DM measurements could be used to probe the local environment around pulsars, magnetars, and repeating FRBs."
+}
+{
+  "DM-power2": "This algorithm is mentioned as the focus of the paper, describing its precision in DM measurements compared to other methods.",
+  "DM-phase": "This previous microstructure-optimized algorithm is mentioned as being similar to the DM-power2 algorithm, but with some important differences.",
+  "PDF": "The non-parametric method of the bootstrap test is mentioned as a way to determine the DM and its uncertainty, as the probability distribution function (PDF) is unknown.",
+  "PSR B0329+54": "This pulsar is mentioned as an example where the DM measurement is more sensitive to a burst with more complex morphology, which is consistent with optimizing the structure in each of the Fourier frequencies."
+}
+{
+  "Marthi et al. (2020)": "Referenced in Section 2 to briefly review the observation of FRB 20180916B.",
+  "Cole & Pilkington 1968": "Referenced in Section 2 to briefly review the observation of PSR B0329+54.",
+  "N/A": "No citations in Section 3.",
+  "N/A": "No citations in Section 4.",
+  "N/A": "No citations in Section 5."
+}

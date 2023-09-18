@@ -1,0 +1,14 @@
+{
+  "Thai National Telescope": "Referenced as an example of a successful optical telescope in the last decade.",
+  "National Astronomical Research Institute of Thailand (NARIT)": "Referenced as the organization leading the development of radio astronomy in Thailand.",
+  "Radio Astronomy Network and Geodesy for Development (RANGD)": "Referenced as the flagship project for the development of radio astronomy in Thailand.",
+  "Thai National Radio Observatory (TNRO)": "Referenced as the main facility being developed under the RANGD project.",
+  "Radio Astronomy Operation Centre": "Referenced as the center that will support the facility and instrumentation development of TNRO.",
+  "VLBI2010 Global Observing System (VGOS)": "Referenced as the type of telescopes approved for construction in Chiang Mai and Songkla for geodesy and tectonic studies.",
+  "Shanghai Astronomical Observatory": "Referenced as the collaborator for the construction of the VGOS telescope in Chiang Mai.",
+  "latitude 18°51 ′ 52 ′′ N and longitude 99 • 13 ′ 01 ′′ E": "Referenced to provide the exact location of TNRT.",
+  "K-and Q-band observations": "Referenced to describe the suitable frequency bands for observations at TNRT during the winter months.",
+  "W-band": "Referenced to describe the feasible frequency band for observations at TNRT during December and January.",
+  "time domain astronomy": "Referenced as the key science focus of TNRT, specifically exploring transients and variability.",
+  "Very Long Baseline Interferometry (VLBI)": "Referenced to highlight TNRT's role as a key international VLBI station."
+}

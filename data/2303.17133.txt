@@ -1,0 +1,49 @@
+@Lorimer et al. (2007):
+Referenced to support the statement that fast radio bursts (FRBs) show sudden brightening at radio wavelengths.
+
+@Petroff et al. (2016):
+Cited to indicate that most FRBs occur in milliseconds timescale.
+
+@Platts et al. (2019):
+Referenced to highlight the numerous theories proposed to explain the physical origin of FRBs.
+
+@Yamasaki et al. (2017):
+Cited to suggest neutron star mergers as a possible explanation for FRBs.
+
+@Bhattacharyya (2017):
+Referenced to propose pulsar-black hole interactions as a potential origin of FRBs.
+
+@Vieyro et al. (2017):
+Cited to suggest active galactic nuclei activities as a possible explanation for FRBs.
+
+@Masui & CHIME/FRB Collaboration (2021):
+Referenced to indicate that most repeating FRB sources have only a handful of observed burst events.
+
+@Li et al. (2021):
+Cited to provide an example of a highly active repeater FRB.
+
+@Xu et al. (2022):
+Referenced to highlight FRB 20201124A as the most active FRB known so far and to indicate the radio observational campaign dedicated to monitoring it.
+
+N/A
+@Xu et al. 2022:
+Referenced to provide the source of the data on burst rate, burst flux density, and inferred isotropic luminosity, and to acknowledge the feasibility of analyzing the data with unsupervised machine learning.
+@Hewitt et al. 2022:
+Referenced to highlight the recent use of a supervised deep-learning algorithm to classify FRB candidates from the FRB121102 data detected by the Arecibo Telescope.
+
+@Agarwal (2020):
+Cited to mention a previous work that presented a classification for FRB candidates from Australian Square Kilometre Array Pathfinder (ASKAP) detection using deep neural networks.
+
+@Wagstaff et al. (2016):
+Referenced to support the idea that unsupervised machine learning is a promising approach to identify misclassified FRB repeaters, based on their previous work that trained and deployed a machine learning classifier for FRB detection.
+
+@Chen et al. (2021):
+Cited as an example of a study that successfully used the unsupervised machine learning model UMAP to uncloak hidden repeating FRB candidates from non-repeating FRBs in the CHIME/FRB observation.
+
+@Kim et al. 2022; Hashimoto et al. 2022:
+Mentioned to indicate subsequent FRB studies that were motivated by the successful application of unsupervised machine learning in the previous citation.
+
+@McInnes et al. 2018:
+Referenced to provide information about the UMAP algorithm, a technique for dimension reduction used in the paper, which is based on manifold learning techniques and ideas from topological data analysis.
+@Xu et al. 2022:
+Referenced to support the previous classification of bursts in FRB 20201124A into two clusters, contrasting with the current study's finding of three clusters, and to highlight the bimodal distribution of waiting time proposed in Xu et al. (2022).

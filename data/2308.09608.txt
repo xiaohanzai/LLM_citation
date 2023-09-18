@@ -1,0 +1,90 @@
+@Petroff et al. 2022:
+Referenced as a recent review on the unknown origins of extragalactic fast radio bursts (FRBs).
+@Lorimer et al. 2007:
+Referenced to indicate the discovery of the first FRB from archival data.
+
+@CHIME Collaboration 2022:
+Cited to mention the dedication of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) in detecting and analyzing FRBs.
+
+@Chatterjee et al. 2017; Bannister et al. 2019; Ravi et al. 2019; Bhandari et al. 2020; Heintz et al. 2020; Law et al. 2020; Macquart et al. 2020; Marcote et al. 2020; Bhardwaj et al. 2021a; Bhandari et al. 2022; Gordon et al. 2023; Sharma et al. 2023; Michilli et al. 2023:
+These references are cited to highlight the localization of 32 FRBs to their host galaxies, showcasing the progress in identifying the sources of FRBs.
+
+@Eftekhari & Berger 2017:
+Referenced to provide a review on direct host associations of FRBs with galaxies.
+
+@CHIME/FRB Collaboration 2018:
+Cited to describe the capabilities of the CHIME Fast Radio Burst instrument (CHIME/FRB) in detecting multiple FRBs per day and conducting population studies.
+
+@Bhardwaj et al. 2021b:
+Referenced as an exception where a CHIME/FRB source was localized robustly to the outskirts of M81, allowing for per-object analysis.
+@Josephy et al. (2021):
+Referenced to support the statement that the repeating and nonrepeating FRB populations differ statistically at ≈ 2.5-3σ levels.
+
+@Rafiei-Ravandi et al. (2020):
+Cited for a comprehensive formalism of FRB-galaxy correlations.
+
+@Rafiei-Ravandi et al. (2021):
+Referenced multiple times to support various findings, including statistically significant correlations between FRB sources and galaxies, consistency of FRB-galaxy correlations with dark matter halos, and the explanation of high DM host in FRBs near the centers of massive halos.
+@CHIME/FRB Collaboration 2023:
+Referenced as the source for the results presented in the FRB-galaxy correlation analysis for a sample of newly cataloged repeaters and candidate repeating FRB sources.
+
+@CHIME/FRB Collaboration 2019a,b:
+Cited as previously published repeaters, contributing to the overall analysis of FRB-galaxy correlations.
+
+@Fonseca et al. 2020:
+Referenced as a previously published source in the analysis of FRB-galaxy correlations.
+
+@Michilli et al. 2023:
+Cited as a previously published source in the analysis of FRB-galaxy correlations.
+
+@Michilli et al. 2021:
+Referenced as the source for the CHIME/FRB baseband pipeline, which records raw voltage data for sky localizations and enables cross-correlation studies between FRBs and galaxies.
+
+@Rafiei-Ravandi et al. 2021, 2020:
+Cited as sources for Figures 2 and 8, respectively, in the discussion of the FRB-galaxy cross power spectrum and the one-halo term.
+@Rafiei-Ravandi et al. 2020:
+Referenced to support the claim that statistical cross-correlations between FRB and galaxy catalogs have significant constraining power over a wide range of spatial scales.
+
+@Connor & Ravi (2022):
+Cited to highlight the cross-matching of CHIME/FRB Catalog 1 with a galaxy group catalog in order to place constraints on the baryonic content of the circumgalactic medium (CGM) in the local Universe.
+
+@Kourkchi & Tully 2017:
+Referenced as the galaxy group catalog that was cross-matched with CHIME/FRB Catalog 1 in the study by Connor & Ravi (2022).
+
+@Connor et al. (2023):
+Cited to mention the identification of two FRB hosts using the DESI group/cluster catalog from Yang et al. (2021).
+
+@Yang et al. (2021):
+Referenced as the group/cluster catalog used by Connor et al. (2023) to identify FRB hosts.
+
+N/A
+@Yao et al. (2017):
+Referenced to describe the use of the YMW16 model for subtracting DM gal in the analysis.
+
+@Cook et al. 2023; Ravi et al. 2023:
+Cited to acknowledge the model assumptions regarding the Milky Way halo and to state that the results are not sensitive to these assumptions.
+
+@Rafiei-Ravandi et al. (2021):
+Referenced to indicate the adoption of the same assumptions as this paper, including the cosmological parameters and the angular resolution (θ f ∼ 1 ′).
+
+@CHIME/FRB Collaboration (2023):
+Cited to explain the definition of two distinct samples of repeaters used in the analysis and the combination of these samples with other published repeaters.
+@Krakowski et al. (2016); Bilicki et al. (2016):
+These papers are cited to reference the three galaxy surveys WISE×SCOS and the adoption of the same galaxy selection cuts.
+
+@Zhou et al. (2020a):
+Referenced to support the selection of the DESI-BGS and DESI-LRG galaxy surveys, which correlate significantly with CHIME/FRB Catalog 1.
+
+@Rafiei-Ravandi et al. (2021):
+Cited to reference the CHIME/FRB Catalog 1 and the adoption of the same sky masks as used in their study.
+
+@Ruiz-Macias et al. (2020); Zhou et al. (2020b); Krakowski et al. (2016):
+These papers are cited to support the adoption of the same galaxy selection cuts and sky masks as used in previous studies.
+
+N/A
+@5:
+Referenced to indicate that 1000 mock FRB catalogs were used in the analysis to estimate the statistical significance of a positive correlation and a negative correlation.
+@Rafiei-Ravandi et al. (2021):
+Referenced extensively to describe the computation of the angular cross power spectrum and associated statistics, as well as the binning of repeaters by median DM in order to analyze the DM dependence of a correlation with WISE×SCOS galaxies.
+
+N/A

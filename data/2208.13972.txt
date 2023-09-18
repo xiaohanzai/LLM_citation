@@ -1,0 +1,18 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the discovery of flashing radio signals known as fast radio bursts (FRBs) fifteen years ago.",
+  "CHIME/FRB Collaboration et al. 2021": "Cited to report the large sample of hundreds of FRB events recorded by the Canadian Hydrogen Intensity Mapping Experiment (CHIME) Collaboration in their first FRB catalog.",
+  "Macquart & Ekers 2018a,b": "Referenced to highlight the potential of statistical exploration in studying FRBs, specifically the (cumulative) distribution of observed quantities to gain insights into FRB luminosity function, event rate, or local environment."
+}
+{
+  "Connor & Petroff 2018;Palaniswamy et al. 2018": "Cited to suggest that selection bias could make a repeater appear non-repeating if subsequent bursts are narrower or weaker than the original one.",
+  "Kumar et al. 2019": "Referenced to support the claim that the repetition of FRB 20171019A could not be identified until two very faint bursts were detected, implying that some repeaters may have been misidentified as non-repeaters.",
+  "Caleb et al. 2019;Lu et al. 2020": "Cited to indicate that there is a debate about whether all FRBs exhibit repetitive behaviors.",
+  "Ai et al. 2021;Gardenier et al. 2021": "Referenced to highlight the proposal of using a repetition fraction to study the repetitive behavior of FRBs and the need for more observing time to verify the fraction.",
+  "Zhang et al. 2022;Zhong et al. 2022": "Cited to argue that using repetition is not very useful in classifying FRBs.",
+  "Guo & Wei 2022": "Referenced to suggest the need to find a more physical criterion as a basis for classifying FRBs."
+}
+{
+  "Xiao & Dai 2022": "Referenced as 'Paper I' to indicate a recent paper that discusses the relationship between brightness temperature and the radiation mechanism.",
+  "Nimmo et al. 2022": "Cited to support the claim that different radio transients cluster in different regions based on their brightness temperature.",
+  "Li et al. 2021": "Referenced to describe the classification method applied to a large sample of FRB 20121102A observed by FAST (Five-hundred-meter Aperture Spherical radio Telescope)."
+}

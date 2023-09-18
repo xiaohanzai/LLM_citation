@@ -1,0 +1,41 @@
+{
+  "Anna-Thomas et al. 2022": "Cited to report the detection of circular polarization in FRB 20190520B.",
+  "Dai et al. 2022": "Cited to report the detection of circular polarization in FRB 20190520B.",
+  "Xu et al. 2022": "Cited to report the detection of circular polarization in FRB 20201124A.",
+  "Hilmarsson et al. 2021a": "Cited to report the detection of circular polarization in FRB 20201124A.",
+  "Kumar et al. 2022a": "Cited to report the detection of circular polarization in FRB 20201124A.",
+  "Spitler et al. 2014": "Referenced to report the discovery of FRB 20121102A with the Arecibo Telescope.",
+  "Spitler et al. 2016": "Referenced to confirm that FRB 20121102A is a repeater.",
+  "Michilli et al. 2018": "Cited to report the linear polarization and flat position angle (PA) curves of FRB 20121102A in the C-band.",
+  "Gajjar et al. 2018": "Cited to report the linear polarization and flat position angle (PA) curves of FRB 20121102A in the C-band.",
+  "Li et al. 2021": "Cited to report the decrease in the degree of linear polarization of FRB 20121102A in the L-band.",
+  "Plavin et al. 2022": "Cited to report the decrease in the degree of linear polarization of FRB 20121102A in the L-band.",
+  "Feng et al. 2022": "Cited to report the decrease in the degree of linear polarization of FRB 20121102A in the L-band and the varying polarization properties of FRB 20180301A.",
+  "Price et al. 2019": "Referenced to report the discovery of FRB 20180301A with the Parkes 'Murriyang' radio telescope.",
+  "Luo et al. 2020": "Cited to confirm that FRB 20180301A is a repeater and report the varying polarization properties of its bursts."
+}
+{
+  "CHIME/FRB Collaboration et al. 2019": "Referenced as the discoverers of FRB 20180916B and for their observations of the linear polarization of its bursts.",
+  "Chawla et al. 2020": "Cited for their observations of the linear polarization of FRB 20180916B's bursts.",
+  "Nimmo et al. 2021": "Cited for their observations of the linear polarization of FRB 20180916B's bursts.",
+  "Pastor-Marazuela et al. 2021": "Cited for their observations of the linear polarization of FRB 20180916B's bursts.",
+  "Sand et al. 2021": "Cited for their observations of the linear polarization of FRB 20180916B's bursts.",
+  "Pleunis et al. 2021": "Cited for their observations of the degree of linear polarization of FRB 20180916B's bursts at lower frequencies.",
+  "Niu et al. 2021": "Referenced as the discoverers of FRB 20190520B and for their observations of the linear polarization of its bursts.",
+  "Anna-Thomas et al. 2022": "Cited for their observations of the degree of linear polarization of FRB 20190520B's bursts.",
+  "Dai et al. 2022": "Cited for their observations of the degree of linear polarization of FRB 20190520B's bursts.",
+  "Day et al. 2020": "Referenced as the discoverers of FRB 20190711A and for their observations of the linear polarization of its bursts.",
+  "Kumar et al. 2021": "Cited for their observations of the linear polarization of an extremely band-limited repetition of FRB 20190711A.",
+  "Fonseca et al. 2020": "Referenced as the discoverers of repeating FRBs 20190303A, 20190417A, and 20190604A and for their observations of the linear polarization of their bursts.",
+  "Feng et al. 2022": "Cited for their observations of the linear polarization and rotation measure (RM) of bursts from FRB 20190303A and FRB 20190417A, as well as the linear polarization of a burst from FRB 20190604A."
+}
+{
+  "Chime/Frb Collabortion 2021": "Referenced as the source that discovered FRB 20201124A and entered a period of high activity between March and May, 2021.",
+  "Xu et al. 2022": "Cited for their observations using FAST Telescope, detecting 1863 bursts from FRB 20201124A and observing interesting features such as PA swings, flat PA profiles, and high degrees of circular polarization.",
+  "Lanman et al. 2022": "Referenced for their observations of FRB 20201124A during its active episode, highlighting the unprecedented polarization behaviors exhibited by the source.",
+  "Hilmarsson et al. (2021a)": "Cited for their observations using Effelsberg Telescope, reporting flat PA curves with degrees of circular polarization up to 20% for FRB 20201124A.",
+  "Kumar et al. (2022a)": "Referenced for their observations using Parkes Telescope, detecting a burst with about 47% circular polarization and a significant change in PA between its two components.",
+  "D. J. Zhou et al. (2022, Paper I)": "Cited as a companion paper reporting burst morphology, energetics statistics, and timing results for the same set of data on FRB 20201124A.",
+  "Y. K. Zhang et al. (2022, Paper II)": "Referenced as a companion paper reporting burst morphology, energetics statistics, and timing results for the same set of data on FRB 20201124A.",
+  "J. R. Niu et al. (2022, Paper IV)": "Cited as a companion paper reporting burst morphology, energetics statistics, and timing results for the same set of data on FRB 20201124A."
+}

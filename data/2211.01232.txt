@@ -1,0 +1,12 @@
+{
+  "Kulkarni 2012": "Referenced to highlight previous works focused on building an observationally motivated, light curve-populated duration-luminosity phase space (DLPS) for optical wavelengths.",
+  "Pietka et al. 2015": "Referenced to highlight previous works focused on building an observationally motivated, light curve-populated duration-luminosity phase space (DLPS) for optical wavelengths.",
+  "Villar et al. 2017": "Referenced to highlight previous works focused on building an observationally motivated, light curve-populated duration-luminosity phase space (DLPS) for optical wavelengths.",
+  "Eftekhari et al. 2022": "Referenced to highlight previous works focused on building an observationally motivated, light curve-populated duration-luminosity phase space (DLPS) for millimeter wavelengths.",
+  "Metzger et al. 2015": "Referenced to highlight previous works focused on building an observationally motivated, light curve-populated duration-luminosity phase space (DLPS) for radio wavelengths.",
+  "Soderberg et al. 2009": "Referenced to build on previous attempts to produce an observation-driven duration-luminosity phase space (DLPS) in the X-rays.",
+  "O'Brien & Smartt 2013": "Referenced to build on previous attempts to produce an observation-driven duration-luminosity phase space (DLPS) in the X-rays."
+}
+{
+  "N/A": "No citations found in the text."
+}

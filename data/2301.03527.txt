@@ -1,0 +1,29 @@
+@Thornton et al. 2013; Petroff et al. 2015; Connor et al. 2016; Champion et al. 2016; Chatterjee et al. 2017:
+These references are cited to provide examples of studies that have investigated the dispersion measure (DM) of fast radio bursts (FRBs) and its relationship to the column density of electrons along the line-of-sight to the FRB.
+@Andersen et al. 2020:
+Referenced to acknowledge the possibility that some of the observed events might have a galactic origin.
+
+@Zhou et al. 2014; Walters et al. 2018; Hagstotz et al. 2022; Macquart et al. 2020; Wu et al. 2022; James et al. 2022:
+These papers are cited to support the proposal of using dispersion measure (DM) inferred from fast radio bursts (FRBs) as a cosmological probe, either through the average DM up to a given redshift or through the statistics of DM fluctuations.
+
+@Masui & Sigurdson 2015; Shirasaki et al. 2017; Rafiei-Ravandi et al. 2020; Reischke et al. 2021; Bhattacharya et al. 2021; Takahashi et al. 2021; Rafiei-Ravandi et al. 2021; Reischke et al. 2022:
+These papers are cited to highlight the use of DM fluctuations in FRBs for cosmological studies.
+
+@Riess et al. 2022; Brout et al. 2022:
+Referenced to compare the use of the homogeneous component of DM in FRBs to supernovae Ia measurements for probing the geometry of the Universe.
+
+@Hagstotz et al.:
+Referenced to describe the adaptation of a prior on the baryon density from big bang nucleosynthesis to constrain certain quantities related to the dispersion of FRBs.
+@Hagstotz et al. (2022):
+Referenced to describe the use of a prior on the baryon density from big bang nucleosynthesis in order to measure the Hubble parameter at late times.
+@Macquart et al. (2020):
+Referenced to support the study that employs FRBs to measure the cosmic baryon density.
+
+@Hagstotz et al. (2022):
+Referenced to support the study that employs FRBs to measure the Hubble constant.
+
+@Petroff et al. (2016):
+Referenced as the current sample of FRBs used for analysis and discussion of results in Section 3.
+
+@Aghanim et al. (2020a):
+Referenced as the source for the best-fit values of cosmological parameters from the Planck mission.

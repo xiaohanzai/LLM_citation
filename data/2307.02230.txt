@@ -1,0 +1,57 @@
+@Petroff et al. 2016; Luo et al. 2020; Amiri et al. 2021:
+These references are cited to indicate the number of detected FRBs and the existence of repeaters, providing a basis for the discussion on the properties and characteristics of FRBs.
+
+@Thornton et al. 2013:
+Referenced to support the claim that the unusually high dispersion measures (DMs) of FRBs suggest their extragalactic or cosmic origin.
+
+@Andersen et al. 2019:
+Cited to highlight the detection of FRB 20200428 from the magnetar SGR 1935+2154, which shares similar properties with repeaters, contributing to the understanding of the possible sources of repeating FRBs.
+
+@Luo et al. 2020:
+Referenced to mention the bursts of FRB 180301 having analogous polarization angle swings to pulsars, providing further evidence for the potential association of repeating sources with pulsars or magnetars.
+
+@Kumar et al. 2017; Andersen et al. 2019; Andersen et al. 2020; Li et al. 2021a:
+These papers are cited to suggest the possibility of luminous coherent emission processes around pulsars or magnetars as the source of repeating FRBs, contributing to the ongoing discussion on the physical nature of FRBs.
+
+N/A
+@Platts et al. 2019; Kurban et al. 2022:
+These references are cited to suggest that the repeating fast radio bursts (FRBs) may have two origins, either from isolated neutron stars (NSs) or NS binary systems.
+
+@Cheng et al. 2020; Younes et al. 2020:
+These papers are referenced to highlight the unimodal distribution of waiting times in bursts activities from magnetars in the Milky Way, which is contrasted with the bimodal distribution observed in FRB 121102 and FRB 20201124A.
+
+@Abbate et al. 2020; Kuiack et al. 2020; Geyer et al. 2021:
+These references are cited to emphasize the unimodal distribution of waiting times in giant pulses from an isolated pulsar, which is contrasted with the bimodal distribution observed in FRB 121102 and FRB 20201124A.
+
+@Li et al. 2019; Li et al. 2021b:
+These papers are referenced to highlight the bimodal distribution of waiting times in FRB 121102, which suggests a different origin for this repeater.
+
+@Xu et al. 2022:
+This reference is cited to support the claim that the waiting times of FRB 20201124A also exhibit a bimodal distribution.
+
+@Du et al. 2021; Geng et al. 2021; Wang et al. 2022a:
+These references are cited to suggest that repeaters like FRB 121102 and FRB 20201124A may originate from activity in binary systems rather than isolated neutron stars.
+
+@Chamma et al. 2021; Platts et al. 2021; Kumar et al. 2022:
+These papers are referenced to highlight the similar observational properties exhibited by FRB 180916.J0158+65, FRB 121102, and FRB 20201124A, such as shorter delay times at low frequency compared to high frequency.
+
+@Tendulkar et al. 2017; Marcote et al. 2020; Xu et al. 2022:
+These references are cited to support the claims that FRB 180916.J0158+65, FRB 121102, and FRB 20201124A are located behind a clump of plasma.
+
+@Tendulkar et al. 2017; Li et al. 2022; Ravi et al. 2022:
+These papers are referenced to suggest that FRB 180916.J0158+65, FRB 121102, and FRB 20201124A have an optical counterpart.
+
+@Amiri et al. 2020; Rajwade et al. 2020; Mao et al. 2022:
+These references are cited to highlight the periodicity and active window observed in FRB 180916.J0158+65, FRB 121102, and FRB 20201124A.
+
+@Amiri et al. 2020; Li et al.:
+These references are cited to suggest that FRB 180916.J0158+65, FRB 121102, and FRB 20201124A produce a delay time of about tens of milliseconds between bursts.
+@Li et al. 2022; Ravi et al. 2022:
+These references are cited to support the statement about the periodicity and active window of the events mentioned in the text.
+
+@Amiri et al. 2020; Rajwade et al. 2020; Mao et al. 2022:
+These papers are referenced to highlight the fact that the events mentioned in the text have a delay time of about tens of milliseconds between bursts.
+
+@Li et al. 2021b; Xu et al. 2022:
+These references are cited to emphasize the delay time between bursts of the events mentioned in the text.
+@N/A

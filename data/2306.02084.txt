@@ -1,0 +1,28 @@
+@1:
+Referenced to support the statement that the first discovery of an X-ray binary with accretion onto a compact object, Sco X-1, occurred in 1962.
+
+@2:
+Cited to highlight the first robust identification of a neutron star in an accreting binary, Cen X-3, which was done through observations on-board the UHURU satellite.
+
+@3:
+Referenced to emphasize that binary evolution provides many possibilities to obtain close binary systems with neutron stars as accreting objects, resulting in systems with various parameters.
+
+@4:
+Cited to support the statement that in low-mass X-ray binaries, mass transfer from a low-mass component can spin up the neutron star, potentially leading to the formation of a millisecond radio pulsar.
+
+@5:
+Referenced to highlight the discovery of the first millisecond radio pulsar in 1982.
+
+@6:
+Cited to confirm the spin up of neutron stars in binary systems, specifically mentioning the identification of transitional millisecond pulsars.
+
+@7:
+Referenced to mention that some pulsars, both ordinary and millisecond, are found in binary systems with other neutron stars.
+
+@8:
+Cited to indicate that there are several evolutionary channels that can result in the formation of binary neutron star systems.
+
+@9:
+Referenced to highlight that some binary neutron star systems are destined to end their lives in a spectacular coalescence accompanied by a short gamma-ray burst, a gravitational wave burst, and a kilonova.
+@[10]:
+Referenced to support the statement that several candidates to inactive/non-interacting NSs in binaries have been reported, and to direct readers to additional references on proposed candidates.

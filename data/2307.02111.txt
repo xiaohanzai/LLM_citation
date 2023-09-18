@@ -1,0 +1,69 @@
+@Abbott et al. 2017b, 2020a:
+Referenced to support the statement that the merger of binary neutron-star (BNS) systems can lead to rich electromagnetic phenomena, in addition to the emission of gravitational waves.
+
+@Abbott et al. 2017a; Savchenko et al. 2017:
+Cited to indicate the observation of a short gamma-ray burst and associated afterglows as the electromagnetic counterparts of a gravitational wave event from a BNS merger.
+
+@Hallinan et al. 2017; Alexander et al. 2017; Ghirlanda et al. 2019; Mooley et al. 2018:
+Referenced to highlight the observation of various electromagnetic counterparts of a gravitational wave event from a BNS merger.
+
+@Abbott et al. 2017c; Coulter et al. 2017:
+Cited to indicate the observation of a kilonova as the electromagnetic counterpart of a gravitational wave event from a BNS merger.
+
+@Abbott et al. 2017c:
+Referenced to indicate the detection of the first gravitational wave signal from a BNS merger.
+
+@Hansen & Lyutikov 2001; Piro 2012:
+Cited to support the statement that the dissipation of driven Poynting-flux from the magnetospheres of two neutron-stars in a BNS system would appear as multi-band electromagnetic precursors.
+
+@Palenzuela et al. 2013b,a; Ponce et al. 2014; Most & Philippov 2020:
+Referenced to indicate the confirmation of the scenario of energetic Poynting-flux dissipation through general relativistic magnetohydrodynamic simulations.
+
+@Zhang et al. 2022; Neill et al. 2022; Pan et al. 2022:
+Cited to suggest that radiation signals from the pre-merger BNS may provide more detailed information about the equation of state for a neutron star and the magnetospheres interaction in a BNS system.
+
+@Pan et al. 2022; Cooper et al. 2023; Lyutikov 2022:
+Referenced to indicate further studies on the magnetospheres interaction in a BNS system.
+@Ponce et al. (2014):
+Referenced to support the claim that the interaction of magnetospheres in a binary neutron star (BNS) system during its late inspiral phase can generate strong Poynting-flux, which could lead to detectable radio emission.
+
+@Wang et al. (2018):
+Cited along with Ponce et al. (2014) to provide a range of power for the Poynting-flux during the late inspiral phase of a BNS system, highlighting its potential to produce detectable radio emission.
+
+@Totani (2013):
+Referenced to discuss the proposal that BNS mergers with high magnetic fields could produce observed fast radio bursts (FRBs) through a coherent radio mechanism similar to that in an isolated pulsar.
+
+@Wang et al. (2016):
+Cited to present a model involving a high magnetized primary neutron star (NS) and a weak magnetized companion NS, which can produce FRBs by accelerating electrons in coherent slices.
+
+@Goldreich & Lynden-Bell (1969); Lai (2012); Piro (2012):
+Referenced in conjunction with Wang et al. (2016) to support the unipolar inductor model used in their study.
+
+@Cooper et al. (2023):
+Cited to discuss the investigation of pulsar-like emission within the polar gap model, which suggests that coherent millisecond radio bursts could be detected in Gpc distances if one NS has a magnetic field higher than 10^12 Gs.
+
+@Ruderman & Sutherland (1975); Daugherty & Harding (1982):
+Referenced along with Cooper et al. (2023) to support the polar gap model used in their study.
+
+@Lyubarsky (2020); Mahlmann et al. (2022):
+Cited to discuss the consideration of the fast magnetosonic wave as a radio emission mechanism for FRBs in magnetars and double neutron star systems.
+
+@Most & Philippov (2022b):
+Referenced to present the detailed behavior of a flare arising from magnetic reconnection in the common magnetospheres of BNS with magnetic fields of approximately 10^11 Gs, demonstrating its potential to produce radio transients with sub-millisecond quasi-periodic structure similar to FRB 20201020A.
+
+@Pastor-Marazuela et al. (2022):
+Cited along with Most & Philippov (2022b) to reference FRB 20201020A and its sub-millisecond quasi-periodic structure.
+@Most & Philippov 2020; Cherkis & Lyutikov 2021; Lyutikov 2019:
+These references are cited to support the statement that emissions formed in a pre-merger binary neutron star (BNS) system would appear with periodicity, which could explain the periodic sub-bursts observed in some one-off fast radio bursts (FRBs).
+
+@CHIME/FRB Collaboration et al. 2022:
+Referenced to provide examples of one-off FRBs (FRB 20191221A and FRB 20210213A) that exhibit periodic sub-bursts, which is relevant to the discussion of FRBs originating from pre-merger BNS systems.
+
+@Mandel & Broekgaarden 2022; Abbott et al. 2019:
+These citations are used to compare the estimated rate of BNS mergers to the rate of FRBs, highlighting that the rate of BNS mergers is significantly lower than the rate of FRBs.
+
+@Luo et al. 2020:
+Referenced to provide the estimated rate of FRBs, which is compared to the estimated rate of BNS mergers in the context of BNS-merger originated FRBs.
+
+N/A:
+No citations appear in the text.

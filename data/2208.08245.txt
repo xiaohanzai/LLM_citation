@@ -1,0 +1,22 @@
+{
+  "ASKAP-12": "Referenced to describe the Early Science Phase of the ASKAP science surveys.",
+  "Figures 1 &2": "Referenced to indicate the Pilot Survey Phase I of the ASKAP science surveys.",
+  "Hotan et al. (2021)": "Referenced to provide a description of the ASKAP system design and capabilities.",
+  "Guzman et al. (2019)": "Referenced to describe the ASKAPsoft pipeline used for processing ASKAP data.",
+  "Serra et al. 2015a, Heywood et al. 2016, Kleiner et al. 2019": "Referenced to highlight the collaboration between the pipeline development team and the survey science teams.",
+  "CASDA": "Referenced to describe the CSIRO ASKAP Science Data Archive where ASKAP data products are uploaded and made public.",
+  "McConnell et al. (2020)": "Referenced to provide details of the survey design and first results of the Rapid ASKAP Continuum Survey (RACS-low)."
+}
+{
+  "McConnell et al. (2020)": "Referenced for details of the survey design and first results of the RACS-mid and RACS-high observations and processing."
+}
+{
+  "Koribalski et al. 2020": "Referenced to describe the WALLABY project, which aims to map the 21-cm spectral line of hydrogen (HI) over the southern sky and detect a large number of galaxies.",
+  "Serra et al. 2015b, Westmeier et al. 2021": "Cited to highlight the development of the 3D Source Finding Application (SoFiA) by the WALLABY team for searching ASKAP spectral data cubes and creating reliable source catalogs.",
+  "Norris et al. 2021a": "Referenced to describe the EMU project, which aims to provide a deep radio continuum survey at slightly lower frequencies and detect a large number of galaxies.",
+  "Allison et al. 2022": "Cited to describe the FLASH project, which searches for HI absorption lines against distant bright continuum sources and expects to detect several hundred.",
+  "Murphy et al. 2021": "Referenced to describe the VAST project, which aims to detect highly variable and transient radio sources.",
+  "Bannister et al. 2019": "Cited to describe the CRAFT project, which uses a specially designed mode to detect and localize fast transient radio sources such as FRBs.",
+  "Anderson et al. 2021": "Referenced to describe the POSSUM project, which conducts polarisation studies and aims to produce a catalogue of Faraday rotation measures for extragalactic radio sources.",
+  "Pingel et al. 2022": "Cited to describe the GASKAP project, which focuses on spectral line studies of the Galaxy Plane and Magellanic Clouds."
+}

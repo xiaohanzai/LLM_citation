@@ -1,0 +1,55 @@
+@Lorimer et al. (2007); Thornton et al. (2013); Petroff et al. (2016):
+These references are cited to provide background information on Fast Radio Bursts (FRBs) and their characteristics, including their extragalactic origin, high dispersion measure (DM), and millisecond duration.
+
+@Ravi et al. (2015); Tendulkar et al. (2017); Zhang (2018); Bannister et al. (2019); Ravi et al. (2019); Li et al. (2021b); Bochenek et al. (2020):
+These citations are used to support the statement about the high dispersion measure (DM) and millisecond duration of FRBs, as well as to highlight the various studies and observations related to FRBs.
+
+@Cordes & Chatterjee (2019):
+Referenced to explain the classification of FRBs into "repeating" and "non-repeating" categories based on the presence or absence of multiple bursts.
+
+@Petroff et al. (2016); Li et al. (2021b); CHIME/FRB Collaboration et al. (2021):
+These references are cited to provide the current number of reported FRBs as of April 2022, indicating the growing knowledge and observations in the field.
+@Spitler et al. 2014; Spitler et al. 2016:
+These references are cited to establish the discovery of FRB121102 in 2014 and its identification as a repeater in 2016, providing the foundational information for the subsequent discussion.
+
+@Josephy et al. 2019; Gajjar et al. 2018:
+These papers are referenced to highlight the extensive study of FRB121102 across a broad range of radio frequencies, emphasizing the comprehensive nature of the research on this particular FRB.
+
+@Chatterjee et al. 2017; Bassa et al. 2017; Marcote et al. 2017; Tendulkar et al. 2017; Kokubo et al. 2017:
+These references are cited to support the localization of FRB121102 with high precision and the identification of its host galaxy and association with a persistent radio source, demonstrating the significant progress made in understanding the properties and origins of this FRB.
+
+@Platts et al. 2019:
+This paper is referenced to highlight the existence of many theoretical models developed to explain the physical nature of FRB121102, indicating the ongoing efforts to understand the underlying mechanisms of this FRB.
+
+@Kashiyama & Murase 2017; Metzger et al. 2017; Beloborodov 2017; Margalit et al. 2018:
+These references are cited to suggest the possibility that FRB121102 might have originated from a young magnetar, presenting different theoretical explanations for the physical nature of this FRB.
+
+@Scholz et al. 2016; Michilli et al. 2018; Li et al. 2021a:
+These papers are referenced to report the detection of additional bursts from FRB121102 using different telescopes and radio frequencies, highlighting the ongoing observational efforts to capture and study the bursts from this FRB.
+
+@Rajwade et al. 2020:
+This reference is cited to mention the discovery of a tentative period and duty cycle for FRB121102, indicating the presence of periodic behavior in the bursts emitted by this FRB.
+
+@Hessels et al. 2019:
+This paper is referenced to demonstrate the complex time-frequency structure exhibited by FRB121102, providing insights into the unique characteristics of this FRB.
+@Zhang et al. 2018:
+Referenced for their use of a combination of neural network detection with dedispersion verification in the study of pulse detection and periodicity of FRB121102.
+
+@Wagstaff et al. 2016:
+Cited for their work in the development of automated methods for identifying events of interest in FRB research.
+
+@Connor & van Leeuwen 2018:
+Referenced for their application of deep learning to single-pulse classification and the development of a hierarchical framework for ranking events by their probability of being astrophysical transients.
+
+@Chen et al. 2022:
+Cited for their use of the unsupervised machine learning algorithm UMAP to understand, classify, and identify possible FRB repeaters.
+
+@McInnes et al. 2018:
+Referenced as the source of the Uniform Manifold Approximation and Projection (UMAP) algorithm used by Chen et al. 2022.
+
+@Kim et al. (2022); Hashimoto et al. (2022):
+Cited to highlight the lack of understanding about the nature of repeating FRBs and to emphasize the need for further research on the underlying physical mechanisms.
+@Li et al. (2021a, dataset):
+Referenced in Section 2 to discuss the selection of samples from the archival data.
+
+N/A

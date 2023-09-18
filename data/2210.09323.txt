@@ -1,0 +1,74 @@
+{
+  "Linscott & Erkes 1980": "Referenced to support the mention of fast radio bursts (FRBs) as a previously unknown type of radiation discovered through radio astronomy.",
+  "Lorimer et al. 2007": "Referenced to highlight the discovery of fast radio bursts (FRBs) through radio astronomy.",
+  "Cordes & McLaughlin 2003": "Cited to emphasize that much of the parameter space for radio detections remains unexplored, particularly for rare or intermittent transients.",
+  "Pietka et al. 2015": "Referenced to support the statement that much of the parameter space for radio detections remains unexplored, particularly for rare or intermittent transients.",
+  "Wang et al. 2021": "Cited to highlight the ongoing discovery of rare or intermittent transients in radio astronomy.",
+  "Wang et al. 2022": "Cited to highlight the ongoing discovery of rare or intermittent transients in radio astronomy."
+}
+{
+  "Alexander et al. 2020": "Referenced to support the statement that VLA radio limits reached as deep as ∼ 3 × 10 -19 erg s -1 cm -2 in the observation of the afterglow of the first GW detected NS merger, GRB 170817A.",
+  "Troja et al. 2020": "Cited to highlight that even ∼ 100ks Chandra 𝑋-ray limits are more than 10 3 times brighter than the VLA radio limits in the observation of the afterglow of the first GW detected NS merger, GRB 170817A.",
+  "Mereghetti et al. 2020": "Referenced to mention the Galactic FRB as a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Tavani et al. 2020": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Ridnaia et al. 2020": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Li et al. 2020": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Margalit et al. 2020": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Lu et al. 2020": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Li et al. 2022": "Cited as one of the references for the Galactic FRB, which is a somewhat special case where bright multiwavelength counterparts are predicted by many fast radio burst (FRB) models.",
+  "Mereghetti et al. 2021": "Referenced to mention that only upper limits exist in other wavelengths for fast radio bursts (FRBs), which are typically far above the expected sources' output.",
+  "Piro et al. 2021": "Cited as one of the references to support the statement that only upper limits exist in other wavelengths for fast radio bursts (FRBs), which are typically far above the expected sources' output.",
+  "Laha et al. 2022a": "Cited as one of the references to support the statement that only upper limits exist in other wavelengths for fast radio bursts (FRBs), which are typically far above the expected sources' output.",
+  "Laha et al. 2022b": "Cited as one of the references to support the statement that only upper limits exist in other wavelengths for fast radio bursts (FRBs), which are typically far above the expected sources' output."
+}
+{
+  "Hurley-Walker et al. 2022": "Referenced to support the detection of GLEAM-X J162759.5-523504.3 by the MWA and provide information on its periodicity and magnetar-like phenomenology.",
+  "Caleb et al. 2022": "Cited to highlight the discovery of PSR J0901-4046 by the MeerTRAP program and provide information on its periodicity and magnetar-like phenomenology.",
+  "Kouveliotou et al. 1998": "Referenced to explain the freezing of the spindown process in conventional magnetars due to the decay of their dipole field.",
+  "Colpi et al. 2000": "Cited to support the understanding of the dearth of longer period conventional magnetars resulting from the freezing of the spindown process.",
+  "Dall'Osso et al. 2012": "Referenced to provide further support for the freezing of the spindown process in conventional magnetars.",
+  "Viganò et al. 2013": "Cited to support the understanding of the decay timescale of the dipole field in conventional magnetars.",
+  "Beniamini et al. 2019": "Referenced to provide additional information on the decay timescale of the dipole field in conventional magnetars.",
+  "Jawor & Tauris 2022": "Cited to support the understanding of the decay timescale of the dipole field in conventional magnetars."
+}
+{
+  "Spitler et al. 2016": "Referenced as one of the lines of evidence connecting FRBs with magnetar sources.",
+  "Lyutikov 2017": "Referenced as one of the lines of evidence connecting FRBs with magnetar sources.",
+  "Wadiasingh & Timokhin 2019": "Referenced as one of the lines of evidence connecting FRBs with magnetar sources.",
+  "Ravi 2019": "Referenced as one of the lines of evidence connecting FRBs with magnetar sources.",
+  "Bochenek et al. 2020": "Referenced as one of the papers associating FRBs with a known Galactic magnetar SGR 1935+2154.",
+  "The Chime/Frb Collaboration et al. 2020": "Referenced as one of the papers associating FRBs with a known Galactic magnetar SGR 1935+2154.",
+  "Chime/Frb Collaboration et al. 2020": "Referenced as one of the papers discussing the unexpected discovery of FRBs with periodic activity windows.",
+  "Pastor-Marazuela et al. 2020": "Referenced as one of the papers discussing the unexpected discovery of FRBs with periodic activity windows and the disfavoring of simple binary shrouding models for FRB 20180916.",
+  "Rajwade et al. 2020a": "Referenced as one of the papers discussing the unexpected discovery of FRBs with periodic activity windows.",
+  "Cruces et al. 2021": "Referenced as one of the papers discussing the unexpected discovery of FRBs with periodic activity windows.",
+  "Beniamini et al. (2020)": "Referenced as the paper exploring the idea that the observed periods in FRBs reflect the rotational periods of magnetarlike sources.",
+  "Lyutikov et al. 2020": "Referenced as one of the papers suggesting alternative sources of the observed periodicity seen in FRBs.",
+  "Ioka & Zhang 2020": "Referenced as one of the papers suggesting alternative sources of the observed periodicity seen in FRBs.",
+  "Levin et al. 2020": "Referenced as one of the papers suggesting alternative sources of the observed periodicity seen in FRBs.",
+  "Zanazzi & Lai 2020": "Referenced as one of the papers suggesting alternative sources of the observed periodicity seen in FRBs.",
+  "Pleunis et al. 2021a": "Referenced as one of the papers disfavoring simple binary shrouding models for FRB 20180916.",
+  "Mckinven et al. 2022": "Referenced as one of the papers disfavoring simple binary shrouding models for FRB 20180916.",
+  "Bethapudi et al. 2022": "Referenced as one of the papers disfavoring simple binary shrouding models for FRB 20180916.",
+  "Li et al. 2021": "Referenced as one of the papers providing deep limits on any underlying shorter periodicity for FRB 20121102.",
+  "Hewitt et al. 2022": "Referenced as one of the papers providing deep limits on any underlying shorter periodicity for FRB 20121102.",
+  "Chime/Frb Collaboration et al. 2020": "Referenced as one of the papers providing deep limits on any underlying shorter periodicity for FRB 20180916."
+}
+{
+  "Pleunis et al. 2021b": "Cited as tentative evidence that FRB sources may encompass two or more populations.",
+  "Tendulkar et al. 2021": "Referenced to support the evidence of offsets from a star forming region for the location of FRB 20180916, disfavoring precession scenarios for the periodic windowing activity.",
+  "Bhardwaj et al. 2021": "Cited as a reference for the recent discovery of a repeating FRB 20200120E in a globular cluster of M81 that exhibits 'burst storms' much like Galactic magnetars.",
+  "Kirsten et al. 2022": "Referenced as a source for the recent discovery of a repeating FRB 20200120E in a globular cluster of M81 that exhibits 'burst storms' much like Galactic magnetars.",
+  "Majid et al. 2021": "Cited as a reference for the recent discovery of a repeating FRB 20200120E in a globular cluster of M81 that exhibits 'burst storms' much like Galactic magnetars.",
+  "Nimmo et al. 2022": "Referenced to support the comparison of the repeating FRB 20200120E in a globular cluster of M81 to Galactic magnetars and the ruling out of short-term periodicity signatures in the burst arrival time data.",
+  "Michel 1993": "Cited as a reference for the age of pulsars in globular clusters.",
+  "Lyne et al. 1996": "Referenced as a source for the age of pulsars in globular clusters.",
+  "Manchester et al. 2005": "Cited as a reference for the age of pulsars in globular clusters.",
+  "Boyles et al. 2011": "Referenced as a source for the age of pulsars in globular clusters.",
+  "Lynch et al. 2012": "Cited as a reference for the age of pulsars in globular clusters.",
+  "Lu et al. 2021": "Referenced to support the favoring of an object much older than conventional magnetars produced in a low-kick process, possibly produced by electron capture supernovae, accretion-induced collapse or white dwarf (WD) collisions rather than a conventional core collapse supernovae (CCSN).",
+  "Kremer et al. 2021": "Cited as a reference for the favoring of an object much older than conventional magnetars produced in a low-kick process, possibly produced by electron capture supernovae, accretion-induced collapse or white dwarf (WD) collisions rather than a conventional core collapse supernovae (CCSN)."
+}
+{
+  "N/A": "No citations appear in the text."
+}

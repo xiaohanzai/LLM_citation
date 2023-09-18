@@ -1,0 +1,90 @@
+@Cordes & Chatterjee 2019; Petroff et al. 2019:
+These references are cited as reviews of the phenomenon of fast radio bursts (FRBs), providing background information on the topic.
+
+@Spitler et al. 2016:
+Referenced to support the statement that the repetition of FRB sources rules out cataclysmic models for burst production.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020a:
+These papers are cited to establish the link between magnetars and FRBs, suggesting that magnetars are likely to be the origin of at least some FRBs.
+
+@Oppermann et al. 2018:
+Referenced to highlight the clustered activity observed in repeating FRB sources.
+
+@CHIME/FRB Collaboration et al. 2020b; Rajwade et al. 2020; Cruces et al. 2021:
+These references are cited to support the statement that some repeating FRB sources show periodic activity, with bursts being detectable only during specific time windows in each cycle.
+
+@Pastor-Marazuela et al. 2021; Pleunis et al. 2021a; Bethapudi et al. 2022:
+These papers are cited to emphasize the chromatic nature of periodic activity in one FRB source, with activity at lower frequencies trailing the activity at higher frequencies.
+
+@Caleb et al. 2019; James et al. 2020a,b:
+Referenced to highlight the uncertainty regarding whether all FRBs repeat, the fraction of repeating sources showing periodic activity, and the timescales of repeater activity.
+
+@Hessels et al. 2019; CHIME/FRB Collaboration et al. 2019a:
+These references are cited to support the statement that complex time-frequency structure, with subbursts drifting downward in frequency over time, is common among bursts from repeating FRB sources.
+
+@Pleunis et al. 2021b:
+Referenced to highlight the observed differences in duration and bandwidth between repeater bursts and bursts from nonrepeating sources.
+
+@Connor et al. 2020:
+Cited to suggest possible explanations for the observed differences in repeater bursts and bursts from nonrepeating sources, including intrinsic differences, propagation effects, or selection effects.
+@Spitler et al. (2016), CHIME/FRB Collaboration et al. (2019b), Niu et al. (2022), Bhardwaj et al. (2021a), Lanman et al. (2022):
+These references are cited to highlight the most prolific repeating sources of Fast Radio Bursts (FRBs) and the insights they have provided, including their precise localization and association with different types of galaxies.
+
+@Tendulkar et al. (2017), Marcote et al. (2020), Kirsten et al. (2022), Xu et al. (2022):
+These papers are referenced to demonstrate that repeating FRBs are associated with a variety of host types, such as star-forming dwarf galaxies, disk galaxies, and globular clusters.
+
+@Michilli et al. (2018), Law et al. (2022):
+These references are cited to discuss the presence or absence of persistent radio sources (PRSs) in the extreme magneto-ionic environments of repeating FRBs.
+
+@Feng et al. (2022), Kumar et al. (2022), Hilmarsson et al. (2021), Mckinven et al. (2022a), Anna-Thomas et al. (2022):
+These papers are referenced to highlight various phenomena related to the complex magnetized environments of repeating FRBs, including depolarization, Faraday conversion, and temporal evolution of Faraday rotation.
+@Nimmo et al. 2021; Nimmo et al. 2022:
+These references are cited to support the statement that repeater bursts have been resolved to timescales from a few µs to a few ms.
+
+@Gajjar et al. 2018:
+Referenced to indicate that repeater bursts have been detected up to 8 GHz.
+
+@Pastor-Marazuela et al. 2021; Pleunis et al. 2021a:
+These papers are cited to highlight that repeater bursts have been detected down to 110 MHz.
+
+@Kumar et al. 2021:
+Referenced to emphasize that repeater bursts can be extremely narrowband.
+
+@Chawla et al. 2020; Caleb et al. 2020:
+These references are cited to show that repeater bursts show order-of-magnitude differences in brightness from subburst to subburst or from burst envelope to burst envelope.
+
+@Kumar et al. 2019:
+Referenced to indicate that repeater bursts can show order-of-magnitude differences in brightness from burst envelope to burst envelope.
+
+@Li et al. 2021:
+Cited to highlight that the Five-hundred-meter Aperture Spherical Telescope enables detailed measurements of burst energy distributions.
+
+@Hardy et al. 2017; Scholz et al. 2020; Tavani et al. 2020; Niino et al. 2022:
+These papers are cited to emphasize that a prompt multiwavelength counterpart to a repeater burst has not been detected despite coordinated efforts.
+
+N/A:
+No citations appear in the text.
+@Connor & Petroff 2018:
+Referenced to support the optimal strategies for discovering repeating sources of FRBs, which include observing FRB sky positions with more sensitive instruments or revisiting the same patch of sky repeatedly.
+
+@Kumar et al. 2019:
+Cited to show that two FRBs discovered by the Australian Square Kilometre Array Pathfinder were shown to repeat by the more sensitive 100-m Robert C. Byrd Green Bank Telescope.
+
+@Kumar et al. 2021:
+Referenced to indicate that the 64-m Murriyang (Parkes) telescope also discovered repeat bursts from an FRB initially discovered by the Murriyang telescope.
+
+@Luo et al. 2020:
+Cited to highlight that FAST discovered repeat bursts from an FRB initially discovered by the Murriyang telescope.
+
+@CHIME/FRB Collaboration et al. 2018:
+Referenced to introduce the Canadian Hydrogen Mapping Experiment (CHIME) and its FRB project, which has previously reported twenty repeating sources of FRBs.
+
+@CHIME/FRB Collaboration et al. 2019a,b; Fonseca et al. 2020; Bhardwaj et al. 2021a; Lanman et al. 2022:
+These papers are cited to acknowledge the CHIME/FRB project's previous reports on repeating sources of FRBs.
+
+@Fonseca et al. (2020):
+Cited to mention the approach outlined by Fonseca et al. for the calculation of chance coincidence probabilities in the context of finding two unrelated FRBs at similar sky position and DM.
+
+N/A
+@Mckinven & CHIME/FRB Collaboration 2022:
+Referenced to acknowledge the discovery of a new repeater FRB that falls outside the cutoff date for the analysis presented in the manuscript.

@@ -1,0 +1,90 @@
+{
+  "Linscott and Erkes, 1980": "Cited as the first mention of the FRB phenomenon in 1980.",
+  "Lorimer et al (2007)": "Referenced as the source of systematic study on FRBs.",
+  "Thornton et al (2013)": "Cited for the discovery of several more FRB sources in 2013.",
+  "Lorimer, 2018": "Referenced to indicate the rapid development of the field of FRBs.",
+  "Zhang, 2020": "Cited as a source contributing to the rapid development of the field of FRBs.",
+  "Petroff et al, 2021": "Referenced as a source contributing to the rapid development of the field of FRBs.",
+  "Spitler et al, 2016": "Cited for the first localization of the repeating FRB 121102.",
+  "Chatterjee et al, 2017": "Referenced for the first FRB-like signal-FRB 200428 from the Galactic soft gamma repeater (SGR) 1935+2154.",
+  "Bochenek et al, 2020": "Cited for the first FRB-like signal-FRB 200428 from the Galactic soft gamma repeater (SGR) 1935+2154.",
+  "CHIME/FRB Collaboration et al, 2020": "Referenced for the first FRB-like signal-FRB 200428 from the Galactic soft gamma repeater (SGR) 1935+2154.",
+  "Lin et al, 2020": "Cited for the first FRB-like signal-FRB 200428 from the Galactic soft gamma repeater (SGR) 1935+2154.",
+  "Li et al, 2021a": "Referenced for the first FRB-like signal-FRB 200428 from the Galactic soft gamma repeater (SGR) 1935+2154.",
+  "Bhardwaj et al, 2021": "Cited for the discovery of FRB 20200120E in M81.",
+  "Chime/Frb Collaboration et al, 2020": "Referenced for the periodic activity of FRBs (FRB 180916: 16 day and FRB 121102: 157 day).",
+  "Rajwade et al, 2020": "Cited for the periodic activity of FRBs (FRB 180916: 16 day and FRB 121102: 157 day).",
+  "The CHIME/FRB Collaboration et al, 2021b": "Referenced for the emission of periodic signals by FRBs (FRB 20191221A: 216.8 ms, FRB 20210206A: 2.8 ms, and FRB 20210213A: 10.7 ms).",
+  "CHIME/FRB Collaboration et al, 2019a": "Cited for the completion of the Canadian Hydrogen Intensity Mapping Experiment (CHIME).",
+  "Collaboration et al, ,b, 2020": "Referenced for the completion of the Canadian Hydrogen Intensity Mapping Experiment (CHIME).",
+  "Chime/Frb Collaboration et al, 2020": "Cited for the completion of the Canadian Hydrogen Intensity Mapping Experiment (CHIME).",
+  "The CHIME/FRB Collaboration et al, 2021a": "Referenced for the completion of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) and the release of the CHIME/FRB Catalog 11.",
+  "Shannon et al, 2018": "Cited for the completion of the Australian Square Kilometre Array Pathfinder (ASKAP).",
+  "Kumar et al, 2019": "Referenced for the completion of the Australian Square Kilometre Array Pathfinder (ASKAP).",
+  "Li et al, 2018": "Cited for the completion of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).",
+  "Zhu et al, 2020": "Referenced for the completion of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).",
+  "Luo et al, 2020b": "Cited for the completion of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).",
+  "Lin et al, 2020": "Referenced for the completion of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).",
+  "Niu et al, 2021": "Cited for the completion of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).",
+  "Li et al, 2021b": "Referenced for the observation of 1652 bursts related to FRB 121102 by FAST.",
+  "Jahns et al, 2022": "Cited for the observation of 849 bursts related to FRB 121102 by Arecibo.",
+  "The CHIME/FRB Collaboration et al, 2021a": "Referenced for the release of the CHIME/FRB Catalog 11."
+}
+{
+  "Li et al, 2021b": "The paper is cited to reference the observation of 1652 bursts related to FRB 121102 by FAST.",
+  "Jahns et al, 2022": "The paper is cited to reference the observation of 849 bursts related to FRB 121102 by Arecibo.",
+  "The CHIME/FRB Collaboration et al, 2021a": "The paper is cited to reference the release of CHIME/FRB Catalog 11 by CHIME."
+}
+{
+  "The CHIME/FRB Collaboration et al, 2021a": "Referenced to introduce the CHIME/FRB Catalog 1 and its significance in providing data for statistical study of FRBs.",
+  "FRBCAT": "Cited to mention the previous catalog used for studying the statistical properties of FRBs.",
+  "Petroff et al, 2016": "Referenced to highlight the use of FRBCAT for studying the statistical properties of FRBs.",
+  "Cui et al, 2021a": "Cited to discuss the difficulties faced in statistical study due to calibration issues and uncertain spectral index between different observational frequency bands.",
+  "The CHIME/FRB Collaboration et al, 2021a": "Referenced to emphasize the alleviation of the aforementioned difficulties with the availability of CHIME/FRB Catalog 1, providing data only from the CHIME telescope at 400-800MHz and a significant increase in the amount of data.",
+  "The CHIME/FRB Collaboration et al, 2021a": "Cited to mention the number of FRB data and sources available in the CHIME/FRB Catalog 1."
+}
+{
+"The CHIME/FRB Collaboration et al, 2021a": "Referenced to support the statistical analyses made using the new database and the conclusions about the origin and environments of FRBs.",
+"Rafiei-Ravandi et al, 2021": "Cited as one of the researchers who made statistical analyses using the new database.",
+"Chawla et al, 2022": "Cited as one of the researchers who made statistical analyses using the new database.",
+"Pleunis et al, 2021": "Cited as one of the researchers who made statistical analyses using the new database.",
+"Josephy et al, 2021": "Cited as one of the researchers who made statistical analyses using the new database.",
+"Kumar et al, 2017": "Referenced for discussing the luminosity function and distribution of FRBs.",
+"Li et al, 2017": "Referenced for discussing the luminosity distribution of FRBs and the possibility of a power-law or lognormal distribution.",
+"Luo et al, 2018": "Referenced for discussing the luminosity distribution of FRBs and the possibility of a power-law or lognormal distribution.",
+"Hashimoto et al, 2020": "Referenced for discussing the luminosity distribution of FRBs.",
+"Luo et al, 2020a": "Referenced for discussing the luminosity distribution of FRBs and the possibility of a power-law or lognormal distribution.",
+"Lu and Piro, 2019": "Referenced for discussing the luminosity distribution of FRBs.",
+"Hashimoto et al, 2022": "Referenced for discussing the luminosity distribution of FRBs and the possibility of a power-law or lognormal distribution.",
+"Cui et al, 2021a": "Referenced for discussing the possibility of a lognormal distribution for the luminosity distribution of FRBs.",
+"Li et al, 2021b": "Referenced for discussing the burst energy distribution of a repeating FRB 121102.",
+"Connor, 2019": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Caleb et al, 2019": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Palaniswamy et al, 2018": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Petroff et al, 2019": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Fonseca et al, 2020": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Cui et al, 2021b": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Connor et al, 2020": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Gardenier et al, 2021": "Cited as one of the references for the controversial issue of whether repeaters and non-repeaters share the same origin or physical properties.",
+"Kulkarni et al": "Referenced for discussing the unsettled questions related to FRBs."
+}
+{
+  "et al, 2019": "Referenced to support a claim or finding made by multiple authors in the field.",
+  "Fonseca et al, 2020": "Referenced to support a claim or finding made by Fonseca and colleagues in 2020.",
+  "Cui et al, 2021b": "Referenced to support a claim or finding made by Cui and colleagues in 2021.",
+  "The CHIME/FRB Collaboration et al, 2021a": "Referenced to support a claim or finding made by The CHIME/FRB Collaboration and colleagues in 2021.",
+  "Connor et al, 2020": "Referenced to support a claim or finding made by Connor and colleagues in 2020.",
+  "Gardenier et al, 2021": "Referenced to support a claim or finding made by Gardenier and colleagues in 2021.",
+  "Kulkarni et al, 2014": "Referenced to support a claim or finding made by Kulkarni and colleagues in 2014.",
+  "Petroff et al, 2019": "Referenced to support a claim or finding made by Petroff and colleagues in 2019.",
+  "Cordes and Chatterjee, 2019": "Referenced to support a claim or finding made by Cordes and Chatterjee in 2019."
+}
+{
+  "Macquart et al, 2020": "Referenced to describe the Macquart relation between dispersion measure and redshift (DM-z) used for distance estimation in the study of FRB luminosity.",
+  "Heintz et al, 2020": "Cited to indicate the addition of 10 new localized FRBs to test the validity of the Macquart relation.",
+  "Cui et al, 2021b": "Referenced for the analysis of new CHIME data to estimate FRB luminosity, including statistical tests.",
+  "Smirnov, 1948": "Cited for the use of the Kolmogorov-Smirnov (K-S) test in the analysis.",
+  "Mann and Whitney, 1947": "Referenced for the use of the Mann-Whitney-Wilcoxon (M-W-W) test in the analysis.",
+  "Anderson and Darling, 1952": "Cited for the use of the Anderson-Darling (A-D) test in the analysis.",
+  "Lilliefors, 1967": "Referenced for the use of the Lilliefors test in the analysis."
+}

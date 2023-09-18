@@ -1,0 +1,63 @@
+{
+  "Gold 1968": "Referenced to describe the nature of pulsars as remnants of massive stars that have undergone core collapse.",
+  "Hobbs et al. 2004": "Cited to support the statement that timing models can precisely describe the spin evolution of pulsars.",
+  "Lynch et al. 2018": "Referenced to emphasize the use of timing models in describing the spin evolution of pulsars.",
+  "Kaspi 2010": "Cited to highlight the fervent interest in subclasses of neutron stars in the field of transient astronomy.",
+  "McLaughlin et al. 2006": "Referenced to describe the discovery of Rotating Radio Transients (RRATs) as a subclass of neutron stars.",
+  "Keane et al. 2011": "Cited to provide further information on the discovery and characteristics of RRATs.",
+  "Burke-Spolaor 2012": "Referenced to highlight the growing popularity of single pulse searches for RRATs.",
+  "Keane 2016": "Cited to describe attempts to find Fast Radio Bursts (FRBs) in mislabelled RRATs.",
+  "Rane & Loeb 2017": "Referenced to further discuss the attempts to find FRBs in mislabelled RRATs.",
+  "Kaspi & Beloborodov 2017": "Cited to support the statement that magnetars, a subclass of neutron stars, may explain high energy phenomena such as FRBs.",
+  "CHIME Collaboration 2020": "Referenced to highlight the role of magnetars in explaining high energy phenomena like FRBs.",
+  "Bochenek et al. 2020": "Cited to provide further information on the role of magnetars in explaining high energy phenomena like FRBs."
+}
+{
+  "Kaspi & Beloborodov 2017": "Referenced to support the statement that highly magnetised neutron stars may explain high energy phenomena such as FRBs.",
+  "CHIME Collaboration 2020; Bochenek et al. 2020": "Cited to indicate that these references provide further information on FRBs and their potential connection to RRATs and magnetars."
+}
+{
+  "Manchester et al. 2005": "Referenced to indicate the number of known pulsars to date.",
+  "Manchester et al. 2001": "Cited to suggest that large surveys like the Parkes Multibeam Survey may have only captured a fraction of the total RRATs.",
+  "Mickaliger et al. 2018": "Referenced to highlight the incomplete picture of the pulsar population due to the possibility of missing RRATs in surveys.",
+  "Johnston et al. 2008": "Cited as one of the next-generation telescopes that will begin large-scale pulsar and fast-transient searches.",
+  "Tzioumis et al. 2010": "Referenced as one of the next-generation telescopes that will begin large-scale pulsar and fast-transient searches.",
+  "Coenen et al. 2014": "Cited as one of the next-generation telescopes that will begin large-scale pulsar and fast-transient searches.",
+  "Swainston et al. 2021": "Referenced as one of the next-generation telescopes that will begin large-scale pulsar and fast-transient searches.",
+  "CHIME/FRB Collaboration 2018": "Cited as one of the telescopes contributing to RRAT discoveries with its wide field of view.",
+  "CHIME/Pulsar Collaboration 2020": "Referenced as one of the telescopes contributing to RRAT discoveries with its wide field of view.",
+  "van Haarlem et al. 2013": "Cited as one of the telescopes contributing to RRAT discoveries with its wide field of view.",
+  "Wayth et al. 2018": "Referenced as one of the telescopes contributing to RRAT discoveries with its outstanding sensitivity.",
+  "Tingay et al. 2013": "Cited as one of the telescopes contributing to RRAT discoveries with its outstanding sensitivity.",
+  "Johnston et al. 2007": "Referenced as one of the telescopes contributing to RRAT discoveries with its wide field of view.",
+  "Macquart et al. 2010": "Cited as one of the telescopes contributing to RRAT discoveries with its wide field of view.",
+  "Qian et al. 2019": "Referenced as one of the telescopes contributing to RRAT discoveries with its outstanding sensitivity."
+}
+{
+  "Manchester et al. 2001": "Referenced to support the description of untargeted surveys in pulsar and RRAT surveys.",
+  "Parent et al. 2022": "Referenced to support the description of untargeted surveys in pulsar and RRAT surveys.",
+  "Parent et al. , 2019": "Referenced to support the description of untargeted surveys in pulsar and RRAT surveys.",
+  "Stovall et al. 2014": "Referenced to support the description of untargeted surveys in pulsar and RRAT surveys.",
+  "Pan et al. 2021": "Referenced to support the description of targeted surveys in pulsar and RRAT surveys.",
+  "Manchester et al. 1991": "Referenced to support the description of targeted surveys in pulsar and RRAT surveys.",
+  "Ridolfi et al. 2021": "Referenced to support the description of targeted surveys in pulsar and RRAT surveys.",
+  "Yan et al. 2021": "Referenced to support the description of targeted surveys in pulsar and RRAT surveys.",
+  "Caleb et al. 2016": "Referenced to highlight the similar fashion in which RRATs and FRBs are often discovered in search pipelines.",
+  "Keane et al. 2018": "Referenced to highlight the similar fashion in which RRATs and FRBs are often discovered in search pipelines.",
+  "Bhandari et al. 2018": "Referenced to highlight the similar fashion in which RRATs and FRBs are often discovered in search pipelines.",
+  "Ter Veen et al. 2019": "Referenced to highlight the similar fashion in which RRATs and FRBs are often discovered in search pipelines."
+}
+{
+  "CHIME/FRB": "Referenced to describe the rapid survey capability of CHIME/FRB and the large number of single pulse events it has detected.",
+  "psrcat": "Referenced as the source of version 1.7 of the pulsar catalog.",
+  "Ester et al. 1996": "Referenced as the source of the DBSCAN unsupervised machine learning algorithm used in the CHIMEMCA pipeline.",
+  "CHIME/Pulsar Collaboration (2020)": "Referenced to describe the higher sensitivity of the CHIME/Pulsar system and its use in following up on CHIMEMCA candidates.",
+  "Ransom 2001(Ransom , 2011)": "Referenced as the source of the PRESTO pipeline used in the CHIPSPIPE pipeline.",
+  "Pang et al. 2018": "Referenced as the source of the SPEGID software used in the CHIPSPIPE pipeline.",
+  "Agarwal et al. 2020": "Referenced as the source of the FETCH software used in the CHIPSPIPE pipeline."
+}
+{
+"CHIMEMCA": "Introduces the unsupervised machine learning pipeline used to find new Galactic source candidates.",
+"CHIPSPIPE": "Introduces the automated search-mode data reduction pipeline for CHIME/Pulsar.",
+"CHIME/FRB": "Discusses the implications of all the CHIME/FRB pulsar and RRAT discoveries and compares them with previously known populations."
+}

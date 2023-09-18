@@ -1,0 +1,15 @@
+{
+  "Lorimer et al. (2007)": "First reported the existence of fast radio bursts (FRBs) and serves as the original discovery of FRBs.",
+  "Spitler et al. (2016)": "Reported on the discovery of repeating FRBs.",
+  "CHIME/FRB Collaboration et al. (2019a,b)": "Reported on the discovery of repeating FRBs.",
+  "Fonseca et al. (2020)": "Reported on the discovery of repeating FRBs.",
+  "CHIME/FRB Collaboration et al. (2020a)": "Reported on the discovery of FRBs with periodic burst activity.",
+  "Rajwade et al. (2020)": "Reported on the discovery of FRBs with periodic burst activity.",
+  "Cruces et al. (2021)": "Reported on the discovery of FRBs with periodic burst activity.",
+  "Kumar et al. (2017)": "Proposed a model for FRB progenitors involving neutron stars (NS) and the scaling up of previous models for NS emission mechanisms.",
+  "Sironi & Spitkovsky (2011)": "Proposed a model for FRB progenitors involving neutron stars (NS) and synchrotron radiation.",
+  "Metzger et al. (2019)": "Proposed a new mechanism involving interactions of magnetized relativistic shockwaves as a possible FRB progenitor.",
+  "Zhang (2017)": "Proposed a new mechanism involving a stream of particles combing through the magnetosphere of a neutron star (NS) as a possible FRB progenitor.",
+  "Dai et al. (2016)": "Proposed a new mechanism involving an asteroid belt surrounding a pulsar as a possible FRB progenitor.",
+  "Ioka (2020)": "Proposed a new mechanism involving an expanding fireball as a possible FRB progenitor."
+}

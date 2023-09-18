@@ -1,0 +1,29 @@
+{
+  "Petroff et al. 2016": "Referenced to support the statement that fast radio bursts (FRBs) have dispersion measures (DM) exceeding the maximum expected contribution from the Milky Way.",
+  "Amiri et al. 2021": "Cited to provide the percentage of FRB sources that emit repeating bursts.",
+  "Pleunis et al. 2021": "Referenced to highlight the statistical differences in burst properties between repeating and nonrepeating FRBs.",
+  "Bhandari et al. 2022": "Cited to state that there are no significant differences between the galaxies hosting repeating and non-repeating FRBs.",
+  "Tendulkar et al. 2017; Ravi et al. 2019; Marcote et al. 2020; Bhandari et al. 2020; Heintz et al. 2020; Fong et al. 2021; Niu et al. 2022; Bhandari et al. 2022; Kirsten et al. 2022; Ryder et al. 2022; Ravi et al. 2022": "These papers are cited to provide a list of references for the localized sample of 22 FRBs, including their host galaxies, redshifts, and local environments."
+}
+{
+  "Spitler et al. 2016": "Referenced to provide information about the first repeating FRB 20121102A and its localization to a low-metallicity dwarf host galaxy.",
+  "Tendulkar et al. 2017": "Cited to provide the redshift (z = 0.192) of the low-metallicity dwarf host galaxy of FRB 20121102A.",
+  "Chatterjee et al. 2017; Marcote et al. 2017": "These papers are cited to support the observation that the burst FRB 20121102A is colocated with a compact persistent radio source (PRS) and suggest that the FRB source is embedded in a radio nebula.",
+  "Michilli et al. 2018; Hilmarsson et al. 2021": "Referenced to highlight the exceptionally high and highly variable rotation measure observed in the repeat bursts of FRB 20121102A.",
+  "Margalit & Metzger 2018": "Cited to present a concordant model for FRBs in which bursts are produced by young magnetars, themselves produced in superluminous supernovae or long gamma-ray bursts, based on the properties of the local environment and host galaxy of FRB 20121102A.",
+  "Sridhar & Metzger 2022; Chen et al. 2022": "These papers are cited to propose an alternative explanation for the compact persistent radio source (PRS) observed in FRB 20121102A, suggesting it can be self-consistently explained by an accreting compact object engine."
+}
+{
+  "Macquart et al. 2020": "Referenced to provide the source of the observed DM value for the repeating FRB 20190520B and its implication for redshift.",
+  "Niu et al. 2022": "Cited to present the DM contribution from the host galaxy of FRB 20190520B and discuss its origin.",
+  "James et al. 2022b": "Referenced to compare the host DM of FRB 20190520B with other FRB host galaxies.",
+  "Tendulkar et al. 2017": "Cited to provide an estimate of host DM for FRB 20121102A for comparison with FRB 20190520B.",
+  "Margalit et al. 2019": "Referenced to discuss the possibility of older or less dense FRB sources based on their host galaxies.",
+  "Sridhar & Metzger 2022": "Cited to support the idea that FRBs found in massive and moderately star-forming galaxies may have a different environment.",
+  "Kirsten et al. 2022": "Referenced to describe the localization of the CHIME/FRB repeating source FRB 20200120E in a globular cluster."
+}
+{
+  "Lorimer et al.": "Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.",
+  "N/A": "No citations found in the text.",
+  "N/A": "No citations found in the text."
+}

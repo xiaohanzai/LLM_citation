@@ -1,0 +1,48 @@
+Lorimer et al. (2007):
+Referenced to define fast radio bursts (FRBs) and emphasize the limited number of pulses in FRBs and rotating radio transients (RRATs), highlighting the importance of not missing individual pulses.
+
+McLaughlin et al. (2006):
+Cited to define rotating radio transients (RRATs) and their limited number of pulses, supporting the discussion on the potential loss of information if individual pulses are missed.
+
+Walters et al. (2018):
+Referenced to highlight the significance of detecting more fast radio bursts (FRBs) in order to use them as cosmological probes and improve constraints on progenitor models.
+
+Lorimer & Kramer (2004):
+Cited to provide an overview of pulsars and their uses, supporting the discussion on the insights pulsars provide into different areas of astrophysics.
+
+CHIME/FRB Collaboration et al. (2018):
+Referenced as an example of a notable campaign dedicated to searching for fast radio bursts (FRBs), demonstrating the current interest in these sources.
+
+Deneva et al. (2009):
+Cited as an example of a notable campaign dedicated to searching for pulsars, highlighting the ongoing interest in studying these sources.
+N/A
+Pankonin & Price 1981:
+Referenced to support the statement about spectrum management as a method of reducing conflict between human-made signals and frequencies of astronomical interest in the context of RFI mitigation.
+
+Liszt 2019:
+Cited to highlight the increasing spectrum usage leading to greater conflict between human-made signals and astronomical frequencies, contributing to the discussion of RFI mitigation.
+
+Deng 2020; Velazco et al. 2019:
+These papers are cited to emphasize that larger telescope bandwidths are leading to greater conflict between human-made signals and astronomical frequencies, supporting the discussion of RFI mitigation.
+
+Siemion et al. 2015:
+Referenced to illustrate that radio telescopes can detect satellites or airplane RADAR in other star systems, highlighting the limitations of isolation in protecting telescopes from RFI.
+
+Norrod et al. 1992:
+Cited to showcase the design of the Green Bank Telescope's off-axis feed as an example of telescopes being designed to be less sensitive to RFI, contributing to the discussion of RFI mitigation.
+
+Agarwal et al. 2020; Offringa et al. 2010:
+These papers are cited to present various techniques, such as flagging bright regions and statistical tests for Gaussianity, that can be employed after digitizing the signal to identify and remove undesirable sections of data affected by RFI.
+
+Ransom 2011; Nita et al. 2007:
+Cited to highlight the use of statistical tests for Gaussianity as a criterion for flagging undesirable sections of data affected by RFI, supporting the discussion of RFI mitigation.
+
+Maan et al. 2021; Kocz et al. 2012:
+These papers are referenced to emphasize the use of techniques such as projecting the dynamic spectra into a new basis for easy removal of RFI, contributing to the discussion of RFI mitigation.
+
+Jeffs & Warnick 2013:
+Referenced to highlight the use of adaptive pointing in interferometers to steer their beams away from RFI sources, supporting the discussion of RFI mitigation.
+JESS 1:
+Referenced as a package that includes RFI filters and utilities to better understand data quality, which is relevant to the discussion of the filters evaluated in the paper.
+
+N/A

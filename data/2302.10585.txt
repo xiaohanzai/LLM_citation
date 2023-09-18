@@ -1,0 +1,84 @@
+@Cordes & Chatterjee 2019; Petroff et al. 2019; Xiao et al. 2021; Zhang 2022:
+These references are cited to provide sources for the statement that fast radio bursts (FRBs) are millisecond-duration radio transients that randomly occur in the sky, establishing the background information on FRBs.
+
+@Lorimer et al. 2007:
+Referenced to indicate that FRBs were first detected by the Parkes telescope in 2007, providing historical context for the discovery of FRBs.
+
+@Petroff et al. 2016; Amiri et al. 2021:
+These papers are cited to support the claim that several hundred FRB sources have been collected to date, highlighting the growing body of knowledge on FRBs.
+
+@Andersen et al. 2020; Bochenek et al. 2020:
+Referenced to mention that only one FRB has been confirmed to originate from the Milky Way, emphasizing the rarity of Milky Way-originating FRBs.
+
+@Keane et al. 2016; Chatterjee et al. 2017; Tendulkar et al. 2017:
+These references are cited to suggest that the majority of FRBs are expected to have extragalactic origins, providing evidence for the prevailing understanding of FRB sources.
+
+@Spitler et al. 2016; Scholz et al. 2016; Chatterjee et al. 2017; Marcote et al. 2017; Tendulkar et al. 2017:
+These papers are cited to highlight the discovery of the first repeating FRB event, FRB 121102, and its redshift measurement, which has sparked scientific interest in studying the underlying physics and origin of FRBs.
+
+@Collaboration et al. 2018:
+Referenced to mention the Canadian Hydrogen Intensity Mapping Experiment (CHIME) as one of the new telescopes contributing to the increasing number of FRB detections, emphasizing the technological advancements in FRB research.
+
+@Nan et al. 2011:
+Cited to mention the Five-hundred-meter Aperture Spherical Telescope (FAST) as another new telescope enabling the detection of more FRBs, highlighting the role of advanced telescopes in expanding our understanding of the Universe.
+@Lorimer et al. 2007; Thornton et al. 2013; Petroff et al. 2015; Petroff et al. , 2016):
+These references are cited to support the statement that most FRBs have large dispersion measure (DM), indicating extragalactic or cosmological origin.
+
+@Keane et al. 2016:
+Referenced to highlight the direct measurement of redshift of FRB 150418, confirming its extragalactic or cosmological origin.
+
+@Muñoz et al. 2016:
+Cited to emphasize that FRBs can be used to probe cosmological parameters such as dark matter.
+
+@Walters et al. 2018; Macquart et al. 2020:
+These papers are referenced to indicate that FRBs can be used to probe cosmological parameters such as the baryon mass density.
+
+@Li et al. 2019a; Li et al. , 2020:
+Cited to highlight that FRBs can be used to probe cosmological parameters such as the baryon mass fraction in the intergalactic medium (IGM).
+
+@Wu et al. 2020:
+Referenced to emphasize that FRBs can be used to probe cosmological parameters such as the Hubble parameter.
+
+@Li et al. 2018:
+Cited to indicate that FRBs can be used to probe cosmological parameters such as the Hubble constant and cosmic curvature.
+
+@Yu & Wang 2017:
+Referenced to highlight that FRBs can be used to probe cosmological parameters such as the cosmic proper distance.
+
+@Pagano & Fronenberg 2021:
+Cited to emphasize that FRBs can be used to probe cosmological parameters such as the reionization history of hydrogen and helium.
+
+@Wu et al. 2016; Bonetti et al. 2016:
+These references are cited to indicate that FRBs can be used to test fundamental physics, such as constraining the rest mass of photon.
+
+@Wei et al. 2015; Tingay & Kaplan 2016:
+Cited to highlight that FRBs can be used to test fundamental physics, such as testing the Einstein's equivalence principle.
+
+@Wei & Wu 2021:
+Referenced to emphasize that FRBs can be used to test fundamental physics, such as constraining the Lorentz invariance violation.
+
+N/A
+@Fukugita et al. (1998):
+Referenced to support the estimation that the baryons in stars and their remnants only comprise about 17% of the total baryon based on numerous observations, highlighting the "missing baryon" problem.
+
+@Cen & Ostriker 1999, 2006; Ferrara & Pandolfi 2014; Muñoz & Loeb 2018; Fukugita & Peebles 2004; Shull et al. 2012; McQuinn 2014; Hill et al. 2016:
+These papers are cited to indicate the numerous numerical simulations and observations that have been conducted in an attempt to alleviate the "missing baryon" problem.
+
+@Ferrara & Pandolfi (2014):
+Referenced to provide an estimation of the baryon mass fraction in the intergalactic medium (fIGM) at different redshifts, demonstrating moderate redshift evolution.
+
+@Li et al. (2019a):
+Cited to introduce a cosmology-independent method proposed by the authors to estimate fIGM using fast radio bursts (FRBs).
+
+@Li et al. (2020):
+Referenced to present the results obtained by the authors using their cosmology-independent method, showing the estimated value of fIGM from five well-localized FRBs and the absence of evidence for redshift-dependence.
+
+N/A
+@Macquart et al. 2020:
+Referenced to highlight the large uncertainty in the dispersion measure (DM) contribution of intergalactic medium (DMIGM) and the probability distribution of DM host in the context of using FRBs to study cosmology.
+
+@Ioka 2003; Deng & Zhang 2014; Li et al. 2019a:
+These papers are cited to discuss different approaches in modeling the dispersion measure (DM) contribution of the host galaxy, emphasizing the challenges in accurately determining DM host for FRBs.
+
+@Macquart et al. 2020; Zhang et al. 2020:
+Referenced to support the statement that numerical simulations show a probability distribution for DM host, underscoring the importance of properly dealing with DM host when using FRBs to constrain cosmological parameters.

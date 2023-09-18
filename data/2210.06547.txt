@@ -1,0 +1,71 @@
+{
+  "Lorimer et al. 2007": "Referenced to support the description of fast radio bursts (FRBs) as bright, millisecond duration flashes of coherent radio emission.",
+  "Thornton et al. 2013": "Referenced to support the description of fast radio bursts (FRBs) as bright, millisecond duration flashes of coherent radio emission.",
+  "Petroff et al. 2016": "Referenced to support the description of fast radio bursts (FRBs) as bright, millisecond duration flashes of coherent radio emission.",
+  "The CHIME/FRB Collaboration et al. 2021": "Referenced to support the description of fast radio bursts (FRBs) as bright, millisecond duration flashes of coherent radio emission.",
+  "Chatterjee et al. 2017": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Ravi et al. 2019": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Bannister et al. 2019": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Marcote et al. 2020": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Nimmo et al. 2021": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Heintz et al. 2020": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Bhandari et al. 2020": "Referenced to support the statement that over 20 fast radio bursts (FRBs) have now been localized to their host galaxies.",
+  "Pleunis et al. 2021": "Referenced to highlight the identification of two varieties of fast radio burst (FRB) sources and their different properties."
+}
+{
+  "Platts et al. 2019": "Referenced to mention the existence of many theoretical models that have been presented to explain FRBs and their astrophysical sources and radiation mechanisms.",
+  "Göǧüş et al. 1999": "Cited to support the claim that magnetars within our Galaxy have been observed to emit spontaneous X-ray bursts, which have similarities to FRBs in terms of wait time distribution and luminosity function.",
+  "Göǧüş et al. 2000": "Referenced to mention that magnetars within our Galaxy have been observed to emit spontaneous X-ray bursts, which have similarities to FRBs in terms of wait time distribution and luminosity function.",
+  "Gourdji et al. 2019": "Cited to support the claim that magnetars within our Galaxy have been observed to emit spontaneous X-ray bursts, which have similarities to FRBs in terms of wait time distribution and luminosity function.",
+  "Michilli et al. 2018": "Referenced to mention that large rotation measures observed in FRBs can be explained within a magnetized neutron star progenitor model.",
+  "Hessels et al. 2019": "Cited to support the claim that downward drifting subbursts observed in FRBs can be explained within a magnetized neutron star progenitor model.",
+  "Luo et al. 2020": "Referenced to mention that polarisation angle swings across bursts observed in FRBs can be explained within a magnetized neutron star progenitor model."
+}
+{
+  "Katz 2016": "Referenced to support the distinction between magnetospheric models and models relying on maser emission in magnetized shocks for the emission location of FRBs within a magnetar progenitor framework.",
+  "Kumar et al. 2017": "Cited to highlight the coherent radiation of accelerated particles from close to the neutron star surface in magnetospheric models of FRBs.",
+  "Lu & Kumar 2018": "Referenced to show that the observed properties of FRBs can be reproduced within the magnetospheric model.",
+  "Kumar & Bošnjak 2020": "Cited as one of the models that distinguish between emission close to the surface of the neutron star and emission far away from the surface.",
+  "Wadiasingh & Timokhin 2019": "Referenced as one of the models that distinguish between emission close to the surface of the neutron star and emission far away from the surface.",
+  "Lyutikov & Popov 2020": "Cited as one of the models that distinguish between emission close to the surface of the neutron star and emission far away from the surface.",
+  "Beloborodov 2017": "Referenced as one of the models that rely on maser emission in magnetized shocks for the emission location of FRBs within a magnetar progenitor framework.",
+  "Metzger et al. 2019": "Cited as one of the models that rely on maser emission in magnetized shocks for the emission location of FRBs within a magnetar progenitor framework.",
+  "Beloborodov 2020": "Referenced as one of the models that rely on maser emission in magnetized shocks for the emission location of FRBs within a magnetar progenitor framework.",
+  "Wang et al. 2019": "Cited to support the reproduction of observed properties of FRBs within the magnetospheric model.",
+  "Cooper & Wĳers 2021": "Referenced to support the reproduction of observed properties of FRBs within the magnetospheric model.",
+  "Yang & Zhang 2021": "Cited to support the reproduction of observed properties of FRBs within the magnetospheric model.",
+  "Wang et al. 2022": "Referenced to support the reproduction of observed properties of FRBs within the magnetospheric model.",
+  "Cheng & Ruderman 1977": "Cited to highlight the requirement of spatial inhomogeneities in the particle distribution for coherent curvature radiation in magnetospheric models of FRBs.",
+  "Usov 1987": "Referenced to highlight the requirement of spatial inhomogeneities in the particle distribution for coherent curvature radiation in magnetospheric models of FRBs.",
+  "Melrose et al. 2021": "Cited as a source for critical discussion of curvature radiation as a pulsar mechanism in magnetospheric models of FRBs.",
+  "Beloborodov 2021": "Referenced to suggest that FRBs produced within the magnetosphere may fail to propagate to an observer."
+}
+{
+  "Plotnikov & Sironi 2019": "Referenced to support the statement that the maser shock model has been shown to emit narrow-band radio emission in 1D & 3D particle-incell (PIC) simulations of magnetized, relativistic shocks.",
+  "Sironi et al. 2021": "Referenced to support the statement that the maser shock model has been shown to emit narrow-band radio emission in 1D & 3D particle-incell (PIC) simulations of magnetized, relativistic shocks.",
+  "Sridhar et al. 2021": "Cited to suggest that non-magnetar progenitors have been invoked to explain observed periodicity in repeating sources, which could be related to the ubiquity of maser emission wherever shocks occur.",
+  "Ravi et al. 2019": "Cited to support the claim that the ubiquity of maser emission wherever shocks occur could account for the high observed volumetric rate of fast radio bursts (FRBs).",
+  "Lu & Kumar 2019": "Cited to support the claim that the ubiquity of maser emission wherever shocks occur could account for the high observed volumetric rate of fast radio bursts (FRBs).",
+  "Luo et al. 2020": "Cited to support the claim that the ubiquity of maser emission wherever shocks occur could account for the high observed volumetric rate of fast radio bursts (FRBs).",
+  "Nimmo et al. 2021": "Referenced to highlight the specific properties of FRB 20180916B, namely its microsecond variability, which is difficult to explain in a maser shock scenario.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to highlight the specific properties of Galactic FRB 200428, namely the 30ms separation between distinct subbursts, which is difficult to explain in a maser shock scenario."
+}
+{
+  "Metzger et al. 2019": "Referenced to support the prediction of a high-energy counterpart to FRB emission in magnetar models, as well as the prediction of a multi-wavelength afterglow based on gamma-ray burst afterglow models.",
+  "Cooper & Wĳers 2021": "Referenced to support the prediction of a high-energy counterpart to FRB emission in magnetar models.",
+  "Yang & Zhang 2021": "Referenced to support the prediction of a high-energy counterpart to FRB emission in magnetar models.",
+  "Lyubarsky 2014": "Referenced to describe the first version of the synchrotron maser shock model, which predicts a very high-energy TeV component to FRBs.",
+  "Sari et al. 1998": "Referenced to support the prediction of a multi-wavelength afterglow due to thermal synchrotron emission based on gamma-ray burst afterglow models.",
+  "Sironi & Spitkovsky 2009": "Referenced to contrast the observed non-thermal electrons in other astrophysical shocks with the lack of expected non-thermal electrons in the synchrotron maser shocks of FRBs.",
+  "Chatterjee et al. 2017": "Referenced to highlight the identification of persistent radio counterparts in the localized repeating FRB source FRB 121102.",
+  "Niu et al. 2021": "Referenced to highlight the identification of persistent radio counterparts in the localized repeating FRB source FRB 20190520B."
+}
+{
+  "Niu et al. 2021": "Cited to reference the FRB 20190520B and discuss the unknown origin of the persistent radio emission.",
+  "Bhandari et al. 2018": "Referenced to mention that follow-up of other localized FRBs have only yielded upper limits to afterglow counterparts, which is relevant to the discussion of the maser shock model."
+}
+{
+  "van Haarlem et al. 2013": "Referenced to introduce the Low Frequency Array (LOFAR) imaging results of SGR 1935+2154.",
+  "Bailes et al. 2021": "Cited for the time-domain search and other radio observations related to the search for bright radio bursts observable in the LOFAR imaging results.",
+  "N/A": "No citations found for this text."
+}

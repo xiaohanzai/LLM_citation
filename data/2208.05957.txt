@@ -1,0 +1,33 @@
+{
+"[1]": "Referenced to support the statement that dark matter (DM) has only been detected through gravitational interactions and its nature remains mysterious.",
+"[2]": "Referenced to indicate the definitively established existence of black holes and their principal role in astronomy.",
+"[3]": "Referenced to indicate the definitively established existence of black holes and their principal role in astronomy.",
+"[4]": "Referenced to indicate the definitively established existence of black holes and their principal role in astronomy.",
+"[5]": "Referenced to indicate the definitively established existence of black holes and their principal role in astronomy.",
+"[36]": "Referenced to support the statement that primordial black holes (PBHs) in the stellar mass range have been linked with the breakthrough observations of gravitational waves (GWs) by the LIGO-Virgo-KAGRA collaboration (LVKC).",
+"[37]": "Referenced to indicate that the LIGO-Virgo-KAGRA collaboration (LVKC) has already detected dozens of stellar-mass black hole binary merger events.",
+"[38]": "Referenced to indicate that the LIGO-Virgo-KAGRA collaboration (LVKC) has already detected dozens of stellar-mass black hole binary merger events.",
+"[30]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[39]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[40]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[41]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[42]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[43]": "Referenced to support the statement that primordial black holes (PBHs) could contribute a sizable subdominant fraction of the dark matter (DM) energy density.",
+"[16]": "Referenced to support the statement that gravitational wave (GW) data indicates a subdominant fraction of the dark matter (DM) energy density.",
+"[44]": "Referenced to support the statement that gravitational wave (GW) data indicates a subdominant fraction of the dark matter (DM) energy density.",
+"[45]": "Referenced to support the statement that gravitational wave (GW) data indicates a subdominant fraction of the dark matter (DM) energy density.",
+"[46]": "Referenced to support the statement that gravitational wave (GW) data indicates a subdominant fraction of the dark matter (DM) energy density.",
+"[47]": "Referenced to indicate that primordial black holes (PBHs) will seed the growth of dark matter (DM) halos.",
+"[48]": "Referenced to indicate that primordial black holes (PBHs) will seed the growth of dark matter (DM) halos.",
+"[49]": "Referenced to indicate that primordial black holes (PBHs) will seed the growth of dark matter (DM) halos."
+}
+{
+  "[50]": "Referenced to support the claim that DM is predominantly composed of axions, which can naturally arise from fundamental theory.",
+  "[51]": "Referenced to support the claim that DM is directly connected with the strong CP problem.",
+  "[52]": "Referenced to support the claim that DM is directly connected with the strong CP problem.",
+  "[53]": "Referenced to support the claim that DM is directly connected with the strong CP problem.",
+  "[54]": "Referenced to support the claim that DM is directly connected with the strong CP problem.",
+  "[55]": "Referenced to indicate that significant experimental efforts are underway to study axions.",
+  "[56]": "Referenced to provide a review of motivated DM candidates, including weakly interactive massive particles (WIMPs).",
+  "[57,58]": "Referenced to contrast with the proposed analysis, which establishes a general direct test of dressed PBHs in models where QCD axions and WIMPs could be the primary DM contributors."
+}

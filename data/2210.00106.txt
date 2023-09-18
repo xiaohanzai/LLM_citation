@@ -1,0 +1,41 @@
+{
+  "Petroff et al. 2022": "Referenced as a recent review on the investigation of the originating environments, energy distributions, polarization properties, and activity cycles of FRB sources.",
+  "Platts et al. 2019; Lyubarsky 2021": "Cited as theoretical explanations for FRBs centered around extreme environments such as magnetars.",
+  "CHIME/FRB Collaboration et al. 2021; Pleunis et al. 2021": "Referenced to highlight the discovery of hundreds of new FRB sources with a distinction between repeating and non-repeating sources.",
+  "Nimmo et al. 2022": "Cited for the variation in spectral luminosities and burst durations of FRB sources."
+}
+{
+  "Spitler et al. 2014(Spitler et al. , 2016)": "Referenced to describe the polarization properties of FRB 20121102A bursts, specifically their constant polarization across their duration.",
+  "Michilli et al. 2018": "Cited to contrast the polarization properties of FRB 20121102A bursts with FRB 20180301A bursts, which show diverse polarization angle behaviors.",
+  "Luo et al. 2020": "Referenced to highlight the diverse polarization angle behaviors observed in FRB 20180301A bursts.",
+  "Anna-Thomas et al. 2022": "Cited to describe the observed changes in sign of rotation measures (RMs) in FRB 20190520B.",
+  "Hilmarsson et al. 2021": "Referenced to discuss the largest absolute RM and range of RMs observed in FRB 20121102A.",
+  "Hessels et al. (2019)": "Cited to support the study of the relationship between the frequency and drift rate of multiple resolved sub-bursts in bursts from FRB 20121102A.",
+  "Josephy et al. 2019": "Referenced to describe the linear relationship observed between the frequency and drift rate of multiple resolved sub-bursts in bursts from FRB 20121102A."
+}
+{
+  "Rajabi et al. (2020)": "Referenced to describe the triggered relativistic dynamical model (TRDM) and its prediction of an inverse relationship between a sub-burst's slope and its duration, which was supported by measurements from bursts of FRB 20121102A.",
+  "Chamma et al. (2021)": "Cited to further explore the inverse relationship between sub-burst slopes and duration, using bursts from three repeater sources (FRB 20180916B, FRB 20180814A, and FRB 20121102A), and to discuss the quadratic relationship between sub-burst slope and frequency.",
+  "CHIME/FRB Collaboration et al. (2019)": "Referenced to identify the source FRB 20180814A, which was included in the analysis of bursts with inverse sub-burst slope-duration relationship.",
+  "Wang et al. (2022)": "Cited to show evidence of the quadratic relationship between sub-burst slope and frequency in various datasets.",
+  "Jahns et al. (2022)": "Cited to support the finding of an inverse relationship between sub-burst slope and duration in over 800 bursts from FRB 20121102A, and to compare the sub-burst slope with drift rates.",
+  "CHIME/FRB (2020)": "Referenced to identify the source FRB 20180916B, which was included in the analysis of bursts with inverse sub-burst slope-duration relationship."
+}
+{
+  "Chamma et al. 2021": "Referenced in Section 3.1 to provide background information on recent discoveries related to the study of spectro-temporal features of bursts and their implications for understanding the FRB emission mechanism.",
+  "Rajabi et al. 2020": "Referenced to support the need for studying spectro-temporal features of bursts and finding commonalities between sources to enhance our understanding of the FRB emission mechanism."
+}
+{
+  "Aggarwal et al. 2021": "Cited as an example of a study that performs spectro-temporal measurements using deep samples of bursts.",
+  "Pleunis et al. 2021": "Referenced as another study that performs spectro-temporal measurements using deep samples of bursts.",
+  "Jahns et al. 2022": "Cited as an example of a study that performs spectro-temporal measurements using deep samples of bursts."
+}
+{
+  "Bassa et al. 2017": "Referenced as one of the observational studies that provided bursts from the repeating source FRB 20121102A, which is used to measure spectro-temporal properties.",
+  "Tendulkar et al. 2017": "Referenced as one of the observational studies that provided bursts from the repeating source FRB 20121102A, which is used to measure spectro-temporal properties.",
+  "Chatterjee et al. 2017": "Referenced as one of the observational studies that provided bursts from the repeating source FRB 20121102A, which is used to measure spectro-temporal properties.",
+  "Marcote et al. 2017": "Referenced as one of the observational studies that provided bursts from the repeating source FRB 20121102A, which is used to measure spectro-temporal properties."
+}
+{
+  "N/A": "No citations found in the text."
+}

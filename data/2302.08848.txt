@@ -1,0 +1,65 @@
+@Thompson & Duncan, 1995; Komissarov & Barkov, 2007; Mereghetti, 2008; Kaspi & Beloborodov, 2017; Usov, 1992:
+These references are cited to support the statement that magnetars, highly magnetized neutron stars, produce X-ray and γ-ray bursts, as well as occasional giant flares.
+
+@Palmer et al., 2005; Hurley et al., 2005:
+Referenced to highlight the occurrence of occasional giant flares produced by magnetars.
+
+@Petroff et al., 2019; Cordes & Chatterjee, 2019:
+Cited to acknowledge the discoveries related to Fast Radio Bursts (FRBs) and their relevance to the discussion.
+
+@CHIME/FRB Collaboration et al., 2020; Ridnaia et al., 2021; Bochenek et al., 2020; Mereghetti et al., 2020:
+These references are cited to emphasize the renewed interest in the dynamics of magnetar's explosions, specifically in relation to simultaneous observations of radio and X-ray bursts from a magnetar.
+
+@Lyutikov, 2003; Popov & Postnov, 2013; Lyutikov et al., 2016; Lyutikov & Popov, 2020:
+Cited to present one set of theories that advocate for FRBs being magnetospheric events.
+
+@Lyubarsky, 2014; Beloborodov, 2017; Metzger et al., 2019; Thompson, 2022; Khangulyan et al., 2022; Barkov & Popov, 2022:
+These references are cited to present an alternative suggestion that FRBs are generated in the wind or in the wind termination shock.
+
+@Lyutikov & Popov, 2020:
+Referenced to support the argument that observations of contemporaneous magnetar X-ray flares and FRBs strengthen the evidence for magnetospheric loci.
+
+@CHIME/FRB Collaboration et al., 2022:
+Cited to highlight the detection of sub-second periodicity in FRBs.
+
+@Younes et al., 2022:
+Referenced to support the consistency of the magnetospheric model with the recent detection of an anti-glitch in an FRB-associated magnetar.
+
+@Lyutikov (2013):
+Cited to provide further support for the magnetospheric model in the context of the recent detection of an anti-glitch in an FRB-associated magnetar.
+@Lyutikov, 2006(Lyutikov, , 2015):
+Cited to support the argument that the underlying mechanism causing magnetars' flares may be similar to those operating in the solar corona, based on the Solar flare paradigm for magnetar explosions.
+
+@Thompson & Duncan, 1995:
+Referenced to present an alternative view that magnetar flares are crustal events, contrasting with the Solar flare paradigm.
+@Goldreich & Reisenegger, 1992; Gourgouliatos et al., 2013; Wood et al., 2014:
+These references are cited to support the idea that the internal magnetic twist in magnetars is pushed into the magnetosphere via Hall drift and plastic deformations of the neutron star crust, leading to the gradual twisting of external magnetospheric field lines and the formation of active magnetospheric regions.
+
+@Lyutikov, 2015:
+Referenced to explain the slow, plastic deformations of the neutron star crust that gate the process of pushing the internal magnetic twist into the magnetosphere.
+
+@Lyutikov, 2003; Komissarov et al., 2007; Ripperda et al., 2019; Yuan et al., 2020:
+These papers are cited to support the idea that the loss of stability in the magnetosphere leads to a rapid restructuring of magnetic configuration, the formation of narrow current sheets, and the conversion of magnetic energy into kinetic motion and radiation.
+
+@Lyutikov, 2021:
+Referenced to suggest that the coherent emission in magnetar flares may be produced by some kind of plasma instability, such as the Free Electron Laser mechanism.
+
+@Palmer et al., 2005:
+Cited to highlight the observed sharp rise of γ-ray flux during giant flares, which supports the magnetospheric origin of these events.
+
+N/A
+@Thompson & Duncan (1995, 2001):
+Referenced to introduce the Starquake model and acknowledge Chis Thompson for pointing out the use of the term "starquake" as a classification marker, although it is not used in these papers.
+
+@Levin & Lyutikov, 2012:
+Criticized the set-up of the Starquake model, specifically questioning the large relative displacement of the crack surfaces due to the back-reaction from the Lorentz force.
+@Antiochos et al., 1999:
+Referenced to describe the model of sheared/inflated magnetic flux tubes in the Sun and its transport into the relativistic highly magnetized regime, which is relevant to the study of launching CMEs from the magnetosphere.
+
+@Parfrey et al., 2012:
+Cited to indicate that the investigations in the paper were done using the code PHAEDRA, which employs force-free electrodynamics to study neutron star magnetospheres.
+
+@Antiochos et al., 1999; Antiochos et al., 2007:
+These papers are cited to adapt a model of generation of Solar CMEs to relativistic rotating magnetospheres of neutron stars, specifically in the context of slow shear dynamics.
+
+N/A

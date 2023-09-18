@@ -1,0 +1,57 @@
+@Lorimer et al. 2007; Keane et al. 2012; Petroff et al. 2016:
+These references are cited to provide examples of previous studies on Fast Radio Bursts (FRBs) and their characteristics.
+
+@Thornton et al. 2013:
+Referenced to support the statement that the dispersion measure (DM) of FRBs suggests they originate from cosmological distances.
+
+@Zhang 2020(Zhang, 2022):
+Cited to mention the existence of various theories regarding the origin of FRBs.
+
+@Bochenek et al. 2020; The Chime/Frb Collaboration et al. 2020:
+These papers are referenced to highlight the recent discovery that pulsed radio emission from Soft Gamma-ray Repeater (SGR) 1935+2154 suggests magnetars like SGR 1935+2154 may produce some FRBs.
+
+@The Chime/Frb Collaboration et al. 2020; Bochenek et al. 2020:
+Cited to compare the luminosity of bursts from SGR 1935+2154 with the luminosity distribution of cosmological FRBs.
+
+@CHIME/FRB Collaboration et al. 2019; Fonseca et al. 2020:
+Referenced to mention the discovery that at least a subset of FRBs repeat, providing a clue to their origin.
+
+@Spitler et al. 2016; Scholz et al. 2016:
+Cited to mention the first known repeating FRB, FRB 20121102A.
+
+@Rajwade et al. 2020; Cruces et al. 2021:
+These papers are referenced to support the statement that FRB 20121102A has active periods occurring every ∼160 days, indicating it is produced by objects in binaries or undergoing some form of processing.
+
+@Chime/Frb Collaboration et al. 2020; Levin et al. 2020; Lyutikov et al. 2020; Zanazzi & Lai 2020:
+Cited to mention the work of Rajwade et al. (2020) and Cruces et al. (2021) in confirming the active periods of FRB 20121102A and discussing the implications for the origin of FRBs.
+@Chatterjee et al. (2017):
+Referenced to support the localization of FRB 20121102A and the detection of the persistent radio source (PRS) associated with it, as well as to highlight the variability of the PRS on day-timescales.
+
+@Tendulkar et al. 2017:
+Cited to provide the redshift and luminosity distance of the dwarf galaxy associated with FRB 20121102A.
+
+@Marcote et al. 2017:
+Referenced to constrain the size of the persistent radio source (PRS) associated with FRB 20121102A.
+
+@Resmi et al. 2021:
+Cited to support the detection of the persistent radio source (PRS) associated with FRB 20121102A across a wide frequency range.
+
+@Waxman 2017:
+Referenced to attribute the variability of the persistent radio source (PRS) associated with FRB 20121102A to scintillation.
+@Marcote et al. 2017; Metzger et al. 2017; Yang & Dai 2019:
+These references are cited to support the leading theory that the persistent radio source (PRS) is a pulsar wind nebula (PWN) containing a highly magnetized pulsar, emphasizing the viability of this origin for the observed radio emission.
+
+@Gaensler & Slane 2006:
+Referenced for a review of the confinement of a young magnetar's wind within the environment of a supernova remnant (SNR), which is relevant to the discussion of the PWN model.
+
+@Yang & Dai 2019; Metzger et al. 2017:
+These papers are cited to demonstrate successful attempts to reproduce observations using a pulsar wind model, further supporting the viability of this origin for the observed radio emission.
+
+@Resmi et al. 2021:
+Referenced for the calculation of an approximate age of a few hundred years for the PRS based on the spectral break at 8 GHz.
+
+@Law et al. 2022:
+Cited to highlight the current lack of knowledge regarding whether PRS systems are separate and distinct from the population of fast radio bursts (FRBs) without PRSs.
+
+@Caleb et al. 2020:
+Referenced for the previous report of seven bursts that were detected in the image plane, providing context for the results of the observations made with the MeerKAT telescope.

@@ -1,0 +1,19 @@
+@Katz 2022a:
+Referenced to support the statement that fast radio burst sources may be divided into two classes with different properties.
+
+@Hashimoto et al. 2020:
+Cited to suggest that the apparent nonrepeaters likely repeat at long intervals due to the insufficient rate of catastrophic events.
+
+@Katz 2017; Sridhar et al. 2021:
+These references are cited to support the hypothesis that frequent repeaters are produced by accretion discs around intermediate mass black holes and to explain the periodic modulation of FRB 2018916B as a result of disc precession.
+
+@Katz 2022b:
+Referenced to support the explanation of the periodic modulation and jitter of the activity of FRB 2018916B in the context of the accretion disc model.
+@Katz (1973); Levine & Jernigan (1982):
+These papers are cited to support the statement that precession may be manifested as periods in which the accreting object is eclipsed by the disc.
+
+@Katz (1980); Milgrom (1981); Katz, Anderson, Margon et al. (1982); Margon (1984); Fabrika (2004):
+These papers are referenced to highlight that precession can be directly measured in Doppler shifts of a disc's axial jet.
+
+@Larwood 1998:
+Referenced to establish that there are four well-established systems with ratios of their precession to orbital periods in the range 12.5-22:1.

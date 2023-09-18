@@ -1,0 +1,21 @@
+{
+  "Lorimer et al. (2007)": "Referenced as the first detection of fast radio bursts (FRBs) and the basis for subsequent observations of hundreds of such events.",
+  "Petroff et al. (2022)": "Cited to highlight the unknown emission mechanism behind FRBs despite 15 years of observations.",
+  "CHIME/FRB Collaboration et al. (2020)": "Referenced to mention the Galactic magnetar SGR 1935+2154 as an exception to the extragalactic origin of FRBs based on dispersion measure.",
+  "Spitler et al. (2016)": "Cited to discuss the repeating behavior exhibited by some FRBs and its implications for theoretical models of the radiation process.",
+  "Platts et al. (2019)": "Referenced to highlight the impact of repeating FRBs on altering and introducing new theoretical models of the radiation process.",
+  "Chime/Frb Collaboration et al. (2020); Rajwade et al. (2020)": "These papers are cited to mention the periodic activity observed in an unusual subclass of repeating FRBs and its potential implications for narrowing down candidate models."
+}
+{
+  "Yaron et al. 2020": "Referenced as an example of a previous effort, the Transient Name Server (TNS), that has collected data from FRB publications but struggles to remain up to date with new bursts and has limited functionality and ease of use.",
+  "Petroff et al. 2016": "Referenced as another example of a previous effort, FRBCAT, that has collected data from FRB publications but struggles to remain up to date with new bursts and occasionally reports inaccurate values."
+}
+{
+  "Sect. 2": "N/A",
+  "Sect. 3": "N/A",
+  "Subsect. 3.1": "N/A",
+  "TNS": "N/A",
+  "Subsect. 3.2": "N/A",
+  "Subsect. 3.3": "N/A",
+  "Sect. 4": "N/A"
+}

@@ -1,0 +1,17 @@
+{
+  "Cordes & Chatterjee 2019": "Referenced to support the statement that Fast Radio Bursts (FRBs) are likely produced by magnetars.",
+  "Petroff et al. 2019": "Referenced to support the statement that Fast Radio Bursts (FRBs) are likely produced by magnetars.",
+  "Petroff et al. , 2022": "Referenced to support the statement that Fast Radio Bursts (FRBs) are likely produced by magnetars.",
+  "Lyubarsky 2021": "Referenced to emphasize the importance of nonlinear effects in the propagation of Fast Radio Bursts (FRBs).",
+  "Sobacchi et al. 2022": "Referenced as the authors' previous work on the filamentation of FRBs in magnetar winds.",
+  "Kruer 2019": "Referenced to highlight the extensive study of filamentation of strong electromagnetic waves in electron-ion plasmas in the field of laser plasma interaction.",
+  "Iwamoto et al. 2017": "Referenced to support the observation of filamentation in numerical simulations of relativistic magnetised shocks.",
+  "Iwamoto et al. , 2022": "Referenced to support the observation of filamentation in numerical simulations of relativistic magnetised shocks.",
+  "Babul & Sironi 2020": "Referenced to support the observation of filamentation in numerical simulations of relativistic magnetised shocks.",
+  "Sironi et al. 2021": "Referenced to support the observation of filamentation in numerical simulations of relativistic magnetised shocks.",
+  "Kaw et al. 1973": "Referenced to present a model for the saturation of the filamentation instability of FRBs in magnetar winds, inspired by classical studies of the filamentation instability in unmagnetised electron-ion plasmas.",
+  "Max 1976": "Referenced to present a model for the saturation of the filamentation instability of FRBs in magnetar winds, inspired by classical studies of the filamentation instability in unmagnetised electron-ion plasmas."
+}
+{
+  "N/A": "No citations appear in the text."
+}

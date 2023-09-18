@@ -1,0 +1,67 @@
+@Lorimer et al. (2007); Thornton et al. (2013):
+These references are cited to support the statement that fast radio bursts (FRBs) are bright, millisecond duration flares of coherent radio emission with large dispersion measures (DMs) pointing to an extragalactic origin.
+
+@Macquart et al. (2020); CHIME/FRB Collaboration et al. (2020):
+These papers are referenced to indicate the large number of FRBs published in the literature to date, highlighting the ongoing research and interest in the topic.
+
+@Eftekhari & Berger (2017):
+This reference is cited to mention the dearth of well-localized FRB events, which contributes to the debate surrounding the sources responsible for producing FRBs.
+
+@Spitler et al. (2016); Shannon et al. (2018); CHIME/FRB Collaboration et al. (2021):
+These references are cited to discuss the distinction between repeating and one-off FRBs, emphasizing the variability in their occurrence and the challenges in understanding their nature.
+
+@Pleunis et al. (2021):
+This paper is referenced to highlight the distinctions in spectro-temporal properties of repeating and apparently non-repeating FRBs.
+
+@Gordon et al. (2023):
+This reference is cited to suggest that host galaxy properties may also play a role in the diversity of burst properties and environments of FRBs.
+
+@James (2023):
+This reference is cited to mention the possibility that all FRBs intrinsically repeat, adding to the ongoing debate and exploration of FRB characteristics.
+
+@Margalit et al. (2019); Margalit & Metzger (2018); Sridhar et al. (2021):
+These references are cited to discuss the wide range of theoretical models proposed for FRB progenitors, including compact object mergers, flares from highly magnetized stars, and super-Eddington accretion onto a neutron star or black hole.
+
+@CHIME/FRB Collaboration et al. (2020); Bochenek et al. (2020):
+These papers are referenced to support the connection between extragalactic magnetars and FRBs, particularly in light of the discovery of a luminous, millisecond-duration burst from the known Galactic magnetar SGR 1935+2154.
+@Bhardwaj et al. 2021; Kirsten et al. 2022; Ryder et al. 2022; Gordon et al. 2023; Ravi et al. 2023; Sharma et al. 2023:
+These references are cited to highlight the technical upgrades that have enabled (sub-)arcsecond localizations and host galaxy identifications for a growing number of FRB events, emphasizing the recent advancements in FRB experiments.
+
+@Heintz et al. 2020; Bhandari et al. 2022; Gordon et al. 2023:
+These papers are cited to support the statement that the first population studies of FRB hosts have revealed a wide range of stellar masses and star formation rates, indicating that FRB hosts represent the underlying population of field galaxies.
+@Baldwin et al. 1981:
+Referenced as the source of the Baldwin-Phillips-Terlevich (BPT) diagram, which is used to analyze the emission line ratios of FRB hosts.
+
+@Heintz et al. 2020; Bhandari et al. 2022; Ibik et al. 2023:
+These papers are cited as early host galaxy compilations that reveal a distinct region in the BPT diagram occupied by a non-negligible fraction of FRB hosts, indicating emission line ratios in excess of typical star-forming galaxies.
+
+@Heckman 1980:
+Referenced to highlight the ongoing debate about the nature of LINER galaxies, which are associated with non-repeating FRBs and their potential source of ionizing photons.
+
+@Singh et al. 2013:
+Cited as one of the existing theories that associate LINER galaxies with low luminosity active galactic nuclei (AGN) or stellar ionization from evolved post-asymptotic giant branch (post-AGB) stars.
+
+@Cantiello et al. 2021; Perna et al. 2021a, b; Jermyn et al. 2021:
+These papers are cited to support theories that presuppose an enhanced rate of compact objects formed in AGN accretion disks or FRB progenitor models that invoke AGN, which could explain the hard radiation fields observed in some FRB hosts.
+
+@Zhang 2017:
+Referenced as a source for theories that have been put forth for relativistic transients, including both long- and short-duration gamma-ray bursts, which could be applied to FRB progenitors formed in AGN disks.
+
+Note: The remaining references are not extracted as they are not relevant to the discussion of citations in the text.
+@Heintz et al. 2020; Bhandari et al. 2022:
+These references are cited to indicate that only a small sample of FRB hosts have been analyzed in the context mentioned, and a larger study is needed to determine the true occurrence rate of AGN and LINER galaxies in FRB hosts.
+@Rajwade et al. 2020; Chime/Frb Collaboration et al. 2020:
+These references are cited to provide constraints on periodicity in the burst rate from two repeating FRBs, which leads to theories about their origin.
+
+@Sridhar et al. 2021:
+Referenced twice to support the theory that FRBs are powered by relativistic flares along precessing jets associated with accretion onto compact objects, and that they may be produced by stellarmass ultraluminous X-ray sources (ULXs) powered by super-Eddington accretion onto a compact object.
+
+@Scholz et al. 2020; Kirsten et al. 2022:
+These papers are cited to mention the existence of deep limits on X-ray counterparts for some well-localized FRB sources and targeted searches for FRBs from nearby galaxies hosting ULXs.
+
+@Pelliciari et al. 2023:
+Referenced to highlight the conducted targeted searches for FRBs from nearby galaxies hosting ULXs.
+
+Note: The citation "Sridhar et al. 2021" is repeated twice in the text, but it is summarized only once as it supports the same theory.
+@Planck Collaboration et al. 2020:
+Referenced to provide the cosmological parameters used in the study.

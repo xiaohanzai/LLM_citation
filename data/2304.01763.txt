@@ -1,0 +1,115 @@
+@Han et al. 2006; Noutsos et al. 2008:
+These papers are cited to support the statement that Faraday rotation resulting from the propagation of radio signals through magnetic environments can be used to probe the magnetic strength and topology along the line of sight.
+
+@Sobey et al. 2019:
+Referenced to highlight the use of radio pulsars, which often exhibit significant linearly polarized radiation, to map the magnetic fields in the interstellar medium of our Galaxy.
+
+@Eatough et al. 2013; Shannon & Johnston 2013:
+These papers are cited to emphasize that exotic variants of pulsars, such as magnetars, have been observed to display large Faraday rotation measures (RMs) and significant changes in RM over time, indicating magneto-ionic variations in the progenitor environment.
+
+@Desvignes et al. 2018:
+Referenced to support the statement that long-term polarization studies of pulsars can provide insights into the evolution of the magnetic field properties of these objects over time.
+
+@Lorimer et al. 2007:
+Cited to introduce the emergence of Fast Radio Bursts (FRBs) as a means to probe extreme magneto-ionic environments and aid in mapping the magnetogenesis across galaxies.
+
+@Vazza et al. 2018:
+Referenced to highlight the role of Fast Radio Bursts (FRBs) in probing extreme magneto-ionic environments and mapping the magnetogenesis across galaxies.
+@Caleb & Keane 2021; Petroff et al. 2022:
+These recent reviews are cited to provide background information on the cosmological distances from which FRBs originate.
+
+@Ryder et al. 2022:
+Referenced to support the statement about the wide range of inferred isotropic energies of FRB transients.
+
+@CHIME/FRB Collaboration et al. 2021:
+Cited to highlight the exponential growth in the detection of FRB sources and the establishment of basic understanding of their statistical properties.
+
+@Mannings et al. 2021; Bhandari et al. 2022:
+These papers are referenced to emphasize the improvement in understanding FRBs through the identification of their host galaxies and the examination of the progenitor environments.
+
+@CHIME/FRB Collaboration et al. 2021:
+Cited again to highlight the dominance of the first discovery catalogue published by the CHIME/FRB telescope in the current published FRB source population.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020b:
+These references are cited to strengthen the case that at least a portion of FRBs come from magnetars, based on the discovery of FRB-like radio bursts from the Galactic magnetar SGR 1935+2154.
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022:
+These papers are referenced to highlight the discovery of FRB 20200120E originating from a globular cluster in the nearby galaxy M81, which complicates the magnetar origins and suggests the possibility of multiple physical origins for the overall FRB population.
+@CHIME/FRB Collaboration et al. 2023:
+Referenced to provide information on the small fraction of known FRBs that emit repeat bursts.
+
+@Pleunis et al. 2021b:
+Cited to highlight the statistical differences in burst morphology between repeating and non-repeating FRBs.
+
+@CHIME/FRB Collaboration et al. 2020a:
+Referenced to discuss the periodic modulation in burst activity observed in FRB 20180916B.
+
+@Rajwade et al. 2020; Cruces et al. 2021:
+Cited to provide information on the periodic modulation in burst activity observed in FRB 20121102A.
+
+@Xu et al. 2022:
+Referenced to emphasize the potential of long-term monitoring of repeating FRBs for characterizing burst properties and evolutionary trends.
+
+@Connor et al. 2020:
+Cited to discuss the possibility of observed distinctions between repeating and non-repeating FRBs being a selection bias due to beamed emission.
+
+@Law et al. 2022; Niu et al. 2022:
+Referenced to highlight the coincidence of two prolific repeating FRB sources with persistent radio sources, indicating a potential sub-group of progenitor environments.
+@Gajjar et al. 2018:
+Referenced to support the statement that not all FRB sources exhibit polarized radiation, with some having linear polarization fractions as high as 100%.
+
+@Cho et al. 2020; Day et al. 2020:
+Cited to highlight that a few burst signals are significantly circularly polarized.
+
+@Michilli et al. 2018; Nimmo et al. 2021:
+Referenced to discuss the previously thought hallmark properties of repeating FRBs, including the presence of 100% linear polarization and constant linear polarization position angles across burst envelopes.
+
+@Luo et al. 2020:
+Cited to emphasize the incredible diversity within the population of repeating FRBs, challenging the previously thought hallmark properties.
+
+@Hilmarsson et al. 2021a; Kumar et al. 2022b; Xu et al. 2022:
+Referenced to indicate that the discovery of circular polarization in repeating FRBs suggests there may be more similarities between one-off and repeating FRB sources.
+
+@Anna-Thomas et al. 2022; Dai et al. 2022:
+Cited to highlight significant rotation measure (RM) evolution in several repeating FRBs, indicating a dynamic magneto-ionic environment.
+@Staveley-Smith et al. 1996; Lorimer et al. 2007; Thornton et al. 2013:
+These references are cited to highlight the importance of the 21-cm multibeam (MB) receiver at the Parkes 64-m "Murriyang" radio telescope in early FRB discoveries.
+
+@Keane et al. 2018:
+Referenced to credit the SUrvey for Pulsars and Extragalactic Radio Bursts (SU-PERB) project for leading the early FRB discoveries with the first implementation of a real-time pipeline.
+
+@Price et al. 2018(Price et al. , 2019):
+Cited to provide information about the discovery of FRB 20180301A during the Breakthrough Listen (BL) observations of the Galactic plane using the Parkes MB, as well as the measurement of its dispersion measure (DM) and burst spectral bandwidth.
+
+@Michilli et al. 2018:
+Referenced to compare the extreme magnetic environment around the burst progenitor of FRB 20180301A to FRB 20121102A.
+
+@Xin et al. 2018; Price et al. 2019:
+These papers are cited to mention the follow-up observations at optical wavelengths with non-detection of a repeat burst or any counterpart emission at the position of the FRB source.
+
+@Anumarlapudi et al. 2018; Savchenko et al. 2018:
+Cited to highlight the immediate follow-up campaigns at X-ray wavelengths with non-detection of a repeat burst or any counterpart emission at the position of the FRB source.
+@Luo et al. 2020:
+Referenced to provide evidence of the detection of 15 repeat bursts from the FRB 20180301A source using the FAST radio telescope, highlighting the telescope's unique capabilities.
+
+@Hessels et al. 2019:
+Cited to support the observation of downward drifting in frequency among the repeating bursts detected by the FAST radio telescope.
+
+N/A
+@Bhandari et al. 2022:
+Referenced to provide the source and redshift of the star-forming galaxy associated with the FRB 20180301A source.
+
+@Laha et al. 2022:
+Cited to report the detection of five repeat bursts with FAST but no simultaneous emission in the X-ray band in a recent multi-wavelength campaign.
+
+@Kumar et al. 2021:
+Referenced to highlight the variability of the peak emission frequency for repeating sources.
+
+@Agarwal et al. 2020:
+Cited to discuss the challenges in obtaining a robust estimation of the burst rate due to the band-limited nature of repeating FRBs and the limitations of instruments with narrow bandwidth.
+
+@Law et al. 2017:
+Referenced to acknowledge the logistical challenges of conducting simultaneous observations with multiple telescopes to cover different parts of the spectrum.
+
+N/A
+@N/A

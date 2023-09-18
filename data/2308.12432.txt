@@ -1,0 +1,8 @@
+@Lorimer et al. 2007; Petroff et al. 2022:
+Referenced to support the statement that sub-second-duration bursts of radio emission come from a wide variety of astrophysical sources, including extragalactic Fast Radio Bursts (FRBs).
+
+@McLaughlin et al. 2006; Kramer et al. 2006:
+Cited to highlight the existence of sporadic pulsars, such as rotating radio transients (RRATs) and intermittent pulsars, which emit isolated bursts or become persistent emitters for limited amounts of time.
+
+@Lewis et al.:
+Referenced to emphasize that many past searches for radio transients, including Fast Radio Bursts (FRBs), do not account for certain issues, such as manual inspection steps and incomplete tracking of event rates, leading to the possibility of missed bursts and inaccurate population estimates.
