@@ -1,0 +1,6 @@
+pandas
+streamlit
+llama_index
+numpy
+matplotlib
+
