@@ -1,6 +1,6 @@
 work/
 .venv/
 __pycache__/
-*db/
+#*db/
 .streamlit/secrets.toml
 
