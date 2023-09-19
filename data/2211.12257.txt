@@ -1,0 +1,24 @@
+{
+  "Lorimer et al. 2007": "Referenced to introduce the concept of fast radio bursts (FRBs) and their characteristics.",
+  "Li et al. 2021; Scholz et al. 2020; Bochenek et al. 2020; Mereghetti et al. 2020": "Cited to mention the leading theory suggesting magnetars as the progenitors of FRBs.",
+  "Caleb & Keane 2021; Petroff et al. 2019": "Referenced for reviews on advancements made in the past decade to understand FRBs.",
+  "Zhu & Feng 2021": "Cited to highlight the potential use of FRBs in probing intergalactic turbulence.",
+  "Macquart et al. 2020": "Referenced to emphasize the potential of FRBs in determining the cosmic baryon density in the intergalactic medium.",
+  "Wei et al. 2019": "Cited to suggest the use of FRBs in estimating the Hubble constant."
+}
+{
+  "Spitler et al. 2016": "Referenced to support the statement about the first detection of the repeating source FRB121102 with the single dish Arecibo telescope.",
+  "Scholz et al. 2016": "Referenced to support the statement about the first detection of the repeating source FRB121102 with the single dish Arecibo telescope.",
+  "Marcote et al. 2017": "Cited to highlight the use of high resolution fast timescale imaging to measure the position of the repeating source FRB121102.",
+  "Chatterjee et al. 2017": "Cited to highlight the use of high resolution fast timescale imaging to measure the position of the repeating source FRB121102.",
+  "Tendulkar et al. (2017)": "Referenced to support the finding that FRB121102 is localized in a low-mass and low-metallicity dwarf galaxy.",
+  "Amiri et al. 2021": "Referenced to mention the existence of hundreds of distinct FRBs reported in the literature.",
+  "Petroff et al. 2016": "Referenced to mention the existence of hundreds of distinct FRBs reported in the literature.",
+  "Ravi et al. (2019)": "Cited to highlight the localization of FRB190523 using radio images from the Deep Synoptic Array (DSA) and the low resolution imaging spectrometer of the Keck I telescope.",
+  "Macquart et al. 2020": "Cited to highlight the localization of FRB190711 using radio images from the Australian Square Kilometre Array Pathfinder (ASKAP) and deep images of the Very Large Telescope."
+}
+{
+  "Caleb et al. 2020": "Referenced to support the detection of 11 bursts from FRB121102 using high time and frequency resolution data cubes obtained from observations with the MeerKAT radio telescope.",
+  "Stappers 2016": "Cited as the team (Meer-TRAP) responsible for the observations of FRB121102 with the MeerKAT radio telescope.",
+  "N/A": "No citations found in the text."
+}

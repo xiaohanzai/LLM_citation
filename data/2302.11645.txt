@@ -1,0 +1,62 @@
+@Katz 2017; Li et al. 2018; Katz 2020; Sridhar et al. 2021; Katz 2022:
+These references are cited to support the claim that at least a subset of FRBs are sourced by magnetars, and to provide evidence for the existence of compact object central engines in FRBs.
+
+@Ruderman & Sutherland 1975; Kumar et al. 2017; Kumar & Bošnjak 2020; Lu et al. 2020:
+These papers are referenced to discuss magnetospheric models for the emission of radio waves in FRBs, specifically coherent radiation by charged bunches and inner magnetosphere reconnection.
+
+@Beloborodov 2017; Metzger et al. 2019; Beloborodov 2020:
+These references are cited to discuss far-field models for the emission of radio waves in FRBs, particularly the synchrotron maser process and the collision of small magnetic plasmoids.
+
+@Philippov et al. 2019; Lyubarsky 2020; Yuan et al. 2020; Mahlmann et al. 2022:
+These papers are referenced to provide additional examples of far-field models for the emission of radio waves in FRBs, including the formation of blast waves in the wind and the emission through the collision of small magnetic plasmoids.
+@Lyubarsky 2020; Yuan et al. 2020; Mahlmann et al. 2022:
+These references are cited to support arguments in favor of magnetospheric models for explaining various characteristics of fast radio bursts (FRBs), such as rapid variability, polarization swings, and expected radio efficiency, as well as addressing the issue of how an FRB produced in the inner magnetosphere can escape.
+
+@Nimmo et al. 2021:
+Referenced to provide evidence of rapid variability of FRB pulses, specifically citing the case of FRB 20200120E with a pulse duration of 60 ns.
+
+@Luo et al. 2020:
+Cited to highlight the observation of rapid polarization swings in some FRB pulses.
+
+@Beloborodov 2021:
+Referenced to discuss the challenge that inner magnetosphere models face in explaining how an FRB produced in the inner magnetosphere can escape, specifically mentioning the loss of energy due to scattering with plasma and acceleration of charged particles.
+
+@Kumar et al. 2017; Kumar & Bošnjak 2020; Lu et al. 2020:
+These papers are cited to present models that invoke coherent emission by charged bunches along open field lines, which address the issues faced by inner magnetosphere models in terms of FRB escape.
+
+@Thornton et al. 2013:
+Cited to highlight the tension between highly beamed emission and the high expected event rate of approximately 10^4 per day.
+
+N/A
+@Peccei & Quinn 1977a,b; Weinberg 1978; Wilczek 1978:
+These references are cited to provide background information on the original proposal of the QCD axion and its connection to the neutron electric dipole moment.
+
+@Svrcek & Witten 2006; Arvanitaki et al. 2010:
+These papers are cited to highlight that axion-like particles (ALPs) are a generic prediction of String Theory, which is relevant to the discussion of axions as a potential explanation for dark matter.
+
+@Sikivie 1983; Dine & Fischler 1983:
+These references are cited to support the claim that both QCD axions and ALPs are among the best-motivated candidates to account for the majority of matter density in the universe in the form of cold dark matter.
+@Burrows et al. 1990; Keil et al. 1997; Caputo et al. 2022; Hoof & Schulz 2022:
+These references are cited to discuss the role of axions in high-energy astrophysical settings, specifically in relation to SN1987A and the potential cooling mechanism provided by axions.
+
+@Pshirkov & Popov 2009; Huang et al. 2018; Hook et al. 2018; Safdi et al. 2019; Battye et al. 2020; Leroy et al. 2020; Foster et al. 2020; Buckley et al. 2021; Witte et al. 2021; Battye et al. 2021b,a; Millar et al. 2021; Foster et al. 2022:
+These papers are referenced to explore the effects of conversion of axion dark matter in neutron star magnetospheres, highlighting the laboratory setting for axion searches provided by highly magnetized plasmas.
+
+@Tkachev 2015; Iwazaki 2015; Pshirkov 2017; Prabhu & Rapidis 2020; Buckley et al. 2021:
+These references are cited to discuss the claims that collisions of axion stars with neutron stars could be the source of fast radio bursts (FRBs).
+@Tkachev 2015; Iwazaki 2015; Pshirkov 2017; Prabhu & Rapidis 2020; Buckley et al. 2021:
+These references are cited to support the claim that collisions of axion stars with neutron stars might be the source of Fast Radio Bursts (FRBs), providing evidence for the proposed model discussed in the text.
+@Sec. 2:
+Referenced to review the formalism of axion coupling to photons in a magnetized plasma, with a focus on regimes of strong coupling.
+
+@Sec. 3:
+Referenced to provide general criteria for axion bursts to be produced in the inner magnetosphere and relate this discussion to existing magnetospheric FRB models.
+
+@Sec. 4:
+Referenced to compute the efficiency of axion-photon reconversion in the enhanced pre-flare magnetar wind.
+
+@Sec. 5:
+Referenced to show the axion-photon coupling parameter space consistent with efficiency constraints.
+
+@Sec. 6:
+Referenced to provide concluding remarks.

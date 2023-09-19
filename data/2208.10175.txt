@@ -1,0 +1,72 @@
+{
+  "Dyson et al. 1920": "Referenced to support the statement about Eddington's light deflection measurement during the 1919 solar eclipse, which was one of the first experimental tests of general relativity.",
+  "Pound & Rebka 1960": "Cited to highlight the gravitational redshift observation, which provided further evidence for general relativity.",
+  "Shapiro 1964": "Referenced to support the mention of Shapiro delay measurements, which are another experimental test of general relativity.",
+  "Bertotti et al. 2003": "Cited to support the mention of Shapiro delay measurements, which are another experimental test of general relativity.",
+  "Taylor et al. 1979": "Referenced to highlight the verification of energy loss via gravitational waves in binary radio pulsar systems, which provided evidence for general relativity.",
+  "Ashby 2002": "Cited to support the successful operation of the Global Positioning System, which relies on general relativity for accurate positioning.",
+  "Williams et al. 2004": "Referenced to highlight the precise measurement of the Earth-Moon separation as a function of time through lunar laser ranging techniques, which is another experimental test of general relativity.",
+  "Abbott et al. 2016": "Cited to emphasize the successful direct detection of gravitational waves from the merger of binary compact objects, which provided strong evidence for general relativity.",
+  "Thorne & Will 1971": "Referenced to introduce the parameterized post-Newtonian (PPN) framework, which provides a systematic and quantitative way to formulate and interpret tests of gravity.",
+  "Bolton et al. 2006": "Cited to highlight the testing of the magnitude deviating from general relativity on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Smith 2009": "Referenced to support the testing of the magnitude deviating from general relativity on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Schwab et al. 2010": "Cited to support the testing of the magnitude deviating from general relativity on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Cao et al.": "Referenced to support the testing of the magnitude deviating from general relativity on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations."
+}
+{
+  "Bolton et al. 2006": "Referenced to support the statement that the magnitude deviating from GR has been widely tested on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Smith 2009": "Referenced to support the statement that the magnitude deviating from GR has been widely tested on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Schwab et al. 2010": "Referenced to support the statement that the magnitude deviating from GR has been widely tested on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "Cao et al. 2017": "Referenced to highlight the constraint on 𝛾 PPN (0.997 +0.037  -0.047) obtained from a mass-selected sample of galaxy-scale strong gravitational lenses.",
+  "Collett et al. 2018": "Referenced to highlight the constraint on 𝛾 PPN (0.97 ± 0.09) obtained from an individual nearby lensing system, ESO 325-G004.",
+  "Yang et al. 2019": "Referenced to support the statement that the magnitude deviating from GR has been widely tested on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations.",
+  "D'Agostino & Nunes 2020": "Referenced to support the statement that the magnitude deviating from GR has been widely tested on kiloparsec scales with galaxy-galaxy strong gravitational lensing observations."
+}
+{
+  "Planck Collaboration et al. 2014": "Referenced to provide the value of H0 obtained from the first release of CMB data from the Planck mission.",
+  "Riess et al. 2011": "Cited to show the difference in H0 results compared to the Planck Collaboration et al. 2014, indicating the Hubble constant tension.",
+  "Fiorentino et al. 2013; Efstathiou 2014; Zhang et al. 2017": "These papers are cited to highlight the range of H0 values obtained from reanalyses of the Riess et al. 2011 data.",
+  "Riess et al. 2016": "Referenced to provide the H0 value obtained from the third iteration of the SH0ES program, which showed a significant difference from the Planck Collaboration et al. 2016.",
+  "Planck Collaboration et al. 2016": "Cited to show the refined value of H0 obtained from the combination of Planck data and ΛCDM.",
+  "Cardona et al. 2017; Feeney et al. 2018; Follin & Knox 2018; Dhawan et al. 2018": "These papers are cited to highlight the range of H0 values obtained from reanalyses of the Riess et al. 2016 data.",
+  "Pietrzyński et al. 2019; Reid et al. 2019": "Referenced to provide the H0 values obtained from observations of long-period Cepheids in the LMC and NGC4258, respectively.",
+  "Riess et al. 2019": "Cited to show the discrepancy in H0 results compared to the Planck Collaboration et al. 2016, indicating a 4.4𝜎 difference."
+}
+{
+  "Pietrzyński et al. 2019": "Referenced to provide improved distance estimates to the Large Magellanic Cloud.",
+  "Reid et al. 2019": "Referenced to provide improved distance estimates to NGC4258.",
+  "Riess et al. 2019": "Referenced to highlight the discrepancy between the observed Hubble constant and the 𝑃𝑙𝑎𝑛𝑐𝑘 + ΛCDM model.",
+  "Riess et al. 2021": "Referenced to provide an alternative estimate of the Hubble constant from observations of Cepheid variables in the host galaxies of Type Ia supernovae.",
+  "Verde et al. 2019": "Referenced to discuss possible theoretical and observational explanations for the Hubble constant tension.",
+  "Di Valentino et al. 2021": "Referenced to discuss possible theoretical and observational explanations for the Hubble constant tension.",
+  "Shah et al. 2021": "Referenced to discuss possible theoretical and observational explanations for the Hubble constant tension.",
+  "Treu 2010": "Referenced to highlight time-delay measurements of strong lensing systems as competitive probes for determining the Hubble constant.",
+  "Liao et al. 2017b": "Referenced to highlight time-delay measurements of strong lensing systems as competitive probes for determining the Hubble constant.",
+  "Bonvin et al. 2017": "Referenced to highlight the most precise constraint on the Hubble constant obtained from a joint analysis of time-delay measurements of six strongly lensed quasars.",
+  "Suyu et al. 2017": "Referenced to highlight the most precise constraint on the Hubble constant obtained from a joint analysis of time-delay measurements of six strongly lensed quasars.",
+  "Wong et al. 2017": "Referenced to highlight the most precise constraint on the Hubble constant obtained from a joint analysis of time-delay measurements of six strongly lensed quasars.",
+  "Birrer et al. 2019": "Referenced to highlight the most precise constraint on the Hubble constant obtained from a joint analysis of time-delay measurements of six strongly lensed quasars."
+}
+{
+  "Yang et al. (2020)": "Referenced to highlight their proposal of simultaneously constraining the Hubble constant and post-Newtonian parameter from strong lensing time-delay measurements, and to cite the specific constraints they obtained from the reanalysis of four public lenses distance priors.",
+  "H0LiCOW collaboration": "Referenced as the source of the four public lenses distance priors used in the reanalysis by Yang et al. (2020)."
+}
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that more than 600 FRB bursts have been discovered since the first FRB discovery in 2007.",
+  "Thornton et al. 2013": "Referenced to support the statement that more than 600 FRB bursts have been discovered since the first FRB discovery in 2007.",
+  "Collaboration et al. 2021": "Referenced to support the statement that more than 600 FRB bursts have been discovered since the first FRB discovery in 2007.",
+  "Spitler et al. 2016": "Referenced to support the statement that FRB 121102 shows a repeating feature.",
+  "Chatterjee et al. 2017": "Referenced to support the statement that FRB 121102 was successfully localized to a nearby dwarf galaxy at 𝑧 = 0.1927.",
+  "Gao et al. 2014": "Referenced to highlight the proposal of using FRBs as a tool for constraining cosmological parameters.",
+  "Zhou et al. 2014": "Referenced to highlight the proposal of using FRBs as a tool for constraining cosmological parameters.",
+  "Li et al. 2018": "Referenced to support the proposal of using strongly gravitationally lensed FRBs as precision probes.",
+  "Wucknitz et al. 2021": "Referenced to highlight the proposal of using strongly gravitationally lensed FRBs for conducting cosmological and astrophysical studies.",
+  "Pearson et al. 2021": "Referenced to highlight the proposal of using strongly gravitationally lensed FRBs for conducting cosmological and astrophysical studies.",
+  "Zhao et al. 2021": "Referenced to highlight the proposal of using strongly gravitationally lensed FRBs for conducting cosmological and astrophysical studies.",
+  "Abadi & Kovetz 2021": "Referenced to highlight the proposal of using strongly gravitationally lensed FRBs for conducting cosmological and astrophysical studies."
+}
+{
+  "Sec. 2": "N/A",
+  "Sec. 3": "N/A",
+  "Sec. 4": "N/A"
+}

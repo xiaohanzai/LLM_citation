@@ -1,0 +1,32 @@
+{
+  "Sivakoff et al. 2005": "Referenced to support the statement that some ultraluminous X-ray bursts (ULXBs) have been discovered in recent works.",
+  "Jonker et al. 2013": "Referenced to support the statement that some ultraluminous X-ray bursts (ULXBs) have been discovered in recent works.",
+  "Irwin et al. 2016": "Referenced to support the statement that some ultraluminous X-ray bursts (ULXBs) have been discovered in recent works.",
+  "Galloway et al. 2008": "Referenced to compare the peak luminosities of ULXBs with the peak luminosities of type-I X-ray bursts.",
+  "Soderberg et al. 2008": "Referenced as one of the proposed explanations for ULXBs, specifically the shock breakout from a core-collapse supernova.",
+  "Shen 2019": "Referenced as one of the proposed explanations for ULXBs, specifically the tidal stripping of a white dwarf (WD) by an intermediate-mass black hole (IMBH).",
+  "Xue et al. 2019": "Referenced as one of the proposed explanations for ULXBs, specifically the merger of binary neutron stars (NSs)."
+}
+{
+  "Jonker et al. 2013": "Referenced to cite the ULXBs observed in M86.",
+  "Source 1 in Irwin et al. 2016": "Referenced to cite the ULXBs observed in NGC 4636.",
+  "Sivakoff et al. 2005": "Referenced to support the claim of repeating behaviors in ULXBs observed in NGC 4697, providing details about their peak luminosity, duration, and count rate ratio.",
+  "Source 2 in Irwin et al. 2016": "Referenced to cite the ULXBs observed in NGC 5128, specifically highlighting the discovery of five flares and their corresponding luminosities.",
+  "Harris et al. 1992": "Referenced to describe the optical counterpart of the ULXBs observed in NGC 5128, suggesting it could be either a massive globular cluster or an ultra-compact dwarf companion galaxy.",
+  "Maccarone 2005": "Referenced to present the suggestion that the ULXBs discovered in NGC 4697 could be produced by accreting eccentric binaries in globular clusters, with a prediction of periodicity if adequate sampling is provided.",
+  "Irwin et al. 2016": "Referenced multiple times to discuss various aspects of ULXBs observed in NGC 5128, including the similarity of flares to type-I bursts from Galactic NSs, the possibility of highly super-Eddington accretion, and the observation of flares at the periastron during an eccentric orbit.",
+  "Shen 2019": "Referenced to cite additional relevant research."
+}
+{
+  "Irwin et al. 2016": "Referenced to support the statement that flares may be observed at the periastron during the donor star around the central object in an eccentric orbit.",
+  "Shen 2019": "Cited to show that ULXBs could be explained as the result of accretion onto an IMBH during the periastron passage of a WD in an eccentric orbit."
+}
+{
+  "Bachetti et al. 2014": "Cited as an example of ultraluminous X-ray populations consisting of NSs with super-Eddington accretion rates.",
+  "Fürst et al. 2016": "Cited as an example of ultraluminous X-ray populations consisting of NSs with super-Eddington accretion rates.",
+  "Israel et al. 2017": "Cited as an example of ultraluminous X-ray populations consisting of NSs with super-Eddington accretion rates.",
+  "Carpano et al. 2018": "Cited as an example of ultraluminous X-ray populations consisting of NSs with super-Eddington accretion rates.",
+  "Quintin et al. 2021": "Cited as an example of ultraluminous X-ray populations consisting of NSs with super-Eddington accretion rates.",
+  "Rajwade et al. 2020": "Cited as an example of methods proposed to search for periods when only a few events were observed.",
+  "Katz 2022": "Cited as an example of methods proposed to search for periods when only a few events were observed."
+}

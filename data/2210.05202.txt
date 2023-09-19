@@ -1,0 +1,51 @@
+{
+  "Planck Collaboration 2020": "Referenced to provide the tight constraint on the Hubble constant H0 based on Planck Cosmic Microwave Background (CMB) radiation observations.",
+  "Riess et al. 2022": "Cited to present the Hubble constant H0 determined by nearby type Ia supernovae (SN Ia) calibrated by Cepheids, which deviates from the Planck Collaboration 2020 result.",
+  "Riess 2020": "Referenced to highlight the disagreement of H0 between different observations, indicating a crisis in modern cosmology.",
+  "Di Valentino et al. 2021": "Cited to emphasize the disagreement of H0 between different observations and its implications for the assumed ΛCDM model.",
+  "Perivolaropoulos et al. 2022": "Referenced to highlight the disagreement of H0 between different observations and its implications for the assumed ΛCDM model.",
+  "Dainotti et al. 2021Dainotti et al. , 2022)": "Cited to emphasize the disagreement of H0 between different observations and its implications for the assumed ΛCDM model.",
+  "Feeney et al. 2018": "Referenced to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Efstathiou 2014": "Cited to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Riess et al. 2016": "Referenced to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Cardona et al. 2017": "Cited to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Zhang et al. 2017": "Cited to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Follin & Knox 2018": "Cited to mention that several studies have not found any systematics that could explain the discrepancy in H0.",
+  "Riess et al. 2018a,b": "Cited to mention that several studies have not found any systematics that could explain the discrepancy in H0."
+}
+{
+  "Xiao et al. 2021": "Referenced to support the claim that a huge number of FRBs will be detected in the near future, which is relevant to the discussion of using FRBs for determining the value of H0."
+}
+{
+  "Lorimer et al. 2007": "Referenced to support the statement that FRBs are a type of frequently and mysteriously transient signals of millisecond duration with typical radiation frequency of ∼GHz.",
+  "Petroff et al. 2019": "Referenced to provide additional support for the statement that FRBs are a type of frequently and mysteriously transient signals of millisecond duration with typical radiation frequency of ∼GHz.",
+  "Zhang 2020": "Referenced to provide additional support for the statement that FRBs are a type of frequently and mysteriously transient signals of millisecond duration with typical radiation frequency of ∼GHz.",
+  "Zhang 2022": "Referenced to provide additional support for the statement that FRBs are a type of frequently and mysteriously transient signals of millisecond duration with typical radiation frequency of ∼GHz.",
+  "CHIME/FRB Collaboration 2021": "Referenced to provide additional support for the statement that FRBs are a type of frequently and mysteriously transient signals of millisecond duration with typical radiation frequency of ∼GHz.",
+  "Li et al. 2019": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to determine the fraction of baryon mass in the intergalactic medium (IGM).",
+  "Lemos et al. 2022": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to determine the fraction of baryon mass in the intergalactic medium (IGM).",
+  "Wei et al. 2019": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to determine the fraction of baryon mass in the intergalactic medium (IGM).",
+  "Li et al. 2020": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to determine the fraction of baryon mass in the intergalactic medium (IGM).",
+  "Gao et al. 2014": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to constrain the cosmological parameters.",
+  "Yang & Zhang 2016": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to constrain the cosmological parameters.",
+  "Walters et al. 2018": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to constrain the cosmological parameters.",
+  "Caleb et al. 2019": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Linder 2020": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Beniamini et al. 2021": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Bhattacharya et al. 2021": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Hashimoto et al. 2021": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Lau et al. 2021": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Pagano & Fronenberg 2021": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Heimersheim et al. 2022": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to explore the reionization history of our Universe.",
+  "Wu et al. 2020": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to measure the Hubble parameter.",
+  "Zhao et al. 2022a": "Cited to highlight the use of dispersion measure (DM)-redshift relations of FRBs for cosmological purposes, specifically to probe the interaction between dark energy and dark matter."
+}
+{
+  "Li et al. 2018": "Referenced to indicate the use of FRBs to determine the value of the Hubble constant.",
+  "Zhao et al. 2021": "Referenced to indicate the use of FRBs to determine the value of the Hubble constant.",
+  "Hagstotz et al. 2022": "Referenced to indicate the constraints on H0 obtained using localized FRBs.",
+  "James et al. 2022": "Referenced to indicate the constraints on H0 obtained using localized and unlocalized FRBs.",
+  "Wu et al. 2022": "Referenced to indicate the constraints on H0 obtained using localized FRBs.",
+  "Zhao et al. 2022b": "Referenced to indicate the use of FRBs to determine the value of the Hubble constant.",
+  "Yang & Zhang 2017": "Referenced to provide the value of the time variation of DM due to cosmic expansion."
+}

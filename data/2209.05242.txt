@@ -1,0 +1,69 @@
+{
+  "Lorimer et al. (2007)": "First discovered FRBs more than a decade ago.",
+  "Zhang 2020": "Review paper on the physical origins of FRBs.",
+  "Xiao et al. 2021": "Review paper on the physical origins of FRBs.",
+  "Petroff et al. 2022": "Review paper on the physical origins of FRBs.",
+  "Bochenek et al. 2020": "Detection of FRB 200428 from the Galactic magnetar SGR J1935+2154.",
+  "CHIME/FRB Collaboration et al. 2020a": "Detection of FRB 200428 from the Galactic magnetar SGR J1935+2154.",
+  "Murase et al. 2016": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Beloborodov 2017": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Kashiyama & Murase 2017": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Metzger et al. 2017": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Wang & Yu 2017": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Yang & Zhang 2018": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Metzger et al. 2019": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Lu et al. 2020": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Wang et al. 2020": "Proposed magnetar or pulsar related models for the origins of FRBs.",
+  "Lyutikov 2017": "The pulsar should be highly magnetized and FRBs should be powered by the magnetic energy.",
+  "Michilli et al. 2018": "Observations of the large and decreasing RM of FRB 20121102A.",
+  "Hilmarsson et al. 2021": "Observations of the large and decreasing RM of FRB 20121102A.",
+  "Margalit & Metzger 2018": "Possible origin of the large and decreasing RM of FRB 20121102A from the magnetar wind nebula.",
+  "Zhao et al. 2021": "Possible origin of the large and decreasing RM of FRB 20121102A from the magnetar wind nebula.",
+  "Zhang 2018": "Possible origin of the large and decreasing RM of FRB 20121102A from a pulsar near a supermassive black hole (SMBH).",
+  "Katz 2021a": "Possible origin of the large and decreasing RM of FRB 20121102A from a pulsar near a supermassive black hole (SMBH).",
+  "Yang et al. 2022b": "Possible origin of the large and decreasing RM of FRB 20121102A from a pulsar near a supermassive black hole (SMBH).",
+  "Sridhar & Metzger 2022": "Possible origin of the large and decreasing RM of FRB 20121102A from a hyper-accreting X-ray binary.",
+  "Niu et al. 2022": "Extreme DM of FRB 20190520B may be related to the host galaxy.",
+  "Zhao & Wang 2021": "Possible origin of the extreme DM of FRB 20190520B from a young supernova remnant (SNR).",
+  "Katz 2022": "Possible origin of the extreme DM of FRB 20190520B from a young supernova remnant (SNR)."
+}
+{
+  "Xu et al. 2022": "Referenced to report the observation of RM variations or reversals in FRB 20201124A.",
+  "Anna-Thomas et al. 2022": "Referenced to report the observation of RM variations or reversals in FRB 20190520B.",
+  "Dai et al. 2022": "Referenced to report the observation of RM variations or reversals in FRB 20190520B.",
+  "Johnston et al. 1996": "Referenced to report the observation of RM evolution through the periastron passage of PSR B1259-63/LS 2883.",
+  "Johnston et al. 2005": "Referenced to report the observation of RM evolution through the periastron passage of PSR B1259-63/LS 2883.",
+  "Wang et al. 2022a": "Referenced to propose a model explaining the RM reversals in FRB 20201124A and FRB 20190520B.",
+  "Mckinven et al. 2022": "Referenced to report the observation of RM variations in FRB 20180916B and the secular decrease in |RM| during 2021 April and 2021 December.",
+  "CHIME/FRB Collaboration et al. 2019": "Referenced to report the initial discovery of FRB 20180916B with a low RM.",
+  "Marcote et al. 2020": "Referenced to report the localization of FRB 20180916B in a nearby massive spiral galaxy.",
+  "Nimmo et al. 2021": "Referenced to report the monitoring of DM with very little variation in FRB 20180916B.",
+  "Pastor-Marazuela et al. 2021": "Referenced to report the monitoring of DM with very little variation in FRB 20180916B.",
+  "Chawla et al. 2020": "Referenced to report the observation of small and stochastic variation in |RM| before 2021 April in FRB 20180916B.",
+  "Pleunis et al. 2021": "Referenced to report the observation of small and stochastic variation in |RM| before 2021 April in FRB 20180916B."
+}
+{
+  "Li et al. 2022": "Cited to support the measurement of short-time RM variations in a pulsar binary system PSR B1744-24A.",
+  "Yang et al. 2022b": "Referenced to propose a turbulent medium or cloud in SNR as an explanation for irregular RM variations.",
+  "Moffat & Robert 1994; Puls et al. 2006": "These papers are cited to suggest that clumpy stellar winds may cause stochastic RM variations.",
+  "Chernyakova et al. 2021": "Cited to support the finding that stellar winds are clumpy and contribute to short variability on keV/GeV light curves.",
+  "Apparao et al. 1991": "Referenced to highlight the short variability on keV/GeV light curves.",
+  "Chernyakova et al. 2020": "Cited to support the finding that stellar discs are clumpy.",
+  "Chernyakova et al. , 2021": "Referenced to support the finding that stellar discs are clumpy."
+}
+{
+  "Tendulkar et al. (2021)": "Referenced to support the argument that the observed separation and inferred age of FRB 20180916B are compatible with a highly magnetised neutron star in an HMXB or an HMGB.",
+  "Xu et al. (2022); Anna-Thomas et al. (2022); Dai et al. (2022)": "Cited to highlight the similarity in RM variations and reversals between repeating FRBs and a binary system containing a pulsar and a massive Be star.",
+  "Johnston et al. (1996); Johnston et al. (2005)": "Referenced to support the claim that RM variations and reversals can be well understood in a magnetar/Be star binary system.",
+  "Wang et al. (2022a); Yang et al. (2022b)": "Cited to acknowledge that previous works did not discuss the interactions between stellar winds and pulsar winds in detail.",
+  "Li et al. (2022)": "Referenced to mention the measurement of short-time RM variations in a pulsar binary system.",
+  "Reig (2011)": "Cited to state that the disc formed by a polar wind in some Oe/Be stars will be truncated due to tidal torques from the pulsar.",
+  "Okazaki et al. (2011)": "Referenced to support the claim that tidal interactions can be neglected in an eccentric orbital, allowing for the discussion of DM and RM from the disc with a high eccentricity orbital."
+}
+{
+"Section 2": "N/A",
+"Section 3": "N/A",
+"Section 4": "N/A",
+"Section 5": "N/A",
+"Section 6": "N/A"
+}

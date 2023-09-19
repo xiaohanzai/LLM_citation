@@ -1,0 +1,128 @@
+@1,2:
+These references are cited to support the statement that the cyclotron or synchrotron maser is a proposed emission mechanism for various astrophysical phenomena such as Auroral Kilometric Radiation (AKR) and Fast Radio Bursts (FRBs).
+
+@3:
+This reference is cited as an example of Jovian Decametric Radiation, which is another astrophysical phenomenon that could be explained by the cyclotron or synchrotron maser emission mechanism.
+
+@4,5,6:
+These references are cited as examples of Fast Radio Bursts (FRBs), which are astrophysical phenomena that could be explained by the cyclotron or synchrotron maser emission mechanism.
+
+@7,8,9:
+These references are cited to support the statement that the high brightness temperatures from objects like AKR and FRBs require a coherent emission mechanism such as synchrotron maser emission (SME).
+
+@10:
+This reference is cited to explain one of the ways to achieve a population inversion, which is necessary for the cyclotron or synchrotron maser emission mechanism.
+
+@2:
+This reference is cited to support the statement that a population inversion can be achieved when the particle distribution satisfies a certain condition.
+
+@1,11:
+These references are cited as examples of the "magnetic mirror" scenario, which is one of the ways to achieve a population inversion.
+
+@2,12:
+These references are cited to support the statement that the "magnetic mirror" scenario leads to an empty cone-shaped void in the particle distribution in velocity space.
+
+@13:
+This reference is cited to mention observations suggesting that the "loss-cone" scenario was insufficient to explain population inversion.
+
+@14,15:
+These references are cited to introduce the "ring-shell" model, which is an alternative explanation for population inversion in non-or mildly relativistic environments.
+
+N/A
+@16:
+Referenced to support the statement that the environment around FRB emission regions is expected to be relativistic, with the particle's temperature being approximately equal to mc^2.
+
+@17-19:
+Cited to refer to previous works that focused on inversions formed by strongly magnetized relativistic shocks propagating perpendicularly to the background magnetic field, which heat the plasma to relativistic temperatures.
+
+@20:
+Referenced to highlight that at the shock front, a soliton-like structure is formed, in which particles gyrate around the enhanced magnetic field and form a semicoherent ring in momentum space.
+
+@21:
+Cited to mention that the distribution of particles forming the semicoherent ring can also support SME.
+
+@17,19,20,22:
+Referenced to indicate that the existence of the semicoherent ring has been demonstrated in particle-in-cell (PIC) simulations.
+
+@16:
+Cited again to emphasize that a population inversion leading to very high efficiency SME can also be naturally achieved through nonresonant interactions between Alfvén waves and a plasma without requiring a relativistic shock wave.
+
+@23,24:
+Referenced to highlight that the nonresonant interaction between Alfvén waves and particles has previously only been studied in the nonrelativistic regime.
+
+@25,26:
+Cited to mention that nonresonant wave-particle interactions in highly magnetized plasmas result in pitch-angle diffusion, deforming the initially isotropic distribution into a crescent-like shape in momentum space capable of supporting SME.
+
+N/A
+@23,24:
+These references are cited to support the assumption that the Alfvén waves in the scenario of fast radio bursts (FRBs) have a broad spectrum that only varies slowly in time.
+@27,28:
+These references are cited to support the use of the quasilinear approximation in studying the interaction between waves and particles in the context of kinetic theory.
+
+@29:
+This reference is cited to provide a complete derivation of the full relativistic quasilinear kinetic equation describing the temporal evolution of the particle's distribution function due to interaction with Alfvén waves at resonance.
+
+@24:
+This reference is cited to include nonresonant terms in the complete equation that describes the interaction between waves and particles, applicable in both relativistic and non-relativistic regimes.
+@23:
+Referenced to support the statement that in plasmas with strong magnetic fields and low β, the inequalities ωc ≫ ω and ωc ≫ k∥p∥γm hold, resulting in no contribution from the resonant term in the equation.
+
+@24:
+Cited to simplify the Principal Value part of the equation by neglecting the contribution of higher harmonics (l = 2, 3, ..).
+@30,31:
+These references are cited to provide the full relativistic solution for the calculation of the integrals I1 and I2 in Equation 3.
+@32:
+Referenced to indicate the use of the Crank-Nicolson and upwind differencing finite difference methods in solving equation 3 numerically using MATLAB.
+
+@23:
+Cited to compare the code's accuracy to the analytical nonrelativistic solution found in Equation 9 of Ref. [23], with the full solution and nonrelativistic result agreeing in all cases investigated.
+@N/A
+@N/A
+@17 -19:
+Referenced to compare the efficiency in the population inversion achieved by non-resonant interactions to that found by numerical studies of relativistic shocks, highlighting the different efficiencies in explaining SME in relativistic environments.
+
+@34:
+Cited to provide the efficiency of ∼ 10 -3 σ -1 found in relativistic shocks for σ >> 1, which is three orders of magnitude less than the values found in this work.
+
+@19:
+Referenced to highlight that for σ ∼ 0.1, the shock efficiency was found to be ∼ 0.1, which is the same order as the asymptotic value of f inv ∼ 0.19 found in this work.
+
+@18,22,35:
+Cited to suggest that the SME growth rate may be reduced at higher temperatures, potentially reducing the amount of energy extracted due to the impact of other plasma instabilities.
+@36:
+Referenced to provide the stability criteria for the firehose and mirror instabilities in a bimaxwellian distribution, which is relevant to the analysis of the deformed distribution in the context of instabilities.
+
+@37:
+Cited to mention the possibility of turbulent cascades in the plasma when considering Alfvén wave spectra with perpendicular components, which is relevant to the discussion of potential instabilities.
+@38: Referenced to support the statement that observed signals from FRBs are in the GHz band with a frequency of 111 MHz.
+@39: Referenced to support the statement that observed signals from FRBs are in the GHz band with a frequency of 8 GHz.
+@16: Referenced to explain the requirement of magnetic fields and maximum number densities for the formation of the inversion in FRBs.
+@10: Referenced to explain the peak frequency of the maser in the case when σ < 1.
+N/A
+@40: Referenced to support the statement that the galactic magnetar SGR 1935+2154 is directly associated with an FRB.
+@41,42: Cited to provide information about the typical period of magnetars, which is relevant to the discussion of variability in the Alfvén wave field.
+@43: Referenced to provide additional information about the period of magnetars.
+@44: Cited to mention that young magnetars are expected to have millisecond periods.
+@16:
+Referenced to support the discussion of a relativistic magnetar wind scenario and the calculation of emission distances and number density in relation to the surface magnetic field, pair multiplicity, and period of the magnetar.
+
+@6:
+Cited to propose another possible scenario involving a subrelativistic wind from a magnetar or other compact object and to calculate the wind density at different distances.
+
+@45:
+Referenced to provide constraints on the mass loss rate in the context of FRB 121102.
+
+N/A
+@ERC consolidator grant 773062 (O.M.J.):
+Acknowledged for providing support to AP.
+
+@Irish Research Council through grant number GOIPG/2017/1146:
+Acknowledged for providing support to KL.
+
+@ERC grant:
+Acknowledged for providing funding obtained by KL.
+
+@Irish Centre for High-End Computing (ICHEC):
+Acknowledged for providing computational facilities and support.
+
+N/A

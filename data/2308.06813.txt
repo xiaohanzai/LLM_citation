@@ -1,0 +1,84 @@
+@Petroff & Yaron 2020:
+Referenced to indicate the source of the information about the number of confirmed FRBs recorded in the Transient Name Server (TNS) catalog.
+
+@Zhang 2022a:
+Cited to support the statement that models with black-hole engines remain viable as potential progenitors for FRBs.
+
+@Lyubarsky 2014; Metzger et al. 2019:
+These papers are referenced to highlight different proposed models that predict emission mechanisms for FRBs, specifically from maser processes within the plasma environments of neutron stars.
+
+@Beloborodov 2021; Beniamini et al. 2020; Gu et al. 2016:
+These references are cited to discuss alternative models that associate FRBs with magnetospheric processes near neutron-star surfaces, such as crustal oscillations or magnetic reconnection.
+
+@Falcke & Rezzolla 2014; Totani 2013:
+These papers are cited to mention cataclysmic theories that imply triggering of FRBs in compact-object mergers and/or collapse, which would only produce one-off events.
+
+@Mckinven 2022; Petroff 2017:
+These references are cited to suggest the possibility that multiple mechanisms are responsible for the FRB phenomenon, indicating the existence of both repeating and one-off bursts.
+
+@Kirsten et al. 2022:
+Referenced to highlight the observation of FRB progenitor host-galaxy systems, specifically globular clusters.
+
+@Chatterjee et al. 2017; Bhandari et al. 2023:
+These papers are cited to mention the diversity of progenitor host-galaxy systems for FRBs, including dwarf galaxies.
+
+@Mannings et al. 2021; Gordon et al. 2023:
+These references are cited to emphasize the variety of locations within galaxies on the star forming main sequence where FRBs have been observed.
+
+@Sharma et al. 2023; Law et al. 2023:
+Cited to indicate the observation of FRBs in massive quiescent galaxies.
+@Li et al. 2021; Wang et al. 2022b; Qu & Zhang 2023:
+These papers are cited to provide examples of viable emission theories for Fast Radio Bursts (FRBs) based on the observed high brightness temperatures and high linear polarization.
+
+@Radhakrishnan & Cooke 1969; Ravi & Lasky 2016; Luo et al. 2020; Cho et al. 2020; Oswald et al. 2023:
+These references are cited to discuss the possible association of smooth variations in the polarization position angle (PPA) over burst durations with moving emission sites or propagation effects within or immediately outside the source magnetosphere, drawing an analogy with the rotating vector model applied to pulsar emission.
+
+@Manchester et al. 1975; Stinebring et al. 1984:
+These papers are cited to highlight the observation of rapid jumps in polarization position angle (PPA) in several pulsars, which can indicate emission in different modes or from different locations within magnetospheres.
+
+@Beniamini et al. 2022; Qu & Zhang 2023:
+These references are cited to discuss the circular polarization and depolarization observed in 100% linearly polarized bursts, which require mechanisms such as mode conversion, absorption during propagation, multiple emission sites, or Faraday depolarization in a strongly magnetized, possibly inhomogeneous medium, placing constraints on the sources and near-source environments.
+@Mckinven et al. 2023; Hilmarsson et al. 2021b; Nimmo et al. 2021:
+These papers are cited to support the statement that most repeating and non-repeating FRBs possess high linear polarization fractions and to provide specific examples.
+
+@FRB 20190611B Day et al. 2020:
+Referenced to highlight an example of an FRB that exhibited non-negligible circular polarization.
+
+@FRB 20190208A; FRB 20121102A; FRB 20190520B:
+These FRBs are mentioned to illustrate the non-uniformity of polarization states among repeaters, with some having stable polarization states and others varying from burst to burst.
+
+@Mckinven et al. 2023; Feng et al. 2022a; Anna-Thomas et al. 2023:
+Cited to provide specific examples of repeaters with varying polarization properties.
+
+@FRB 20181112A:
+Referenced to highlight an example of a one-off burst with complex time-domain morphologies and evolving polarization properties.
+
+@Zhang 2022a:
+Cited to support the statement that polarization properties do not appear to be a viable means of distinguishing repeaters from non-repeaters.
+
+@FRB 20121102A; FRB 20190520B; FRB 20180301:
+These FRBs are mentioned to emphasize the presence of smoothly time-varying RMs on week to month timescales in some repeaters.
+
+@Hilmarsson et al. 2021a; Kumar et al. 2023; Anna-Thomas et al. 2023:
+Cited to provide specific examples of repeaters with time-varying RMs.
+
+@FRB 20201124A:
+Referenced to highlight the observation of strong burst to burst variability in linear and circular polarization fractions, as well as frequency-dependent oscillations, in the repeating source.
+
+@Xu et al. 2022:
+Cited to support the interpretation of the observed polarization properties as originating during propagation through a strongly magnetized, evolving plasma environment.
+
+@Feng et al. 2022b; Mckinven et al. 2023:
+These papers are cited to highlight the observation of frequency-dependent depolarization in multiple FRBs.
+
+@Melrose & Macquart 1998; Beniamini et al. 2022:
+Cited to support the explanation of frequency-dependent depolarization using the stochastic RM model.
+@Mckinven et al. 2023:
+Cited as a reference for the description of the stochastic RM model, which explains the depolarization of FRB emission due to spatial RM variations within a scattering screen.
+
+@Melrose & Macquart 1998; Beniamini et al. 2022:
+These papers are cited to support the explanation of how spatial RM variations within a scattering screen depolarize FRB emission as it propagates along multiple pathways.
+
+N/A
+@Morrell & Law 2022:
+Referenced to indicate that the calibrated full-polarization filterbank data and derived parameters are available on the CaltechDATA public repository through the DSA-110 archive.

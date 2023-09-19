@@ -1,0 +1,54 @@
+@Lorimer et al. 2007; Bailes 2022:
+These references are cited to indicate the significant scientific development and focus on Fast Radio Bursts (FRBs) over the last decade.
+
+@Thornton et al. 2013; Caleb & Keane 2021:
+Referenced to support the statement that FRBs have large observed dispersion measures (DMs), suggesting an extragalactic origin.
+
+@Chatterjee et al. 2017; Bannister et al. 2019b; Ravi et al. 2019:
+These papers are cited to highlight the identification of host galaxies at cosmological distances for several FRB sources.
+
+@Spitler et al. 2016:
+Referenced to emphasize the repeatability of some FRBs and the distinction among the sample of known FRBs.
+
+@CHIME/FRB Collaboration et al. 2023:
+Cited to mention that only a small fraction of FRBs have been observed to emit repeat bursts to date.
+
+@CHIME/FRB Collaboration et al. 2020; Rajwade et al. 2020:
+These references are cited to confirm the periodic modulation in the burst activity of two FRB sources.
+
+@Shannon et al. 2018; CHIME/FRB Collaboration et al. 2019:
+Referenced to highlight the contribution of radio telescopes with wide coverage areas in advancing the observational understanding of FRBs and the discovery of a large number of sources.
+
+@CHIME/FRB Collaboration et al. 2021:
+Cited to emphasize the instrumental role of CHIME in making multiple daily detections and identifying an increasing number of repeating FRBs.
+@Petroff et al. (2022):
+Referenced to highlight the limited understanding of FRB emission and the challenges in detecting periodicity and ruling out its existence, as well as to emphasize the importance of gaining a deeper understanding of FRBs as cosmological probes.
+
+@Ryder et al. (2022):
+Cited to support the evidence of an energetic burst population at high redshifts, underscoring the need for a deeper understanding of FRBs.
+
+@Macquart et al. (2020):
+Referenced to emphasize the importance of gaining a deeper understanding of FRBs as cosmological probes.
+
+@Hallinan et al. (2019); Vanderlinde et al. (2019):
+These papers are cited to highlight the expectation of upcoming radio surveys and FRB searches generating vast volumes of data and the primary objective of developing novel methods for detecting radio transients that can outperform existing techniques.
+
+N/A
+@Rickett 1990; Ravi et al. 2016; Shannon et al. 2018:
+These references are cited to explain the non-uniform shape of the pulse spectra of FRBs, which is attributed to interstellar scintillation caused by wave propagation through an inhomogeneous medium.
+
+@Gourdji et al. 2019; Kumar et al. 2021:
+These papers are referenced to highlight that most FRB signals are band-limited and have varying degrees of spectral occupancy relative to the observing telescope's bandwidth.
+
+@Pleunis et al. 2021:
+This reference is cited to emphasize the rich and complex frequency-dependent intensity patterns exhibited by FRB signals, particularly in the case of repeating FRBs.
+
+@CHIME/FRB Collaboration et al. 2018; Zackay & Ofek 2017; Bannister et al. 2019a:
+These references are mentioned to point out that current statistical techniques for detecting FRBs assume uniform flux across the frequency band, which is not valid for FRB signals.
+
+@Lorimer & Kramer 2004:
+This citation is used to explain that the assumption of uniform flux across the frequency band is based on techniques developed for detecting broadband emission from radio pulsars.
+
+@Spitler et al. (2012):
+This reference is cited to introduce the multi-moment technique proposed by Spitler et al. for quantifying the normalized standard deviation in burst intensity across frequencies, which has been used to distinguish narrowband RFI from broad-band signals.
+@N/A

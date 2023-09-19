@@ -1,0 +1,88 @@
+@Petroff et al. 2022:
+Referenced as a recent review of fast radio bursts (FRBs) to provide background information on the topic.
+
+@Chime/Frb Collaboration et al. 2023:
+Cited twice, first to provide the percentage of known FRBs that are confirmed repeaters and emit multiple bursts, and second to discuss the repetition rates of repeaters and upper limits on repetition from apparently non-repeaters.
+
+@Spitler et al. 2016:
+Referenced to support the statement that a small fraction of known FRBs are confirmed repeaters.
+
+@Pleunis et al. 2021:
+Cited to compare the average duration and observed emission bandwidth of repeater bursts to apparently non-repeating FRBs.
+
+@Chime/Frb Collabortion 2021:
+Referenced to highlight the case of FRB 20201124A, an anomalously prolific repeater that appeared to suddenly awaken from quiescence.
+
+@Connor et al. 2020:
+Cited to discuss the possibility that a non-negligible fraction of apparently non-repeating sources may actually be repeaters with different emission mechanisms and/or beaming effects.
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020:
+These references are cited to support the hypothesis that highly magnetized neutron stars are the progenitors of FRBs, specifically citing the detection of a bright radio burst from the Galactic magnetar SGR 1935+2154.
+
+@Bhandari et al. 2022; Gordon et al. 2023:
+These papers are referenced to highlight the lack of distinction in the properties of the host galaxies of repeaters and non-repeaters of FRBs, suggesting that they may originate from the same progenitor(s).
+
+@Margalit et al. 2020; Kirsten et al. 2022a:
+These references are cited to discuss the need for different formation channels to reconcile the rate of all extragalactic FRBs with the volumetric population of magnetars, assuming a universal magnetar progenitor.
+@Chatterjee et al. 2017; Niu et al. 2022:
+These papers are cited to provide references for the localization of repeaters to dwarf galaxies.
+
+@Marcote et al. 2020:
+Referenced to support the localization of repeaters to spiral galaxies.
+
+@Kirsten et al. 2022a:
+Cited to provide a reference for the localization of a repeater to a globular cluster in the M81 galactic system.
+
+@Michilli et al. 2018; Mckinven et al. 2023:
+These papers are cited to support the discussion of diverse magneto-ionic local environments for repeaters, as inferred from measurements of scattering times, Faraday rotation measure (RM), and DM.
+
+@Chatterjee et al. 2017; Marcote et al. 2017; Niu et al. 2022:
+Referenced to highlight that FRB 20121102A and FRB 20190520B are the only repeaters associated with a persistent radio source.
+
+@Chime/Frb Collaboration et al. 2020; Rajwade et al. 2020; Cruces et al. 2021:
+Cited to support the statement that FRB 20121102A and FRB 20180916B are the only repeaters showing an underlying periodicity in their activity windows.
+
+@Nimmo et al. 2021; Hewitt et al. 2022; Zhou et al. 2022; Nimmo et al. 2023:
+These papers are cited to highlight that only a handful of repeaters are known to enter periods of high activity ('burst storms').
+
+@Nimmo et al. 2021; Nimmo et al. 2022:
+Referenced to support the statement that FRB 20180916B and FRB 20200120E are the only repeaters exhibiting (sub-)microsecond burst structure.
+
+N/A
+@McKinven & Chime/Frb Collaboration 2022:
+Referenced to report the detection of 9 bursts from the repeating FRB source FRB 20220912A and provide the measured dispersion measure (DM) of 219.46 pc cm -3.
+
+@Feng et al. 2022; Zhang et al. 2022; Kirsten et al. 2022b; Feng et al. 2023; Zhang et al. 2023:
+These papers are cited to highlight the detection of bursts from the repeating FRB source FRB 20220912A at ∼ 1.4 GHz (Lband) by multiple telescopes, including the 100-m Green Bank Telescope (GBT), Five hundred meter Aperture Spherical Telescope (FAST), and Effelsberg 100-m telescope, emphasizing the widespread observation of bursts from this source.
+
+@Bhusare et al. 2022; Ould-Boukattine et al. 2022:
+These papers are cited to mention the detection of bursts from the repeating FRB source FRB 20220912A at lower frequencies (∼ 300 -400 MHz), indicating the broad frequency range at which bursts from this source have been observed.
+
+@Perera et al. 2022; Rajwade et al. 2022:
+These papers are cited to note the detection of bursts from the repeating FRB source FRB 20220912A at higher frequencies around 2 GHz (S-band), highlighting the frequency range at which bursts from this source have been observed.
+
+@Kirsten et al. 2022b; Rajwade et al. 2022; Sheikh et al. 2022:
+These papers are cited to mention the absence of burst detections above 3 GHz despite extensive observations, indicating the lack of detections at higher frequencies for the repeating FRB source FRB 20220912A.
+
+@Gopinath et al. 2023:
+Referenced to mention the absence of burst detections at the operating frequencies of the LOFAR High-Band Antennas (110-190 MHz) where other repeaters have been seen, highlighting the frequency range where bursts from other sources have been observed.
+@Gajjar et al. 2018; Day et al. 2020; Nimmo et al. 2021:
+These papers are cited to support the statement that the majority of repeaters exhibit high fractions of linear polarization and little to no circular polarization.
+
+@McKinven & Chime/Frb Collaboration 2022:
+Referenced to provide the RM value of 1 +0.6(1) rad m -2 for the brightest burst detected from FRB 20220912A by CHIME/FRB.
+
+@Feng et al. 2023; Zhang et al. 2023:
+These references are cited to highlight that approximately half of the bursts from FRB 20220912A exhibit circular polarization, making it the repeater with the highest known fraction of bursts with this property.
+
+@Luo et al. 2020:
+Referenced to mention that polarisation position angle (PPA) swings are scarce among the known repeaters, which is relevant to the discussion of bursts with PPA swings.
+
+@Ravi et al. 2023:
+Cited to provide the information that FRB 20220912A was localized to a host galaxy with redshift 𝑧 = 0.0771(1) by the Deep Synoptic Array (DSA-110) during its commissioning phase.
+
+@Gordon et al. 2023:
+Referenced to state that the host galaxy of FRB 20220912A, PSO J347.2702+48.70, is a massive galaxy with moderate star formation, similar to other FRB host galaxies.
+
+@Baldwin, Phillips & Terlevich (BPT) scheme:
+Mentioned to classify the host galaxy of FRB 20220912A as composite in the BPT scheme.
+@N/A

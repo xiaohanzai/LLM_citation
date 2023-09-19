@@ -1,0 +1,66 @@
+@de Broglie-Proca theory [1,2]:
+Referenced to suggest an alternative theory that contradicts the widely accepted consensus that the rest mass of the photon is zero.
+
+@model of massive photons as dark energy [3]:
+Cited to highlight another theory that challenges the idea of zero-mass photons.
+
+@massive photons within an alternative gravity scenario [4]:
+Referenced to support the existence of theories that propose photons with nonzero mass.
+
+@new ideas in classical electrodynamics with massive photons [5][6][7]:
+Cited to emphasize the presence of multiple theories suggesting the existence of massive photons.
+
+@seeking such effects [8][9][10][11][12][13][14]:
+These references are mentioned to indicate that measurable effects can be used to constrain the photon rest mass.
+
+@tests of Coulomb's inverse square law [15]:
+Referenced to propose a method for constraining the photon mass.
+
+@tests of Ampère's law [16]:
+Cited to suggest another method for constraining the photon mass.
+
+@experiments of Cavendish torsion balance [17]:
+Mentioned as a proposed method for constraining the photon mass.
+
+@exploration on the gravitational deflection of electromagnetic waves [9,18]:
+Referenced to highlight another method for constraining the photon mass.
+
+@measurement of Jupiter's magnetic field [19]:
+Cited as a method for constraining the photon mass.
+
+@analysis of cosmic magnetic field vector potential [20,21]:
+Mentioned as a method for constraining the photon mass.
+
+@measurement of redshift/blueshift associated with alternative fits of the Hubble diagram of type Ia supernovae (SNe Ia; [7,22]):
+Referenced to propose another method for constraining the photon mass.
+
+N/A
+@23; @24; @25; @26; @27; @28; @29; @30; @31; @32; @33; @34; @35; @36; @37; @38:
+These references are cited to support the statement that astrophysical observations provide excellent conditions for higher precision measurements on the relative velocities of electromagnetic waves with different frequencies, which is relevant to determining the photon mass or placing an upper bound on it.
+
+@39:
+Referenced as a recent review that discusses how two photons with different frequencies, if emitted simultaneously from the same astrophysical source and traveling through the same distance, would be observed at different times if the photon rest mass is nonzero.
+
+N/A
+@40:
+Referenced to support the statement that DM IGM can vary significantly along different lines of sight due to large intergalactic medium fluctuations.
+
+@41; 42; 43:
+Cited to highlight that numerical simulations show that the distributions of DM IGM and DM host are asymmetric and have a significant positive skew, which is relevant to the discussion of modeling DM IGM and DM host in FRB photon mass limits.
+
+@31:
+Referenced to mention that Lin et al. constrained the photon mass by considering more realistic non-Gaussian distributions for DM IGM and DM host, but without considering the degeneracy between the photon mass and cosmological parameters.
+
+@44:
+Cited to emphasize that relying solely on FRB data is difficult to simultaneously constrain the photon mass and cosmological parameters, even with only cosmological parameters, due to the parameter degeneracy.
+@42,43:
+These references are cited to support the use of the IllustrisTNG simulation in deriving accurate probability distributions of DM IGM and DM host for the analysis.
+
+@45,46:
+These references are cited to indicate the use of the latest Planck release data on the cosmic microwave background (CMB) to combine with the DM-z measurements from FRBs for parameter estimation.
+
+@47:
+This reference is cited to highlight the use of baryon acoustic oscillation (BAO) data in combination with FRB measurements and CMB data for parameter estimation.
+
+@48:
+This reference is cited to indicate the use of 1048 Pantheon SN Ia data in combination with FRB measurements, CMB data, and BAO data for parameter estimation.

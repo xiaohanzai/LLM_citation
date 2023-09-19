@@ -1,0 +1,63 @@
+@Lorimer et al., 2007; Thornton et al., 2013:
+These references are cited to provide background information on fast radio bursts (FRBs) and their characteristics.
+
+@Bhandari et al., 2020:
+Referenced to support the statement that FRBs are extremely energetic.
+
+@CHIME/FRB Collaboration et al., 2020; Bochenek et al., 2020:
+These papers are cited to mention a known case of a Galactic magnetar producing FRB-like emission.
+
+@CHIME/FRB Collaboration et al. (2023):
+Referenced to report the repeater fraction of FRB sources.
+
+@Pleunis et al., 2021:
+Cited to highlight the indications of intrinsic differences between repeating and nonrepeating FRBs.
+
+@James et al., 2022:
+Referenced to emphasize the desire to gain greater insight into the nature of FRBs and their use as probes of cosmological parameters.
+
+@Macquart et al., 2020:
+Cited to mention the use of FRBs to probe extragalactic matter distributions.
+
+@Bhandari et al., 2022b:
+Referenced to discuss the current sample of host galaxies and the potential emergence of patterns as the sample grows.
+
+@Nimmo et al., 2021:
+Cited to highlight the role of high-time resolution measurements in constraining the size of the emission region and emission mechanisms of FRBs.
+N/A
+@Bhardwaj et al., 2021a,b; Michilli et al., 2022; Ibik et al., 2023:
+These references are cited to support the association of repeating FRBs detected by the Canadian Hydrogen Intensity Mapping Experiment (CHIME) with their host galaxies, highlighting the use of detailed beam modelling and moderate localisation precision.
+
+@Law et al., 2020; Law et al., 2018:
+Referenced to describe the VLA's localization of one apparently non-repeating FRB to a host galaxy using real-time imaging FRB search pipeline.
+
+@Caleb et al., 2023; Driessen et al., 2023:
+These papers are cited to highlight MeerKAT's localization of two apparently non-repeating FRBs to subarcsecond precision and the subsequent identification of their host galaxies using standard correlation products.
+
+@Bezuidenhout et al., 2023:
+Referenced to describe a method for localizing transients detected across multiple MeerKAT tied-array beams.
+
+@Connor et al., 2020:
+Cited to mention that the Westerbork Synthesis Radio Telescope's Apertif system is able to detect FRBs in real time but lacks the spatial resolution necessary to identify a host galaxy.
+@Ravi et al., 2019; Ravi et al., 2022; Ravi et al., 2023:
+These references are cited to support the discussion of the Deep Synoptic Array's ability to capture FRBs and localize them to arcsecond precision, although it has not yet been able to localize a non-repeating FRB to a host galaxy.
+
+@Michilli et al., 2021:
+Referenced to highlight CHIME's pipeline for real-time FRB detection and capture of baseband data, enabling sub-arcminute FRB localizations and measurement of burst profiles at microsecond time resolution from single detections.
+
+@Hotan et al., 2021:
+Cited to explain how the Australian Square Kilometre Array Pathfinder (ASKAP) has been enabled by the Commensal Realtime ASKAP Fast Transients Collaboration (CRAFT) to detect FRBs in real-time and save raw antenna voltages of FRB detections, allowing for sub-arcsecond-precision localization of FRBs, including non-repeating FRBs.
+
+@Bannister et al., 2019; Prochaska et al., 2019; Macquart et al., 2020; Heintz et al., 2020; Fong et al., 2021; Bhandari et al., 2022a,b; Ryder et al., 2022:
+These references are cited to support the claim that ASKAP, enabled by CRAFT, permits sub-arcsecond-precision localization of FRBs, including non-repeating FRBs, and provides polarimetric measurements at fine time resolutions.
+
+@Cho et al., 2020; Day et al., 2020:
+Referenced to highlight the capability of ASKAP to perform polarimetric measurements at time resolutions as fine as 3 ns.
+
+@Bannister et al., in prep.:
+Cited to mention the forthcoming "CRACO" coherent detection system, which is envisioned for future FRB surveys with ASKAP and is expected to have higher detection rates.
+@Bannister et al., 2019; Cho et al., 2020:
+These papers are cited to reference the existing CRAFT post-processing code that has been extended by the CELEBI pipeline, highlighting the incorporation of new functionality and improved monitoring and control for producing sub-arcsecond-precision localisations and high-time resolution data products of FRBs detected with ASKAP.
+
+@Day et al., 2020:
+This paper is cited to use FRB190711 as an example case throughout the description of the CELEBI pipeline, demonstrating consistency with previously-published results.

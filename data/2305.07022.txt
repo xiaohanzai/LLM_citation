@@ -1,0 +1,38 @@
+@Cen & Ostriker 2006; Davé et al. 2011:
+These papers are cited to support the claim that AGN and stellar feedback play a role in regulating star formation and evacuating gas out of low-mass halo in galaxy formation models.
+
+@Davé et al. 2011:
+Referenced to highlight that simulations without baryonic outflows produce too many stars and have higher than observed star formation rates, emphasizing the importance of outflow processes in understanding galaxy properties.
+
+@Kereš et al. 2005:
+Cited to emphasize that baryonic feedback enriches the IGM and removes baryons, restricting accretion from the IGM.
+
+@Davé et al. 2019; Appleby et al. 2021; Sorini et al. 2022:
+These papers are referenced to support the claim that feedback from AGN jets in the Simba suite of cosmological hydrodynamic simulations can cause a significant evacuation of baryons in halos by z = 0.
+
+@Ayromlou et al. 2023:
+Cited to highlight that different feedback prescriptions can eject baryons at various distances beyond the halo boundary, feeding gas into the reservoir of diffuse baryons and emphasizing the need to constrain the distribution of baryons in the IGM to discriminate between feedback models.
+@Fukugita et al. 1998; Cen & Ostriker 2006; Shull et al. 2012; McQuinn 2014:
+These references are cited to highlight the difficulty in detecting emission and absorption lines from baryons in the intergalactic medium (IGM) and emphasize the need for alternative methods such as fast radio bursts (FRBs) to probe the distribution of baryons.
+
+@McQuinn 2014; Muñoz & Loeb 2018:
+These papers are referenced to support the statement that fast radio bursts (FRBs) present a new opportunity to probe the intergalactic distribution of baryons and measure feedback strength.
+
+@Lorimer et al. 2007:
+Referenced to explain that fast radio bursts (FRBs) are sensitive to the line-of-sight free electron density, which can be measured as the dispersion measure (DM) of the signal.
+
+@Aggarwal et al. 2021:
+Cited to mention that the redshift of a fast radio burst (FRB) can be estimated if its spatial localization overlaps with a galaxy with a known redshift.
+
+@Macquart et al. 2020:
+Referenced to introduce the Macquart relation, which is the correlation between the redshift and extragalactic dispersion measure (z-DM EG ) of fast radio bursts (FRBs) and is sensitive to cosmological properties of the universe.
+
+@James et al. 2022a:
+Cited to highlight the use of a sophisticated FRB observational model that considers various factors to infer the distribution of baryons in the universe using FRB surveys.
+
+@Lee et al. 2022:
+Referenced to support the use of FRB surveys to infer the distribution of baryons in the universe, in conjunction with the FRB observational model.
+@Mc-Quinn 2014:
+Referenced to support the statement that halos with weaker feedback retain their baryons more effectively, leading to higher DM contributions, and that halos with stronger feedback cause less scatter in the z-DM EG distribution.
+
+N/A

@@ -1,0 +1,40 @@
+{
+  "Chatterjee et al. 2017": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Marcote et al. 2020": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Macquart et al. 2020": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Bhardwaj et al. 2021": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Kirsten et al. 2022": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Ravi et al. 2022a": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Bhandari et al. 2022": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Niu et al. 2022": "Referenced as one of the sources that localized eight repeating sources of fast radio bursts (FRBs) to host galaxies.",
+  "Ravi 2019": "Cited as the corresponding author's contact information.",
+  "Pleunis et al. 2021": "Cited to support the statement that repeating sources of fast radio bursts (FRBs) are different from apparent non-repeaters in their burst morphologies and bandwidths.",
+  "James et al. 2020": "Cited to support the statement that repeating sources of fast radio bursts (FRBs) are different from apparent non-repeaters in their repetition rates.",
+  "Bhandari et al. 2022": "Cited to support the statement that no significant differences between the host galaxies of repeaters and apparent nonrepeaters of fast radio bursts (FRBs) are yet evident.",
+  "Law et al. 2022": "Cited to support the statement that the association of persistent radio sources with some repeaters may hint at a unique progenitor class."
+}
+{
+  "Bassa et al. 2017": "Cited to support the association of FRB 20121102A with a star-forming region and compact persistent radio source within its dwarf host.",
+  "Michilli et al. 2018": "Referenced to highlight the extreme and variable Faraday rotation measure (RM) of FRB 20121102A.",
+  "Chen et al. 2022": "Cited to suggest a young compact object within the birth supernova remnant of FRB 20121102A.",
+  "Majid et al. 2021": "Referenced to support the detection of microstructure in bursts from FRB 20200120E.",
+  "Nimmo et al. 2022": "Cited to suggest an origin of FRB 20200120E in a recycled pulsar system.",
+  "Kirsten et al. 2022": "Referenced to support the association of FRB 20200120E with a globular cluster of M81.",
+  "Xu et al. 2022": "Cited to highlight the origin of FRB 20201124A in an inter-arm region of its late-type host galaxy.",
+  "Wang et al. 2022": "Referenced to suggest that FRB 20201124A illuminates extreme variability of its sub-AU magneto-ionic environment, suggestive of a magnetar/Be-star binary."
+}
+{
+  "McKinven & Chime/Frb Collaboration 2022": "Referenced as the collaboration that discovered the intensely active repeating FRB source FRB 20220912A.",
+  "Herrmann (2022)": "Cited for reporting the detection of 12 bursts within 49 hr of exposure at the Stockert telescope.",
+  "Zhang et al. 2022": "Referenced for finding a burst rate in excess of 400 hr -1 in the 1000-1500 MHz band using the Five hundred meter Aperture Spherical Telescope (FAST).",
+  "Perera et al. 2022": "Cited for using the Arecibo 12-m telescope to detect the source at 2.3 GHz.",
+  "Hiramatsu et al. (2022)": "Referenced for reporting deep limits on transient optical emission coincident with several radio bursts from FRB 20220912A."
+}
+{
+  "Ravi et al. 2022b,c,d": "Preliminary results from this work were reported via Astronomer's Telegram, providing additional information on the detection and interferometric localization of FRB 20220912A.",
+  "Ravi et al. (in prep.)": "A full description of the DSA-110 radio interferometer will be presented in this upcoming paper, which includes essential information to support the observational results for FRB 20220912A."
+}
+{
+"Weinreb & Shi 2021": "Referenced to provide the specifications of the DSA-110 antenna system, including the system temperature and the use of dual orthogonal linearly polarized receivers.",
+"Barsdell et al. 2012": "Cited as the source of the modified version of the heimdall software used for inspecting total-intensity data in real time for FRBs."
+}

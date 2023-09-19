@@ -1,0 +1,38 @@
+@Swift-BAT 8:
+Referenced as the instrument that discovered SGR 1935+2154, providing important background information about the magnetar.
+
+@G57.2+0.8:
+Referenced as the supernova remnant that SGR 1935+2154 is spatially consistent with, supporting the association between the two and providing a distance estimation for the magnetar.
+
+@[11][12][13][14]:
+Referenced to indicate the multiple outbursts of SGR 1935+2154 that have occurred since its discovery, highlighting the recurrent nature of the magnetar's activity.
+
+@[15][16][17][18]:
+Referenced to describe the simultaneous observation of a hard X-ray burst with SGR 1935+2154, providing context for the subsequent discovery of the first confirmed link between FRBs and magnetars.
+
+@FRB 20200428 4,5:
+Referenced as the first Galactic Fast Radio Burst (FRB) associated with SGR 1935+2154, emphasizing the significance of this discovery in connecting FRBs and magnetars.
+
+@[21][22][23][24][25][26]:
+Referenced to indicate the limited detection of radio bursts and the absence of radio pulsation from SGR 1935+2154, highlighting the challenges and limitations in studying the radio emission of the magnetar.
+@Swift * https://www.physics.mcgill.ca/ ˜pulsar/magnetar/main:
+Referenced as a source of information about the magnetar Swift.
+
+@Zhu et al. 7:
+Cited as a previous study that included FAST data but focused on different analysis, highlighting the different aspects of the current study.
+
+@25:
+Referenced to indicate that measurements of upper limits at various radio instruments/frequencies were reported, providing context for the average fluence observed in the current study.
+
+N/A
+@28,29:
+These references are cited to suggest that the magnetar radio emission might arise from the open field region in the magnetosphere above the polar cap, similar to the pulsed radio emission of canonical radio pulsars.
+
+@30,31:
+These references are cited to propose an alternative explanation for the magnetar radio emission, suggesting that it might originate from a j-bundle in the twisted magnetic lines within the magnetosphere, which is thicker in size and more energetic than the electron acceleration region above the polar cap.
+
+@32:
+This reference is cited to highlight the similarity between the observed narrow-band and frequency drifting emissions in SGR 1935+2154 and the morphology of fast radio bursts (FRBs).
+
+@33:
+This reference is cited to support the calculation of the radio emission location in SGR 1935+2154 based on the observed frequency drifting rate and the observation frequency.

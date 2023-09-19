@@ -1,0 +1,63 @@
+@Lorimer et al. 2007:
+Referenced as the first discovery of fast radio bursts (FRBs) in 2007, providing historical context for the study of FRBs.
+
+@Macquart et al. 2020:
+Cited to support the use of dispersion measure (DM) observations to measure the baryon content in the line-of-sight direction of FRBs, highlighting the relevance of DM measurements in understanding FRB properties.
+
+@Feng et al. 2022; Xu et al. 2022; Anna-Thomas et al. 2023:
+These studies are cited to demonstrate that the polarization of FRBs provides information about the complex magnetized environments in which they are located, contributing to the understanding of FRB propagation paths.
+
+@Li et al. 2021; Yang & Zhang 2021:
+Referenced to highlight the observation of FRB 20121102A by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), which revealed a bimodal distribution of FRB energy and suggested the existence of different radiation mechanisms for FRBs, contributing to the understanding of FRB radiation nature.
+@Chatterjee et al. 2017; Marcote et al. 2017; Niu et al. 2021:
+These references are cited to provide information on the two active repeating FRBs (FRB 20121102A and FRB 20190520B) that are the focus of the study.
+
+@Li et al. 2021; Niu et al. 2021:
+These papers are referenced to highlight the high sensitivity and high cadence coverage of FAST's observations of the two FRBs, which allows for a more complete event series compared to other telescopes.
+
+@Spitler et al. 2016; Chatterjee et al. 2017; Tendulkar et al. 2017:
+These references are cited to provide information on the discovery and precise localization of FRB 20121102A, the first repeating FRB found.
+
+@Li et al. 2019:
+This paper is referenced to provide information on the discovery of FRB 20190520B, the first repeating FRB discovered by FAST during the Commensal Radio Astronomy FAST Survey (CRAFTS).
+
+@Anna-Thomas et al. 2023:
+This reference is cited to highlight the number of pulses detected from FRB 20190520B since its discovery on May 20th, 2019.
+@Hutton et al. 2010:
+Referenced to provide seismic data from the Southern California Earthquake Data Center (SCEDC) for comparison with FRBs in terms of waiting times.
+
+@Båth 1966:
+Cited to explain the conversion of earthquake magnitudes into energy (erg) using an empirical relation.
+
+@Watanabe et al. 2012:
+Referenced to provide solar flare data from the Hinode Flare Catalogue for comparison with FRBs in terms of waiting times.
+@Omori 1895; Kagan & Knopoff 1980; Lippiello et al. 2008; Saichev & Sornette 2007:
+These references are cited to support the statement that seismic events, such as earthquakes, deviate from randomness and exhibit clustering behavior in time and magnitude, indicating their origin from nonlinear dynamical systems.
+
+N/A
+@Pincus 1991; Delgado-Bonal 2019:
+These references are cited to explain the use of the "Pincus Index" (PI) and "Maximum Lyapunov exponent" (MLE) as measures of stochasticity and chaos in event sequences, specifically in the context of describing the degree of stochasticity based on the Max Approximate Entropy (MAE).
+@Cencini et al. (2010):
+Referenced to support the explanation of the MLE (Maximum Lyapunov Exponent) as a numerical characteristic used to identify chaotic behavior in a nonlinear system.
+
+@Schölzel 2019:
+Cited as the method used for MLE (Maximum Lyapunov Exponent) calculation.
+
+N/A
+@Bochenek et al. (2020):
+Referenced to support the statement that the origin of FRBs being from magnetars has gained popularity since the discovery of FRB 200428.
+
+@Zhang 2022:
+Cited as a reference for trigger mechanisms for the production of FRBs by magnetars.
+
+@Wadiasingh & Timokhin 2019; Wang et al. 2018; Yang & Zhang 2021:
+These papers are cited as references for different trigger mechanisms for the production of FRBs by magnetars, specifically crust cracking at the neutron star surface.
+
+@Popov & Postnov 2010:
+Cited as a reference for sudden magnetic reconnection events in the magnetosphere as a trigger mechanism for the production of FRBs by magnetars.
+
+@Dai 2020; Zhang 2017:
+These papers are cited as references for trigger mechanisms for the production of FRBs by magnetars, specifically triggers from external events.
+
+@Li et al. 2021; Yang & Zhang 2021; Zhang et al. 2022:
+These papers are cited to support the statement that active repeaters with PRS counterparts exhibit strong stochasticity and bimodal energy distribution, indicating a complex and potentially multi-origin of FRB emission.

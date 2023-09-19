@@ -1,0 +1,49 @@
+@Fabbiano 1989:
+Referenced to suggest that ultraluminous X-ray sources (ULXs) may either indicate extreme accretion physics in X-ray binaries or represent a heterogeneous class of black holes.
+
+@Bachetti et al. 2014; Sathyaprakash et al. 2022:
+Cited to provide evidence that several ULXs exhibit indications of a neutron star primary.
+
+@Swartz et al. 2009; Kovlakas et al. 2020:
+These papers are referenced to support the statement that ULXs are most commonly found in active, young star forming regions of spiral galaxies.
+
+@King et al. 2023:
+Cited as a recent review on ULXs, potentially providing a comprehensive overview of the topic.
+
+@Maccarone et al. 2007; Shih et al. 2010; Irwin et al. 2010; Maccarone et al. 2011; Roberts et al. 2012; Dage et al. 2019a, b, 2020, 2021:
+These references are cited to indicate that a total of 20 ultraluminous X-ray sources (ULXs) in globular clusters (GCs) have been extensively studied, allowing for investigations of their accretion signatures, optical properties, and spatial distributions relative to the host galaxy centers of the GCs.
+@Bellazzini et al. 1995; Sarazin et al. 2001; Irwin 2005; Chies-Santos et al. 2006; Kim et al. 2006; Maccarone & Knigge 2007; Kundu et al. 2007; Sivakoff et al. 2007; Humphrey & Buote 2008; Kim et al. 2013; Peacock et al. 2017a; Lehmer et al. 2020; Hunt et al. 2022; Gilfanov et al. 2022:
+These references are cited to provide examples of studies on X-ray binaries in globular clusters, which are used to probe the end-points of stellar evolution and investigate the relationship between optical properties and the presence of an X-ray binary.
+
+@Kundu et al. 2003:
+Referenced to support the claim that metal-rich clusters are more likely to host regular low mass X-ray binaries (GCLMXBs) in contrast to ULXs.
+@Maccarone et al. (2007):
+Referenced to provide evidence for the existence of black holes in globular clusters (GCULXs) and their potential to shed light on the debate regarding the ejection of black holes from the host cluster.
+
+@Spitzer (1969):
+Cited as the source of the theoretical work suggesting the ejection of black holes from globular clusters.
+
+@Abbott et al. (2016):
+Referenced to support the postulation of the dynamical formation of black hole binaries in globular clusters as one of the primary formation channels, which is crucial to the discussion.
+
+@Morscher et al. (2015); Rodriguez et al. (2016); Giersz et al. (2019); Kremer et al. (2019); Leveque et al. (2022):
+These papers are cited to highlight recent theoretical studies showing that globular clusters may retain more black holes than previously predicted by early models, and the rising observational evidence for Galactic black hole candidates.
+
+@Strader et al. (2012); Chomiuk et al. (2013); Miller-Jones et al. (2015); Giesers et al. (2018, 2019):
+These references are cited to support the claim that observational evidence for Galactic black hole candidates is increasing.
+
+@Weatherford et al. (2020):
+Referenced to emphasize the importance of studying extragalactic globular clusters to identify a larger sample of black hole candidates, considering the limited number of globular clusters in the Milky Way.
+@Bonfini et al. (2012):
+Referenced to support the identification of more than 700 globular cluster candidates in NGC 4261 and the characterization of the X-ray binary population in the galaxy.
+
+@Giordano et al. (2005):
+Cited to note the presence of two ULXs in GCs and many GCLMXBs in the GC system of NGC 4261.
+
+@Bonfini et al. (2012):
+Referenced again to indicate the use of their globular cluster catalogue in combination with Chandra X-ray Observatory data to identify GCULXs and GCLMXB sources in NGC 4261.
+
+@Giordano et al. (2005):
+Cited again to mention that many of the identified GCULXs and GCLMXBs in NGC 4261 were also listed in their publication.
+
+N/A

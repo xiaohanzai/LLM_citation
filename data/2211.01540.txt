@@ -1,0 +1,18 @@
+{
+  "Younes et al. 2022": "Referenced to report the anti-glitch event, fast radio bursts, pulsed radio emission, and the potential insights into the physics of magnetar magnetosphere in the context of SGR 1935+2154.",
+  "Good et al. 2020": "Cited to support the observation of fast radio bursts in SGR 1935+2154.",
+  "Zhu et al. 2020": "Cited to support the observation of pulsed radio emission in SGR 1935+2154.",
+  "Camilo et al. 2006": "Referenced to state that SGR 1935+2154 is the sixth magnetar to show pulsed radio emission.",
+  "Huang et al. 2021": "Referenced to state that SGR 1935+2154 is the sixth magnetar to show pulsed radio emission.",
+  "CHIME/FRB collaboration et al. 2020": "Cited to support the statement that SGR 1935+2154 is the first Galactic magnetar to show a fast radio burst.",
+  "Bochenek et al. 2020": "Cited to support the statement that SGR 1935+2154 is the first Galactic magnetar to show a fast radio burst.",
+  "Harding et al. 1999": "Cited to propose wind braking as the dominant spin-down mechanism in magnetars.",
+  "Tong et al. 2013": "Cited to propose wind braking as the dominant spin-down mechanism in magnetars.",
+  "Archibald et al. 2013": "Cited to support the discovery of the first anti-glitch in the magnetar 1E 2259+586.",
+  "Tong 2014": "Cited to propose wind braking as the cause of anti-glitch in magnetars.",
+  "Thompson et al. 2002": "Cited to suggest that the magnetic fields of magnetars may be twisted compared to normal pulsars.",
+  "Beloborodov 2009": "Cited to support the idea that twisted magnetic fields in magnetars can account for their outburst activities.",
+  "Pavan et al. 2009": "Cited to support the idea that twisted magnetic fields in magnetars can account for their outburst activities.",
+  "Tong 2019": "Cited to support the idea that twisted magnetic fields in magnetars can account for their outburst activities.",
+  "Tong & Huang 2020": "Cited to support the idea that twisted magnetic fields in magnetars can account for their outburst activities."
+}

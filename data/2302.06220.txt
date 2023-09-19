@@ -1,0 +1,21 @@
+@Lorimer et al. (2007):
+Referenced to introduce the concept of fast radio bursts (FRBs) and their properties, specifically their time-frequency structure and dispersion measure (DM).
+
+@Michilli et al. (2018); Macquart et al. (2020):
+These papers are cited to highlight the importance of analyzing the time-frequency structure of FRBs for studying the underlying emission mechanism and properties of the astrophysical plasmas they propagate through.
+
+@Zhao et al. (2021):
+Referenced to emphasize the significance of long-term studies of DM variation in repeating FRBs for gaining insights into the medium surrounding the FRB progenitor.
+
+@Hessels et al. (2019):
+Cited to highlight the sensitivity of FRB structure studies to the assumed value of DM used to dedisperse the FRB.
+
+@Caleb et al. (2020); Hilmarsson et al. (2021); Platts et al. (2021):
+These papers are cited to discuss the different approaches and assumptions regarding the selection of the correct DM in FRB analysis, particularly in terms of maximizing structure.
+
+@Gajjar et al. (2018); Josephy et al. (2019); B. C. Andersen et al. (2019); Pilia et al. (2020):
+Referenced to introduce the time-derivative of the pulse intensity as a common measure of FRB structure and to discuss the potential impact of smoothing operations on the structure-maximizing DM.
+
+N/A
+@Hessels et al. (2019):
+Referenced to support the statement that there is a slight variation in how the resulting d/dt are combined, with the preference being to combine the positive of the d/dt and detect interesting structures, but also highlighting the importance of accurately estimating the uncertainty of the resultant fitted DM.

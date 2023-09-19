@@ -1,0 +1,114 @@
+@Lorimer et al. (2007); Cordes & Chatterjee 2019; Petroff et al. 2022:
+These references are cited as recent reviews to provide background information on Fast Radio Bursts (FRBs) and their extragalactic nature, as well as to support the statement that the astrophysical mechanism for FRBs remains a mystery.
+
+@Lorimer et al. (2007); Spitler et al. (2016); Shannon et al. (2018):
+These papers are referenced to highlight the large dispersion measures (DMs) of FRBs and their significance in inferring the extragalactic nature of FRBs.
+
+@Tendulkar et al. (2017); Bannister et al. (2019); Ravi et al. (2019); Marcote et al. (2020); Heintz et al. (2020); Bhandari et al. (2020a); Bhardwaj et al. (2021):
+These references are cited to support the statement that subsequent follow-up observations have confirmed the cosmological origins of well-localized FRBs to individual galaxies.
+
+@Platts et al. (2019):
+This paper is referenced as a compendium of possible progenitor scenarios for FRBs, highlighting the lack of conclusive evidence for any specific progenitor.
+
+@Spitler et al. (2016); CHIME/FRB Collaboration et al. (2019); Bhardwaj et al. (2021):
+These references are cited to emphasize the division of the population of FRBs into repeating and non-repeating events, suggesting the possibility of multiple channels for FRB production.
+@Bandura et al. 2014; CHIME/FRB Collaboration et al. 2021:
+These references are cited to acknowledge the contributions of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) in the detection of more than 600 Fast Radio Bursts (FRBs) and the increasing pace of discoveries in the field.
+
+@Macquart et al. 2010; Shannon et al. 2018:
+These papers are referenced to recognize the role of the Australian Square Kilometer Array Pathfinder (ASKAP) in the detection and precise localization of FRBs.
+
+@Rajwade et al. 2022:
+This reference is cited to acknowledge the contribution of the MeerTRAP experiment in the detection of FRBs.
+
+@Law et al. 2018:
+This paper is referenced to recognize the role of the realfast experiment in the detection of FRBs.
+
+@Kocz et al. 2019:
+This reference is cited to acknowledge the contribution of the Deep Synoptic Array (DSA) in the detection of FRBs.
+
+@Eftekhari & Berger 2017:
+This paper is cited to emphasize the need for sub-arcsecond astrometric precision in order to effectively follow-up on the galaxy hosts of FRBs.
+
+N/A
+@Hardy et al. 2017; Andreoni et al. 2020; Chen et al. 2020; Marnoch et al. 2020; Kilpatrick et al. 2021; Núñez et al. 2021; Hiramatsu et al. 2022:
+These references are cited to indicate that searches for optical counterparts to FRBs have been conducted, but have not yet resulted in any detections.
+
+@Bhandari et al. 2020b:
+Referenced to highlight how spectroscopic redshifts of FRB galaxy hosts have constrained their possible progenitors and enabled their use as cosmological probes.
+
+@Macquart et al. 2020; Hagstotz et al. 2022; James et al. 2022; Ryder et al. 2022:
+These papers are cited to emphasize how spectroscopic redshifts of FRB galaxy hosts have enabled their use as cosmological probes.
+
+@Mannings et al. 2020; Chittidi et al. 2021:
+Cited to demonstrate how the study of the FRB host galaxy population can constrain theoretical models by assessing possible correlations between FRBs and various properties of their host galaxies.
+
+@Heintz et al. 2020; Bhandari et al. 2020a; Gordon et al. 2023:
+Referenced to highlight the diverse properties in stellar masses and star formation rates of FRB host galaxies.
+
+@Sharma et al. 2023:
+Cited to indicate that several FRBs appear to be coincident with spiral arm sub-structure of their host galaxies, potentially linking them to recent star formation.
+
+@Bannister et al. 2019; Ravi et al. 2019:
+These references are cited to show that some FRBs also appear within galaxies dominated by older stellar populations.
+@CHIME/FRB Collaboration et al. (2020):
+Referenced to provide strong evidence that FRBs could be powered by magnetars, supporting the association with young stellar populations.
+
+@Bhardwaj et al. (2021); Kirsten et al. (2022):
+Cited to indicate the localization of an FRB originating from within a globular cluster in Messier 81, suggesting an older stellar population.
+
+@Arabsalmani et al. (2019a); Roychowdhury et al. (2019):
+These papers are referenced to highlight the potential of mapping the cold gas content and kinematics to provide clues about the connection between star formation and FRB progenitors.
+
+@Marcote et al. (2020); Bhandari et al. (2020b):
+Cited to suggest that optical imaging of FRB hosts has indicated that some events may occur in perturbed star-forming environments.
+
+@Kaur et al. (2022):
+Referenced to present the mapping of the 21-cm neutral atomic hydrogen gas in a FRB host galaxy, suggesting recent minor merger-induced star formation as the cause of the FRB progenitor.
+
+N/A
+@Bower et al. (2018):
+Referenced to highlight a prior study that placed upper limits on the CO luminosity and H2 mass for the host galaxy of FRB 20121102A, providing context for the limited success of previous searches for molecular gas in FRB host galaxies.
+
+@Hatsukade et al. (2022):
+Cited to mention a recent study that presented a sample containing one new detection of molecular gas in the host galaxy of FRB 20180924B, as well as two upper limits for FRB 20190102C and FRB 20190711A, contributing to the discussion on molecular gas observations in FRB hosts.
+
+@Planck Collaboration et al. (2016):
+Referenced to specify the cosmology used throughout the paper, which is the Planck15 cosmology implemented in the astropy.cosmology package.
+@Macquart et al. (2010):
+Referenced to indicate that the FRB detections used in the study were from the Commensal Real-time ASKAP Fast Transients (CRAFT) survey conducted by Macquart et al. in 2010.
+
+@McConnell et al. (2016):
+Cited as the source of information about the ASKAP telescope, which was used in the FRB detections.
+
+@Bannister et al. (2019):
+Referenced for the first detection and localization of FRB 20180924B and for providing information about the properties of the host galaxy.
+
+@Prochaska et al. (2019b):
+Cited for the detection and localization of FRB 20181112A and for reporting on properties of a foreground galaxy and the host galaxy.
+
+@Macquart et al. (2020):
+Referenced for the detection and localization of FRB 20190102C and for using a selection of galaxies, including HG20180924B and HG20181112A, to estimate the contribution of host galaxies to observed FRB dispersion measures.
+
+@Bhandari et al. (2020a):
+Cited as the source of information about the investigation of the global properties of the first four host galaxies associated with FRBs localized by ASKAP, including HG20180924B and HG20181112A.
+
+@Heintz et al. (2020):
+Referenced for the presentation of the localizations of FRB 20190714A and FRB 20200430A and for analyzing a larger sample of galaxies, including all five examined in the study, to compare characteristics of FRB host galaxies.
+
+@Mannings et al. (2020):
+Cited for providing a high-resolution view of HG20180924B, HG20190102C, and HG20190714A, along with several other FRB host galaxies, using HST to examine the position of the FRBs within their host galaxies.
+
+@Gordon et al.:
+N/A
+@Mannings et al. (2020):
+Referenced to provide a high resolution view of FRB host galaxies and examine the position of FRBs within them.
+
+@Gordon et al. (2023):
+Cited to probe the star formation history of a large sample of FRB host galaxies and gain insights into the implications for FRB progenitors.
+
+@Day et al. (2021):
+Referenced for the updated FRB localizations.
+
+@Prochaska et al. (2019):
+Cited as the source for retrieving the host galaxy coordinates from the public FRB repository.

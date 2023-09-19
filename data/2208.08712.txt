@@ -1,0 +1,29 @@
+{
+  "Akahori et al. 2016": "Referenced to support the statement that the contribution from the intergalactic medium to the observed RM of an FRB is very small.",
+  "Hutschenreuter et al. 2022": "Cited to provide the typical value of RM in the interstellar medium in the Milky Way at high latitudes.",
+  "Michilli et al. 2018": "Referenced to highlight that FRB 121102 shows the largest RM among all observed FRB sources.",
+  "Hilmarsson et al. 2021": "Cited to mention the decrease in RM of FRB 121102 during one year.",
+  "Piro & Gaensler 2018": "Referenced to propose the expansion of a young supernova remnant as a possible cause for the observed RM variation in FRB 121102.",
+  "Margalit & Metzger 2018": "Cited to suggest a magnetar nebula as a potential explanation for the observed RM variation in FRB 121102.",
+  "Zhao et al. 2021": "Referenced to propose an ejecta from a compact binary merger as a possible cause for the observed RM variation in FRB 121102.",
+  "Niu et al. 2022": "Cited to mention the extremely large host DM and the significant RM reversal observed in FRB 190520B.",
+  "Anna-Thomas et al. 2022; Dai et al. 2022": "These papers are cited to highlight the large RM and the RM sign reversal observed in FRB 190520B.",
+  "Chatterjee et al. 2017": "Referenced to mention the association of FRB 121102 with a compact persistent radio source.",
+  "Yang et al. 2020(Yang et al., 2022)": "Cited to suggest a likely physical relationship between a persistent radio source and a large RM in FRBs."
+}
+{
+  "Xu et al. 2022": "Cited to support the statement that FRB 20201124A showed irregular RM variation over one month, with bursts exhibiting circular polarization and frequency-dependent oscillating polarization properties.",
+  "CHIME/FRB Collaboration et al. 2020a": "Referenced to indicate that FRB 180916B exhibited RM variation with a stochastic component and a secular component, in the context of its 16.33-day periodic activity.",
+  "Mckinven et al. 2022": "Cited to highlight the RM variation observed in FRB 180916B, suggesting that significant RM variations are a common feature for all FRB repeaters.",
+  "Feng et al. 2022": "Referenced to support the recent report that active FRB repeaters exhibit frequency-dependent depolarization, which can be explained by the multi-path propagation effect in an inhomogeneous magnetized plasma.",
+  "Yang et al. 2022": "Cited to further support the explanation of frequency-dependent depolarization in active FRB repeaters due to multi-path propagation in an inhomogeneous magnetized plasma.",
+  "Beniamini et al. 2022": "Referenced to indicate that significant circular polarization can be generated in a radio burst due to the superposition of electromagnetic waves with different phases and polarization angles from different paths."
+}
+{
+  "Lorimer et al. (2013)": "Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.",
+  "N/A": "No citations appear in the text.",
+  "N/A": "No citations appear in the text.",
+  "N/A": "No citations appear in the text.",
+  "N/A": "No citations appear in the text.",
+  "N/A": "No citations appear in the text."
+}

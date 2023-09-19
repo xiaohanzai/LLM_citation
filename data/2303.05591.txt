@@ -1,0 +1,52 @@
+@1:
+Referenced to introduce the first observed FRB event, known as the Lorimer burst, which sparked the field of FRB studies.
+
+@2:
+Cited to provide a detailed review of FRBs and their characteristics.
+
+@3,4:
+Referenced to describe the simultaneous detection of an FRB-like radio burst and a high energy flare from the Galactic source SGR 1935+2154, providing evidence that magnetars are sources of FRBs.
+
+@5,6,7,8:
+Cited to support the simultaneous detection of an FRB-like radio burst and a high energy flare from the magnetar SGR 1935+2154.
+
+@12:
+Referenced to mention that since the publication of the Lorimer et al. paper, many proposals to explain the origin of FRBs have been proposed.
+
+@13:
+Cited to highlight an extensive recent review discussing the most plausible emission mechanisms for FRBs, which are limited in number and involve magnetars.
+
+@14:
+Referenced to mention that some models not involving neutron stars (NSs) have been described, suggesting that the population of FRB sources may be non-uniform and some events may be unrelated to magnetar flares.
+@15:
+Referenced to support the statement that the idea of FRBs being related to γ/X-ray flares of magnetars was proposed in 2007.
+
+@16:
+Cited to acknowledge that observations of SGR 1935+2154 confirm the hypothesis that FRBs are related to γ/X-ray flares of magnetars, but the exact emission mechanism is still unknown.
+
+@17:
+Referenced to mention that there are two main families of models to explain radio emission of FRBs, without providing specific details.
+
+@18:
+Cited to highlight the existence of 50 repeating sources of FRBs and the detection of individual radio flares from some of them, with the number of events rapidly growing over time.
+
+@19:
+Referenced to indicate that one-off FRBs are actively discovered by CHIME, the Canadian radio facility.
+
+@20:
+Cited to emphasize that the FAST radio telescope is very productive in detecting numerous bursts from repeaters due to its huge collecting area.
+
+@21:
+Referenced to compare the number of sources of FRBs to the number of known radio pulsars (PSRs), which is an order of magnitude comparable according to the ATNF catalogue.
+
+@22:
+Cited to mention the expectation that the Square Kilometer Array (SKA) will discover all radio pulsars in the Galaxy pointing towards us, which is estimated to be around a few times 10^4.
+
+@23:
+Referenced to state the expectation that SKA will detect around 10^4-10^5 FRBs per day.
+
+@24:
+Cited to highlight the expectation that the PUMA survey will discover 10^6 FRBs during its operation.
+
+N/A
+@N/A

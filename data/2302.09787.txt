@@ -1,0 +1,57 @@
+@Rajwade et al. 2020; Cruces et al. 2021; Li et al. 2021:
+These references are cited to provide sources for the information about FRB 20121102A, one of the known repeaters, and its long-term periodic activity cycles.
+
+@Chime/Frb Collaboration et al. 2020:
+This reference is cited to provide a source for the information about FRB 20180916B, another known repeater, and its long-term periodic activity cycles.
+
+N/A
+@Bhandari et al. 2022; Bannister et al. 2019; Prochaska et al. 2019; Macquart et al. 2020; Heintz et al. 2020; Bhandari et al. 2020; Ryder et al. 2022:
+These references are cited to provide the sources for the localizations of twelve FRBs using the Australian Square Kilometre Array Pathfinder (ASKAP) and to support the statement that no significant difference was found between the host galaxies of repeating and non-repeating FRBs.
+
+@Hotan et al. 2021:
+Referenced to provide the source for the detection and localization of twelve FRBs using the Australian Square Kilometre Array Pathfinder (ASKAP).
+
+@Chatterjee et al. 2017; Law et al. 2020; Niu et al. 2022; Luo et al. 2020:
+These papers are cited to provide the sources for the localizations of four FRBs using the Karl G. Jansky Very Large Array (VLA).
+
+@Perley et al. 2011:
+Referenced to provide the source for the localization of four FRBs using the Karl G. Jansky Very Large Array (VLA).
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022; Marcote et al. 2021; Nimmo et al. 2022:
+These references are cited to provide the sources for the localizations of two FRBs using Very Long Basline Interferometry (VLBI).
+
+@Marcote et al. 2020:
+Referenced to provide the source for the localization of one FRB using the European VLBI network (EVN).
+
+@Ravi et al. 2019:
+Referenced to provide the source for the localization of one FRB using the Deep Synoptic Array 10-dish (DSA-10) prototype.
+@Chatterjee et al. (2017); Michilli et al. (2018); Zhang 2018a:
+These references are cited to provide different progenitor models for FRB 20121102A, including a young neutron star in a compact supernova remnant or a neutron star near the accretion torus of a black hole.
+
+@Kirsten et al. (2022):
+Referenced to discuss the localization of the repeating FRB 20200120E to a globular cluster in the M81 galactic system and the implications for an unusual magnetar progenitor model for FRBs.
+
+@Prochaska et al. (2019):
+Cited to highlight the use of an FRB to constrain the halo gas density, magnetization, and turbulence of an intervening galaxy.
+
+@Macquart et al. (2020):
+Referenced to demonstrate the potential of a large sample of arcsecond-localized FRBs in directly measuring the baryons in the Universe.
+
+@Camilo et al. (2018):
+Cited to provide information about MeerKAT, an interferometer in the Karoo region of South Africa, including its configuration and capabilities.
+
+@Sanidas et al. (2018); Bezuidenhout et al. (2022); Jankowski et al. (2022); Rajwade et al. (2022):
+These references are cited to describe the MeerTRAP project at the MeerKAT telescope, which undertakes high time resolution radio transient searches in conjunction with ongoing MeerKAT Large Survey Projects (LSPs).
+@Fender et al. 2016:
+Referenced as the source of information about ThunderKAT, the MeerKAT LSP, which is involved in searching for and investigating radio transient and variable sources.
+
+@Russell et al. 2019; Bright et al. 2020; Williams et al. 2020; van den Eĳnden et al. 2022:
+Cited as references for known variable radio sources, specifically X-ray binary systems, that are observed and monitored by ThunderKAT.
+
+@Rhodes et al. 2020; Hewitt et al. 2020; Driessen et al. 2022b:
+Referenced to indicate sources that were initially detected at other wavelengths and are followed up by ThunderKAT.
+
+@Driessen et al. 2020(Driessen et al., 2022a;; Andersson et al. 2022; Rowlinson et al. 2022):
+Cited as references for untargeted searches for transient and variable sources in the field of view (FoV) of MeerKAT image-plane observations.
+
+N/A

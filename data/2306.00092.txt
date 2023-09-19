@@ -1,0 +1,66 @@
+@Sancisi et al. 2008; Putman et al. 2012; Kamphuis et al. 2022:
+These references are cited to support the observation that the accretion rates of neutral gas surrounding the Milky Way and nearby spirals are insufficient to sustain observed star formation rates, highlighting the phenomenon of "missing accretion."
+
+@Voit et al. 2017:
+Referenced to discuss the predominantly ionized gas clumps with temperature ∼ 10 4 K, which are observable mainly in UV absorption and are often attributed to the "missing accretion" phenomenon.
+
+@Fox et al. 2019:
+Cited to acknowledge the uncertainties in converting UV absorption features to net accretion rates, which is relevant to the discussion of the fuel for star formation.
+
+@Heitsch & Putman 2009; Armillotta et al. 2017; Tan et al. 2023:
+These papers are cited to highlight the possibility that hydrodynamic instabilities may disrupt and evaporate cool gas clumps before they reach the galaxy, which is relevant to the discussion of the viability of the ionized gas phase as a fuel for star formation.
+
+@Mathews & Bregman 1978; Fabian et al. 1984:
+Referenced to propose an alternative possibility of accretion proceeding via a subsonic inflow in the volume-filling hot phase (∼ 10 6 K) of the circumgalactic medium (CGM), drawing parallels to classic 'cooling flow' solutions discussed in the context of the intracluster medium.
+
+@Stern et al. 2021a; Hafen et al. 2022:
+Cited to support the existence of hot CGM inflows in modern cosmological simulations such as FIRE, which is relevant to the discussion of the alternative accretion mechanism.
+
+@ZuHone et al., in prep.; Nelson et al. 2019:
+These references are cited to provide additional support for the existence of hot CGM inflows in modern cosmological simulations, as evidenced by the TNG simulation and figure 9 in Nelson et al. 2019.
+@Roškar et al. 2010; Stevens et al. 2017; Oppenheimer 2018; DeFelippis et al. 2020; Truong et al. 2021; Huscher et al. 2021; Nica et al. 2021:
+These references are cited to support the statement that the hot CGM is expected to have a net rotation, emphasizing the existing literature on this topic.
+
+@Stern et al. (2020):
+Referenced to provide evidence from an idealized one-dimensional model that a rotating hot inflow will remain hot until it reaches a certain radius and cools down, which is relevant to the discussion of the behavior of the hot CGM.
+
+@Hafen et al. (2022):
+Cited to demonstrate that the picture of a rotating hot inflow applies to Milky-Way mass galaxies and is the dominant accretion mode, based on cosmological zoom simulations, highlighting the relevance of this concept to galaxy evolution.
+
+@Hopkins et al. 2018:
+Referenced as the source of the FIRE-2 cosmological zoom simulations, which provide the basis for the findings presented by Hafen et al. (2022).
+
+@Stern et al. 2021a,b; Yu et al. 2021; Yu et al. 2022; Gurvich et al. 2023:
+These papers are cited to support the conclusion that the coherence of the spinning disk formed by the inflow may be a necessary condition for the formation of thin disk galaxies, emphasizing the consistency of this conclusion with related analyses.
+@Hafen et al. (2022):
+Referenced as the present paper complements their cosmological simulation-based analysis of hot and rotating CGM inflows by deriving an idealized, two-dimensional axisymmetric solution.
+
+@Cowie et al. 1980; Birnboim & Dekel 2003; Narayan & Fabian 2011; Stern et al. 2020:
+These studies are cited as previous works that provided 1D hot inflow solutions, which accounted for rotation in an approximate manner, and assumed the centrifugal force is directed outward in the spherical radius direction.
+
+@Quataert & Narayan 2000:
+Referenced as an example of other astrophysical disks fed by spherical inflows, such as AGN disks in galaxy centers.
+
+@Fielding et al. 2015:
+Referenced as an example of other astrophysical disks fed by spherical inflows, such as protoplanetary disks in the center of star-forming clouds.
+@McCourt et al. 2012; Sharma et al. 2012; Voit et al. 2017; Faerman et al. 2017; Pezzulli et al. 2017; Sormani et al. 2018:
+These papers are cited to contrast the inflowing hot CGM solution derived in the current study with radially-static hot CGM models and highlight the difference in assumptions regarding radiative cooling and feedback heating.
+
+@Faerman et al. 2020:
+Referenced to support the statement that the inflowing hot CGM solution derived in the current study differs from radially-static hot CGM models.
+
+@Thompson et al. 2016; Schneider et al. 2020:
+Cited to contrast the inflowing hot CGM solution derived in the current study with hot outflow models, emphasizing the requirement of dominant feedback heating in outflow models.
+
+@McDonald et al. 2018:
+Referenced to highlight the strong observational evidence for thermal balance in the ICM and the "cooling flow problem" where the inflow rate is much larger than the star formation rate.
+
+@Li & Wang 2013; Li et al. 2014; Anderson et al. 2015; Comparat et al. 2022:
+These papers are cited to provide upper limits on X-ray emission from the hot CGM of Milky-Way mass galaxies and suggest that the actual emission is comparable to these limits based on recent eROSITA data.
+
+@Chadayammuri et al. 2022:
+Referenced to support the suggestion that the actual X-ray emission from the hot CGM of Milky-Way mass galaxies is comparable to the upper limits mentioned earlier.
+
+@Anderson et al. 2016; Bogdán et al. 2017; Das et al. 2019:
+Cited to highlight the upper limits and detections of X-ray emission around disk galaxies, which suggest the possibility of inflowing hot CGM providing fuel for star formation.
+@N/A

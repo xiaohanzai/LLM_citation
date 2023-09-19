@@ -1,0 +1,40 @@
+@Lorimer et al. (2007); Petroff et al. (2019a); Cordes & Chatterjee (2019):
+These references are cited to provide background information on fast radio bursts (FRBs), including their characteristics and unknown physical mechanism.
+
+@CHIME/FRB Collaboration et al. (2021):
+Referenced to indicate the number of published FRBs in the past decade.
+
+@Spitler et al. (2016); CHIME/FRB Collaboration et al. (2019a,b); Fonseca et al. (2020); CHIME/FRB Collaboration et al. (2020b, 2023):
+These papers are cited to highlight the existence of repeating FRBs and the various studies that have reported them.
+
+@Chatterjee et al. (2017); Ravi et al. (2019); Marcote et al. (2020); Macquart et al. (2020); Kirsten et al. (2022):
+Referenced to emphasize the importance of localizing FRBs to their host galaxies for understanding their nature.
+
+@Platts et al. (2019):
+Cited to acknowledge the diversity of physical models for FRBs.
+
+@Totani (2013); Mingarelli et al. (2015):
+These references are cited to present different possibilities and physical models for FRBs, including cataclysmic scenarios and the role of black holes or neutron stars.
+
+@CHIME/FRB Collaboration et al. (2020b); Rajwade et al. (2020); Cruces et al. (2021):
+Referenced to highlight the observation of periodic activity windows in some FRB repeaters.
+
+@Li et al. (2021); Lanman et al. (2022):
+Cited to mention the clustering of bursts and the range of waiting times observed in some FRB repeaters.
+
+@Pleunis et al. (2021):
+Referenced to acknowledge the observed dichotomy between the morphology of apparent non-repeaters and repeater bursts.
+@Lin et al. 2022(Lin et al. , 2023):
+Referenced to support the assumption that apparently bright events are typically closer than faint events, based on the same luminosity function of FRBs.
+
+@CHIME/FRB Collaboration et al. 2020a; Dong & CHIME/FRB Collaboration 2022:
+Cited to provide examples of apparently bright bursts detected in the sidelobes of the CHIME/FRB telescope, highlighting the capability of detecting rare events in these regions.
+
+@Petroff et al. 2019b:
+Referenced to describe the detection of an apparently bright and low-DM FRB in the sidelobes of the Parkes telescope, and to mention the non-detection of repeating bursts, raising questions about the repetition behavior of FRBs.
+
+N/A
+@CHIME/FRB:
+Referenced as the telescope that detected the 10 far side-lobe FRBs discussed in the paper.
+
+N/A

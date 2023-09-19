@@ -1,0 +1,41 @@
+@Israel et al. (2016):
+Referenced to provide information about the spin period and magnetic field strength of the Galactic magnetar SGR J1935+2154.
+
+@CHIME/FRB Collaboration et al. (2020); Bochenek et al. (2020):
+Cited to report the detection of the bright millisecond radio burst FRB 20200428 from SGR J1935+2154 by the CHIME and STARE2 telescopes.
+
+@Mereghetti et al. (2020); Li et al. (2021a); Ridnaia et al. (2021); Tavani et al. (2021):
+Referenced to highlight the temporal coincidence of a bright X-ray burst with FRB 20200428 from SGR J1935+2154.
+
+@Wang et al. (2022b):
+Cited to support the claim that the detection of FRB 20200428 from a Galactic magnetar suggests that at least part of FRBs originate from magnetars.
+
+@Dai (2020); Geng et al. (2020); Wu et al. (2020); Margalit et al. (2020); Lu et al. (2020); Shen et al. (2023):
+These papers are cited to mention various proposed models that explain the simultaneous production of FRB 20200428 and the X-ray burst from SGR J1935+2154.
+
+@Younes et al. (2023); Zhu et al. (2020):
+Referenced to describe the anti-glitch that occurred in SGR J1935+2154 and the subsequent detection of three bright radio bursts by CHIME.
+
+@Good & Chime/Frb Collaboration (2020):
+Cited to report the detection of three FRB-like bursts by CHIME.
+
+@Zhong et al. (2020):
+Referenced to provide the distance of SGR J1935+2154.
+
+@Ge et al. (2022):
+Cited to discuss the timing properties of SGR J1935+2154 and the occurrence of a giant spin-up glitch before FRB 20200428.
+@Haskell & Melatos 2015:
+Referenced to support the statement that the origin of glitches in pulsars is still unknown, highlighting the need for further research on this phenomenon.
+
+@Thompson et al. 2000; Lyutikov 2013; Tong 2014; Katz 2014; Huang & Geng 2014; Kantor & Gusakov 2014:
+These papers are cited to present various proposed models for explaining the origin of anti-glitches, demonstrating the range of hypotheses that have been put forward on this topic.
+
+@Katz 2014; Huang & Geng 2014:
+Referenced to support the explanation of the anti-glitch observed in magnetar 1E 2259+586, suggesting that the accretion of planetesimals and the collision of a solid body with the magnetar could account for this phenomenon.
+
+@Younes et al. 2023; Ge et al. 2022:
+These papers are cited to establish a physical connection between the glitch/anti-glitch and FRB-like bursts observed in SGR J1935+2154, providing interpretations for the relationship between these events based on the escape of particle wind and the alteration of magnetospheric field geometry.
+
+@Wang et al. 2022a; Wang et al. 2021; Tong 2023; Du 2023:
+These papers are cited to reference other discussions on the glitch, anti-glitch, and glitch-associated activities of SGR J1935+2154, highlighting the existence of multiple perspectives on these phenomena but noting that none of them offer a comprehensive explanation for the simultaneous occurrence of anti-glitches, glitches, and FRB-like bursts.
+@N/A

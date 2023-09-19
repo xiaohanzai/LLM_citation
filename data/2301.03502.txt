@@ -1,0 +1,60 @@
+@Reynolds 1991; Putman et al. 2012:
+These references are cited to provide evidence and support for the statement that the Milky Way halo contains both neutral and ionized gas, with the latter component dominating in mass and extending to hundreds of kiloparsecs, and to highlight the difficulty in directly imaging the diffuse and hot nature of the ionized halo gas.
+@Gupta et al. 2009; Yoshino et al. 2009; Henley et al. 2010; Henley & Shelton 2013:
+These papers are cited to support the existing indirect constraints for the total amount of hot halo gas using observations of the ∼ 0.1 -1 keV diffuse soft X-ray background and absorption lines of oxygen ions in X-ray and far-ultraviolet spectroscopy of active galactic nuclei.
+
+@Fang et al. 2015; Gupta et al. 2012; Sakai et al. 2012:
+These papers are cited to highlight the indirect constraints for the total amount of plasma using absorption lines of oxygen ions in X-ray and far-ultraviolet spectroscopy of active galactic nuclei.
+
+@Fang et al. 2006; Yao & Wang 2007:
+Referenced to support the claim that most of the hot gas detected in X-ray emission is thought to be within a few kiloparsecs of the MW disk.
+
+@Sembach et al. 2003; Stanimirović et al. 2006; Grcevich & Putman 2009:
+These papers are cited to provide evidence for the existence of extended hot halo gas with density on the order of 10 -5 -10 -4 cm -2 at distances of 50-100 kpc.
+
+@Yamasaki & Totani (2020); Ueda et al. (2022):
+Referenced to support the emerging evidence for a disk-like component to the MW halo gas.
+
+@Bregman et al. 2015(Bregman et al., 2018):
+These papers are cited to discuss the findings that the gas closest to us (within 50 Mpc) suggests that the hot halo gas cannot be the host of all of the missing baryons, but if the gas density beyond 50 kpc were to flatten, the hot halo gas could account for the missing baryons.
+
+@Faerman et al. (2017):
+Referenced to support the claim that if the gas density beyond 50 kpc were to flatten, the hot halo gas could account for the missing baryons.
+@Ridley et al. 2013:
+Referenced to support the constraint on the mass and extent of the plasma in the MW halo based on radio observations of pulsars in the Large and Small Magellanic Clouds (LMC and SMC).
+
+@Pietrzyński et al. 2019; Graczyk et al. 2020:
+These papers are cited to provide the distances to the LMC and SMC, which are relevant to the discussion of the constraint on the mass and extent of the plasma in the MW halo.
+
+@Bryan & Norman 1998; Bovy 2015; Cautun et al. 2020; Shen et al. 2022:
+These references are cited to provide estimates of the virial radius of the MW, which is relevant to the discussion of the distance of the LMC and SMC in relation to the MW.
+
+@Kulkarni 2020:
+Referenced for an in-depth discussion on the relationship between dispersion measure (DM) and the column density of free electrons.
+
+@Manchester et al. 2006:
+Cited to provide the lower bound on the Galactic DM contribution based on radio pulsars within the SMC and LMC.
+@Cordes & Lazio 2002; Gaensler et al. 2008; Savage & Wakker 2009; Schnitzeler 2012; Yao et al. 2017; Ocker et al. 2020:
+These references are cited to support the characterization of the plasma within the Galactic disk using pulsars with independent distance measurements, specifically in relation to the modelling of the scale height and midplane density of the warm ionized medium (WIM) disk.
+
+@Cordes & Lazio 2002; Yao et al. 2017:
+These papers are cited to highlight the inclusion of dispersion measure (DM) measurements of pulsars with independent distance measurements in the Galactic plasma models NE2001 and YMW16, which have more components than other models and are used to predict DMs of certain populations of pulsars.
+
+@Chatterjee et al. 2009:
+Referenced to indicate that the NE2001 and YMW16 models fail in predicting the DMs of certain populations of pulsars, as discussed in the paper.
+
+@Price et al. (2021):
+Cited as a comprehensive review and comparison of the NE2001 and YMW16 models.
+@Lorimer et al. (2007):
+Referenced as the class-defining observation of an FRB with a higher DM than could be contributed by our Galaxy, highlighting the significance of this burst in the context of Galactic electron density models.
+
+@Heintz et al. (2020):
+Cited for a review of host galaxy associations with FRBs, supporting the argument that FRBs with DMs substantially larger than predicted by Galactic density models are extragalactic in nature.
+
+@Prochaska & Zheng (2019); Prochaska et al. (2019):
+These papers are cited to suggest that DM cosmic, which includes contributions from the IGM and potentially intervening galaxies or galaxy halos along the line of sight, could be a component of the measured DM of an extragalactic FRB.
+@Platts et al. (2020):
+Referenced to support the initial constraint on the MW halo contribution using a population of FRBs, and to provide the methodology for modeling the excess DM distributions.
+
+@CHIME/FRB Collaboration 2020; Bochenek et al. 2020; CHIME/FRB Collaboration 2022:
+Cited to acknowledge the detections of FRB-like events from within the MW from a known Galactic source, namely, magnetar SGR 1935+2154, and to highlight the consistency of the DM of this burst with being Galactic according to NE2001 and YMW16.

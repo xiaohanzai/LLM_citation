@@ -1,0 +1,60 @@
+@DESI Collaboration et al. 2016:
+Referenced to highlight the Dark Energy Spectroscopic Instrument (DESI) as one of the galaxy surveys that will map out the late-time structure of the Universe.
+
+@Rubin, LSST Science Collaboration et al. 2009:
+Cited to emphasize the Vera Rubin Observatory as another galaxy survey that will contribute to mapping out the late-time structure of the Universe.
+
+@Roman, Spergel et al. 2015:
+Referenced to highlight the Nancy Grace Roman Space Telescope as a galaxy survey that will also contribute to mapping out the late-time structure of the Universe.
+
+@Vagnozzi et al. 2018; Choudhury & Choubey 2018:
+These papers are cited to emphasize the importance of studying the statistics of the distribution of matter along the line of sight in order to reveal answers to fundamental physics puzzles, such as the sum of neutrino masses and the nature of dark energy, gravity, and the primordial Universe.
+@Reichardt et al. 2013:
+Referenced to support the statement that the tSZ effect can be used to detect massive clusters at various epochs.
+
+@Czakon et al. 2015; Salvati et al. 2019:
+These papers are cited to highlight the use of the Compton-y parameter, derived from the integrated tSZ signal of individual clusters, as a mass proxy via scaling relations.
+
+@Hurier & Lacasa 2017; Madhavacheril et al. 2017; Horowitz & Seljak 2017; Salvati et al. 2018; Makiya et al. 2020:
+These references are cited to emphasize that redshift-calibrated cluster counts using the tSZ signal can provide constraints on the shape of the halo mass function, which is sensitive to various cosmological parameters.
+
+@Planck Collaboration et al. 2016; Choi et al. 2020; Bleem et al. 2015:
+These papers are cited to highlight the use of two-point and higher-order correlation functions to study the spatial distribution of the tSZ signal and its analysis as a powerful probe of large-scale structure formation across cosmic time.
+@Hand et al. 2012; Smith et al. 2018:
+These papers are cited to support the use of pairwise and bispectrum estimators for isolating the large-scale velocity field in the kSZ effect, which provides information about various cosmological parameters.
+
+@Alonso et al. 2016; Münchmeyer et al. 2019; Pan & Johnson 2019:
+These references are cited to emphasize that the large-scale velocity field measured through the kSZ effect can provide insights into the growth history, dark energy, primordial non-Gaussianities, and modified gravity.
+
+@Soergel et al. 2016; De Bernardis et al. 2017; Planck Collaboration et al. 2018; Calafut et al. 2021:
+These papers are referenced to highlight that the SPT, ACT, and Planck teams have conducted measurements of the large-scale velocity field using the kSZ effect.
+
+@Schaan et al. 2021(Schaan et al., 2016):
+This reference is cited to mention the use of stacking analyses to understand astrophysical processes in clusters through the kSZ effect.
+
+@Amodeo et al. 2021:
+This paper is referenced to demonstrate the use of stacking analyses in understanding astrophysical processes in clusters through the kSZ effect.
+
+@Hill et al. 2016; Ferraro et al. 2016; Kusiak et al. 2021; Bolliet et al. 2023:
+These references are cited to highlight the use of projected field estimators in constraining the cosmic baryon fraction through the kSZ effect.
+
+@Amodeo et al. (2021):
+This paper is referenced to show that the kSZ effect is an excellent tool for measuring and calibrating baryon effects in weak lensing, which is important for current and future weak lensing surveys.
+@Battaglia et al. 2017:
+Referenced to support the inference of temperature profiles of halos through the combination of tSZ and kSZ measurements, which is important for understanding the thermodynamic processes in galaxies and galaxy clusters.
+
+@Spacek et al. 2018; Tanimura et al. 2021; Vavagiakis et al. 2021:
+These papers are cited to emphasize the importance of understanding group and cluster thermodynamics in gaining insight into galaxy formation and evolution, as well as the impact of baryons on cosmological analyses.
+@Ade et al. 2019; Abazajian et al. 2016:
+These references are cited to indicate that the upcoming measurements of the CMB temperature fluctuations with Advanced ACT, Simons Observatory, and CMB-S4 will enhance our ability to constrain cosmological models.
+
+@Di Matteo et al. 2005; Agertz & Kravtsov 2016; Kannan et al. 2016; Kannan et al. 2017; Barnes et al. 2019; Moser et al. 2021:
+These papers are cited to emphasize the importance of high-resolution, high-fidelity hydrodynamical simulations in studying the relations between various astrophysical quantities, particularly in the context of group and cluster properties and the physical processes involved, such as AGN feedback and plasma physics.
+@Pakmor et al. 2022:
+Referenced as the source of the largest-to-date hydrodynamical simulation, MTNG740, which is utilized in this work to explore the properties of the electron pressure and density.
+
+@Springel et al. 2001; White et al. 2002; Refregier & Teyssier 2002; Battaglia et al. 2010; Battaglia 2016; Dolag et al. 2016:
+These papers are cited to acknowledge the previous works that have addressed scientific questions relevant to SZ science via hydrodynamical simulations, establishing the foundation for the current study.
+
+N/A
+@N/A

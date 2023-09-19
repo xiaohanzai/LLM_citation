@@ -1,0 +1,26 @@
+@Lorimer et al. (2007); Petroff et al. (2019a); Cordes & Chatterjee (2019); Thornton et al. (2013); Petroff et al. (2016); CHIME/FRB Collaboration et al. (2021); Spitler et al. (2016); CHIME/FRB Collaboration et al. (2019a,b); Fonseca et al. (2020); CHIME/FRB Collaboration et al. (2020b, 2023); Chatterjee et al. (2017); Ravi et al. (2019); Marcote et al. (2020); Macquart et al. (2020); Kirsten et al. (2022); Platts et al. (2019); Macquart & Ekers (2018); Ravi et al. (2016); James et al. (2019); CHIME/FRB Collaboration et al. (2021):
+These references are cited to provide evidence, support, and context for various aspects of the discussion on fast radio bursts (FRBs), including their discovery, observation, repetition, localization, distance distribution, fluence distribution, power-law index, and consistency in a Euclidean Universe.
+@CHIME/FRB Collaboration et al. 2018; CHIME Collaboration et al. 2022a:
+Referenced to indicate that the Canadian Hydrogen Intensity Mapping Experiment (CHIME) searches for FRBs.
+
+@Berger et al. 2016; CHIME Collaboration et al. 2022b; Reda et al. 2022:
+Cited to support the statement that CHIME directly measures the beam patterns with holography.
+
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to mention the First CHIME/FRB Fast Radio Burst Catalog (Catalog 1) and its findings.
+
+@Lin et al. 2022:
+Cited to explain the statistical significance of the side-lobe sample in relation to the main-lobe samples.
+@Lin et al. (2023):
+Referenced to study the 10 far side-lobe FRBs reported in the paper and their flux calibration using holographic techniques.
+
+@Petroff et al. (2019a):
+Cited to mention that the dispersion measure (DM) provides an upper bound of the distance for the FRBs.
+
+@Lin et al. (2022):
+Referenced to state that in Euclidean geometry, nearby events are approximately 500 times brighter than farther ones, emphasizing the statistical proximity of the far sidelobe events compared to the mainlobe FRBs.
+
+@Catalog 1:
+Cited to compare the DM excesses of the side-lobe sample to the main-lobe sample and constrain the local and intergalactic contributions to the dispersion measures.
+
+N/A

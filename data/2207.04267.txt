@@ -1,0 +1,63 @@
+{
+  "Hewish et al. 1968": "Referenced as the discovery of the first pulsar in 1967.",
+  "Harding 2013": "Referenced as a source for the study of pulsars and other neutron stars at radio wavelengths and beyond.",
+  "Rickett 1990": "Cited as a source for the study of scattering and scintillation of radio pulses propagating through the interstellar medium (ISM).",
+  "Melrose 1979": "Cited as a source for the study of Faraday rotation of radio pulses propagating through the ISM.",
+  "Tanenbaum et al. 1968": "Referenced as a source for the study of dispersion of radio pulses propagating through the ISM.",
+  "Swanson 2003": "Referenced as a source for the study of dispersion of radio pulses propagating through the ISM.",
+  "Chen 2012": "Referenced as a source for the study of dispersion of radio pulses propagating through the ISM.",
+  "Fitzpatrick 2014": "Referenced as a source for the study of dispersion of radio pulses propagating through the ISM.",
+  "Lorimer & Kramer 2012": "Cited as a source for the dispersion constant used in the time delay equation and the expression of dispersion measure.",
+  "Stix 1962": "Cited as a source for the expression and units of dispersion measure.",
+  "Cordes & Lazio 2002": "Cited as a source for the non-homogeneous and non-constant nature of free electron density in the ISM.",
+  "Yao et al. 2017": "Cited as a source for the use of DM measurements of pulsars to measure the column density of free electrons."
+}
+{
+  "Tanenbaum et al. 1968": "Referenced to support the statement that numerous DM studies based on pulsar data have been carried out in the past to examine the validity of the cold plasma dispersion law, Equation 1.",
+  "Phillips & Wolszczan 1992": "Cited for their multifrequency observations that resulted in the conclusion that integrated profile arrival times follow the cold plasma dispersion law at meter and decameter wavelengths, with departures observed for two pulsars in their sample at frequencies from 2 to 5 GHz.",
+  "Goldstein & James 1969": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Rankin & Roberts 1971": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Hankins 1987": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Hankins et al. 1991": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Phillips & Wolszczan 1991": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Backer et al. 1993": "Cited as one of the references for the extensive observation and study of temporal changes of the DM.",
+  "Rawley et al. 1988": "Cited as one of the references for the observation and study of temporal changes of the DM in the context of ordinary as well as recycled pulsars.",
+  "Cognard & Lestrade 1997": "Cited as one of the references for the observation and study of temporal changes of the DM in the context of ordinary as well as recycled pulsars.",
+  "Ramachandran et al. 2006": "Cited for the discovery of frequency-dependent DM variations in the case of recycled pulsars.",
+  "Lam et al. 2016": "Cited to support the statement that temporal changes of DM values can be caused by discrete structures in the ISM, changes of the relative pulsar velocity and the Earth, as well as changes of the solar wind.",
+  "Jones et al. 2017": "Cited for their study of DM variations in 37 recycled pulsars, which showed periodic annual, monotonically increasing or decreasing trends, or both, as well as stochastic trends, suggesting the existence of discrete structures in the ISM."
+}
+{
+  "Ramachandran et al. (2006)": "Referenced to support the observation of frequency-dependent DM caused by fluctuations in the electron column density of the ISM in the first detected recycled pulsar PSR B1937+21, and to highlight the assumption that these variations are caused by a turbulent medium and multipath propagation, with potential impact on pulsar timing accuracy.",
+  "Cordes et al. (2016)": "Cited to introduce a theoretical approach for frequency-dependent DM, explaining it as a result of multipath scattering caused by inhomogeneities of the ISM containing different electron densities."
+}
+{
+  "Hankins 1987": "Referenced to describe the standard approach of determining pulsar dispersion measure (DM) by measuring time delay between pairs of average profiles recorded at wide bandwidths.",
+  "Hankins et al. 1991": "Cited to discuss the correlation between pairs of single pulse microstructure at different frequencies and the lower DM value resulting from the cross correlation of microstructure compared to profile alignment.",
+  "Komesaroff 1970": "Referenced to highlight that profile evolution with frequency can lead to frequency dependent measurements of DM.",
+  "Craft et al. 1968": "Cited to describe the independent approach of determining DM using microstructure discovered in some pulsars.",
+  "Shitov et al. 1988": "Referenced to suggest the existence of superdispersion based on the results from different studies using microstructure determined DM.",
+  "Ahuja et al. 2005": "Cited to report further DM studies carried out with profiles as well as with single pulses, observing a lower DM resulting from cross-correlating single pulses in some pulsars."
+}
+{
+  "Ahuja et al. 2005": "Cited to support the statement that a pulsar's dispersion measure (DM) depends on the method of analysis, and to explain the difference between measuring DM using cross-correlation functions (CCFs) from profiles versus single pulses."
+}
+{
+  "Staelin & Reifenstein 1968": "Referenced to describe the detection of sporadic single pulses, later labelled as giant pulses (GPs), from the Crab pulsar.",
+  "Moffett & Hankins 1996": "Cited to discuss the existence of seven average radio emission components in the Crab pulsar.",
+  "Hankins & Eilek 2007": "Referenced to highlight the higher DM value observed for the High Frequency Interpulse (HFIP) component compared to the Main Pulse (MP) single pulses in the Crab pulsar.",
+  "Hankins et al. 2015": "Cited to describe the disappearance of the Main Pulse (MP) emission component above frequencies of 5 GHz in the Crab pulsar.",
+  "Hankins et al. 2016": "Referenced to mention the observation of Main Pulse (MP) single pulses up to 43 GHz in the Crab pulsar.",
+  "Eilek & Hankins 2016": "Cited to discuss the difficulty in explaining the plasma dispersion law followed by different emission components in the pulsar magnetosphere."
+}
+{
+  "Karl G. Jansky Very Large Array (VLA)": "Referenced as the radio telescope used to record the data for the present study, highlighting its capabilities for detecting weaker single pulses from the Crab pulsar.",
+  "Section 2": "Referenced as the section that describes the observations.",
+  "Section 3": "Referenced as the section that describes the DM measurements.",
+  "Section 4": "Referenced as the section that describes the error analysis.",
+  "Section 5": "Referenced as the section that discusses the results of the analysis.",
+  "Section 6": "Referenced as the section that describes an application of the results to the data.",
+  "Section 7": "Referenced as the section that describes the finding of two HFIP single pulse populations.",
+  "Section 8": "Referenced as the section that discusses the results of the methods and their significance.",
+  "Section 9": "Referenced as the section that provides a summary of the results and corresponding conclusions."
+}

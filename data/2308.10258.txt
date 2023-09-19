@@ -1,0 +1,64 @@
+@Lorimer et al. 2007:
+Referenced to indicate the start of systematic research on distant fast radio bursts (FRBs) in 2007.
+
+@Spitler et al. 2016; Chatterjee et al. 2017; Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020:
+These papers are cited to highlight significant observational milestones in the study of FRBs that have been accomplished over 16 years of accelerated development.
+
+@Cordes & Chatterjee 2019; Petroff et al. 2022:
+These references are mentioned as comprehensive reviews of the literature on FRBs, summarizing the numerous significant observational milestones achieved in the field.
+
+@The CHIME/FRB Collaboration et al. 2021:
+Referenced to indicate the number of recorded FRBs to date, which is over 700.
+
+@Li et al. 2021; Niu et al. 2022; Xu et al. 2022:
+These papers are cited to highlight the publication of expansive datasets corresponding to individual sources of FRBs.
+
+@Feng et al. 2022:
+Referenced to indicate the use of abundant FRB data for statistical studies, such as the FRB luminosity function.
+
+@Luo et al. 2018; Hashimoto et al. 2022:
+These references are mentioned as examples of studies on the FRB luminosity function.
+
+@Cui et al. 2021; Pleunis et al. 2021:
+These papers are cited to highlight studies on the population analysis of FRBs.
+
+@Macquart et al. 2020; James et al. 2022:
+These references are mentioned as examples of studies on using FRBs as cosmological probes.
+
+@Popov & Postnov 2010:
+Referenced to support the magnetar model as a possible explanation for the origin of FRBs.
+
+@Lin et al. 2020:
+Cited to indicate the absence of bright bursts from subsequent observations of the Galactic SGR 1935+2154, which supports the magnetar model for FRBs.
+
+@Lu & Kumar 2018; Lyutikov 2021:
+These references are mentioned as examples of studies supporting coherent radiation as the most feasible explanation for FRBs.
+@Lyubarsky 2021; Xiao et al. 2021; Zhang 2022:
+These references are cited to direct readers to a model review that provides detailed information on the two categories of FRB mechanisms (inside the magnetosphere and outside the magnetosphere).
+
+@Katz 2014; Cordes & Wasserman 2016; Kumar et al. 2017; Ghisellini & Locatelli 2018; Yang & Zhang 2018; Wang et al. 2020; Cooper & Wijers 2021:
+These papers are cited to support the claim that the model proposing coherent curvature radiation by bunches is one of the leading explanations for FRBs, specifically in relation to the generation of curvature radiation by relativistic bunches along curved magnetic field lines and the observational constraints on the size of these bunches.
+@Melrose 2017:
+Referenced to highlight the initial challenge of the formation of relativistic bunches in the models discussed.
+
+@Lyubarsky 2021; Beloborodov 2021:
+Cited to address the secondary challenge of the influence of plasma effects in the models.
+
+@Qu et al. (2022):
+Referenced to support the demonstration that bright FRBs could escape the magnetosphere and propagate outward.
+
+@Usov 1987; Melikidze et al. 2000:
+Cited to mention the hypothesis of a two-stream instability in relation to the first issue, but simulation studies to corroborate this conjecture are absent under extreme relativistic conditions.
+
+@Samuelsson et al. 2010; Tokluoglu et al. 2018:
+Referenced to highlight the absence of simulation studies to support the hypothesis of a two-stream instability under extreme relativistic conditions.
+
+@Zhang 2022:
+Cited to discuss the possibility that dispersion among charged particles within the bunch could inhibit their congregation, contributing to the formation problem.
+@Li et al. 2018; Niu et al. 2022:
+These references are cited to indicate that the FRB 20190520B was detected by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), providing the basis for the case study in the paper.
+
+@Niu et al. 2023 in prep.:
+This reference is cited to mention that ongoing monitoring of FRB 20190520B allows for the discovery of new features, which is relevant to the selection of this FRB as a case study.
+
+N/A

@@ -1,0 +1,53 @@
+@Abbott et al. 2017; Goldstein et al. 2017; Savchenko et al. 2017; Li et al. 2018:
+These references are cited to support the recent discoveries of a Gamma-ray burst (GRB 170817A) associated with the Gravitational wave (GW 170817), highlighting the importance of observations of high energy transients in X-ray and gamma-ray bands.
+
+@Li et al. 2021; CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020; Mereghetti et al. 2020; Tavani et al. 2020; Ridnaia et al. 2021:
+These papers are cited to highlight the recent discovery of a non-thermal X-ray burst from the Galactic magnetar (SGR J1935+2154) associated with the Fast radio burst (FRB 200428), emphasizing the importance of observations of high energy transients in X-ray and gamma-ray bands.
+
+@Lorimer et al. 2007:
+Referenced to support the statement that most of the detected FRBs are of extragalactic origin, providing context for the discussion of the expected weakness and short duration of associated X-ray bursts from extragalactic magnetars.
+
+@Yang et al. 2020:
+Cited to support the statement that if FRBs are associated with X-ray bursts from extragalactic magnetars, then these X-ray bursts are expected to be very weak and short.
+
+@Guidorzi et al. 2020a:
+Referenced to highlight the concept that gamma-ray transients with short duration could be possible counterparts of FRBs, providing context for the discussion of searching for FRB-associated gamma-ray counterparts with specific time scales.
+@Li et al. (2016); Moss et al. (2022):
+These papers are cited to support the statement that the bright and sharp peak of GRBs may appear in very short durations down to milliseconds.
+
+@Song et al. (2022):
+Referenced to highlight the well-known fact that GRBs tend to be shorter in duration in higher energy range bands.
+
+@Cai et al. (2022); Collazzi et al. (2015); Lin et al. (2020):
+These papers are cited to provide evidence that the duration of magnetar short bursts could be shorter than about 50 ms.
+
+@Hurley et al. (2005):
+Referenced to point out that an extragalactic giant flare as bright as SGR1806-20 could appear as very short-duration depending on its distance.
+
+@Fishman et al. (1994); Xiong et al. (2012):
+These papers are cited to mention that much shorter bursts (down to millisecond) have been detected from the Earth, such as Terrestrial Gamma-ray flashes and Terrestrial Electron Beams.
+
+@Li et al. (2022); An et al. (2020):
+Referenced to highlight the temporal resolution of GECAM, which is sufficient to detect submillisecond bursts.
+
+@Xiao et al. (2022b):
+Cited to provide the temporal resolution of GECAM, which is about 0.1 𝜇s.
+
+@Lin et al. (2011); Xiao et al. (2022a):
+These papers are cited to mention the average background level of GRD detectors of GECAM and NaI detectors of Fermi/GBM, respectively.
+
+@Zhang et al. (2020); Liu et al. (2020):
+Referenced to provide the average background level of CsI detectors of Insight-HXMT/HE.
+@Li & Ma 1983; Kaastra 2017; Hannam & Thompson 1999; Hauschild & Jentschel 2001:
+These papers are cited to emphasize the importance of caution in the analysis of weak bursts with very few counts, and to highlight the existence of dedicated studies dealing with weak signal and low counts statistics.
+
+@Blackburn et al. (2015):
+Referenced to describe the development of a sensitive coherent search method for targeted Fermi/GBM follow-up observation of GW events, which has been used to search for GRBs and magnetar bursts.
+
+@Fletcher 2021; Cai et al. 2021b:
+These papers are cited to indicate the use of the sensitive coherent search method developed by Blackburn et al. (2015) for follow-up observation of LIGO triggers, including subthreshold GW triggers.
+
+@Goldstein et al. 2016; Goldstein et al. 2019; Cai et al. 2021a:
+These papers are cited to highlight the improvements made to the coherent search method developed by Blackburn et al. (2015), including background estimation, spectral template, calculation speed, search sensitivity, and rejection of false triggers caused by instrumental effects.
+
+N/A

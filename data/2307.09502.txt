@@ -1,0 +1,99 @@
+@1:
+Referenced to support the statement that fast radio bursts (FRBs) have been used to trace the baryonic structure of the Universe using their dispersion measure (DM) assuming reliable estimation of contributions from host galaxies.
+
+@2,3:
+Cited to highlight that contributions from the immediate environment of an FRB may dominate the observed dispersion measure (DM), making redshift estimates challenging without a robust host galaxy association.
+
+@4,5:
+Referenced to mention that at least one Galactic burst has been associated with a magnetar, while other localized FRBs argue against magnetars as the sole progenitor model.
+
+@6,7:
+Cited to emphasize that other localized FRBs also challenge the magnetar progenitor model.
+
+@8:
+Referenced to indicate that the edge-on inclination of the host galaxy allows for a unique comparison between the line of sight towards the FRB and lines of sight towards known Galactic pulsars, providing valuable information about the FRB's environment.
+@CHIME:
+Referenced as the instrument that first detected FRB 20210603A and searched for dispersed single pulses within its wide field of view.
+
+@9:
+Referenced as the source for information about the CHIME/FRB instrument.
+
+@10:
+Referenced as the source for information about the recording of voltage data at CHIME triggered by the detection of FRB 20210603A.
+
+@ARO10:
+Referenced as the 10-m dish at Algonquin Radio Observatory that recorded voltage data triggered by the detection of FRB 20210603A.
+
+@11:
+Referenced as the source for information about ARO10.
+
+@TONE:
+Referenced as the compact array of eight, 6-m dishes at Green Bank Observatory that recorded voltage data triggered by the detection of FRB 20210603A.
+
+@12:
+Referenced as the source for information about TONE.
+@CHIME-TONE:
+Referenced to describe the ad-hoc VLBI array used in the study, providing details about the three stations and their observing modes.
+
+@9:
+Referenced to provide information about the primary beam of CHIME at 600 MHz.
+
+@13,11,14:
+Referenced to mention the future plans of CHIME/FRB Outriggers, which are three CHIME-like telescopes located across North America that will perform triggered VLBI on FRBs.
+@15,12:
+These references are cited to provide additional information on the baseband localization pipeline used to compute the initial estimate of the FRB's position from CHIME data.
+@Methods: VLBI Calibration and Empirical Localization Error Budget:
+Referenced to explain the method used to estimate the 1σ localization uncertainties.
+
+@Methods: FRB Localization:
+Cited to describe the method used to localize the FRB using phase, delay, and delay-rate calibration solutions derived from observing several Crab GP.
+
+@Methods: Crab Localization:
+Referenced to explain the validation of the calibration solutions by comparing the true position of the Crab GP with the localized position, showing that the discrepancy falls within the systematic uncertainties.
+
+@Table 1:
+Cited to provide the derived coordinates of FRB 20210603A in the International Celestial Reference Frame (ICRF).
+
+@[16]:
+Referenced to identify SDSS J004105.82+211331.9 as the coinciding disk galaxy with a nearly edge-on orientation.
+@17: Referenced to indicate that the observation of SDSS J004105.82+211331.9 was conducted using the Canada-France Hawaii-Telescope (CFHT) MegaCam with the wideband gri filter.
+
+@18: Cited to provide the inclination of the host galaxy of SDSS J004105.82+211331.9, which is viewed nearly edge-on, based on the InclinationZoo reference.
+
+@16: Referenced to indicate that the photometric data used to determine the r-band half-light radius and Galactic extinction-corrected apparent magnitude of the host galaxy of SDSS J004105.82+211331.9 was provided by the Sloan Digital Sky Survey (SDSS).
+
+@19: Cited to indicate that long-slit spectra of SDSS J004105.82+211331.9 were acquired using the Gemini Multi-Object Spectrograph (GMOS).
+
+@20: Referenced to indicate that the redshift of SDSS J004105.82+211331.9 was determined assuming the Planck 2018 cosmology.
+@21: Referenced to support the statement that the projected spatial offset of the FRB from the host galactic centre is consistent with the distribution of offsets measured from a sample of FRBs localized by the Australian SKA Pathfinder (ASKAP).
+
+@22: Cited as the source of archival photometry data used in the analysis of the host galaxy.
+
+@23: Cited as the source of archival photometry data used in the analysis of the host galaxy.
+
+@24: Referenced as the Bayesian SED-fitting package used to fit a spectral energy distribution (SED) model to the combined spectral and photometric data of the host galaxy.
+
+@25: Cited as the method used for posterior sampling to estimate best-fit values and uncertainties for various parameters of the host galaxy.
+@N/A
+@26:
+Referenced to provide further information on the methods used for fitting a pulse model to the FRB's dynamic spectrum.
+
+[27,28]:
+Cited to support the statement about the expected scattering due to the Milky Way at a reference frequency of 600 MHz.
+
+[29]:
+Referenced to support the conclusion that the observed scattering is dominated by extragalactic contributions, likely in the host galaxy rather than the Milky Way.
+
+[30]:
+Cited to suggest that the RM contribution from the intergalactic medium (IGM) is likely negligible in the context of the excess RM observed in FRB 20210603A.
+@31,3:
+These references are cited to indicate previous VLBI FRB localizations in targeted follow-up of repeating sources, which is contrasted with the current work that represents a major step towards localizing a large sample of FRBs at the time of the first detection.
+
+@7:
+This reference is cited to support the doubt cast on young progenitors being the universal origin of repeating FRBs, as previous VLBI FRB localizations were made to locations offset from star formation and regions completely devoid of star formation.
+
+@6:
+This reference is cited to further emphasize the doubt on young progenitors being the universal origin of repeating FRBs, as previous VLBI FRB localizations were made to star-forming regions.
+
+@13,11,14:
+These references are cited to highlight that the instruments and methods used in the current work constitute pathfinders for the CHIME/FRB Outriggers project, which will enable VLBI localizations of large numbers of both repeating and non-repeating sources, leading to a more complete understanding of the diverse host environments of FRBs and their correlation with other burst properties.

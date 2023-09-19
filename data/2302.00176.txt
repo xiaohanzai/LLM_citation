@@ -1,0 +1,42 @@
+@Petroff et al. 2019; Cordes & Chatterjee 2019:
+These references are cited to establish the significance of fast radio bursts (FRBs) as the brightest flashes in the radio sky.
+
+@Zhang 2020; Xiao et al. 2021:
+These papers are cited to highlight the current mystery surrounding the physical mechanism of FRBs.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2020:
+These references are cited to support the claim that the discovery of FRB 200428 establishes magnetars as an origin of some FRBs.
+
+@Li et al. 2021; Mereghetti et al. 2020; Ridnaia et al. 2021; Tavani et al. 2021:
+These papers are cited to provide evidence of the detection of the X-ray counterpart, a bright X-ray burst (XRB), associated with FRBs using high energy instruments.
+
+@Li et al. 2021; Mereghetti et al. 2020:
+These references are cited to highlight the discovery of double X-ray peaks corresponding to the double radio peaks and the localization of the X-ray burst as coming from SGR J1935+2154, contributing to the identification of the origin of an FRB.
+
+@Palm 2022; Enoto et al. 2022; Roberts et al. 2022; Li et al. 2022a:
+These papers are cited to emphasize the significance of detecting and localizing the counterpart of an FRB at other wavelengths, leading to the identification of its origin.
+@Palm 2022; Enoto et al. 2022; Roberts et al. 2022; Li et al. 2022a:
+These references are cited to provide information about the active episode of SGR J1935+2154 and its burst forest.
+
+@Dong & Chime/Frb Collaboration 2022:
+This reference is cited to mention that at least two FRB signals were captured by CHIME after the burst forest.
+
+@Maan et al. 2022:
+This reference is cited to mention that at least two FRB signals were captured by GBT after the burst forest.
+
+@ATEL 15707:
+This reference is cited to mention that at least two FRB signals were captured by the Yunnan 40 m radio telescope after the burst forest.
+
+@Wang et al. 2022; Frederiks et al. 2022; Li et al. 2022b:
+These references are cited to mention that the corresponding X-ray bursts of the FRB signals captured by CHIME, GBT, and the Yunnan 40 m radio telescope were detected by GECAM, HEBS(GECAM-C), Konus-Wind, and Insight-HXMT.
+
+@Li et al. 2021; Ridnaia et al. 2021; Mereghetti et al. 2020; Li et al. 2022:
+These references are cited to mention that the timing properties of FRB 200428 and XRB, such as time delay and quasi-period oscillation, can provide more constraints on the FRB mechanism.
+
+@Li et al. 2021:
+This reference is cited to mention that marginal time delay in the XRB lightcurves has been detected by Insight-HXMT, especially for the second peak.
+
+@Mereghetti et al. 2020:
+This reference is cited to mention that there is a hard X-ray time delay of 6.5 ± 1.0 ms for the second peak in the XRB.
+
+N/A

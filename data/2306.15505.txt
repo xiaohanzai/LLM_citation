@@ -1,0 +1,31 @@
+@1: Referenced to support the statement that the vast majority of FRB sources have only been detected once.
+@2,3: Cited to indicate that a small sub-population of FRB sources is known to burst repeatedly.
+@3: Referenced to highlight recent results showing a wide range of FRB activity levels, with only very few sources being highly active.
+@1,4: These citations are used to support the claim that statistical studies have shown differences in emission bandwidth and burst duration between repeaters and non-repeaters, suggesting different origins for these two types of FRBs.
+@6: Cited to mention that burst energies as high as E = 2 × 10 42 erg have been reported for distant sources.
+@7,8:
+These references are cited to support the statement that the cumulative burst spectral energy distribution of repeating FRBs can be modeled by a single or broken power law.
+
+@9:
+Referenced to highlight that the slope of the burst spectral energy distribution of repeating FRBs can reach extreme values as low as γ = -4.9.
+
+@10,11:
+These citations are used to show that the measured value of γ, the slope of the burst spectral energy distribution of FRB 20121102A, varies between sources and observing epochs.
+
+@12,13,14:
+Referenced to indicate that modeling of the population of apparently non-repeating FRBs shows a much flatter energy distribution compared to repeating FRBs.
+
+@15:
+This reference is cited to identify FRB 20201124A as one of the most hyperactive FRB sources to date.
+
+@16:
+Referenced to support the claim that >3000 bursts of FRB 20201124A were detected in approximately 25 hours of observations with the FAST telescope.
+
+@17:
+Cited to mention that FRB 20201124A has been reported to emit high-fluence bursts that can be detected with relatively small radio telescopes.
+
+@18:
+This reference is used to indicate that FRB 20201124A is located in a region of enhanced star formation.
+
+@19:
+Referenced to provide the redshift value (z = 0.098) of the massive star-forming galaxy where FRB 20201124A is located.

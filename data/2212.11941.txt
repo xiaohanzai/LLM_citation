@@ -1,0 +1,38 @@
+{
+  "Lorimer et al. 2007": "Referenced to introduce the concept of fast radio bursts (FRBs) and their visibility from distant galaxies.",
+  "Thornton et al. 2013": "Referenced to provide additional support and background information on fast radio bursts (FRBs).",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to highlight the detection of FRB-like radio signals from a Galactic magnetar, contributing to the ongoing debate on the physical origin of the FRB population.",
+  "Bochenek et al. 2020": "Referenced to provide additional evidence of FRB-like radio signals from a Galactic magnetar, further contributing to the discussion on the physical origin of FRBs.",
+  "Platts et al. 2019": "Referenced to acknowledge the existence of multiple viable models for the physical origin of fast radio bursts (FRBs).",
+  "Bhandari et al. 2020": "Referenced to emphasize the importance of studying the host galaxies of FRB sources in constraining models of FRB progenitors.",
+  "Heintz et al. 2020": "Referenced to highlight the challenges of localizing a large number of FRB sources and the limited number of FRBs localized to specific host galaxies so far.",
+  "Spitler et al. 2016": "Referenced to emphasize the significance of precise localizations of FRB sources observed to emit multiple bursts and the potential for follow-up observations with instruments having a relatively small field of view.",
+  "Chatterjee et al. 2017": "Referenced to highlight the use of instruments with a relatively small field of view for follow-up observations of repeating FRB sources with precise localizations.",
+  "Marcote et al. 2020": "Referenced to emphasize the interest in repeating FRB sources located in the local Universe for sensitive multi-wavelength observations.",
+  "Scholz et al. 2017": "Referenced to highlight the potential of FRBs localized to specific host galaxies as cosmological probes by comparing their redshift to the dispersion induced in their signal by the integrated column density of free electrons along the line-of-sight.",
+  "McQuinn 2014": "Referenced to introduce the concept of dispersion measure (DM) and its relevance in using FRBs localized to specific host galaxies as cosmological probes.",
+  "Macquart et al. 2020": "Referenced to support the confirmation of the presence of the Universe's 'missing baryons' in the intergalactic medium (IGM) using FRB sources localized to specific galaxies.",
+  "Hallinan et al. 2019b": "Referenced to highlight the development of a new generation of telescopes to overcome the challenges of detecting a large number of FRBs using instruments with high angular resolution.",
+  "Leung et al. 2021": "Referenced to emphasize the ongoing development of new telescopes to address the limitations of instruments with high angular resolution in detecting a large number of FRBs."
+}
+{
+  "CHIME Collaboration et al. 2022": "Referenced as the source for information about the Canadian Hydrogen Intensity Mapping Experiment (CHIME) detecting hundreds of FRBs per year.",
+  "CHIME/FRB Collaboration et al. 2021": "Cited as the reference for the detection of FRBs by the CHIME/FRB collaboration.",
+  "CHIME/FRB Collaboration 2018": "Referenced to describe the dedicated CHIME/FRB backend used in the detection of FRBs.",
+  "CHIME/FRB Collaboration et al. 2019a,b": "Cited as the source for observations of repeating FRBs.",
+  "Fonseca et al. 2020": "Referenced as a source for observations of repeating FRBs.",
+  "Michilli et al. 2021": "Cited as the reference for the improvement in localization precision using baseband data.",
+  "Marcote et al. 2020": "Referenced for the host galaxy association of FRB 20180916B.",
+  "Bhardwaj et al. 2021a": "Cited as the source for the host galaxy association of FRB 20181030A.",
+  "Bhardwaj et al. 2021b": "Referenced for the host galaxy association of FRB 20200120E.",
+  "Nimmo et al. 2022": "Cited as the reference for the host galaxy association of FRB 20201124A.",
+  "Marthi et al. 2022": "Referenced for the host galaxy association of FRB 20201124A.",
+  "Leung et al. 2021": "Cited as a source for the development of the CHIME/FRB Outriggers project.",
+  "Cassanelli et al. 2022": "Referenced for the development of the CHIME/FRB Outriggers project.",
+  "Mena-Parra et al. 2022": "Cited as a source for the development of the CHIME/FRB Outriggers project."
+}
+{
+  "CHIME/FRB Collaboration et al. 2019a,b;Fonseca et al. 2020": "Referenced to present the positions of 13 repeating FRBs discovered by CHIME/FRB and a likely host association for two of them.",
+  "Michilli et al. 2021": "Referenced to support the refinement of the positions of the 13 repeating FRBs using stored baseband data.",
+  "Mckinven et al. 2022": "Referenced to present the polarization properties of the bursts."
+}

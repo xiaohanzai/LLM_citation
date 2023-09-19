@@ -1,0 +1,80 @@
+{
+  "Lattimer & Schramm 1974": "Referenced to support the statement that compact object mergers involving black holes and neutron stars have long been hypothesized to power a range of high-energy, multi-messenger astrophysical phenomena.",
+  "Clark & Eardley 1977": "Referenced to support the statement that compact object mergers involving black holes and neutron stars have long been hypothesized to power a range of high-energy, multi-messenger astrophysical phenomena.",
+  "Blinnikov et al. 1984": "Referenced to support the statement that compact object mergers involving black holes and neutron stars have long been hypothesized to power a range of high-energy, multi-messenger astrophysical phenomena.",
+  "Eichler et al. 1989": "Referenced to support the statement that compact object mergers involving black holes and neutron stars have long been hypothesized to power a range of high-energy, multi-messenger astrophysical phenomena.",
+  "Li & Paczyński 1998": "Referenced to support the statement that compact object mergers involving black holes and neutron stars have long been hypothesized to power a range of high-energy, multi-messenger astrophysical phenomena.",
+  "Abbott et al. 2017b": "Referenced to highlight the discovery of an electromagnetic counterpart to gravitational wave event GW170817, providing direct evidence of a common origin of gravitational waves from a neutron star-neutron star merger.",
+  "Abbott et al. 2017d": "Referenced to highlight the discovery of short gamma-ray bursts powered by bipolar jets, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Goldstein et al. 2017": "Referenced to highlight the discovery of short gamma-ray bursts powered by bipolar jets, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Abbott et al. 2017c": "Referenced to highlight the discovery of kilonovae and late-time afterglow emission, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Tanvir et al. 2017": "Referenced to highlight the discovery of kilonovae, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Kasen et al. 2017": "Referenced to highlight the discovery of kilonovae, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Pian et al. 2017": "Referenced to highlight the discovery of kilonovae, which were confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Alexander et al. 2017": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Hallinan et al. 2017": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Lazzati et al. 2018": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Mooley et al. 2018": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Dobie et al. 2018": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Ghirlanda et al. 2019": "Referenced to highlight the discovery of late-time afterglow emission, which was confirmed by the electromagnetic counterpart to gravitational wave event GW170817.",
+  "Callister et al. 2017": "Referenced to state that prompt radio observations of the localization region began 30 minutes post-merger, indicating that radio emission mechanisms related to the inspiral or merger itself were not probed."
+}
+{
+  "Callister et al. 2017": "Referenced to indicate the start time of prompt radio observations of the localisation region in relation to the merger.",
+  "Goldreich & Lynden-Bell 1969": "Cited as the seminal work investigating the Jupiter-Io system and the sources of coherent radio emission.",
+  "Hansen & Lyutikov 2001; Lai 2012; Piro 2012": "These papers are cited as candidates for the unipolar inductor model, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Tsang et al. 2012; Suvorov & Kokkotas 2020": "These papers are cited as candidates for resonant NS crust shattering, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Moortgat & Kuĳpers 2006": "Cited as a candidate for magnetohydrodynamic plasma excited by gravitational waves, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Roberts et al. 2011": "Cited as a candidate for nuclear decay of tidal tails, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Vietri 1996; Metzger & Berger 2012; Beloborodov 2021": "These papers are cited as candidates for the formation of an optically thick fireball, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Medvedev & Loeb 2013; Sridhar et al. 2021": "These papers are cited as candidates for wind-driven shocks, which are considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Lipunov & Panchenko 1996; Lyutikov 2019": "These papers are cited as candidates for particle acceleration through the revival of pulsar-like emission during inspiral, which is considered as a mechanism for precursor electromagnetic emission during NS mergers.",
+  "Palenzuela et al. 2013; Most & Philippov 2020, 2022": "These papers are cited as numerical studies supporting the conclusion that flares may be observed before the merger in force-free electromagnetic interaction between magnetized NS-NS binaries."
+}
+{
+  "Troja et al. (2010)": "Referenced to support the statement that a certain percentage of short gamma-ray bursts (sGRBs) and long gamma-ray bursts (lGRBs) display precursor emission in different bandwidths.",
+  "Lazzati 2005": "Referenced to provide the source of the detection rate of precursor emission in long GRBs (lGRBs) by Burst and Transient Source Experiment (BATSE).",
+  "Coppin et al. (2020)": "Cited to support the finding that lGRBs observed by Fermi are more likely to display precursor gamma-ray emission compared to sGRBs.",
+  "Charisi et al. (2015)": "Referenced to highlight the statistical similarity between precursor and post-cursor emission in gamma-ray bursts.",
+  "Suvorov et al. 2022": "Cited to suggest that precursor emission could be used to infer the nature of the progenitor and the resultant post-merger compact object.",
+  "Xiao et al. 2022": "Referenced to support the claim of a quasi-periodic precursor emission coincident with a kilonovae-associated lGRB."
+}
+{
+  "van Haarlem et al. 2013": "Referenced to describe the LOw Frequency ARray (LOFAR) as a software interferometer used for automatic triggered observations in response to high-energy alerts.",
+  "Tingay et al. 2013": "Referenced to describe the Murchison Widefield Array (MWA) as a software interferometer used for automatic triggered observations in response to high-energy alerts.",
+  "Anderson et al. 2021a": "Cited as an example of observations triggered by GRB or gravitational wave (GW) alerts.",
+  "Rowlinson et al. 2021": "Cited as an example of observations triggered by GRB or gravitational wave (GW) alerts.",
+  "Tian et al. 2022": "Cited as an example of observations triggered by GRB or gravitational wave (GW) alerts.",
+  "ter Veen et al. 2019": "Referenced to describe the use of transient buffers for saving raw data and enabling negative latency triggers.",
+  "James et al. 2019": "Referenced to describe the use of early time alerts from gravitational wave detectors.",
+  "Rowlinson et al. 2019": "Cited to support the statement that rapid radio observations of sGRBs can test theories of coherent radiation after the merger.",
+  "Usov & Katz 2000": "Cited as a reference for the prediction of coherent radiation after the merger in shocks.",
+  "Sagiv & Waxman 2002": "Cited as a reference for the prediction of coherent radiation after the merger in shocks.",
+  "Rowlinson et al. 2013": "Cited to support the statement that rapid radio observations of sGRBs can test theories of coherent radiation from a short-lived magnetar remnant.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Lorimer et al. 2007": "Referenced to support the revival of interest in the electromagnetic interaction between coalescing compact objects as an explanation for a subset of fast radio bursts (FRBs).",
+  "Thornton et al. 2013": "Referenced to support the revival of interest in the electromagnetic interaction between coalescing compact objects as an explanation for a subset of FRBs.",
+  "Spitler et al. 2014": "Referenced to support the revival of interest in the electromagnetic interaction between coalescing compact objects as an explanation for a subset of FRBs.",
+  "Petroff et al. 2016": "Referenced to support the revival of interest in the electromagnetic interaction between coalescing compact objects as an explanation for a subset of FRBs.",
+  "Totani 2013": "Cited to highlight the subset of FRBs that do not appear to repeat.",
+  "Zhang 2014": "Cited to highlight the subset of FRBs that do not appear to repeat.",
+  "Wang et al. 2016": "Cited to highlight the subset of FRBs that do not appear to repeat.",
+  "Gourdji et al. 2020": "Cited to highlight the subset of FRBs that do not appear to repeat.",
+  "Keane et al. 2016": "Referenced to discuss the tentative association of FRB 150418 with a fading radio source, which was later ruled out as unrelated transient activity from an active galactic nucleus (AGN).",
+  "Williams & Berger 2016": "Referenced to discuss the ruling out of the association between FRB 150418 and a fading radio source as unrelated transient activity from an AGN.",
+  "Andreoni et al. 2021a": "Cited to support recent estimates of the rates of NS-NS mergers.",
+  "Mandel & Broekgaarden 2022": "Cited to support recent estimates of the rates of NS-NS mergers.",
+  "Luo et al. 2020": "Cited to compare the volumetric rates of FRBs and plausible cataclysmic progenitors.",
+  "Ravi 2019": "Cited to demonstrate that most apparently one-off FRBs likely repeat albeit with a low repetition rate, and thus NS mergers may power a fraction of truly non-repeating FRBs.",
+  "Hashimoto et al. 2020b": "Cited to discuss the suggestion that an older stellar population underlies one-off FRBs, which may support merger progenitors.",
+  "James et al. 2022": "Cited to dispute the suggestion that an older stellar population underlies one-off FRBs, which may support merger progenitors.",
+  "Zhang 2016": "Cited to discuss interactions between magnetized neutron stars and other objects such as black holes.",
+  "Dai et al. 2016": "Cited to discuss interactions between magnetized neutron stars and other objects such as asteroids.",
+  "Voisin et al. 2021": "Cited to discuss interactions between magnetized neutron stars and other objects such as asteroids."
+}
+{
+  "Lyutikov (2019)": "Referenced to indicate that the work in this paper is based on and extends the previous work of Lyutikov (2019) on the magnetospheric interaction between merging neutron stars.",
+  "Appendix A": "Referenced to mention that a full derivation of the adapted electrodynamic model of the NS-NS merger can be found in Appendix A."
+}

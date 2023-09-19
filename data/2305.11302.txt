@@ -1,0 +1,62 @@
+@Lorimer et al. (2007):
+Referenced to indicate the year of discovery of fast radio bursts (FRBs), providing historical context for the subsequent discussion on the progress in observational characterization of FRBs.
+
+@Petroff et al. (2022):
+Cited to highlight recent research that has contributed to the observational characterization of FRBs, emphasizing the ongoing efforts to understand the diverse population properties of these radio transients.
+@Marcote et al. 2020; Ravi et al. 2019:
+These references are cited to support the statement about the localization of both repeating and non-repeating FRBs to cosmological distances and the implication of their burst energies.
+
+@Gourdji et al. 2019; Oostrum et al. 2017:
+These papers are referenced to provide examples of the range of burst energies detected from the repeating source FRB 121102.
+
+@Macquart & Ekers 2018, CHIME/FRB Collaboration et al. 2021:
+These references are cited to highlight the use of FRB brightness as a metric for various tests of FRB origins, including constraints on the cumulative fluence distribution and the dispersion-brightness relation.
+
+@James et al. 2022, Shin et al. 2023:
+These papers are referenced to emphasize the use of FRB brightness for studying the underlying energy and distance distribution of FRBs.
+
+@Law et al. 2017, Gourdji et al. 2019, Cruces et al. 2021:
+These references are cited to illustrate the use of fluence measurements for studying individual repeater energy distributions.
+
+@Shannon et al. 2018:
+This paper is referenced to highlight the importance of the dispersion-brightness relation in the study of FRBs.
+
+@CHIME/FRB Collaboration et al. 2021:
+This reference is cited to emphasize the role of fluence measurements in FRB rate determination and observational follow-up strategies.
+@Lorimer & Kramer 2004:
+Referenced to provide background information on the radiometer equation, which is a commonly used method for radio transient flux calibration in FRB astronomy.
+
+@Spitler et al. 2014; Champion et al. 2016; Parent et al. 2020; Zhu et al. 2020; Farah et al. 2019:
+These papers are cited to highlight the use of the radiometer equation for data calibration in various FRB experiments and surveys, demonstrating its widespread application in the field.
+@McConnell et al. 2016:
+Referenced to support the use of the Australian Square Kilometre Array Pathfinder (ASKAP) observing a Seyfert galaxy of well-known flux, PKS B1934-638, as a source of known intensity for determining values of Tsys, G, or SEFD.
+
+@Jiang et al. 2020:
+Cited to highlight the use of a previously calibrated noise diode with a temperature of approximately 11 K for determining values of Tsys, G, or SEFD in the context of the Five-hundred-meter Aperture Spherical radio Telescope (FAST).
+
+@Hobbs et al. 2020:
+Referenced to describe the use of a pair of hot and cold "loads" of known temperature, such as a radio-absorbing material in an oven or liquid nitrogen bath, for calibrating the Parkes Ultra-Wide Bandwidth Receiver.
+
+@Staveley-Smith et al. 1996:
+Cited to indicate that the gain values quoted in current Fast Radio Burst (FRB) papers for single-dish telescopes like the Parkes Multibeam receiver were measured in 1996, highlighting the stability of cryogenically cooled receivers over long periods of time.
+
+@Bannister et al. 2017; Shannon et al. 2018; Bannister et al. 2019:
+These papers are referenced to emphasize the different calibration timeframes for newer non-cooled interferometric experiments like ASKAP, with fly's eye mode observations calibrated within months to days and interferometric observations calibrated within hours.
+@Scholz et al. 2016, Champion et al. 2016:
+Referenced to highlight the large uncertainties in detected burst positions within the telescope beam pattern, which affects the accurate calibration of FRB flux.
+
+@Li et al. 2021:
+Cited as an exception to the majority of FRB fluences published to-date, as they determined fluences for repeating FRBs of known position.
+
+@Bannister et al. 2017; Ravi et al. 2023:
+These papers are cited to mention long-baseline interferometric telescopes with sub-arcsecond localization capabilities, which have enabled the determination of precise fluences for one-off FRBs.
+@CHIME/FRB Collaboration et al. 2021:
+Referenced to acknowledge the detection of an unprecedented number of FRBs by the Canadian Hydrogen Intensity Mapping Experiment (CHIME) and to provide the source for further information on the CHIME/FRB catalog.
+
+@CHIME Collaboration et al. 2022:
+Cited to describe the novel design of CHIME, which enables efficient detection of FRBs, and to provide details on the specifications of the radio interferometer.
+
+@CHIME/FRB Collaboration et al. 2018:
+Referenced to highlight the operation of the CHIME Fast Radio Burst (CHIME/FRB) project, which continuously searches for FRBs in the CHIME data stream using a grid of formed beams.
+
+N/A

@@ -1,0 +1,23 @@
+@ [1]:
+Referenced as a recent review that provides detailed information about the current understanding of fast radio bursts (FRBs).
+
+@ [3]:
+Cited to indicate that there have been approximately a thousand one-off FRBs observed after a few years of observations.
+
+@ [4,5]:
+Referenced to highlight the existence of more than 50 repeaters among FRBs.
+
+@ [6]:
+Cited to identify specific repeaters with high burst rates, namely FRBs 20121102A, 20180916B, 20190520B, and 20201124.
+
+@ [7]:
+Referenced to support the claim that the life cycle of super-repeaters cannot be much longer than a few years due to their high energy release.
+
+@ [8]:
+Cited to mention the repeater FRB 20200120.
+
+@ [9]:
+Referenced to indicate that the total energy of a burst can be significantly higher if data from the Galactic FRB from SGR 1935+2154 is considered and the beaming of the radio signal is neglected.
+
+@ [10]:
+Cited as a review that discusses the expected life cycle of one-off FRB sources, which is estimated to be around a few thousand years.

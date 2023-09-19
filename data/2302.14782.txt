@@ -1,0 +1,42 @@
+@Hakobyan et al. 2020; Pan et al. 2014; Svensson et al. 2010; Irani et al. 2022:
+These papers are cited to support the statement that characterizing the stellar population in the neighborhood of extragalactic transients can unveil the nature of their progenitors, specifically in terms of morphology, color, metallicity, age, and star formation history of the host galaxies of supernovae.
+
+@Kelly et al. 2014:
+Referenced to highlight the hunt for correlations with the host galaxy's stellar mass and metallicity in order to further constrain the progenitors of long gamma-ray bursts.
+
+@Bloom et al. 2002:
+Cited to support the mention of studies on nucleus-offset distribution, which provide insights into the progenitors of long gamma-ray bursts.
+
+@Blanchard et al. 2016:
+Referenced to emphasize the relevance of ongoing recent star formation in understanding the progenitors of long gamma-ray bursts.
+
+@Perley et al. 2016; Levesque et al. 2010:
+These papers are cited to highlight similar studies conducted on the progenitors of long gamma-ray bursts, which revealed their preference for dense and low-metallicity stellar environments, as well as their association with young starbursts of blue star-forming galaxies with high specific star formation rates.
+
+@Berger 2009:
+Cited to support the statement that studies on short gamma-ray bursts have revealed differences in their host properties compared to long gamma-ray bursts, specifically in terms of luminosity and star formation activity.
+
+@Fong & Berger 2013; Fong et al. 2022:
+These papers are referenced to highlight the suggestion that short gamma-ray burst progenitors migrate from stellar nurseries to explosion sites, potentially indicating kicks during the merger of compact object binaries.
+@Gordon et al. 2023; Bhandari et al. 2022a; Mannings et al. 2021; Heintz et al. 2020:
+These references are cited to support the studies of fast radio burst (FRB) host galaxies and their attempts to solve the mystery of these explosions, providing insights into the nature of FRBs and their progenitors.
+
+@Petroff et al. 2022(Petroff et al. , 2019):
+Referenced to highlight the incorporation of major conclusions from studies of FRB host galaxies into proposed progenitor models.
+
+@Tendulkar et al. 2017; Chatterjee et al. 2017; Kulkarni et al. 2015:
+Cited to support the association of FRB 20121102 with a dwarf, rapidly star-forming galaxy and a persistent radio source, suggesting a young magnetar progenitor.
+
+@Kirsten et al. 2022; Bhardwaj et al. 2021:
+Referenced to highlight the discovery of a repeating FRB 20200120E associated with a globular cluster of M81, indicating a compact binary coalescence event as the progenitor.
+
+@Bassa et al. 2017; Bhandari et al. 2022b; Mannings et al. 2021; Fong et al. 2021; Tendulkar et al. 2021; Marcote et al. 2020:
+These papers are cited to emphasize the spectrum of environments in which FRBs have been found, including dwarf galaxies, spiral galaxies, and globular clusters.
+
+@Bochenek et al. 2021; Piro et al. 2021:
+Referenced to compare the distribution of stellar properties of FRB hosts with that of long gamma-ray bursts and superluminous supernovae, suggesting a probable analogy with magnetars formed in core-collapse supernovae.
+@Connor et al., in prep.:
+Referenced as the authors of a forthcoming paper that motivated the detailed analysis of two new FRBs presented in the current article.
+
+@Planck Collaboration et al. 2014:
+Cited to indicate the adoption of the Planck13 cosmology throughout the article, including specific values for the Hubble constant, cosmological constant, and matter density parameter.

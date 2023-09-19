@@ -1,0 +1,47 @@
+@Lorimer et al. (2007):
+Referenced as the discoverers of the first FRB event in 2007 using the Parkes telescope in Australia.
+
+@Chatterjee et al. (2017):
+Cited for confirming the host galaxy of FRB121102, which was discovered by the Arecibo radio telescope.
+
+@Spitler et al. (2014):
+Referenced as the discoverers of FRB121102 using the Arecibo radio telescope.
+
+@Zhao et al. (2020; Qiu et al. 2022; Wu et al. 2022; Zhao et al. 2022a):
+Cited to highlight the potential of localized FRBs as a powerful cosmological probe in the future.
+@Zhao et al. 2020; Qiu et al. 2022; Wu et al. 2022; Zhao et al. 2022a:
+These references are cited to support the expectation that a large number of FRBs can be localized in the future, which would have significant cosmological implications.
+
+@Platts et al. 2019:
+This paper is cited to highlight the series of theoretical models that have been proposed to explain the origin of FRBs.
+
+@Bochenek et al. 2020; CHIME/FRB Collaboration et al. 2021:
+These references are cited to provide evidence that the Galactic magnetar SGR J1935+2154 produced an FRB, supporting the conjecture that some FRBs may be produced by magnetars.
+
+@Bhardwaj et al. 2021:
+This paper is cited to indicate that the repeating FRB 20200120E is localized at the position of a globular cluster in M81, suggesting that the progenitor of this FRB source requires an old population.
+
+@Fong et al. 2021:
+This reference is cited to show that the repeating FRB 20201124A is localized to a massive, star-forming galaxy, providing insights into the environments in which FRBs can occur.
+
+@Nimmo et al. 2022:
+This paper is cited to provide the redshift information (z = 0.098) for the repeating FRB 20201124A, which is relevant for understanding the distance and cosmological implications of this FRB.
+
+N/A
+@James et al. (2022); Zhang et al. (2021); Luo et al. (2020):
+These papers are cited to support the statement that the FRB energy function is an effective way to constrain the origin models of FRBs and study the redshift evolution of the volumetric rate of FRBs.
+
+@Hashimoto et al. (2020):
+Referenced to highlight the finding that the number density of non-repeating FRB sources does not show significant redshift evolution, consistent with the evolution of stellar mass in the universe.
+
+@Hashimoto et al. (2022):
+Cited to report the recent research findings that neutron stars and black holes are more likely to be the progenitors of non-repeating FRBs.
+
+@Spitler et al. (2014); Chatterjee et al. (2017); Hardy et al. (2017); Tendulkar et al. (2017); Chittidi et al. (2021):
+These papers are cited to mention the detection of a few FRBs that show large excess dispersion measure (DM) beyond the expected contributions, indicating the need for further investigation.
+@Shin et al. (2022):
+Referenced to support the statement that a significant fraction of FRBs are missed by the CHIME detection algorithm, based on previous analysis with mock data.
+
+@Hashimoto et al. (2022):
+Cited to describe the relationship between the observed and intrinsic data distributions of FRBs, specifically in relation to scattering times and the number of missed events.
+@N/A

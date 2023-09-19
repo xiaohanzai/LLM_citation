@@ -1,0 +1,44 @@
+{
+  "Lorimer et al. 2007": "Referenced to indicate the year of discovery of FRBs and the growth in the number of detected FRBs since then.",
+  "Shannon et al. 2018": "Cited as one of the wide Field-of-View (FoV) telescopes that has contributed to the rapid increase in the number of detected FRBs.",
+  "Macquart et al. 2020": "Cited as one of the wide Field-of-View (FoV) telescopes that has contributed to the rapid increase in the number of detected FRBs.",
+  "The CHIME/FRB Collaboration et al. 2021": "Cited as one of the wide Field-of-View (FoV) telescopes that has contributed to the rapid increase in the number of detected FRBs.",
+  "Cordes & Lazio 2002": "Referenced to highlight the predicted Milky Way contribution to the total observed DM of FRBs.",
+  "Yao et al. 2017": "Referenced to highlight the predicted Milky Way contribution to the total observed DM of FRBs.",
+  "Bochenek et al. 2020": "Cited as a reference for the galactic magnetar SGR1935+2154 which exhibited FRB-like emission in April 2020.",
+  "The CHIME/FRB Collaboration et al. 2020": "Cited as a reference for the galactic magnetar SGR1935+2154 which exhibited FRB-like emission in April 2020."
+}
+{
+  "Cordes & Chatterjee 2019": "Cited to support the statement that the majority of the FRBs detected so far have shown exponential scattering tails and/or scintillation bands in their spectra.",
+  "The CHIME/FRB Collaboration et al. 2021": "Referenced to highlight that the majority of the FRBs detected so far have shown exponential scattering tails and/or scintillation bands in their spectra.",
+  "Macquart et al. 2019": "Cited to emphasize that the majority of the FRBs detected so far have shown exponential scattering tails and/or scintillation bands in their spectra, indicating the presence of significant scattering beyond the Milky Way."
+}
+{
+  "Macquart & Koay 2013": "Referenced to discuss the potential of using FRBs as probes of extragalactic turbulence and the possibility of a DM-𝜏-relation.",
+  "Cordes et al. 2016": "Cited to highlight the ruling out of a DM-𝜏-relation in FRBs.",
+  "Prochaska & Neeleman 2018": "Referenced to discuss the potential of using FRBs as probes of extragalactic turbulence.",
+  "Vedantham & Phinney 2019": "Referenced to discuss the potential of using FRBs as probes of extragalactic turbulence.",
+  "Zhu et al. 2018": "Referenced to discuss the potential of using FRBs as probes of extragalactic turbulence.",
+  "Cordes & Chatterjee 2019": "Cited to highlight the unresolved relative contributions to observed scattering in FRBs.",
+  "Macquart et al. 2020": "Referenced to discuss the largest reservoir of ionised plasma encountered by FRBs in the IGM and the discovery of a DM-redshift(𝑧) relation.",
+  "Ravi 2019": "Cited to support the search for a DM-𝜏-relation in FRBs using the sample of bursts detected with Parkes radio telescope and the evidence found.",
+  "Qiu et al. 2020": "Cited to highlight the ruling out of a DM-𝜏-relation in FRBs.",
+  "N/A": "No citations found for the sections of the current paper."
+}
+{
+  "Vedantham & Phinney (2019)": "Suggested that the Circumgalactic Medium (CGM) of intervening galaxies could explain scattering timescales of the order of milliseconds in localized fast radio bursts.",
+  "Prochaska et al. (2019)": "Measured a scattering timescale of 20 𝜇s at 1.3 GHz in FRB20181112A, allowing them to place constraints on the density and turbulence of the ionised plasma in the halo of the foreground galaxy.",
+  "Cho et al. (2020)": "Refined the scattering timescale measurement in FRB20181112A.",
+  "Ocker et al. (2021)": "Used scattering timescales reported for repeating FRB sources FRB20180916B and FRB20121102A to limit the scattering contribution from the Milky Way Halo to an FRB's scattering budget.",
+  "Chawla et al. (2021)": "Performed a population synthesis analysis using the properties of FRBs reported in the first CHIME/FRB catalog and found that a model where scattering originates in the turbulent medium local to the FRB, combined with the circumgalactic medium of intervening galaxies, is consistent with the observed properties of their FRB sample.",
+  "The CHIME/FRB Collaboration et al. 2021": "Provided the first CHIME/FRB catalog, which was used by Chawla et al. (2021) in their population synthesis analysis.",
+  "N/A": "No citations found in the text."
+}
+{
+  "UTMOST radio telescope": "Referenced as the instrument used to detect FRB20191107B and study its properties.",
+  "Section 2": "Not a citation, but referenced as the section that describes the methodology used to model the burst properties.",
+  "Section 3": "Not a citation, but referenced as the section that discusses the rates of intrinsically narrow FRBs and the efficiency of current leading surveys in probing the population of such FRBs.",
+  "Section 4": "Not a citation, but referenced as the section that uses measured scattering properties of FRB20191107B to put constraints on the strength of turbulence in the IGM and search for a DM-𝜏 relation in FRBs.",
+  "Section 5": "Not a citation, but referenced as the section that discusses the potential dominant regions for the origin of the observed scattering and identifies the local environment of the source as the most likely candidate.",
+  "Section 6": "Not a citation, but referenced as the section that summarizes and makes conclusions."
+}

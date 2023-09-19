@@ -1,0 +1,70 @@
+{
+  "Lorimer et al. 2007": "Referenced as the first discovery of Fast Radio Bursts (FRBs).",
+  "Petroff et al. 2016; CHIME/FRB Collaboration et al. 2021": "Cited to indicate the number of FRB sources that have been detected.",
+  "Zhang 2020": "Referenced as a source studying the engine powering FRB sources and the physical mechanism generating coherent radio emission."
+}
+{
+  "Schechter 1976": "Referenced to describe the exponential high-energy cutoff in the assumed power law luminosity function of FRBs.",
+  "Lu & Kumar 2016, 2019": "Cited to highlight different constraints on the power law index α of the Schechter luminosity function.",
+  "Luo et al. 2018": "Referenced to indicate another study that constrained the power law index α of the Schechter luminosity function.",
+  "Bhandari et al. 2018": "Cited to show additional constraints on the power law index α of the Schechter luminosity function.",
+  "Macquart & Ekers 2018": "Referenced to indicate another study that constrained the power law index α of the Schechter luminosity function.",
+  "Golpayegani et al. 2019": "Cited to show additional constraints on the power law index α of the Schechter luminosity function.",
+  "Luo et al. 2020": "Referenced to indicate another study that constrained the power law index α of the Schechter luminosity function.",
+  "Zhang et al. 2021": "Cited to show additional constraints on the power law index α of the Schechter luminosity function.",
+  "Hashimoto et al. 2022": "Referenced to indicate another study that constrained the power law index α of the Schechter luminosity function.",
+  "Lu et al. (2020)": "Cited to support the claim that an index ∼ -1.8 can account for FRBs down to the low-luminosity Galactic FRB 200418.",
+  "Vedantham et al. 2016": "Referenced to describe the expected power-law distribution of observed fluence for sources in Euclidean geometry with constant space density.",
+  "Madau & Dickinson 2014": "Cited to suggest that if the progenitors of FRBs are young, the number density of FRBs should track the cosmic star formation history towards redshift about z ∼ 2.",
+  "Nicholl et al. 2017": "Referenced to indicate another study that suggests the number density of FRBs should track the cosmic star formation history towards redshift about z ∼ 2.",
+  "Hashimoto et al. 2020b": "Cited to show that some studies have shown that the FRB samples deviate from the star formation history.",
+  "Arcus et al. 2021": "Referenced to indicate another study that shows the deviation of FRB samples from the star formation history.",
+  "James et al. 2022": "Cited to highlight another study that shows the deviation of FRB samples from the star formation history.",
+  "Zhang & Zhang 2022": "Referenced to indicate another study that suggests a delayed redshift distribution of FRBs compared to the star formation history.",
+  "Hashimoto et al. 2022": "Cited to support the suggestion that a good fraction of FRB progenitors are likely old, with the number density decrease towards high redshift.",
+  "N/A": "No citations found in the text."
+}
+{
+  "et al. 2022": "Referenced to suggest that a significant portion of FRB progenitors are likely old and that their number density decreases at high redshift.",
+  "Lu & Kumar 2016, 2019": "Cited to indicate that various studies have shown consistent results regarding the derived luminosity/energy functions of FRBs, regardless of the assumption of redshift distribution.",
+  "Luo et al. 2018": "Referenced to support the claim that the derived luminosity/energy functions of FRBs are consistent with other studies.",
+  "Bhandari et al. 2018": "Cited to highlight another study that supports the consistency of derived luminosity/energy functions of FRBs.",
+  "Macquart & Ekers 2018": "Referenced to emphasize the consistency of derived luminosity/energy functions of FRBs across different studies.",
+  "Golpayegani et al. 2019": "Cited to further support the claim that the derived luminosity/energy functions of FRBs are consistent with other studies.",
+  "Luo et al. 2020": "Referenced to reinforce the argument that the derived luminosity/energy functions of FRBs are consistent with other studies.",
+  "Zhang et al. 2021": "Cited to provide additional evidence for the consistency of derived luminosity/energy functions of FRBs.",
+  "Zhang & Zhang 2022": "Referenced to support the claim that the derived luminosity/energy functions of FRBs are consistent with other studies.",
+  "Hashimoto et al. 2022": "Cited to present recent research that contributes to the understanding of FRB luminosity/energy functions."
+}
+{
+  "Law et al. 2017": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "Wang & Zhang 2019": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "Gourdji et al. 2019": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "Cruces et al. 2021": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "Aggarwal et al. 2021": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "CHIME/FRB Collaboration et al. 2020": "Referenced to support the detailed studies on the energy/luminosity functions of individual sources FRB 20121102A and FRB 20180916B.",
+  "Hashimoto et al. 2020a": "Referenced to highlight the implications of the results on the differences in the luminosity/energy functions of the two kinds of FRBs.",
+  "Nan et al. 2011": "Referenced to emphasize the high sensitivity of the Five-hundred-meter Aperture Spherical radio Telescope (FAST) used in the study by Li et al. (2021).",
+  "Li et al. (2021)": "Referenced to support the detailed energy function analysis of more than 1600 bursts for the repeater FRB 20121102A, revealing the need for a two-component model to fit the data.",
+  "N/A": "No citations found."
+}
+{
+  "CHIME/FRB Collabortion 2021": "Referenced as the source that first discovered FRB 20201124A and entered a high-active period in March 2021.",
+  "Hilmarsson et al. 2021": "Cited for reporting bursts during the high-active period with a variety of radio telescopes.",
+  "Marthi et al. 2021": "Cited for reporting bursts during the high-active period with a variety of radio telescopes.",
+  "Lanman et al. 2022": "Cited for reporting bursts during the high-active period with a variety of radio telescopes.",
+  "Kumar et al. 2022": "Cited for reporting bursts during the high-active period with a variety of radio telescopes and for studying burst properties.",
+  "Law et al. 2021": "Cited for reporting bursts during the high-active period with a variety of radio telescopes.",
+  "Xu et al. 2021": "Cited for reporting bursts during the high-active period with a variety of radio telescopes, for previous FAST observations detecting bursts with significant short-term evolution of the rotation measure (RM), and for follow-up observations localizing the source to a host galaxy.",
+  "Fong et al. 2021": "Cited for follow-up observations localizing the source to a host galaxy.",
+  "Ravi et al. 2022": "Cited for follow-up observations localizing the source to a host galaxy.",
+  "Piro et al. 2021a": "Cited for follow-up observations localizing the source to a host galaxy.",
+  "Nimmo et al. 2022": "Cited for follow-up observations localizing the source to a host galaxy.",
+  "Main et al. 2021": "Cited for showing the diversity in burst properties, such as obvious scintillation.",
+  "Piro et al. 2021b": "Cited for follow-up observations localizing the source to a host galaxy."
+}
+{
+  "Zhou et al. 2022": "Cited to reference the discussion of the morphology, polarization, and periodicity search of FRB 20201124A using the same set of data.",
+  "Jiang et al. 2022": "Cited to reference the discussion of the morphology, polarization, and periodicity search of FRB 20201124A using the same set of data.",
+  "Niu et al. 2022": "Cited to reference the discussion of the morphology, polarization, and periodicity search of FRB 20201124A using the same set of data."
+}

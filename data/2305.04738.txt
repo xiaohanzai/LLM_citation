@@ -1,0 +1,18 @@
+@1:
+Referenced to support the statement that FRBs release huge energy at a short time and are detected as intense millisecond-duration bursts at radio wavelength.
+
+@2:
+Referenced to support the statement that recent observations of FRB121102 and FRB20201124A by FAST reveal their high burst rate and more subtle structure about the distribution of energy and temporal properties of bursts.
+
+@3:
+Referenced to support the statement that the occurrence time intervals between successive bursts of FRBs show scale invariance under the rescaling of time by the rate of bursts in the case of different fluence (or energy) thresholds.
+
+@4:
+Referenced to support the statement that the possible dynamical mechanism of repeating FRBs occurrence rate is discussed based on time-dependent Poisson process and the scale invariance of waiting time is naturally arose as a result of this process.
+
+@5:
+Referenced to support the statement that the data set of FRB121102, which includes 1652 independent bursts, was used for studying the issue of temporal clustering of repeating FRBs and recent research has shown that there is no periodicity or quasi-periodicity on timescales between 1 ms and 1000 s.
+
+@6:
+Referenced to support the statement that the data set of FRB20201124A, which includes 1863 independent bursts, was used for studying the issue of temporal clustering of repeating FRBs and the availability of high resolution detection greatly lowered the flux threshold up to three times than previous observations.
+@N/A

@@ -1,0 +1,108 @@
+{
+  "LIGO's 3 rd Science Run (O3a: April 1, 2019 -October 1, 2019)": "Referenced to provide the time frame of LIGO's third science run, which overlaps with the observation period of CHIME/FRB's first FRB catalogue.",
+  "GWTC-2 13": "Referenced as the publicly available GW catalogue used in the study.",
+  "Canadian Hydrogen Intensity Mapping Experiment FRB project (CHIME/FRB)": "Referenced as the source of the first FRB catalogue containing 535 new FRB sources observed from July 2018 to July 2019.",
+  "LIGO": "Referenced as the organization conducting the science run that overlaps with CHIME/FRB's observation period.",
+  "Methods": "Referenced to indicate that the details of the search time window and criteria for GW-FRB coincidences can be found in the Methods section.",
+  "arcminutes": "Referenced to highlight the accuracy of CHIME/FRB localization in terms of angular measurement.",
+  "square degrees": "Referenced to compare the precision of CHIME/FRB localization with the best GW localization.",
+  "FRB": "Referenced as the phenomenon being studied in the context of GW-FRB associations.",
+  "compact binary coalescence": "Referenced as one of the theories predicting the association of an FRB with a GW event.",
+  "neutron stars": "Referenced as one of the celestial objects involved in the theorized compact binary coalescence events.",
+  "black hole": "Referenced as another celestial object involved in the theorized compact binary coalescence events.",
+  "charged black holes": "Referenced as a possible type of black hole involved in the theorized compact binary coalescence events.",
+  "FRB-like signals": "Referenced as the signals theorized to be emitted before, during, or after a binary neutron star merger.",
+  "binary neutron star (BNS) mergers": "Referenced as a specific type of compact binary coalescence event that has long been theorized to emit FRB-like signals.",
+  "GW-FRB associations": "Referenced as the focus of the study, investigating the potential connection between gravitational wave events and fast radio bursts.",
+  "FRBs": "Referenced to provide the abbreviation expansion of Fast Radio Bursts.",
+  "GW": "Referenced to provide the abbreviation expansion of Gravitational Waves."
+}
+{
+  "CHIME/FRB localization 2": "Referenced to describe the accuracy of CHIME/FRB localization, which is more precise than the best GW localization.",
+  "GW localization": "Referenced to compare the accuracy of CHIME/FRB localization with GW localization.",
+  "Methods": "Referenced to explain the criteria for considering a GW-FRB pair spatially coincident."
+}
+{
+  "LIGO Livingston": "Referenced to provide information about the observation of the GW190425 merger event on April 25, 2019.",
+  "LIGO Hanford": "Referenced to indicate that it was offline during the observation of the GW190425 merger event.",
+  "Virgo": "Referenced to mention that no significant detection was made by Virgo due to its lower sensitivity.",
+  "CHIME": "Referenced to describe the broadband emission and single-peaked morphology of FRB 20190425A, which is associated with non-repeating FRBs.",
+  "Milky Way": "Referenced to explain that the unusually low dispersion measure (DM) of FRB 20190425A indicates an origin within z < 0.0394, assuming DM originates only from the Milky Way and the intergalactic medium.",
+  "intergalactic medium": "Referenced along with the Milky Way to explain the origin of the dispersion measure (DM) of FRB 20190425A.",
+  "GWTC-2 skymap": "Referenced to indicate that FRB 20190425A's localization is within the 66.7% credible interval of GW190425's refined GWTC-2 skymap.",
+  "Figure 1": "Referenced to mention the figure that shows the localization of FRB 20190425A within the GW190425's refined GWTC-2 skymap.",
+  "Methods": "Referenced to indicate that the brightness and dispersion measure (DM) of FRB 20190425A are discussed in the methods section of the paper."
+}
+{
+  "CHIME's exposure 2": "N/A",
+  "sample of localized FRBs 27": "To support the estimation of the probability of an FRB originating at redshift z having a dispersion measure DM.",
+  "published redshift posterior distribution 12": "Referenced to produce the expected DM probability distribution for GW190425.",
+  "Figure 2": "To show that FRB 20190425A lies in the 46% credible interval of GW190425's DM probability distribution.",
+  "473 other FRBs": "To compare the DM of FRB 20190425A with other FRBs and calculate the chance of a random CHIME FRB having a DM with an equal or better match to expectations.",
+  "CHIME has shown that the temporal, spatial and DM distributions of FRBs are independent 28": "Referenced to support the independence of temporal, spatial, and DM distributions of FRBs, except for a potential correlation between FRBs with DM ∼ 800 pc cm -3 and large-scale structure at z ∼ 0.4."
+}
+{
+  "CHIME": "CHIME has shown that the temporal, spatial and DM distributions of FRBs are independent 28 , except for a potential correlation 29 between FRBs with DM ∼ 800 pc cm -3 and large-scale structure at z ∼ 0.4.",
+  "GW190425": "Note the close proximity of this FRB in time, sky direction and distance, as implied by DM measurements, to GW190425 makes this association more significant than the random chance of finding any FRBs within the search windows used for initial discovery (13.5% probability).",
+  "FRB 20190425A": "GW190425-FRB 20190425A is the only GW-FRB pair that survived our time-spatial coincidence criteria and it is linked to the only BNS event out of the 21 GW sources detected. This encourages us to consider a potential astrophysical association between GW190425 and FRB 20191425A.",
+  "UGC 10667": "We identify one candidate in the NASA Extragalactic Database (NED)1 within a redshift range 0.001 < z < 0.08 consistent with the BNS merger redshift range: UGC 10667 (Figure 3).",
+  "NED": "We identify one candidate in the NASA Extragalactic Database (NED)1 within a redshift range 0.001 < z < 0.08 consistent with the BNS merger redshift range: UGC 10667 (Figure 3)."
+}
+{
+  "UGC 10667": "Referenced to encourage follow-up observations to investigate the association and search for evidence of the merger event.",
+  "31": "Referenced to highlight the importance of observing the radio band at sub-GHz frequencies in the search for evidence of the merger event.",
+  "32": "Referenced to emphasize the importance of observing the radio band at sub-GHz frequencies in the search for evidence of the merger event."
+}
+{
+  "magnetar 14": "The reference is cited to support the theory of a potential association between GW, short gamma-ray burst (sGRB), and FRB, specifically invoking the collapse of a post-BNS-merger magnetar.",
+  "blitzar mechanism 15": "This reference is cited to describe the FRB generation mechanism known as the 'blitzar' mechanism, which has been confirmed through numerical simulations.",
+  "numerical simulations 33": "The reference is cited to provide evidence for the confirmation of the 'blitzar' mechanism through numerical simulations.",
+  "Figure 3": "This reference is not a citation and should be ignored.",
+  "CHIME 2": "This reference is not a citation and should be ignored.",
+  "Methods": "This reference is not a citation and should be ignored.",
+  "DSS2-red": "This reference is not a citation and should be ignored."
+}
+{
+  "Methods": "N/A",
+  "ref. [4][5][6][7]": "Cited to support the statement about the reported value for the Galactic FRB 200428 having a radio emission efficiency of ηr ~ 2 • 10^-6.",
+  "ref. [14]": "Referenced to explain the expected delay timescale range for a supramassive magnetar collapsing into a black hole and the requirement for the line of sight to be cleared by a sGRB jet in order to observe an FRB following the merger.",
+  "ref. [15]": "Cited to support the statement that the EM energy injection in the blitzar FRB model is essentially isotropic, implying a beaming factor (fb) of approximately 1.",
+  "ref. [33]": "Referenced to provide the total ejected electromagnetic (EM) energy of a collapsing supramassive neutron star (EEM) and to explain that the EM energy injection in the blitzar FRB model is essentially isotropic."
+}
+{
+  "ref. 34": "The reference is cited to support the statement that a short gamma-ray burst (sGRB) does not need to be bright enough to be detected by current gamma-ray telescopes.",
+  "ref. 35": "The reference is cited to provide additional evidence that a sGRB with the brightness of GRB 170817A would be able to clear the ejecta and escape detection at a certain distance.",
+  "ref. 36": "The reference is cited to mention that the International Gamma-Ray Astrophysics Laboratory (INTEGRAL) detected an excess of gamma-rays after GW190425 and reported it as a candidate sGRB associated with the event.",
+  "ref. 37": "The reference is cited to highlight the consistency between the localization of the sGRB reported by INTEGRAL and the non-detection of the sGRB by FERMI, supporting the association between the fast radio burst (FRB) and gravitational wave (GW) event."
+}
+{
+  "LIGO-P2000223": "Referenced to provide the source of the GW parameter estimation for the gravitational masses of the two merger components in the source frame.",
+  "Methods": "Cited to indicate the derivation of the final gravitational mass of the merger remnant assuming a uniformly rotating neutron star.",
+  "38": "Referenced to support the mention of a universal maximum mass (M TOV ) that a non-rotating neutron or quark star can support against gravitational collapse into a black hole.",
+  "39": "Cited to provide additional support for the universal maximum mass (M TOV ) mentioned.",
+  "40": "Referenced to highlight the poor constraint on the uncertain neutron star EoS and the high-end constraints on M TOV derived from observations of GW170817 and X-ray emission of Galactic pulsars.",
+  "41": "Cited to further emphasize the constraints on M TOV derived from observations of GW170817 and X-ray emission of Galactic pulsars.",
+  "42": "Referenced to support the mention of existing constraints for quark star models and the poor constraint on the uncertain neutron star EoS.",
+  "43": "Cited to indicate the enhancement factor up to M rem /M TOV ∼ 1.2 for uniform rotation of a supramassive neutron star remnant.",
+  "44": "Referenced to suggest the possibility of quark deconfinement occurring for the merger remnant in a high-mass, high-pressure environment.",
+  "45": "Cited to support the mention of quark deconfinement as a possibility for the merger remnant.",
+  "46": "Referenced to indicate the potential enhancement factor as large as 1.4 for quark deconfinement in the merger remnant."
+}
+{
+  "GW170817": "These references (47, 48, 49) are cited to support the claim that mergers with lower component masses, such as GW170817, could produce a longer-lived supramassive or stable neutron star, which is consistent with the late-time X-ray rebrightening of the GW170817 remnant.",
+  "GRB 170817A": "This reference (47) is cited to indicate the association of GW170817 with GRB 170817A.",
+  "FRB 20200120E": "These references (8, 50) are cited to suggest that repeating FRBs, like FRB 20200120E, could be produced from old stellar populations, such as a globular cluster in M81.",
+  "FRB 20190425A": "This reference (39) is cited to mention the FRB 20190425A-like FRBs in the CHIME sample, and to suggest that the rate density of BNS mergers alone cannot account for these FRBs.",
+  "CHIME": "This reference is cited to mention the CHIME sample of FRBs.",
+  "GW": "This reference is cited to propose the association between gravitational waves (GW) and fast radio bursts (FRBs), and to encourage wide-field radio observations concurrent with future GW observing runs.",
+  "M81": "This reference (8) is cited to indicate that the repeating FRB 20200120E could be located in a globular cluster in M81.",
+  "GW190425": "This reference is cited to derive the remnant mass M_rem of GW190425.",
+  "neutron star": "These references (38, 39, 43) are cited to discuss the enhancement factor of the remnant mass M_rem compared to the maximum mass of a neutron star (M_TOV) for different scenarios.",
+  "quark star": "This reference (46) is cited to discuss the enhancement factor of the remnant mass M_rem compared to the maximum mass of a quark star (M_TOV).",
+  "EoSs": "This reference is cited to mention the possible range of different equations of state (EoSs) for neutron stars.",
+  "GW190425/FRB 20190425A": "This reference is cited to derive the allowed range of M_TOV given the association between GW190425 and FRB 20190425A."
+}
+{
+  "N/A": "No citations found in the text."
+}
+N/A

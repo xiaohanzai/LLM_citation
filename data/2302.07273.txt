@@ -1,0 +1,16 @@
+@Gögüş et al. 1999; Gögüş et al. 2000; Gögüş et al. 2001; Rea et al. 2009; Rea & Esposito 2010; Kaspi & Beloborodov 2017; Esposito et al. 2020:
+These references are cited to support the statement that bursts and flares of hard X-rays are a common feature in magnetar observations, providing a basis for the discussion of magnetospheric instabilities in the context of magnetar dynamics.
+
+@Chen 2011; Manchester et al. 2017; Isenberg & Forbes 2007; Amari et al. 2003; Gerrard et al. 2004; Török & Kliem 2005; Török et al. 2010; Gordovskyy & Browning 2011; Gordovskyy et al. 2014; Pinto et al. 2016; Ripperda et al. 2017a,b; Sauppe & Daughton 2018:
+These papers are cited to draw parallels between the physical processes examined in the paper and those of solar magnetic field dynamics, specifically in relation to flux ropes and field line configurations, highlighting the relevance of previous simulations and analytical studies in understanding magnetospheric instabilities.
+
+@Beloborodov 2013:
+Referenced to emphasize the expectation of similarly rich dynamics in the corona around magnetars, which is a region of active plasma processes in highly relativistic magnetar magnetospheres.
+@Bochenek et al. 2020; CHIME/FRB Collaboration 2020; Israel et al. 2021; Li et al. 2021; Ridnaia et al. 2021; Younes et al. 2021:
+These references are cited to support the statement that recent observations have associated magnetar X-ray activity with the production of powerful radio bursts, providing specific examples of such observations.
+
+@Lyubarsky 2021:
+Referenced to suggest that while X-ray emission is produced by any release of magnetic energy in the immediate magnetar vicinity, radio bursts are likely related to the outflow dynamics around or beyond the light cylinder.
+
+@Kaspi & Beloborodov 2017; Esposito et al. 2020:
+These papers are cited to indicate that not all X-ray emission episodes are associated with radio events, providing examples of observations that support this claim.

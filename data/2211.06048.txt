@@ -1,0 +1,9 @@
+{
+  "Figure 1 D-E": "Referenced to describe the path of the radio burst through an ionised plasma.",
+  "Parkes 64-m radio telescope": "Referenced as the location where the radio burst was detected and archived.",
+  "August 25, 2001": "Referenced as the date when the radio burst struck the Parkes radio telescope.",
+  "radio pulsar survey": "Referenced as the context in which the radio burst was archived.",
+  "serendipitous discovery": "Referenced to describe the unexpected nature of the radio burst's discovery.",
+  "new class of object": "Referenced to describe the classification of the radio burst as a new type of astrophysical phenomenon.",
+  "cosmological implications": "Referenced to highlight the broader implications of the discovery of the radio burst."
+}

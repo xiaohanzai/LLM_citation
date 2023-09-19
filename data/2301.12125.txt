@@ -1,0 +1,25 @@
+@Melrose 2017; Petroff et al. 2019; Cordes & Chatterjee 2019; Zhang 2020; Zhang 2022a; Xiao et al. 2021; Lyubarsky 2021; Bailes 2022:
+These references are cited to support the claim that the brightness temperatures of radio pulsars and fast radio bursts (FRBs) are much greater than any plausible thermal temperature of the emitting electrons, suggesting that the radiation mechanism of these phenomena must be coherent.
+@Melrose 2017; Zhang 2022a:
+These references are cited to support the invocation of coherent emission mechanisms to interpret the emissions of radio pulsars and FRBs.
+
+@Sturrock 1971; Ginzburg & Zhelezniakov 1975; Ruderman & Sutherland 1975; Buschauer & Benford 1976; Benford & Buschauer 1977; Asseo & Melikidze 1998; Melikidze et al. 2000; Gil et al. 2004; Basu et al. 2022; Rahaman et al. 2022:
+These papers are cited to discuss the proposal of coherent curvature radiation by charged bunches as an explanation for the emission of pulsars and FRBs.
+
+@Katz 2014, 2018; Kumar et al. 2017; Lu & Kumar 2018; Yang & Zhang 2018b; Kumar & Bošnjak 2020; Lu et al. 2020; Yang et al. 2020; Cooper & Wĳers 2021; Wang et al. 2022a, b; Tong & Wang 2022; Liu et al. 2022; Qu et al. 2023:
+These references are cited to support the discussion of coherent curvature radiation by charged bunches as an explanation for the emission of FRBs.
+
+@Ruderman 1971; Benford & Buschauer 1977; Cheng & Ruderman 1977; Usov 1987; Rahaman et al. 2020; Kumar et al. 2022:
+These papers are cited to discuss the formation and radiation of charged bunches in the magnetosphere of a neutron star.
+
+@Melrose 2017; Lyubarsky 2021:
+These references are cited to highlight important issues with models involving charged bunches, such as their potential short-lived nature and the strong suppression of radiation by the magnetosphere plasma.
+
+@Gil et al. 2004; Lyubarsky 2021:
+These papers are cited to discuss the propagation and suppression of electromagnetic waves with frequencies below the plasma frequency in the highly magnetized plasma in the magnetosphere.
+
+@Qu et al. 2023:
+This reference is cited to support the finding that the plasma suppression effect could be ignored in the case of FRBs due to the existence of a parallel electric field in the FRB emission region.
+@Qu et al. (2023):
+Referenced to support the finding that the plasma suppression effect can be ignored in the case of FRBs due to the existence of a parallel electric field in the FRB emission region.
+@N/A

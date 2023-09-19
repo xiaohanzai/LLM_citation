@@ -1,0 +1,36 @@
+{
+  "[1]": "Referenced as the first discovery of fast radio bursts (FRBs).",
+  "[2]": "Cited to emphasize the cosmological origin and energetic nature of FRBs, highlighting their potential for probing astrophysics.",
+  "[3]": "Referenced to highlight the use of polarization properties, such as Faraday rotation measure (RM), in tracing the radiation mechanisms and propagation processes of FRBs.",
+  "[4]": "Cited to support the hypothesis that the short-time-scale swings in the polarization angle of FRB 20180301A originate within the magnetosphere of a magnetar.",
+  "[5,6,7]": "These references are cited to indicate that circular polarization has been detected in about half of non-repeating FRBs.",
+  "[8]": "Referenced to mention that circular polarization is only seen in one repeating source, FRB 20201124A.",
+  "[9,10]": "Cited to highlight the extreme activity and significant frequency evolution of linear polarization in the two FRBs, FRB 20121102A and FRB 20190520B, which are found to coincide with a compact persistent radio source (PRS)."
+}
+{
+  "FAST": "Referenced to indicate that the detections of circular polarization of FRBs 20121102A and 20190520B were made by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), expanding the sample of repeating FRBs with circular polarization.",
+  "11": "Cited as the reference for the FAST telescope.",
+  "12": "Cited as the reference for FRB 20121102A being the first precisely-localized repeating FRB.",
+  "13": "Cited as the reference for FRB 20121102A having almost 100% linear polarization at 4-8 GHz.",
+  "9": "Cited as the reference for FRB 20121102A having no linear polarization at 1.25 GHz, thus no measurable RM.",
+  "7": "Cited as the reference for FRB 20121102A having no linear polarization at 1.25 GHz and the depolarization toward lower frequencies, which can be explained by RM scatter due to multipath propagation. Also cited as the reference for the frequency evolution of polarization being a unified feature of all active repeaters. Additionally, cited as the reference for FRB 20190520B having no linear polarization at 1.25 GHz because of RM scatter.",
+  "14": "Cited as the reference for the RM scatter causing the depolarization toward lower frequencies in FRB 20121102A.",
+  "1652": "Cited as the reference for the number of independent bursts detected by FAST in 59.5 hours spanning 62 days.",
+  "9": "Cited as the reference for the dataset used for further analyses of the FAST sample.",
+  "15": "Cited as the reference for the Commensal Radio Astronomy FAST Survey (CRAFTS) through which FRB 20190520B was discovered.",
+  "10": "Cited as the reference for the Karl G. Jansky Very Large Array (VLA)-realfast system used to localize FRB 20190520B. Also cited as the reference for further analyses of the FAST sample revealing circular polarization in three bursts.",
+  "Supplementary materials A": "Referenced to find the details of the observations and data reduction.",
+  "Table S1": "Referenced to find the time of arrival and the degree of circular polarization of each pulse.",
+  "Figure 1": "Referenced to view the polarization pulse profiles."
+}
+{
+  "Figure S1": "N/A",
+  "Figure S2": "N/A",
+  "16": "N/A",
+  "17": "N/A",
+  "7": "N/A",
+  "Supplementary materials B": "N/A"
+}
+{
+  "N/A": "No citations in the text"
+}

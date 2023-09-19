@@ -1,0 +1,22 @@
+{
+  "Lorimer et al. 2007": "Referenced to provide a general description of fast radio bursts (FRBs) and their characteristics.",
+  "Thornton et al. 2013; Cordes & Chatterjee 2019": "Cited to support the statement that most FRBs are regarded as extragalactic transients due to their large dispersion measures.",
+  "Tendulkar et al. 2017; Bannister et al. 2019; Nimmo et al. 2022": "Referenced to highlight the localization of FRBs to their host galaxies.",
+  "Hashimoto et al. 2020; Pleunis et al. 2021": "Cited to emphasize the ongoing debate regarding whether the two populations of FRBs originate from similar progenitors."
+}
+{
+  "Margalit & Metzger 2018": "Cited to support the claim that understanding the progenitor of FRBs is a topic of interest in the field.",
+  "Kashiyama & Murase 2017": "Referenced to emphasize the mystery surrounding the origin of FRBs.",
+  "Lyutikov et al. 2016": "Cited to highlight the need to comprehend the origin of FRBs.",
+  "Platts et al. 2019": "Referenced to support the claim that the origin of FRBs remains unknown.",
+  "Bhandari et al. 2022": "Cited for their optical work on FRB host galaxies, which suggests no significant difference between the physical properties of host galaxies of repeating and non-repeating FRBs.",
+  "Mannings et al. 2021": "Referenced for their previous studies on FRB host galaxies, which mainly focus on their stellar components.",
+  "Heintz et al. 2020": "Cited for their previous studies on FRB host galaxies, which mainly focus on their stellar components.",
+  "Kaur et al. 2022": "Cited for their study on the HI distribution in the host galaxy of repeating FRB 180926B, which indicates a disturbed and merging kinetic structure of HI gas.",
+  "Michałowski 2021": "Cited for their findings on the asymmetric HI spectral shapes in the host galaxies of repeating FRBs, indicating features of galaxy interactions and a potential connection between the birth of FRB progenitors and enhanced star formation via interaction."
+}
+{
+  "Hatsukade et al. (2022)": "Referenced to discuss the diverse molecular-gas properties in FRB host galaxies based on ALMA CO observations, specifically highlighting that the host galaxy of FRB 180924B is more gas-rich than general star-forming galaxies.",
+  "Hatsukade et al. (2022)": "Referenced to indicate that the same data as used by Hatsukade et al. (2022) is used in this work, but with a better velocity resolution of 9 km s -1 to focus on the kinematics of molecular gas.",
+  "N/A": "No citations found in the text."
+}

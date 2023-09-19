@@ -1,0 +1,53 @@
+@Li et al. (2021); Jahns et al. (2023):
+These references are cited to provide examples of FRBs that exhibit high event rates of several tens to hundreds per hour.
+
+@Nimmo et al. (2023):
+Referenced to provide an example of an FRB with a high event rate.
+
+@Xu et al. (2022); Zhang et al. (2022b):
+These papers are cited to provide examples of FRBs with high event rates.
+
+@Michilli et al. (2018); Hilmarsson et al. (2021b); Dai et al. (2022); Anna-Thomas et al. (2022):
+These references are cited to highlight FRBs that show exceptionally high and variable RM.
+
+@Xu et al. (2022):
+Referenced to highlight FRB 20201124A, which displays short-time irregular RM oscillations.
+
+@Mckinven et al. (2022):
+Referenced to highlight FRB 20180916B, which exhibits RM variation exceeding 40%.
+
+@Mckinven et al. (2023):
+Cited to reference CHIME's measurements of the polarization of 12 repeating FRBs, indicating significant RM changes within months.
+
+@Feng et al. (2022b); Wang et al. (2022a); Zhao et al. (2023); Yang et al. (2023):
+These references are cited to suggest that most FRB progenitors may be located in complex, dynamically evolving magnetized environments.
+@McKinven & Chime/Frb Collaboration 2022:
+Referenced to report the detection of a new FRB (FRB 20220912A) and provide information on its dispersion measure (DM) and rotation measure (RM) values.
+
+@Ravi et al. 2022:
+Cited to highlight the collaboration's ability to quickly localize the source of FRB 20220912A in a host galaxy with a redshift of 0.077.
+
+@Cordes & Lazio 2002; Yao et al. 2017:
+These references are cited to estimate the contributions to the dispersion measure (DM) from the Galactic DM and Milky Way halo, respectively, in relation to the low host galaxy DM contribution of FRB 20220912A.
+
+@Chatterjee et al. 2017; Niu et al. 2022:
+Cited to compare the low host galaxy DM contribution of FRB 20220912A with the significant DM contributions from the host galaxies of FRB 20121102A and FRB 20190520B.
+
+@Herrmann 2022; Ravi 2022; Pelliciari et al. 2022; Fedorova & Rodin 2022; Feng et al. 2022c; Kirsten et al. 2022a; Zhang et al. 2022a; Perera et al. 2022; Sheikh et al. 2022; Yu et al. 2022; Rajwade et al. 2022; Bhusare et al. 2022; Ould-Boukattine et al. 2022:
+These references are cited to acknowledge the numerous telescopes and telescope arrays that have detected bursts from FRB 20220912A, highlighting its high brightness and activity.
+@Dunning et al. (2017):
+Referenced to describe the center beam receiver used in the FAST observation of FRB 20220912A.
+
+@Ravi et al. (2022):
+Referenced to report the coordinates of FRB 20220912A observed by DSA-100.
+
+@Zhang et al. (2022b):
+Referenced to describe the pipeline used for offline burst searches in the analysis of FRB 20220912A.
+
+@Jiang et al. (2020):
+Referenced to model the system temperature and telescope gain for estimating the flux density of each burst in the analysis of FRB 20220912A.
+@Ravi et al. 2022:
+Referenced to provide the redshift and luminosity distance of FRB 20220912A in the context of calculating the fluence obtained in equation (1).
+
+@Planck Collaboration et al. 2016:
+Cited to indicate the adoption of the standard Planck cosmological model in determining the redshift and luminosity distance of FRB 20220912A.

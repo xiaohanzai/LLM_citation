@@ -1,0 +1,15 @@
+{
+  "Caleb & Keane 2021": "Referenced as a recent broad review that provides knowledge about FRBs.",
+  "Lorimer et al. 2007": "Cited as the discovery paper that demonstrated the necessity of a coherent emission mechanism based on the brightness temperature of FRBs.",
+  "Xiao, Wang & Dai 2021": "Referenced as a source that provides a review of various types of sources and emission mechanisms proposed for FRBs.",
+  "Lyutikov 2017": "Cited to highlight the difficulties faced by rotation powered mechanisms in producing energetic bursts and the preference for magnetic energy release in current approaches."
+}
+{
+  "Nicastro et al. 2021": "Referenced for a brief review in Section 6 and to provide references to the original papers.",
+  "Popov & Postnov 2007": "Cited to support the original proposal that FRBs are related to flashes of magnetars.",
+  "Dong et al. 2022": "Referenced as one of the papers reporting the detection of coincident radio and high energy events from the Galactic source SGR 1935+2154.",
+  "Wang et al. 2022": "Cited as one of the papers reporting the detection of coincident radio and high energy events from the Galactic source SGR 1935+2154.",
+  "Frederiks et al. 2022": "Referenced as one of the papers reporting the detection of coincident radio and high energy events from the Galactic source SGR 1935+2154.",
+  "Huang et al. 2022": "Cited as one of the papers reporting the detection of coincident radio and high energy events from the Galactic source SGR 1935+2154.",
+  "Li et al. 2022": "Referenced as one of the papers reporting the detection of coincident radio and high energy events from the Galactic source SGR 1935+2154."
+}

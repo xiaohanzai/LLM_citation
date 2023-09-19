@@ -1,0 +1,37 @@
+{
+  "Cordes & Chatterjee 2019": "Referenced to support the statement that FRBs have been detected in frequencies from 118 MHz to 8 GHz.",
+  "Petroff et al. 2019": "Referenced to support the statement that FRBs have been detected in frequencies from 118 MHz to 8 GHz.",
+  "Pleunis et al. 2021b": "Referenced to support the statement that FRBs have been detected in frequencies from 118 MHz to 8 GHz.",
+  "Heintz et al. 2020": "Referenced to indicate that the host galaxies of nineteen FRBs have been identified.",
+  "Lyutikov et al. 2016": "Referenced to propose a model involving young rapidly rotating pulsars for repeating FRBs.",
+  "Katz 2017": "Referenced to propose a model involving a wandering jet in an intermediate-mass black hole binary with chaotic accretion for repeating FRBs.",
+  "Dai et al. 2016": "Referenced to propose a model involving a pulsar passing through the asteroid belt for repeating FRBs.",
+  "Dai & Zhong 2020": "Referenced to propose a model involving a pulsar passing through the asteroid belt for repeating FRBs.",
+  "Gu et al. 2016(Gu et al. , 2020)": "Referenced to propose a model involving a neutron star-white dwarf binary with strong dipolar magnetic fields for repeating FRBs.",
+  "Chen et al. 2021": "Referenced to propose a model involving the precession of a jet in an NS/BH-WD binary with super-Eddington accretion rate for repeating FRBs.",
+  "Geng et al. 2021": "Referenced to propose a model involving the intermittent collapses of the crust of a strange star for repeating FRBs.",
+  "Zhang 2014": "Referenced to propose a model involving the collapse of a spinning supra-massive NS forming a BH for one-off FRBs.",
+  "Zhang 2016": "Referenced to propose a model involving the merger of a charged Kerr-Newman BH binary for one-off FRBs.",
+  "Liu et al. 2016": "Referenced to propose a model involving the merger of a charged Kerr-Newman BH binary for one-off FRBs.",
+  "CHIME/FRB Collaboration et al. 2019": "Referenced to support the statement that repeating FRBs and one-off FRBs have different temporal and spectral properties.",
+  "Fonseca et al. 2020": "Referenced to support the statement that repeating FRBs and one-off FRBs have different temporal and spectral properties."
+}
+{
+  "Amiri et al. 2021": "Referenced as the source of the first CHIME/FRB catalog (Catalog 1) which contains 492 unique sources of FRBs detected between 400 and 800 MHz from July 25, 2018, to July 1, 2019, and is used to explore the statistical properties of FRBs."
+}
+{
+  "Josephy et al. (2021)": "Referenced to support the finding that the distribution of FRBs is isotropic based on the study of Galactic latitudes of one-off FRBs and repeating ones.",
+  "Amiri et al. (2021)": "Cited multiple times to highlight various findings, including the statistical consistency of dispersion measures (DMs) and extragalactic DMs of one-off FRBs and first-detected repeater events, the similarity in the distribution of fluences between one-off FRBs and repeaters, the inference of two distinct FRB populations based on the distribution of peak fluxes, and the differences in pulse temporal widths and spectral bandwidths between repeating and one-off FRBs.",
+  "Pleunis et al. (2021a)": "Referenced to show the common occurrence of 'downward-drifting' of frequency and multiple spectral-temporal components in repeaters compared to one-off FRBs, as well as the differences in temporal widths and spectral bandwidths between the two types of FRBs.",
+  "Zhong et al. (2022)": "Cited to support the conclusion that the distribution distinctions in spectral index and peak frequency between one-off FRBs and repeaters cannot be explained by a selection effect due to beamed emission.",
+  "Pleunis et al. (2021a)": "Referenced again to highlight the inappropriate comparison of burst parameters, such as spectral bandwidth, between one-off FRBs and repeating ones.",
+  "N/A": "No citations found in the text."
+}
+{
+  "Pleunis et al. (2021a)": "Cited to mention that some burst parameters used in their work might be inappropriate to compare one-off FRBs with repeating ones due to limited instrumental bandwidth.",
+  "Catalog 1": "Referenced to explain that the spectral bandwidth reported in Catalog 1 might be significantly biased and is not an excellent tracer of the FRB intrinsic bandwidth.",
+  "Cui et al. (2021); Zhong et al. (2022)": "Cited to highlight that previous works did not control for distance when comparing the peak luminosity and energy distributions of one-off FRBs and repeating ones, suggesting biased distinctions of comparisons."
+}
+{
+  "N/A": "No citations found in the text."
+}

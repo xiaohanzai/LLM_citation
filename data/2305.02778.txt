@@ -1,0 +1,20 @@
+@1:
+Referenced to support the claim that the first Fast Radio Burst (FRB) was detected in archival data obtained from observations on the 64-meter Parkes radio telescope, providing key information about its characteristics and origin.
+@2: Referenced to support the statement about the number of sources in the FRB catalog and the date of the last cataloged FRB.
+
+@3: Referenced to support the statement about the work of the Canadian radio telescope CHIME and the current number of detected FRBs.
+
+@4, 5, 6, 7, 8, 9, 10, 11, 12, 13: These references are cited to mention different hypotheses attempting to explain the nature of FRBs.
+
+@14, 15: These references are cited to mention that the observed properties of FRBs and some hypotheses about their origin can be found in reviews.
+
+N/A: No citations appear in the text.
+@16:
+Referenced to support the claim that a conventional microwave oven can generate false FRB detections, highlighting the need for careful processing of observations to avoid such situations.
+@17:
+Referenced to indicate that a search for FRBs was conducted at a frequency of 145 MHz with the LOFAR radio telescope, resulting in upper estimates for the expected number of FRBs per sky but no actual FRB detections.
+
+@18:
+Cited to highlight a search for FRBs at a frequency of 182 MHz with the MWA telescope, which also yielded upper estimates for the expected number of FRBs per sky but no actual FRB discoveries.
+@Fedorova and Rodin [19]:
+Referenced to acknowledge the paper that reported the discovery of 3 bursts at a frequency of 111 MHz and to highlight the subsequent criticisms and verification of the results.

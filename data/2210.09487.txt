@@ -1,0 +1,31 @@
+{
+  "Longair & Scheuer 1966": "Referenced to support the statement that the 'logN-logS' relation is a fundamental quantity in population studies across astronomy, and to emphasize that it encodes properties of the source population.",
+  "Macquart & Ekers 2018; Sun et al. 2015": "Cited to highlight the interest in constraining the population functions of fast radio bursts (FRBs) and gamma-ray bursts (GRBs) in modern astronomy.",
+  "Abbott et al. 2017; Woosley & Bloom 2006; Platts et al. 2019": "Referenced to emphasize that FRBs and GRBs are often produced in exotic systems or cataclysmic circumstances, making them important tracers of rare systems.",
+  "Frontera et al. 2000; Masui et al. 2015": "Cited to highlight propagation effects such as extinction, absorption, or scintillation that can obfuscate the intrinsic behaviors of a transient source and need to be accounted for in determining population functions from observations."
+}
+{
+  "Walsh et al. 1979": "Referenced to provide an example of gravitational lensing magnifying quasars.",
+  "Paynter et al. 2021": "Cited as an example of gravitational lensing magnifying GRBs.",
+  "Kelly et al. 2015": "Referenced to provide an example of gravitational lensing magnifying supernovae (SNe).",
+  "Pacucci & Loeb 2019": "Cited to support the statement that the fraction of quasars undergoing strong lensing is expected to be small.",
+  "Yue et al. 2022": "Referenced to support the statement that the fraction of quasars undergoing strong lensing is expected to be small.",
+  "Porciani & Madau 2000": "Cited to support the statement that the fraction of lensed bursts for SNe is constrained to be small.",
+  "Jonsson et al. 2010": "Referenced to support the statement that the fraction of lensed bursts for SNe is constrained to be small.",
+  "Zumalacárregui & Seljak 2018": "Cited to highlight the use of gravitational lensing to constrain the fraction of dark matter in primordial black holes (PBHs) using type Ia SNe.",
+  "N/A": "No citations found for the sections of the current paper."
+}
+{
+  "Muñoz et al. 2016": "Cited as a reference for lensing searches for multiple source images in the spatial or temporal domain.",
+  "Laha 2018": "Referenced to support the discussion of lensing searches for multiple source images in the spatial or temporal domain.",
+  "Oguri 2019": "Cited as a reference for lensing searches for multiple source images in the spatial or temporal domain.",
+  "Sammons et al. 2020": "Referenced to support the discussion of lensing searches for multiple source images in the spatial or temporal domain.",
+  "Paynter et al. 2021": "Cited as a reference for lensing searches for multiple source images in the spatial or temporal domain.",
+  "Leung et al. 2022": "Referenced to support the discussion of lensing searches for multiple source images in the spatial or temporal domain.",
+  "CHIME/FRB Collaboration et al. 2022": "Cited as a reference for lensing searches for multiple source images in the spatial or temporal domain.",
+  "Connor & Ravi 2022": "Referenced to support the discussion of lensing searches for multiple source images in the spatial or temporal domain."
+}
+{
+  "Carr & Kühnel 2020": "Referenced to provide constraints on primordial black holes (PBHs) and their potential contribution to dark matter in different mass regimes.",
+  "N/A": "No citations found in the text."
+}

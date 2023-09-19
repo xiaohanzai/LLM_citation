@@ -1,0 +1,48 @@
+@McLaughlin et al. (2006):
+Referenced to report the discovery of Rotating Radio Transients (RRATs) and to propose that RRATs constitute a new population of pulsars.
+
+@Reynolds et al. (2006):
+Cited to report the identification of a soft X-ray counterpart for RRAT J1819-1458, suggesting a cooling neutron star as the central engine of the RRAT.
+
+@McLaughlin et al. (2009):
+Referenced to support the belief that RRATs are a special type of pulsar, based on the high inferred brightness temperatures and plausible period increases.
+
+@Burke-Spolaor & Bailes (2010):
+Cited to suggest that some regular pulsars affected by intense radio frequency interference or severe scintillation could be identified as RRATs if initial observations do not have a sufficiently long search duration, and to propose that RRATs can be interpreted as extreme nulling pulsars that are only active for less than a single pulse period.
+
+@Keane & Kramer (2008):
+Referenced to propose that RRATs constitute a new population of pulsars.
+
+@Burke-Spolaor (2013):
+Cited to propose that RRATs can be interpreted as extreme nulling pulsars that are only active for less than a single pulse period.
+
+@Weltevrede et al. (2006):
+Referenced to propose that RRATs can be interpreted as pulsars with extreme pulse-to-pulse modulation, with their normal emissions falling below the sensitivity thresholds of current telescopes.
+@McLaughlin et al. 2006:
+Referenced as the original discovery of RRAT J1913+1330.
+
+@McLaughlin et al. 2009:
+Cited to provide information on the period and spin-down properties of J1913+1330.
+
+@Bhat-1:
+Referenced for additional information on RRAT J1913+1330, with a link provided for further details.
+
+@Bhattacharyya et al. 2018:
+Cited to highlight recent observations revealing a weak persistent emission mode and a prolonged nulling phase in J1913+1330, suggesting the presence of two distinct emission modes.
+
+@Lu et al. 2019:
+Referenced for additional information on the weak persistent mode observed in J1913+1330.
+
+@Palliyaguru et al. 2011; Shapiro-Albert et al. 2018; Caleb et al. 2019:
+These papers are cited to support the statement that only sporadic individual pulses were detected in J1913+1330, with a low event rate, which is typical behavior for RRATs.
+
+@Young et al. 2015:
+Cited to compare the behavior of J1913+1330 to certain pulsars known to undergo mode change.
+
+@Kuzmin 2007:
+Referenced to compare the behavior of J1913+1330 to pulsars that exhibit giant pulses.
+
+@Jiang et al. 2019:
+Cited as the paper presenting the detection and analysis of numerous individual pulses from J1913+1330 using the Five-hundred-meter Aperture Spherical radio Telescope (FAST), the most sensitive radio instrument operating at L band.
+
+N/A

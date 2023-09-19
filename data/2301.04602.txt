@@ -1,0 +1,23 @@
+@Thompson & Duncan 1993:
+Referenced to support the popular model for the generation of pulsar magnetic fields based on the dynamo theory.
+
+@Moffatt 1978:
+Referenced for more details on the dynamo theory.
+
+@Radhakrishnan & Manchester 1969; Reichley & Downs 1969; Haskell & Melatos 2015; Zhou et al. 2022:
+These papers are cited to provide examples and reviews of sudden spin-up events of pulsars, known as glitches, which provide the condition to investigate the effect of the variation of interior velocity fields and test the dynamo model of pulsar magnetic fields.
+
+@Anderson & Itoh 1975; Peng et al. 2022:
+These papers are cited to support the idea that unpinning and repinning of superfluid vortices in the pulsar crusts trigger glitches and explain post-glitch recovery processes.
+
+@Link & Epstein 1996:
+Referenced to suggest that the thermoelectric effect induced by deposited heat due to glitches could change the velocity fields in pulsars.
+@Link & Epstein 1996:
+Cited to support the claim that the thermoelectric effect induced by deposited heat due to glitches could change the velocity fields in pulsars.
+
+@Thompson & Duncan 1995, 1996; Beloborodov 2009:
+Referenced to highlight the presence of observable after-effects associated with the variation of velocity fields in magnetars, which have more free energy to be released compared to normal radio pulsars.
+
+@Evans et al. 1980; Kouveliotou et al. 1998; Hurley et al. 2005; Kaspi & Beloborodov 2017:
+These references are cited to support the statement that the X-ray and gamma-ray bands show evidence of the release of free energy in magnetars, with Kaspi & Beloborodov 2017 providing a review on the topic.
+@N/A

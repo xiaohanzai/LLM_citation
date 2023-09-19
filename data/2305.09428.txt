@@ -1,0 +1,69 @@
+@Thornton et al. 2013; Petroff et al. 2019; Cordes & Chatterjee 2019:
+These references are cited to provide background information on the discovery and characteristics of fast radio bursts (FRBs), including their transient nature, bright and short-duration radio pulses, and large dispersion measures (DMs) suggesting an extra-galactic origin.
+
+@Macquart et al. 2020:
+Referenced to support the statement that FRBs usually present large dispersion measures (DMs) exceeding Galactic values, indicating a possible extra-galactic origin.
+
+@CHIME/FRB Collaboration et al. 2020a:
+Cited to mention the case of FRB 20180916, which exhibits a periodic pattern in its activity cycle.
+
+@Rajwade et al. 2020:
+Referenced to mention the case of the first repeater FRB 20121102, for which a ∼3σ significance periodicity has been reported.
+
+@CHIME/FRB Collaboration et al. 2022:
+Cited to highlight the observation of a significant (6.5σ) periodicity of 216.8 ms in the pulse profile of FRB 20191221A, providing evidence for a neutron-star origin of the event.
+@Platts et al. 2019:
+Referenced to mention the wide variety of theoretical models proposed for FRBs.
+
+@Zhang 2020; Xiao et al. 2021; Zhang 2022:
+Cited to indicate that the origin and emission mechanism of FRBs are still an open question.
+
+@CHIME/FRB Collaboration et al. 2020b:
+Referenced to associate an FRB-like emission with the Galactic magnetar SGR 1935+2154.
+
+@Mereghetti et al. 2020; Tavani et al. 2021; Ridnaia et al. 2021; Li et al. 2021:
+Cited to mention the X-ray burst recorded by various telescopes in coincidence with a bright FRB-like emission, supporting the magnetar scenario for the origin of FRBs.
+
+@Margalit et al. 2020:
+Referenced to highlight that the event mentioned supports the magnetar scenario for the origin of FRBs and opens the possibility of detecting their high-energy emission counterpart.
+
+@Dong & CHIME/FRB Collaboration 2022; Frederiks et al. 2022; Li et al. 2022; Wang et al. 2022; Younes et al. 2022:
+Cited to mention the detection of more coincident radio and X-ray events from the same source, indicating that magnetars are the current best candidate for FRB origin.
+@Chatterjee et al. 2017; Niu et al. 2022:
+These papers are cited to provide evidence of only two other FRB sources (FRB 121102 and FRB 20190520B) that have been associated with compact persistent radio sources with faint emission and no clear counterpart, highlighting the scarcity of such sources.
+
+@Heintz et al. 2020:
+Referenced to support the statement that about 20 FRBs have been accurately localized to a host galaxy at arcsec or milli-arcsec scale.
+
+@Chatterjee et al. 2017; Marcote et al. 2017; Tendulkar et al. 2017; Marcote et al. 2020:
+These papers are cited to emphasize that the localization of some FRBs in a star-forming region within their host galaxies is consistent with active repeating FRBs associated with young extreme objects such as magnetars.
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022:
+Referenced to highlight the precise localization of the FRB 20200120E repeater to a Globular Cluster (GC) within the M81 galaxy, challenging the scenario of active repeating FRBs associated with young extreme objects.
+
+@Bhardwaj et al. 2021:
+Cited to provide the luminosity distance of 3.6 Mpc for FRB 20200120E located in the M81 galaxy.
+
+@Ravi et al. 2019:
+Referenced to provide the luminosity distance of 4 Gpc (corresponding to z=0.66) for FRB 20190523A, supporting the cosmological origin of FRB events.
+
+@Aartsen et al. 2018; Platts et al. 2019; Nicastro et al. 2021; Abbasi et al. 2023; The LIGO Scientific Collaboration et al. 2022:
+These papers are cited to highlight the numerous attempts that have been made to search for multi-wavelength and multi-messenger emission from FRBs in order to constrain their origin among the hundreds of different predicted models.
+@Popov & Postnov 2013; Lyubarsky 2014; Zhang 2014; Murase et al. 2017; Yang & Zhang 2021; Wei et al. 2023:
+These references are cited to support the popular models for the origin of FRBs, which invoke strongly magnetized neutron stars and predict gamma-ray emission associated with these radio bursts.
+
+@Lyubarsky 2014; Metzger et al. 2019; Margalit et al. 2020:
+These papers are cited to provide evidence for the expectation that FRBs arise from synchrotron maser emission at ultrarelativistic magnetized shocks produced by flare ejecta from young magnetars, with specific details on the afterglow emission, gamma-ray energies, and luminosities associated with FRBs.
+@Fermi -LAT Collaboration et al. (2021):
+Referenced to motivate the search for gamma-ray counterparts to known FRB events, based on the recent detection of high-energy emission from a magnetar giant flare.
+
+@Cunningham et al. 2019; Guidorzi et al. 2020; Tavani et al. 2020; Verrecchia et al. 2021:
+These papers are cited to highlight previous searches for FRB counterparts at gamma-ray energies, which did not find any significant detection but were limited to a small sample of FRB events.
+
+@Atwood et al. 2009:
+Referenced to describe the Fermi Large Area Telescope (LAT) as an ideal instrument for monitoring transient events in the sky, due to its large field of view and good sensitivity.
+
+@Principe et al. 2022:
+Cited for preliminary results on the periodic FRB 20180916, using Fermi-LAT data.
+
+N/A

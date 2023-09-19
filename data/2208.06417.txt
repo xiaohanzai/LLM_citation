@@ -1,0 +1,60 @@
+{
+  "Ferrière 2001": "Referenced for a review of the large-scale Galactic magnetic field (GMF) and its importance in understanding various astrophysical processes in the Galaxy.",
+  "Haverkorn 2015": "Referenced for a review of the large-scale Galactic magnetic field (GMF) and its importance in understanding various astrophysical processes in the Galaxy.",
+  "Jaffe 2019": "Referenced for a review of the large-scale Galactic magnetic field (GMF) and its importance in understanding various astrophysical processes in the Galaxy, as well as for Table 1 which provides a summary of large-scale GMF tracers.",
+  "Ferrière et al. (2021)": "Referenced for defining the limits of integration in Equation (2) for the calculation of Rotation Measure (RM)."
+}
+{
+"Lorimer et al. 2013": "Referenced to support the forecast that widefield radio interferometers coming online could detect a significant number of these events, emphasizing the potential impact of future technology.",
+"Beck et al. 2003; Seta & Federrath 2021": "Cited to highlight that the assumption of uncorrelated thermal electron density with the LOS component of the magnetic field may break down under certain circumstances, particularly at sub-kpc scales."
+}
+{
+  "Manchester 1972Manchester , 1974": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "Rand & Lyne 1994": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "Han et al. 1999": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "Noutsos et al. 2008": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "Sobey et al. 2019": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "Ng et al. 2020": "Referenced to support the use of RMs of pulsars for sampling the 3D structure within the Galaxy using DMs and RMs of pulsars.",
+  "ATNF Pulsar Catalogue V1.66: Manchester et al. 2005": "Referenced to provide information about the overall sampling of observed Galactic pulsar RMs within the Galaxy.",
+  "Oppermann et al. 2012Oppermann et al. , 2015": "Referenced to highlight the creation of full-sky RM maps using polarized extragalactic radio sources.",
+  "Hutschenreuter & Enßlin 2020": "Referenced to highlight the creation of full-sky RM maps using polarized extragalactic radio sources.",
+  "Hutschenreuter et al. 2022": "Referenced to highlight the creation of full-sky RM maps using polarized extragalactic radio sources.",
+  "Planck Collaboration et al. 2016a,c": "Referenced to mention the incorporation of electron emission measure (EM) observed by the Planck survey in the production of updated maps of the Galactic RM."
+}
+{
+  "Planck Collaboration et al. 2016a,c": "Referenced to incorporate the electron emission measure observed by the Planck survey in the updated inference algorithm for producing maps of the Galactic RM.",
+  "Keane et al. 2015; Johnston-Hollitt et al. 2015; Heald et al. 2020": "Cited to highlight the expected improvement in both Galactic and extragalactic RM data sets with the coming online of the Square Kilometre Array (SKA) and its associated pathfinder surveys."
+}
+{
+  "ATNF Pulsar Catalogue V1.66: Manchester et al. 2005": "Referenced to indicate the number of observed pulsars with measured DMs in the study of DMs, which has been predominantly limited to Galactic sources.",
+  "Hales et al. 2016": "Cited to explain that radio galaxies, unlike pulsars, continuously emit at radio frequencies on short timescales, making it challenging to measure their DM.",
+  "Lorimer et al. (2007)": "Referenced to describe the detection of the first FRB and its characteristics, highlighting the initial discovery of millisecond-duration radio transients.",
+  "CHIME/FRB Collaboration et al. 2021": "Cited to mention the recent release of a catalogue of 536 FRBs by the CHIME/FRB Project, indicating the growing field of FRB observation and localization.",
+  "Thornton et al. 2013; Rane et al. 2016; Lawrence et al. 2017": "These papers are cited to support the estimation of the sky rate of FRB events at 1.4 GHz with a fluence above 3-4 Jy ms, emphasizing the abundance of future observational data."
+}
+{
+  "FRBs2": "N/A",
+  "Mckinven et al. 2021": "Referenced to mention that FRBs provide RMs, but the total number of observed FRBs is much smaller than the available RM sample from radio galaxies.",
+  "Platts et al. 2019": "Cited for a review on the lack of consensus regarding the specific origin and physical mechanisms behind FRBs.",
+  "Cordes & Chatterjee 2019": "Cited for a review on the lack of consensus regarding the specific origin and physical mechanisms behind FRBs.",
+  "Chatterjee et al. 2017": "Referenced to highlight that several FRBs have been localized to other galaxies.",
+  "Ravi et al. 2019": "Referenced to highlight that several FRBs have been localized to other galaxies.",
+  "Bannister et al. 2019": "Referenced to highlight that several FRBs have been localized to other galaxies.",
+  "Marcote et al. 2020": "Referenced to highlight that several FRBs have been localized to other galaxies.",
+  "Yamasaki & Totani 2020": "Cited to provide a reference for the breakdown of DM obs into distinct contributing components.",
+  "N/A": "N/A"
+}
+{
+  "Oppermann et al. (2012Oppermann et al. ( , 2015)": "Cited to support the proposition of studying the full DM sky using methods similar to those described in the paper.",
+  "Hutschenreuter & Enßlin (2020)": "Referenced to highlight another method for studying the full DM sky.",
+  "Sun & Reich 2010": "Cited as an example of an underlying model of the Galactic Magnetic Field (GMF) used in the simulation.",
+  "Jansson & Farrar 2012": "Referenced as another example of an underlying model of the GMF.",
+  "Jaffe et al. 2013": "Cited as an additional example of an underlying model of the GMF.",
+  "Terral & Ferrière 2017": "Referenced as another example of an underlying model of the GMF.",
+  "Yao et al. 2017": "Cited as an example of a model for the electron density (ne) used in the simulation.",
+  "Yamasaki & Totani 2020": "Referenced as another example of a model for the electron density (ne)."
+}
+{
+  "Enßlin et al. 2009;Enßlin 2019": "Cited to introduce the use of Information Field Theory (IFT) in inferring underlying continuous fields from noisy incomplete data.",
+  "N/A": "No citations found in the text."
+}

@@ -1,0 +1,56 @@
+{
+  "Planck Collaboration et al. 2020": "Referenced to support the statement about the composition of the universe based on the observation of cosmic microwave background (CMB) by the Planck Collaboration.",
+  "Fukugita et al. 1998": "Cited to provide evidence that approximately 17% of the expected baryons in the late-time Universe are observed to reside in the collapsed phase.",
+  "Cen & Ostriker 1999": "Referenced to indicate that numerical simulations have been conducted to study the baryon distribution in the Universe.",
+  "Fukugita & Peebles 2004": "Cited to highlight the use of observations to study the baryon distribution in the Universe.",
+  "Shull et al. 2012": "Referenced to support the statement that the fraction of baryons observed in the photoionized Lyα forest and warm-hot intergalactic medium (WHIM) is only about 53%.",
+  "de Graaff et al. 2019": "Cited to mention the discovery of additional baryons with the Sunyaev-Zel'dovich effect from filaments, which contributes to the understanding of the missing fraction of baryons.",
+  "Nicastro et al. 2018": "Referenced to indicate the finding of missing baryons in the warm-hot intergalactic medium (WHIM)."
+}
+{
+  "Cordes & Lazio 2002": "Referenced to support the mention of the NE2001 model for estimating DM MW.",
+  "Yao et al. 2017": "Referenced to support the mention of the YMW16 model for estimating DM MW.",
+  "Deng & Zhang 2014": "Referenced to provide the equation for calculating DM IGM in a flat ΛCDM universe.",
+  "Macquart et al. 2020": "Referenced to provide the equation for calculating average DM IGM in a flat ΛCDM universe.",
+  "Meiksin 2009": "Referenced to provide information on the estimated value of f IGM at low redshifts.",
+  "Shull et al. 2012": "Referenced to provide information on the estimated value of f IGM at z > 1.5."
+}
+{
+  "Prochaska & Zheng 2019": "Referenced to provide an estimation of the contribution of DM halo by the halo in the range of 50-80 pc cm -3.",
+  "Wu et al. 2022": "Cited to assume the distribution of DM halo as a Gaussian distribution with a mean value of 65 pc cm -3 and a standard deviation of 15 pc cm -3.",
+  "Yamasaki & Totani 2020": "Referenced to establish the range of DM halo as 30-100 pc cm -3 for FRBs at high galactic latitudes and longitudes.",
+  "McQuinn 2014; Macquart et al. 2020; Zhang et al. 2021": "Cited to describe the probability distribution of DM IGM as a long-tailed quasi-Gaussian function and provide the best fit values for the parameters α and β.",
+  "Macquart et al. 2020": "Referenced to provide the effective deviation caused by the inhomogeneities of IGM in the equation for the probability distribution of DM IGM.",
+  "N/A": "No citations found for the coordinates of localized FRBs in the galactic coordinate system."
+}
+{
+  "Zhang et al. (2021)": "Referenced to cite the best fits of C0, A, and σDM at different redshifts derived from the IllustrisTNG simulation, which are used to derive the values of C0, A, and σDM at given redshifts.",
+  "Macquart et al. (2020); Zhang et al. (2020)": "Cited to support the statement that a log-normal function can well describe the distribution of DM host."
+}
+{
+  "Macquart et al. 2020": "Referenced to support the statement that a log-normal function can describe the distribution of DM host.",
+  "Zhang et al. 2020": "Referenced to support the statement that a log-normal function can describe the distribution of DM host.",
+  "Bhardwaj et al. 2021a": "Cited as a reference for the FRB localized in a globular cluster in M81, which is excluded from the analysis.",
+  "Kirsten et al. 2021": "Cited as a reference for the FRB localized in a globular cluster in M81, which is excluded from the analysis.",
+  "James et al. (2022)": "Cited as a reference for the five FRBs localized by the Australian Square Kilometre Array Pathfinder (ASKAP).",
+  "Zhang et al. 2021": "Referenced to support the DM IGM estimated from the IllustrisTNG simulation with 95% confidence region.",
+  "Zhao & Wang 2021": "Cited as a reference for the statement that the deviation of FRB 210117 from the 95% confidence region may be caused by the DM contributed by the plasma near the FRB source.",
+  "Katz 2022": "Cited as a reference for the statement that the deviation of FRB 210117 from the 95% confidence region may be caused by the DM contributed by the plasma near the FRB source.",
+  "Cordes & Lazio 2002": "Cited as a reference for the use of the NE2001 model to calculate the DM contribution by the ISM of Milky Way.",
+  "Foreman-Mackey et al. 2013": "Cited as a reference for the use of the MCMC Python module emcee to estimate Ω b."
+}
+{
+  "NE2001 model": "Referenced to explain how the DM MW is obtained from the NE2001 model in order to calculate the DM FRB dataset.",
+  "Shull et al. (2012)": "Cited to provide the adjusted values of the collapsed forms of cosmic baryons, including in galaxies, the CGM, the ICM, and cold gas.",
+  "Planck Collaboration et al. (2020)": "Referenced to mention the measurements of Hubble constant H0 from SNe Ia and CMB, which are mainly distributed between 67 km s -1 Mpc -1 and 73 km s -1 Mpc -1.",
+  "Riess et al. (2022)": "Cited to provide additional measurements of the Hubble constant H0, which are mainly distributed between 67 km s -1 Mpc -1 and 73 km s -1 Mpc -1.",
+  "Macquart et al. (2020)": "Referenced to mention the fiducial value of H0 = 70 km/s/Mpc used in the study.",
+  "Brout et al. (2022)": "Cited to highlight that most of the measurements of Ω m are in the range of [0.28, 0.35].",
+  "Scolnic et al. (2018)": "Referenced to mention that most of the measurements of Ω m are in the range of [0.28, 0.35]."
+}
+{
+  "Planck Collaboration et al. 2020": "Referenced to support the claim that the value of Ω b = 0.0490 +0.0036 -0.0033 (1σ) is consistent with previous results in 1σ confidence level.",
+  "Cooke et al. 2018": "Referenced to support the claim that the value of Ω b = 0.0490 +0.0036 -0.0033 (1σ) is consistent with previous results in 1σ confidence level.",
+  "Macquart et al. 2020": "Referenced to compare the result of Ω b = 0.0490 +0.0036 -0.0033 (1σ) with the result of Ω b = 0.051 +0.021 -0.025 obtained by Macquart et al. (2020) using five FRBs to constrain Ω b , showing compatibility within 1σ confidence level.",
+  "Shull et al. 2012": "Referenced to provide previous measurements of the baryon content in different components of the low-redshift Universe, including circumgalactic gas, galaxies, cold gas, and clusters, to compare with the measurement of FRBs accounting for 83% ± 6% of the baryons in the Universe."
+}

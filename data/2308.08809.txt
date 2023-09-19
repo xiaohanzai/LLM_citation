@@ -1,0 +1,56 @@
+@Baade & Zwicky 1934:
+Cited to support the idea that neutron stars are left behind supernova explosions.
+
+@Hirata et al. 1987; Bionta et al. 1987:
+Referenced to provide strong support for the idea that neutron stars are left behind supernova explosions, based on the detection of neutrinos associated with SN 1987A.
+
+@Hewish et al. 1968:
+Cited to confirm the existence of neutron stars through the discovery of radio pulsars.
+
+@Hester 2008:
+Referenced to highlight the association between supernova explosions and neutron stars, particularly exemplified by the Crab pulsar and its nebula, which is the supernova remnant of SN 1054.
+
+@Alp et al. 2018; Alp et al. 2021; Greco et al. 2021:
+These papers are cited to indicate the ongoing debate regarding the detection of the emission from the compact object at the center of the remnant of SN 1987A, which is relevant to the discussion of observing pulsars subsequent to supernova explosions.
+@Goldreich & Julian 1969; Ruderman & Sutherland 1975:
+These references are cited to address the fundamental question of when the pulsar mechanism starts to work and the spin-down power and energy of a newborn pulsar.
+
+@Zhang & Mészáros 2001:
+Referenced to discuss the shared questions regarding the energetics of super-energetic astrophysical phenomena, such as long-lasting activities of gamma-ray bursts.
+
+@Chevalier & Fransson 1992; Metzger et al. 2014; Murase et al. 2015; Kashiyama et al. 2016; Hatsukade et al. 2021:
+These papers are cited to highlight the relevance of the questions about the spin-down power and energy of a newborn pulsar in the context of luminous supernovae.
+
+@Kashiyama & Murase 2017; Kisaka et al. 2017:
+Referenced to discuss the importance of newborn neutron stars working as pulsars immediately after formation in the context of fast radio bursts.
+
+@Dall'Osso & Stella 2021:
+Cited to emphasize the characteristics of rapidly rotating and highly magnetized pulsars in relation to the energetic astrophysical phenomena mentioned.
+
+@Faucher-Giguère & Kaspi 2006:
+Referenced to highlight that energetic pulsars, such as those discussed, are distinct from known pulsars observed on the diagram, including the Crab pulsar.
+
+@Rupen et al. 1987:
+Cited to provide information about SN 1986J, which is classified as an SN IIn and is a candidate for hosting a 30 years-old pulsar.
+
+@van Gorkom et al. 1986; Chevalier 1987; Weiler et al. 1990:
+These references are cited to provide additional details about SN 1986J, including its discovery in radio and its location in the nearby edge-on galaxy NGC 891.
+
+@Bietenholz et al. 2004; Bietenholz et al. 2002:
+Referenced to discuss the discovery of a spatially and spectrally distinct component, the central component, in addition to the expanding shell component, in SN 1986J using Very-Long-Baseline Interferometry (VLBI).
+
+@Bietenholz & Bartel 2017a:
+Cited to highlight the findings that the 5 GHz light curve of the central component in SN 1986J increases with time, while that of the shell component decreases.
+@Tanaka & Asano (2017):
+Referenced to support the use of the stochastic acceleration model in studying the observed light curve of the pulsar wind nebula (PWN) powered by the remnant pulsar of SN 1986J.
+
+@Tanaka & Takahara 2013b; Timokhin & Harding 2015; Xu et al. 2019; Lyutikov et al. 2019:
+These papers are cited to highlight the relevance of the stochastic acceleration model in explaining the observed flat radio spectrum and the observed electron/positron pair amount inside PWNe.
+
+@Bucciantini et al. 2011; Tanaka & Takahara 2011, 2013a:
+These papers are cited to contrast the conventional broken power-law injection model with the stochastic acceleration model in accounting for the amount of radio-emitting particles in PWNe.
+
+@Kennel & Coroniti 1984; Porth et al. 2014; Zrake & Arons 2017; Tanaka et al. 2018:
+These papers are cited to suggest that the presence of strong turbulence, as explained by the stochastic acceleration model, could provide a solution to the classical problem of PWNe known as the sigma-problem.
+@Tanaka & Asano (2017):
+Referenced in section 2 to describe the model used in the study, indicating that the current model is an updated version of the one presented in this paper.

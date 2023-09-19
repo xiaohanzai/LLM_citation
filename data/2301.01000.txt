@@ -1,0 +1,88 @@
+@Tumlinson et al. 2017:
+Referenced to provide information on the physical properties of the circumgalactic medium (CGM) of galaxies, including density, temperature, kinematic structure, and chemical composition, as well as its potential dominance as the dominant baryon component within halos.
+
+@Li et al. 2018:
+Cited to highlight the detection of thermal bremsstrahlung as an independent constraint on the density and temperature structure of the CGM, potentially confirming the presence of extended coronae around galaxies.
+
+@Bregman et al. 2022:
+Referenced for the detection of the Sunyaev-Zeldovich effect around nearby galaxies, which provides additional constraints on the density and temperature structure of the CGM.
+
+@Connor & Ravi 2022; Wu & McQuinn 2022:
+These papers are cited to support the observation of dispersion measures (DMs) of background fast radio bursts (FRBs) as evidence for extended gas reservoirs associated with nearby galaxies, either in the CGM or the intra-group medium.
+
+@Wijers et al. 2020; Hafen et al. 2020; Zheng et al. 2020; Fielding et al. 2020; Appleby et al. 2021; Ramesh et al. 2022:
+These simulations are referenced to highlight the dependence of CGM properties on feedback processes from stellar winds, supernovae, and AGN, as well as galaxy merger histories, and to emphasize the varying degrees of anisotropy and total CGM masses predicted for individual galaxies.
+
+N/A
+@Spitzer (1956):
+Referenced as the original proposal for a halo of ∼ 10^6 K gas surrounding the Milky Way to solve the problem of confining distant cold gas clouds at high Galactic latitudes.
+
+@Baldwin (1956):
+Cited as tentative evidence for coronal gas surrounding the Milky Way found in observations of the diffuse radio-synchrotron background.
+
+@Rees & Ostriker (1977); White & Rees (1978):
+Referenced as the theoretical basis for the origins of a hot CGM around galaxies, with the gas infalling onto dark-matter halos heated to virial temperatures of 10^6 K.
+
+@Birnboim & Dekel (2003):
+Cited as additional support for the theoretical basis of a hot CGM around galaxies, specifically in relation to shocks at the halo virial radii.
+
+@Snowden et al. (1991); Herbstmeier et al. (1995); Garmire et al. (1992):
+These papers are cited as observational evidence for a hot Milky Way CGM, including observations of shadows in the soft X-ray background from high-latitude and high-velocity cold clouds, as well as spectral decomposition of the background into absorbed and unabsorbed components.
+
+@Bregman & Lloyd-Davies (2007); Gupta et al. (2012):
+Referenced as papers that fit high Galactic latitude data with a spheroidal component to explain the hot Milky Way CGM, with a mass of a few ×10^10 M.
+
+@Li & Bregman (2017); Nakashima et al. (2018); Kaaret et al. (2020); Ueda et al. (2022):
+Cited as more recent models that include a denser disk-like component to explain line observations of the hot Milky Way CGM.
+
+@Su et al. (2010); Carretti et al. (2013); Predehl et al. (2020):
+These papers are referenced to highlight the observation of structure in the hot Milky Way CGM in the form of the Fermi, Parkes, and eROSITA bubbles.
+
+@Putman et al.:
+Cited as the primary reference for the sub-dominant neutral and warm components of the Milky Way CGM, primarily traced through observations of high-velocity clouds.
+@Carretti et al. 2013:
+Cited to reference the Parkes telescope in the context of studying the bubbles in the Milky Way CGM.
+
+@Predehl et al. 2020:
+Referenced to support the mention of eROSITA in relation to the bubbles in the Milky Way CGM.
+
+@Putman et al. 2012:
+Cited to highlight the mass dominance of the hot component in the Milky Way CGM and to emphasize the complexities of the disk-halo interface.
+
+@Koo et al. 1992; Werk et al. 2019; Clark et al. 2022:
+These papers are referenced to further illustrate the complexities of the disk-halo interface in the Milky Way CGM.
+@Prochaska & Zheng 2019:
+Referenced to support the assumption of a total Galactic CGM mass of 1.5 × 10^12 M.
+
+@Draine 2011:
+Cited to provide the total Galactic mass in stars and cold gas of 6 × 10^10 M.
+
+@Planck Collaboration et al. 2020:
+Referenced to justify the assumption of f CGM = 1 and Ω b /Ω M = 0.188, which leads to the calculation of M CGM = 2.82 × 10^11 M.
+
+@Li & Bregman 2017; Kaaret et al. 2020; Yamasaki & Totani 2020:
+These papers are cited to present different models and estimates for the mass of the Galactic CGM based on the distribution of OVII and OVIII emission and absorption.
+
+@Faerman et al. 2017:
+Cited to support the argument that a portion of the hot CGM is traced by OVI absorption, as observed in external galaxies, and to provide an estimate of M CGM = 1.2 × 10^11 M.
+
+@Tumlinson et al. 2011:
+Referenced to support the argument made by Faerman et al. (2017) regarding the tracing of the hot CGM by OVI absorption.
+
+@Salem et al. 2015:
+Cited to present an alternate measurement of M CGM based on the modeling of the ram-pressure stripping of the Large Magellanic Cloud, resulting in a low value of (2.7 ± 1.4) × 10^10 M.
+
+@Anderson & Bregman 2010; Platts et al. 2020:
+These papers are cited to highlight the use of the DMs of FRBs and pulsars within the Milky Way halo as a unique probe of the content of the Galactic CGM.
+@Cordes & Lazio 2002; Yao et al. 2017:
+These references are cited to support the inclusion of the warm ionized medium (WIM) in the Milky Way disk as part of the DM ISM component in the formulation of DM obs.
+
+@Anderson & Bregman (2010):
+Referenced to highlight the modeling of the DMs of pulsars in the LMC, which led to the finding of a low M CGM assuming a Navarro et al. (1997) profile for the Galactic CGM.
+
+@Navarro et al. (1997):
+Mentioned to describe the Navarro et al. (1997) profile, which was used in the modeling of the DMs of pulsars in the LMC.
+
+@Bhardwaj et al. 2021; Kirsten et al. 2022:
+These papers are cited to indicate that FRBs from nearby galaxies have been used to place constraints on DM CGM, assuming specific models for DM ISM, and that these constraints are in tension with some models for the Milky Way CGM.
+@N/A

@@ -1,0 +1,61 @@
+@Thornton et al. 2013; Cordes & Chatterjee 2019; Petroff et al. 2019; Petroff et al. , 2022; Pilia 2021:
+These references are cited to provide background information on the discovery and characteristics of fast radio bursts (FRBs), including their extragalactic origin, high brightness temperatures, and the number of observed FRB sources.
+
+@Lorimer et al. 2007:
+Referenced to indicate the year of the discovery of FRBs.
+
+@CHIME/FRB Collaboration et al. 2021:
+Cited to provide the source of information on the number of distinct FRB sources observed.
+
+@Tendulkar et al. 2017; Bannister et al. 2019; Ravi et al. 2019; Prochaska et al. 2019; Macquart et al. 2020; Marcote et al. 2020; Bhardwaj et al. 2021a; Ravi et al. 2022a; Niu et al. 2022; Nimmo et al. 2022; Ryder et al. 2022; Ravi et al. 2022b; Bhandari et al. 2022a; Driessen et al. 2023; Sharma et al. 2023:
+These references are cited to indicate the studies that have reported host galaxy associations for some of the observed FRB sources.
+
+@The CHIME/FRB Collaboration et al. 2023:
+Cited to provide the source of information on the number of repeating FRBs and the suggestion that repeaters may represent a distinct class of sources.
+
+@Hashimoto et al. 2020; Pleunis et al. 2021; Zhong et al. 2022; Guo & Wei 2022:
+These references are cited to support the statement that recent statistical evidence indicates that repeaters may represent a distinct class of sources.
+
+@Cruces et al. 2021:
+Referenced to provide information on the periodic activity of FRB 20121102.
+
+Note: The reference "The CHIME/FRB Collaboration et al. 2023" is cited twice, but it is treated as a single reference in the summary.
+@Duncan & Thompson 1992; Rea & Esposito 2011; Turolla et al. 2015; Kaspi & Beloborodov 2017:
+These references are cited to support the statement that magnetars, which are neutron stars powered by the decay of their strong magnetic field, are the most widely considered progenitor candidates for fast radio bursts (FRBs).
+
+@CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020:
+These papers are referenced to strengthen the connection between FRBs and magnetars, as the detection of FRB 20200428 was observed simultaneously with an X-ray burst emitted by the magnetar SGR1935.
+
+@Mereghetti et al. 2020; Ridnaia et al. 2020; Li et al. 2021; Tavani et al. 2021:
+These references are cited to provide additional evidence for the connection between FRB 20200428 and the magnetar SGR1935, as they report observations of an X-ray burst emitted by SGR1935.
+
+@Stamatikos et al. 2014; Lien et al. 2014; Cummings 2014; Kozlova et al. 2016; Younes et al. 2017:
+These papers are referenced to provide information about the magnetar SGR1935, which is one of the most active known magnetars and was observed simultaneously with FRB 20200428.
+
+@Bochenek et al. 2020; Margalit et al. 2020:
+These references are cited to report the isotropic-equivalent energy emitted at radio wavelengths by the burst associated with SGR1935, which is relevant to understanding the energetics of FRBs.
+
+@Kuzmin 2007:
+This reference is cited to compare the isotropic-equivalent energy emitted at radio wavelengths by the burst associated with SGR1935 with that of energetic pulsar giant radio pulses.
+
+@Zhang et al. 2020; Burgay et al. 2020:
+These papers are referenced to report additional observations of fainter bursts from SGR1935, providing further evidence for the connection between magnetars and FRBs.
+
+@Chatterjee et al. 2017; Marcote et al. 2017; Bassa et al. 2017; Tendulkar et al. 2017; Ravi et al. 2019; Marcote et al. 2020; Bhardwaj et al. 2021a; Niu et al. 2022; Piro et al. 2021; Tendulkar et al. 2021; Nimmo et al. 2022:
+These references are cited to support the statement that some FRBs have been observed in regions of star formation, which is consistent with the expectation that magnetars, connected to a young stellar population, could be progenitors of FRBs.
+
+@Heintz et al. 2020; Mannings et al. 2021; Bhandari et al. 2022b:
+These papers are referenced to highlight that some FRBs have been found in galaxies with low star formation rates, mainly in their outskirts, suggesting that magnetars may not be the only progenitor candidates for FRBs.
+
+@Kirsten et al. 2022a:
+This reference is cited to report the discovery of the repeating FRB 20200120E in a globular cluster in the nearby galaxy M81, which is relevant to the discussion of possible locations of young magnetised NSs.
+@Tauris et al. 2013; Wang & Liu 2020:
+These references are cited to support the theoretical possibility of finding young magnetised neutron stars (NSs) in globular clusters, formed through the accretion-induced collapse of a white dwarf (WD) or the collapse of a compact binary system induced by a WD-WD or WD-NS or NS-NS merger.
+
+@Giacomazzo & Perna 2013; Schwab et al. 2016; Zhong & Dai 2020:
+These papers are referenced to highlight the theoretical possibility of finding young magnetised neutron stars (NSs) in globular clusters, formed through the collapse of a compact binary system induced by a WD-WD or WD-NS or NS-NS merger.
+@CHIME/FRB Collaboration et al. (2020):
+Referenced to describe the observations and results of a study on the burst rate of SGR1935-like events in NGs, providing important context for the current work.
+
+@Fabbiano 1989; Kaaret et al. 2017:
+Cited to highlight the presence of confirmed ultraluminous X-ray (ULX) sources in some of the observed galaxies, which is relevant to the discussion of the FRB-magnetar connection and the potential progenitors of FRBs.

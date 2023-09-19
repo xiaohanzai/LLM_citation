@@ -1,0 +1,56 @@
+@Lorimer et al. 2007; Petroff et al. 2022:
+These references are cited to provide background information on fast radio bursts (FRBs) and their uncertain origins.
+
+@Radhakrishnan & Cooke 1969:
+Referenced to compare the tracking of evolution in the position angle of the linear polarization vector (PA) within FRB bursts and between bursts to the rotating vector model (RVM) of pulsar radio emission.
+
+@Luo et al. arXiv:2302.08386v1 [astro-ph.HE] 16 Feb 2023 2020:
+Cited to highlight the observation of large position angle (PA) swings from the repeating source FRB 20180301A.
+
+@Nimmo et al. 2021:
+Referenced to mention that other sources displaying apparent flat PA curves have been shown to exhibit subtle intraburst PA variability when observed at high temporal resolution, using the example of FRB 20180916B.
+
+@Hilmarsson et al. 2021a; Kumar et al. 2022a; Xu et al. 2021:
+These papers are cited to discuss the significant position angle (PA) variations across bursts observed in the repeating source FRB 20201124A, as well as its significant circular polarization.
+
+@Vedantham & Ravi 2019; Levin et al. 2020:
+Cited to compare the observed circular polarization in FRB 20201124A to what can be produced from Faraday conversion between linear and circular polarized modes.
+@Wang et al. (2021):
+Referenced to support the demonstration of other mechanisms that may produce anomalous circular polarization seen from FRB 20201124A, highlighting the importance of polarized observations for constraining FRB emission models and the magneto-ionic properties of the local environment.
+
+@Zhang 2020:
+Cited to discuss how the observed features of polarization angle (PA) evolution and substantial V/I fractions in some FRB sources are naturally favorable to models invoking magnetospheric origins.
+
+@Metzger et al. (2019):
+Referenced to mention that synchrotron maser emission models may also be capable of explaining the observed features of PA evolution and substantial V/I fractions in FRBs under certain conditions.
+
+@Yuan et al. (2020):
+Cited to highlight recent simulations of a flaring magnetar that demonstrated the existence of strong variations in the orientation of the magnetar wind's magnetic field, which would be required to explain the polarization angle (PA) variability observed in some FRBs.
+
+N/A
+@Akahori et al. (2016):
+Referenced to provide the expected modest contribution of the intergalactic medium (IGM) to the rotation measure (RM) of the FRB.
+
+@Masui et al. (2015); Petroff et al. (2017); Michilli et al. (2018):
+These papers are cited to support the statement that FRB RMs often exceed estimates from Galactic RM maps, indicating the potential to study the magneto-ionic properties of the local environments and hosts of FRB sources.
+@Hilmarsson et al. (2021b):
+Referenced to support the analysis of FRB 20121102A and its non-monotonically decreasing RM evolution, which is consistent with theoretical models describing it in terms of an evolving supernova remnant (SNR).
+
+@Niu et al. (2021):
+Cited to describe the similar interpretation of FRB 20190520B, which displays an association with a compact persistent radio source (PRS) and shares similarities with FRB 20121102A.
+
+@Zhao & Wang (2021):
+Referenced to argue for a young magnetar embedded in a wind nebula and SNR as a possible explanation for the observations of FRB 20190520B and FRB 20121102A.
+
+@Desvignes et al. (2018):
+Cited to draw interesting similarities with the RM behavior of the radio-loud Galactic center magnetar, which is related to its shared environment with the nearby supermassive black hole, Sagittarius A *.
+
+@Xu et al. (2021):
+Referenced to describe recent observations by the FAST telescope of FRB 20201124A, showing significant and irregular RM variations on week-long timescales, suggesting a high degree of nonuniformity in the local environment of the source.
+@Piro & Gaensler 2018:
+Referenced to support the statement that the observed behavior of the rotation measure (RM) is not consistent with the expected secular decrease, suggesting a high degree of nonuniformity in the local environment of the source.
+
+@Dickel & Milne 1976; Milne 1987:
+These papers are cited to propose an alternative explanation for the observed non-monotonic RM evolution, suggesting that it could be produced by the small-scale turbulent magnetic field of a supernova remnant (SNR), either through the relative motion between the fast radio burst (FRB) source and the small-scale field or through the dynamic evolution of turbulences in the SNR itself.
+@CHIME/FRB Collaboration et al. 2019a,b; Fonseca et al. 2020:
+These references are cited to indicate the sources of the previously published repeating FRB data that is discussed and analyzed in the paper.

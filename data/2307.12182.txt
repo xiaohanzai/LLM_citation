@@ -1,0 +1,38 @@
+@Petroff et al. (2019):
+Referenced to provide information on the luminosities and durations of fast radio bursts (FRBs).
+
+@Kaspi & Beloborodov (2017):
+Cited to support the statement that magnetars are natural candidates for generating FRBs.
+
+@Bochenek et al. (2020); The CHIME/FRB Collaboration et al. (2020):
+These papers are referenced to provide evidence for the magnetar-FRB association based on the detection of millisecond GHz bursts from SGR 1935+2154.
+
+@Lyubarsky (2021); Zhang (2022):
+Cited as sources for a review on the radio bursting mechanism of FRBs.
+
+@Beloborodov (2021); Beloborodov (2022a):
+Referenced to support the discussion on the plasma response to radio waves in the magnetosphere surrounding magnetars.
+@Chen et al. 2022:
+Referenced to support the statement that kinetic plasma simulations show the wave launches shocks in the background plasma.
+
+@Beloborodov 2022b:
+Cited as "Paper I" to indicate that the MHD framework was used to demonstrate the formation and evolution of shocks in the background plasma.
+
+N/A
+@Section 2:
+Referenced to describe the method for tracking wave evolution in the MHD regime.
+
+@Section 3:
+Referenced to present numerical results for GHz waves in the equatorial plane θ = π/2 and explain analytically the observed damping by shocks and radiative losses.
+
+@Section 4:
+Referenced to describe shock formation at polar angles θ ̸ = π/2.
+
+@Section 5:
+Referenced to find the region on the L-θ plane where waves do not obey MHD.
+
+@Section 6:
+Referenced to describe the occurrence of wave damping through particle acceleration in the region where waves do not obey MHD.
+
+@Section 7:
+Referenced to discuss the results.

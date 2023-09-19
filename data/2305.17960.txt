@@ -1,0 +1,69 @@
+@Thornton et al., 2013:
+Referenced to provide information on the integrated electron column density contributions (dispersion measure; DM) associated with fast radio bursts (FRBs) and their excess over the Galactic contribution.
+
+@Lorimer et al., 2007:
+Cited as the source of the discovery of fast radio bursts (FRBs) using the Parkes 64m Murriyang radiotelescope.
+
+@Petroff et al., 2022:
+Referenced to indicate the number of FRBs detected with various instruments.
+
+@Shannon et al., 2018; CHIME/FRB Collaboration et al., 2021; Rajwade et al., 2022; Ravi et al., 2023:
+These papers are cited to highlight ongoing wide field-of-view and sensitive searches for FRBs with instruments such as ASKAP, CHIME, MeerKAT, and DSA, emphasizing the potential for a significant increase in the number of detected FRB events in the future.
+@Platts et al., 2019:
+Referenced to indicate that a multitude of progenitor models have been proposed to explain the mechanism(s) to produce FRBs.
+
+@Bochenek et al., 2020; CHIME/FRB Collaboration et al., 2020:
+Cited to support the claim that leading models for FRBs invoke highly magnetised neutron stars (i.e. magnetars) resulting from the core-collapse of massive stars, with evidence from the association of the Galactic FRB-like source FRB 20200428 with the magnetar SGR 1935+2154.
+
+@Chatterjee et al., 2017; Marcote et al., 2020; Niu et al., 2022:
+These references are cited to provide further evidence for the association of particularly active repeating FRBs with star-forming regions or persistent radio sources.
+
+@Kirsten et al., 2022:
+Referenced to highlight the recent localization of the repeating FRB 20200120E to a globular cluster in the M81 galactic system, challenging the scenario of magnetars resulting from the core-collapse of massive stars.
+
+@Duncan & Thompson, 1992; Rosswog et al., 2003; Tauris et al., 2013:
+Cited to suggest that magnetars can also form from the accretion-induced collapse of a white dwarf or merger of compact stars in a binary system.
+@Bhandari et al., 2020; Heintz et al., 2020; Mannings et al., 2021; Bhandari et al., 2022:
+These papers are cited to support the statement that studies have identified a wide diversity in current FRB host galaxies, suggesting that the broader population of FRBs can arise from both young and (moderately) old progenitors.
+
+@Mereghetti et al., 2021:
+Referenced to highlight a nearby detection that provided useful upper limits on FRB counterparts at X-ray wavelengths.
+
+@Andreoni et al., 2020:
+Cited to mention a nearby detection that provided useful upper limits on FRB counterparts at optical wavelengths.
+@Michałowski (2021):
+Referenced to support the connection between FRBs and recent enhancement of star formation due to galactic interactions in the host galaxies NGC 3252, M81, and the Milky Way.
+
+@Kaur et al. (2022):
+Cited to support the similar conclusion about the H I-rich host galaxy of FRB 20180916B being involved in a recent minor merger.
+
+@Hsu et al. (2023):
+Referenced to report the disturbed kinetic gas structure in the host galaxy of FRB 20180924B based on the analysis of the molecular gas.
+
+@Glowacki et al. (2023):
+Cited to highlight the relatively undisturbed H I in the host galaxy of FRB 20211127I, providing a contrasting example to the previously mentioned systems.
+
+@Shannon et al. (2018); Macquart et al. (2010):
+These papers are mentioned to describe the fly's eye survey conducted at a Galactic latitude of |b| = 50 • ± 5 • as part of the Commensal Real-time ASKAP Fast Transients (CRAFT) survey on ASKAP, which led to the discovery of 20 FRBs.
+@Mahony et al. (2018):
+Referenced to provide information on the host galaxy candidate ESO 601-G036 for FRB 20171020A, including its low redshift, central velocity, and position.
+
+@Meyer et al. (2004):
+Cited to indicate the source of the H I emission data used to measure the central velocity of ESO 601-G036.
+
+@da Costa et al. (1998):
+Referenced to provide a comparable optical radial velocity for ESO 601-G036.
+
+@Mould et al. (2000):
+Cited to support the calculation of the distance to ESO 601-G036 using a specific model.
+
+@Martin et al. (2005):
+Referenced to provide information on the ultraviolet imaging from GALEX and the low metallicity of ESO 601-G036.
+
+@Tendulkar et al. (2017):
+Cited to mention the first known repeater FRB 20121102A localized to its host galaxy, which was a dwarf galaxy.
+
+@Shannon et al. (2023, in prep.):
+Referenced to indicate that the majority of the localized FRBs, including those with no repeat bursts, were identified by CRAFT.
+@Bhardwaj et al., 2021b; Bhardwaj et al., 2021a:
+These references are cited to highlight the identification of the closest FRB host galaxies, M81 and NGC 3252, which is relevant to the discussion of ESO 601-G036 being potentially the third closest FRB host galaxy and the closest system to host a non-repeating FRB.

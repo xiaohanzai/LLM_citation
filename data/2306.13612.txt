@@ -1,0 +1,21 @@
+@Cordes & Chatterjee 2019; Platts et al. 2019; Zhang 2020; Petroff et al. 2022:
+These references are cited to provide reviews on fast radio bursts (FRBs) and their characteristics, establishing the background knowledge for the discussion.
+
+@Wang & Yu 2017; Oppermann et al. 2018; Wang et al. 2018; Zhang et al. 2018; Li et al. 2019; Gourdji et al. 2019; Wadiasingh & Timokhin 2019; Oostrum et al. 2020; Tabor & Loeb 2020; Aggarwal et al. 2021; Cruces et al. 2021; Li et al. 2021; Zhang et al. 2021; Hewitt et al. 2022; Xu et al. 2022; Zhang et al. 2022; Du et al. 2023; Jahns et al. 2023; Sang & Lin 2023; Wang et al. 2023; Zhang et al. 2023a,b:
+These papers are cited to reference previous studies on time correlations of repeating FRBs, specifically the distribution of wait times between two successive bursts, which is relevant to understanding the burst production mechanism and the physical activity of the source or radiative processes.
+@Hewitt et al. 2022; Jahns et al. 2023:
+These references are cited to support the statement that the short-side distribution of FRBs reflects a time scale related to the physical activity of the source or radiative processes, but its origin is unknown.
+
+@Li et al. 2021; Hewitt et al. 2022; Xu et al. 2022; Zhang et al. 2022; Jahns et al. 2023; Zhang et al. 2023a:
+These papers are cited to indicate that a wide range of reported observations, including a large number of repeating FRB events, were collected and analyzed to compute the two-point correlation function in two-dimensional space of occurrence time and emission energy of FRBs.
+
+@Bochenek et al. 2020; The CHIME/FRB Collaboration 2020:
+Referenced to state that at least some FRBs are known to occur in magnetars, which are neutron stars with extremely strong magnetic fields.
+
+@Kaspi & Beloborodov 2017:
+Cited to support the claim that explosive phenomena in magnetars are believed to be triggered by starquakes in neutron star crusts, induced by magnetic energy.
+
+@Cheng et al. 1996; GöǧüŞ et al. 1999:
+These references are cited to highlight that various phenomena of neutron stars have been compared to earthquakes and solar flares, and similarities are often discussed.
+
+N/A

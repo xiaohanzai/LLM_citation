@@ -1,0 +1,64 @@
+@Lorimer et al. 2007:
+Referenced to indicate the first detection of Fast Radio Bursts (FRBs) in 2007, providing a historical context for the subsequent discussion.
+
+@Thornton et al. 2013; Spitler et al. 2014; Masui et al. 2015; Champion et al. 2016; Petroff et al. 2016; Caleb et al. 2017; Bannister et al. 2017; Shannon et al. 2018; CHIME/FRB Collaboration et al. 2019b, 2021:
+These references are cited to highlight the numerous detections of FRBs, demonstrating the growing body of observational evidence for these phenomena.
+
+@Platts et al. 2019:
+Referenced to support the speculation that FRBs can be produced by multiple astrophysical mechanisms, providing a basis for the discussion of different theoretical models.
+
+@Zhang 2020a:
+Cited to propose the possibility of rotating black holes and neutron stars as a potential mechanism for producing FRBs.
+
+@Bochenek et al. 2020; Wang et al. 2022:
+These papers are cited to suggest core collapse supernovae as a potential mechanism for generating FRBs, specifically through the production of a young magnetar.
+
+@Moortgat & Kuijpers 2005; Pshirkov & Postnov 2010; Totani 2013; Falcke & Rezzolla 2014; Zhang 2014; Wang et al. 2016; Zhang 2020b:
+These references are cited to propose compact binary coalescence (CBC) events, such as mergers of binary neutron stars (BNSs), as potential sources of FRBs.
+
+@Zhang 2019:
+Cited to suggest neutron-star black-hole binaries (NSBHs) as a potential mechanism for producing FRBs.
+
+@Zhang 2016:
+Referenced to propose binary black holes (BBHs) as a potential mechanism for generating FRBs.
+@Abbott et al. 2019; Abbott et al. 2020a; Abbott et al. 2021a; Zackay et al. 2019a; Venumadhav et al. 2020; Venumadhav et al. 2019; Zackay et al. 2019b; Nitz et al. 2019; Nitz et al. 2020; Nitz et al. 2021a; Nitz et al. 2021b:
+These references are cited to support the statement that gravitational-wave (GW) observations of compact binary coalescences (CBCs) could potentially be associated with fast radio bursts (FRBs), but the current GW detectors provide poor sky-volume localization estimates of CBC sources.
+
+@Abbott et al. 2017b; Abbott et al. 2020c; Abbott et al. 2021b:
+These references are cited to mention that stellar-mass binary black hole (BBH) mergers, binary neutron star (BNS) mergers, and neutron star-black hole (NSBH) mergers have been observed through GW detections.
+
+@Fairhurst 2009; Singer et al. 2014; Singer & Price 2016; Chassande-Mottin et al. 2019:
+These papers are cited to highlight the limitation of current GW detectors in providing accurate sky-volume localization estimates of CBC sources.
+
+@Kumar & Linder 2019; Xu & Zhang 2020; Xu et al. 2021; James et al. 2022; The LIGO Scientific Collaboration et al. 2022; Shin et al. 2023:
+These references are cited to mention that radio observations of FRBs can only weakly constrain their luminosity distance.
+
+@Ravi & Lasky 2014:
+This reference is cited to emphasize that the time delay between GW and radio emission in CBC-driven FRBs remains an open question, with different models predicting different time delays.
+@The LIGO Scientific Collaboration et al. 2022:
+Referenced to acknowledge the current attempts to associate Fast Radio Bursts (FRBs) with Compact Binary Coalescences (CBCs) and the limitations in making an unambiguous association.
+
+@Ohanian 1974; Deguchi & Watson 1986; Wang et al. 1996; Nakamura 1998; Bartelmann 2010:
+These papers are cited to explain the concept of gravitational lensing and its occurrence when waves encounter massive objects, which is relevant to the proposed astrophysical scenario for a confident CBC-FRB association.
+
+@Dai & Venumadhav 2017; Li et al. 2018; Ng et al. 2018; Oguri 2018; Ezquiaga et al. 2021:
+These papers are referenced to discuss the possibility of multiple temporally resolvable copies of the gravitational wave (GW) and FRB signals being observed if a CBC-FRB pair was lensed by galaxies or clusters, supporting the concept of strong lensing.
+
+@Li & Li 2014; Muñoz et al. 2016; Dai & Lu 2017; Kader et al. 2022:
+These papers are cited to highlight the potential observation of multiple temporally resolvable copies of FRB signals if a CBC-FRB pair was lensed, further supporting the concept of strong lensing.
+@Muñoz et al. 2016; Cordes & Chatterjee 2019; Kader et al. 2022:
+These papers are cited to support the statement that if a pair of gravitational waves (GWs) and fast radio bursts (FRBs) were lensed by an isolated black hole (BH), there would be multiple temporally resolvable FRBs due to strong lensing.
+
+@Deguchi & Watson 1986; Takahashi & Nakamura 2003; Dai et al. 2018; Cheung et al. 2021; Mishra et al. 2021:
+These papers are cited to highlight the phenomenon of microlensing and its effect on the morphology of the lensed GW, emphasizing that the waveform distortion contains information about the time delay between lensed FRB images.
+
+N/A
+@Amiri et al. 2018; CHIME/FRB Collaboration et al. 2018, 2021:
+These references are cited to account for the finite field of view of the radio telescopes CHIME and BURSTT in estimating the rate of (potential) CBC-FRB associations.
+
+@Lin et al. 2022:
+Referenced as one of the radio telescopes considered in estimating the rate of (potential) CBC-FRB associations.
+
+@Torchinsky et al. 2016:
+Cited to support the assumption of an array of radio telescopes with sensitivities similar to the Square Kilometer Array (SKA) that can cover the whole sky at a given time, in order to estimate the association rates of NSBHs and BNSs with FRBs.
+@N/A

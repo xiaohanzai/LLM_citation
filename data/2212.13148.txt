@@ -1,0 +1,38 @@
+{
+  "Lorimer et al.": "Referenced to support the discovery of the first FRB known as the Lorimer burst and to highlight the potential impact of future technology in detecting FRBs.",
+  "Refs. 2-4": "Referenced for pedagogical reviews on FRBs.",
+  "Ref. 5": "Referenced to highlight the wide range of theoretical progenitor models proposed to explain the properties of FRBs.",
+  "Ref. 6": "Referenced to support the magnetar origin of at least some FRBs.",
+  "Ref. 7": "Referenced to support the magnetar origin of at least some FRBs.",
+  "Ref. 8": "Referenced to support the magnetar origin of at least some FRBs.",
+  "Ref. 9": "Referenced to support the magnetar origin of at least some FRBs.",
+  "Ref. 10": "Referenced to support the magnetar origin of at least some FRBs.",
+  "CHIME/FRB": "Referenced to highlight the simultaneous detection of an extremely bright FRB-like signal from a known Galactic magnetar.",
+  "STARE2": "Referenced to highlight the simultaneous detection of an extremely bright FRB-like signal from a known Galactic magnetar.",
+  "Ref. 13": "Referenced to support the possible explanation of FRBs as super-giant pulses from a neutron star.",
+  "Ref. 14": "Referenced to support the detection of 1652 independent bursts from FRB 121102 and the suggestion of mechanisms involving a neutron star magnetosphere.",
+  "FAST": "Referenced to highlight the radio telescope used in the detection of 1652 independent bursts from FRB 121102.",
+  "Refs. 15,16": "Referenced to highlight the radio telescope used in the detection of 1652 independent bursts from FRB 121102.",
+  "Ref. 17": "Referenced to support the investigation of the polarization properties of repeating FRBs and the suggestion of a complex environment close to the repeating FRBs.",
+  "Refs. 18,19": "Referenced to support the analysis of FRB luminosity distributions and the favoring of magnetars over gamma-ray bursts as FRB origins.",
+  "Refs. [20][21][22][23][24]": "Referenced to highlight proposed theoretical models of FRBs as flaring magnetars."
+}
+{
+  "Refs. [20][21][22][23][24]": "Cited to support the proposal that FRBs could originate from flaring magnetars.",
+  "Ref. [25]": "Referenced to suggest that if FRBs originate from young magnetars, they would be consistent with the star formation rate (SFR).",
+  "Refs. [26][27][28][29][30]": "Cited to highlight recent researches that have modeled the FRB population with respect to some power of the cosmic SFR."
+}
+{
+  "Ref. [31]": "Cited to support the statement that FRBs are an useful tool to probe the universe.",
+  "Ref. [32]": "Cited to support the statement that FRBs are an useful tool to probe the universe.",
+  "Ref. [33]": "Cited to support the statement that FRBs are an useful tool to probe the universe.",
+  "Ref. [34]": "Cited to highlight the use of FRBs in probing the properties of the intergalactic medium (IGM).",
+  "Ref. [35]": "Cited to emphasize the use of FRBs in constraining the electron density of our Galactic halo.",
+  "Ref. [36]": "Cited to emphasize the use of FRBs in providing constraints on the distributions of dark matter.",
+  "Ref. [37]": "Cited to reference the first FRB catalog (Catalog 1) and the opportunity it presents for population studies of FRBs.",
+  "Ref. [38]": "Cited to highlight the investigation of the FRB sky distribution in Catalog 1 and the inference that FRBs are isotropic cosmological sources.",
+  "Ref. [39]": "Cited to support the finding of a FRB-galaxy correlation in the range of 0.3 ≤ z ≤ 0.5 for FRBs in Catalog 1."
+}
+{
+  "Catalog 1": "Referenced as the source of data used in the paper to examine the dispersion measure (DM) distribution of the fast radio burst (FRB) population and gain insight into their origin."
+}

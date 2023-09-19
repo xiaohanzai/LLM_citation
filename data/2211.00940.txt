@@ -1,0 +1,46 @@
+{
+  "Lorimer et al. (2007)": "Referenced as the first discovery of fast radio bursts (FRBs).",
+  "Dagkesamanskii 2009": "Referenced as one of the radio telescopes that detected FRBs.",
+  "Bochenek et al. 2020a,b; CHIME/FRB Collaboration et al. 2020": "Referenced as the sources confirming the origin of FRB 200428 from a Galactic magnetar.",
+  "Champion et al. 2016": "Referenced to estimate the anticipated rate of observable FRBs in the entire sky."
+}
+{
+  "Platts et al. (2019)": "Referenced for a comprehensive review of progenitor models for FRBs.",
+  "Falcke & Rezzolla (2014)": "Cited to support the model of a supramassive rotating NS collapsing to a BH and causing a magnetic shock that results in FRBs.",
+  "Totani (2013)": "Referenced as a model accounting for a binary NS merger as a possible FRB progenitor.",
+  "Kashiyama et al. (2013)": "Cited as a model accounting for a binary WD merger as a possible FRB progenitor.",
+  "Liu (2020)": "Referenced as a model accounting for a WD-NS merger as a possible FRB progenitor.",
+  "Bochenek et al. (2020b)": "Cited for the discovery of an FRB associated with a galactic magnetar, supporting magnetar origin theories for FRBs.",
+  "Kumar et al. (2017); Lu & Kumar (2019)": "Referenced as models incorporating magnetars and their different physical mechanisms to produce FRBs.",
+  "Wang et al. (2018)": "Cited for the starquake mechanism as a possible mechanism for FRB production in magnetars.",
+  "Lyubarsky (2014)": "Referenced for the synchrotron maser emission mechanism from relativistic, magnetized shocks as a possible mechanism for FRB production in magnetars.",
+  "Kulkarni et al. (2014)": "Cited for the giant flares in soft gamma repeaters as a possible mechanism for FRB production in magnetars."
+}
+{
+  "N/A": "No citations found in the text."
+}
+{
+  "Kushwaha et al. (2022)": "Referenced to support the suggestion of a novel generation mechanism for FRBs based on the Gertsenshtein-Zel'dovich (GZ) effect, which explains both repeating and non-repeating FRBs.",
+  "Gertsenshtein (1962)": "Cited as the original proposal of the reversible process where electromagnetic (EM) radiation can be transformed into gravitational waves (GWs) in the presence of a magnetic field.",
+  "Zel'dovich (1974)": "Referenced for the application of the Gertsenshtein-Zel'dovich (GZ) effect in astrophysics, which is now known as the GZ effect.",
+  "Portilla & Lapiedra (2001)": "Cited for demonstrating the generation of high-frequency GWs in different media using the GZ effect.",
+  "Stephenson (2005)": "Referenced for providing a simple demonstration of the GZ effect where x-ray light is converted to GWs in the presence of static and alternating magnetic fields.",
+  "Kolosnitsyn & Rudenko (2015)": "Cited for showing the direct and inverse effects of the GZ mechanism and estimating the strengths of EM and GWs generated.",
+  "Zheng et al. (2018)": "Referenced for demonstrating methods to improve the design sensitivity for detecting weaker signals at high frequencies.",
+  "Herman et al. (2021)": "Cited for demonstrating methods to improve the design sensitivity for detecting weaker signals at high frequencies."
+}
+{
+  "N/A": "No citations appear in the text."
+}
+{
+  "Moore et al. 2015; Miller & Yunes 2019; Bailes et al. 2021": "Cited to mention different proposed ground-based or space-based detectors that may detect continuous gravitational wave (GW) signals from white dwarf (WD) and neutron star (NS) pulsars.",
+  "Bonazzola & Gourgoulhon 1996; Abbott et al. 2007; Aasi et al. 2014; Kalita et al. 2020; Kalita et al. 2021": "Referenced to highlight previous studies related to the conversion of gravitational radiation to electromagnetic (EM) radiation and the continuous emission of GWs by pulsars.",
+  "N/A": "No citations found."
+}
+{
+  "GZ effect": "Referenced to discuss the formation of FRBs and the extraction of the central object's characteristic attributes from the observed properties of the bursts.",
+  "GW detectors": "Referenced to calculate the time required for specific GW detectors to detect the signal based on their sensitivity curves.",
+  "Section 2": "Referenced to provide a brief discussion of the GZ mechanism and introduce continuous GWs and their detection.",
+  "Section 3": "Referenced to discuss the GW strengths due to the pulsar mechanism for the compact objects associated with the FRBs and estimate the required time to detect these GW signals using various GW detectors.",
+  "Section 4": "Referenced to provide concluding remarks by discussing various results."
+}

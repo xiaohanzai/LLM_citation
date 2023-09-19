@@ -1,0 +1,87 @@
+{
+  "Lorimer et al. 2007": "Referenced as the first discovery of Fast Radio Bursts (FRB), also known as Lorimer bursts.",
+  "Thornton et al. 2013": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "Caleb et al. 2017": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "Bhandari et al. 2018": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "Shannon et al. 2018": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "CHIME/FRB Collaboration et al. 2019a": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "Niu et al. 2021": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "The CHIME/FRB Collaboration et al. 2021": "Cited as one of the teams that contributed to the discovery of more than 500 FRB sources.",
+  "Spitler et al. 2016": "Cited as one of the teams that discovered repeating bursts among the FRB sources.",
+  "CHIME/FRB Collaboration et al. 2019a": "Cited as one of the teams that discovered repeating bursts among the FRB sources.",
+  "CHIME/FRB Collaboration et al. 2019b": "Cited as one of the teams that discovered repeating bursts among the FRB sources.",
+  "Fonseca et al. 2020": "Cited as one of the teams that discovered repeating bursts among the FRB sources.",
+  "Bhardwaj et al. 2021a": "Cited as one of the teams that discovered repeating bursts among the FRB sources.",
+  "Heintz et al. 2020": "Cited as one of the teams that localized 19 FRB events.",
+  "Cordes & Chatterjee 2019": "Cited as one of the theoretical models proposed to explain the physical origin of FRB.",
+  "Petroff et al. 2019": "Cited as one of the theoretical models proposed to explain the physical origin of FRB.",
+  "Platts et al. 2019": "Cited as one of the theoretical models proposed to explain the physical origin of FRB.",
+  "Zhang 2020": "Cited as one of the theoretical models proposed to explain the physical origin of FRB.",
+  "Petroff et al. 2021": "Cited as one of the theoretical models proposed to explain the physical origin of FRB.",
+  "Bochenek et al. 2020": "Cited as the detection of a millisecond-duration radio burst from the Galactic magnetar SGR 1935+2154.",
+  "CHIME/FRB Collaboration et al. 2020": "Cited as the detection of a millisecond-duration radio burst from the Galactic magnetar SGR 1935+2154.",
+  "Margalit et al. 2019": "Cited as one of the models proposing magnetars as the engine of FRB sources."
+}
+{
+  "Petroff et al. 2019": "Referenced to support the statement that the observed signals of FRBs have experienced dispersion, scattering, and polarization caused by the intervening medium along the line of sight before reaching us.",
+  "Cordes & Chatterjee 2019": "Referenced to support the statement that the observed signals of FRBs have experienced dispersion, scattering, and polarization caused by the intervening medium along the line of sight before reaching us.",
+  "Niu et al. 2022": "Cited to suggest that the plasma in the local environment of the source may make a significant contribution to the dispersion measure (DM) of observed FRBs.",
+  "Chittidi et al. 2021": "Cited to suggest that the plasma in the local environment of the source may make a significant contribution to the dispersion measure (DM) of observed FRBs.",
+  "Cordes & Lazio 2002": "Referenced to mention that the Milky Way contribution to the total dispersion measure (DM) of observed FRBs can be estimated using the NE2001 model or YMW16 model.",
+  "Yao et al. 2017": "Referenced to mention that the Milky Way contribution to the total dispersion measure (DM) of observed FRBs can be estimated using the NE2001 model or YMW16 model."
+}
+{
+  "Ioka 2003": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Inoue 2004": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "McQuinn 2014": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Dolag et al. 2015": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Zhu et al. 2018": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Jaroszynski 2019": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Macquart et al. 2020": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation.",
+  "Zhu & Feng 2021": "Cited to support the estimation of distances/redshifts of FRBs using the DM IGMz relation."
+}
+{
+  "Tendulkar et al. 2017": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Ravi et al. 2019": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Marcote et al. 2020": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Macquart et al. 2020": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Bhardwaj et al. 2021a": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Chittidi et al. 2021": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Kirsten et al. 2021": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Niu et al. 2022": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Ocker et al. 2022": "Cited to support the statement that the estimated DM host of localized events ranges from ∼ 10 to 1121 pc cm -3 with large uncertainties.",
+  "Xu & Han 2015": "Cited to support the statement that previous theoretical studies indicate that DM host would follow a simple log-normal form with a median value of ∼ 100pc cm -3.",
+  "Luo et al. 2018": "Cited to support the statement that previous theoretical studies indicate that DM host would follow a simple log-normal form with a median value of ∼ 100pc cm -3.",
+  "Walker et al. 2020": "Cited to support the statement that previous theoretical studies indicate that DM host would follow a simple log-normal form with a median value of ∼ 100pc cm -3.",
+  "Macquart et al. 2020": "Cited to support the statement that the DM host is assumed to follow either a normal or a log-normal distribution, and the median value is a free parameter that ranges from 20-200 pc cm -3."
+}
+{
+  "Vogelsberger et al. 2014": "Referenced to highlight the success of the Illustris simulation project in producing galaxy samples similar to real galaxies.",
+  "Schaye et al. 2015": "Cited to emphasize the success of the EAGLE simulation project in producing galaxy samples similar to real galaxies.",
+  "Crain et al. 2015": "Referenced to highlight the success of the EAGLE simulation project in producing galaxy samples similar to real galaxies.",
+  "Nelson et al. 2018": "Cited to emphasize the success of the IllustrisTNG simulation project in producing galaxy samples similar to real galaxies.",
+  "Jaroszyński (2020)": "Referenced for estimating the total DM contributed by the host galaxy and halo, DM host, and demonstrating its relationship with stellar mass, redshift, and distance from the host center.",
+  "Zhang et al. (2020)": "Cited for estimating the DM caused by the medium within subhalo (galaxy) samples, DM host,ISM, and suggesting its fitting by a log-normal function.",
+  "Zhu & Feng (2021)": "Referenced for probing the DM host."
+}
+{
+  "Zhu & Feng (2021)": "Referenced to highlight their work on probing the dispersion measure (DM) host of halos and finding a potential deviation from the log-normal form, which contradicts previous theoretical models.",
+  "Jaroszyński 2020": "Cited to suggest that the robustness of the aforementioned works could be affected by factors such as the relatively poor resolution of the simulation sample used.",
+  "Zhang et al. 2020": "Cited to indicate that the robustness of the aforementioned works could be affected by factors such as the limited galaxy samples and the assumption of a fixed FRB events for each galaxy."
+}
+{
+  "Petroff et al. 2019": "Cited to mention that while magnetar is believed to be the origin of some FRBs, other progenitor models remain competitive.",
+  "Margalit et al. 2019; Zhang 2020": "Referenced to highlight theoretical studies suggesting two primary channels for forming magnetars associated with FRBs."
+}
+{
+  "Naab & Ostriker 2017": "Cited to highlight the variation in sub-grid models for baryon physics in simulations and the uncertainty in determining which model is more accurate.",
+  "Pillepich et al. 2018": "Referenced to illustrate the notable differences in galaxies sizes and gas properties between the Illustris and IllustrisTNG projects.",
+  "Kelly et al. (2021)": "Cited for their use of zoom-in simulations to investigate the impact of different galaxy formation models on gas properties and dispersion measures, emphasizing the need for more reliable statistics of DM host based on future observations."
+}
+{
+  "Illustris and IllustrisTNG simulation projects": "These simulation projects are used to estimate DM host and investigate the impact of systematic effects on FRB population models, sub-grid physics models, the assumed number of events in different galaxies, stellar mass, morphology of host, and redshift.",
+  "Section 2": "This section provides a brief introduction to the simulations and galaxy samples, as well as the methods used for placing mock FRB events in galaxies and calculating the dispersion measure contributed by host galaxies and halos.",
+  "Section 3": "This section presents the statistical analysis of the data.",
+  "Section 4": "This section discusses the results of the study.",
+  "Section 5": "This section summarizes the findings and provides concluding remarks."
+}

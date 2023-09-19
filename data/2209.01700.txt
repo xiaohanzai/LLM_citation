@@ -1,0 +1,8 @@
+{
+  "Pleunis et al. 2021": "Referenced to support the observation of the 'sad trombone' effect in repeating FRBs, where emission slides to lower frequencies during a burst.",
+  "Bethapudi et al. 2022": "Cited to indicate that no systematic 'happy trombone' slide to higher frequencies has been observed in any FRB, in contrast to the 'sad trombone' effect.",
+  "Pastor-Marazuela et al. 2021": "Referenced for the discovery of the periodically modulated activity of FRB 180916B at higher frequencies occurring at earlier phases of its 16.3 d period.",
+  "CHIME/FRB Collaboration 2021": "Cited to highlight the extensive sky coverage of CHIME/FRB, which is rapidly increasing the number of known repeating FRBs.",
+  "Bethapudi et al. 2022": "Referenced for extending the discovery of the periodically modulated activity of FRB 180916B to a third frequency band, suggesting a monotonic trend.",
+  "katz@wuphys.wustl.edu": "N/A"
+}

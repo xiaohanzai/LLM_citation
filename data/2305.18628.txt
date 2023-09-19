@@ -1,0 +1,64 @@
+@Petroff et al. 2022:
+Referenced as a review source for Fast Radio Bursts (FRBs) and their intense, millisecond-duration radio flashes from extragalactic distances.
+
+@Spitler et al. 2016; CHIME/FRB Collaboration et al. 2019b:
+Cited to highlight the debate surrounding the origin of FRBs, with most being sporadic single events and only a small percentage showing repeating behavior.
+
+@CHIME/FRB Collaboration et al. 2019a:
+Referenced as the discovery source for FRB 20180916B (R3), the third known repeater, which was the first FRB with periodic activity detected.
+
+@Chime/FRB Collaboration et al. 2020:
+Cited as the source for the period and active window of FRB 20180916B (R3), observed at CHIME's frequencies.
+
+@Pleunis et al. 2021:
+Referenced for additional information on the period of FRB 20180916B (R3).
+
+@Spitler et al. 2016; Spitler et al. 2014:
+Cited to claim periodic activity for the first discovered repeater, FRB 20121102A (R1), with an activity period of about 160 days and a duty cycle of approximately 54%.
+
+@Cruces et al. 2021; Rajwade et al. 2020:
+Referenced for further information on the periodic activity of FRB 20121102A (R1).
+@Pastor-Marazuela et al. 2021; Pleunis et al. 2021:
+These papers are cited to provide evidence of R3 detections at different radio frequencies and to highlight the chromatic pattern in burst occurrence, including the differences in onset times, duration, and average width of the bursts at different frequencies.
+
+@Bethapudi et al. 2022:
+Referenced to indicate that bursts detected at higher frequencies than CHIME have shorter active phases compared to bursts detected at lower frequencies.
+
+@Marcote et al. 2020; Pilia et al. 2020:
+Cited to mention that scattering, which contributes to the larger burst width at lower frequencies, is generally limited to the lowest frequencies for this FRB.
+@Margalit et al. 2020; Beloborodov 2017; Lyubarsky 2014:
+These papers are cited to support the statement that highly magnetized neutron stars, specifically magnetars, are considered as one of the most favored progenitors of FRBs.
+
+@Zhang 2022:
+Referenced for a comprehensive review on the prediction of FRB events happening via magnetic reconnection in the neutron star magnetosphere or via shock(s) due to the interaction of a powerful magnetar outflow with the surrounding medium.
+
+@The CHIME/FRB Collaboration et al. 2020; Bochenek et al. 2020:
+Cited to strengthen the FRB-magnetar link with the detection of a radio burst similar to an FRB from the Galactic magnetar SGR J1935+2154.
+
+@Mereghetti et al. 2020; Tavani et al. 2021; Zhang et al. 2020b; Ridnaia et al. 2020:
+These papers are referenced to highlight the simultaneous X-ray emission accompanying the radio burst from the Galactic magnetar SGR J1935+2154.
+
+@Beloborodov 2020; Lyutikov et al. 2020; Metzger et al. 2019; Ghisellini & Locatelli 2018; Kumar et al. 2017; Beloborodov 2017; Lyubarsky 2014:
+Cited to emphasize that most models predict multi-wavelength (MWL) emission from FRB sources, in the form of prompt or afterglow.
+
+@Petroff et al. 2015:
+Referenced for a deep search for MWL emission in the early days for FRB 20140514A.
+
+@Hardy et al. 2017; Scholz et al. 2017; Scholz et al. 2016:
+Cited for multiple searches for MWL emission for R1.
+@Petroff et al. 2015:
+Referenced to indicate that a deep search for multiwavelength (MWL) emission was performed for FRB 20140514A in the early days.
+
+@Hardy et al. 2017; Scholz et al. 2017; Scholz et al. 2016:
+Cited to highlight that more than one search for MWL emission has been conducted for R1.
+
+@Chatterjee et al. 2017; Marcote et al. 2017:
+Referenced to mention that R1 is relatively far and the chances of detection with current optical/high-energy instruments are slim.
+
+@Marcote et al. 2020:
+Cited to indicate the proximity of R3 and its periodic repetition, making it a more suitable candidate for MWL coordinated observational campaigns.
+
+@Pearlman et al. 2020; Pilia et al. 2020; Scholz et al. 2020:
+Referenced to highlight that several MWL observational campaigns were performed on R3, but no MWL detection was reported.
+
+N/A

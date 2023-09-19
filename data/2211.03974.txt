@@ -1,0 +1,39 @@
+{
+  "Lorimer et al. 2007": "Referenced for reviews on fast radio bursts (FRBs) at GHz frequencies.",
+  "Petroff et al. 2019": "Referenced for reviews on fast radio bursts (FRBs).",
+  "Petroff et al. 2022": "Referenced for reviews on fast radio bursts (FRBs).",
+  "Spitler et al. 2016": "Referenced for sample studies on repeating fast radio bursts (FRBs).",
+  "CHIME/FRB Collaboration et al. 2019": "Referenced for sample studies on repeating fast radio bursts (FRBs).",
+  "Fonseca et al. 2020": "Referenced for sample studies on repeating fast radio bursts (FRBs).",
+  "Nicholl et al. 2017": "Referenced for the possibility of the entire population of fast radio bursts (FRBs) repeating on a wide range of timescales.",
+  "Ravi 2019": "Referenced for the possibility of the entire population of fast radio bursts (FRBs) repeating on a wide range of timescales.",
+  "Cui et al. 2021": "Referenced for the possibility of the entire population of fast radio bursts (FRBs) repeating on a wide range of timescales.",
+  "Chatterjee et al. 2017": "Referenced for the precise localization of about 20 fast radio bursts (FRBs) through their radio emission.",
+  "Marcote et al. 2017": "Referenced for the precise localization of about 20 fast radio bursts (FRBs) through their radio emission.",
+  "Tendulkar et al. 2017": "Referenced for the precise localization of about 20 fast radio bursts (FRBs) through their radio emission.",
+  "Heintz et al. 2020": "Referenced for further information on the host-galaxy environments of localized fast radio bursts (FRBs).",
+  "Bhandari et al. 2022": "Referenced for further information on the host-galaxy environments of localized fast radio bursts (FRBs)."
+}
+{
+  "Platts et al. 2019": "Referenced to provide a source for a living list of theoretical FRB models.",
+  "CHIME/FRB Collaboration et al. 2020a; Bochenek et al. 2020": "Cited to support the idea that models involving young neutron stars or black holes are popular in explaining FRBs, with the recent faint FRB-like detection from the Galactic magnetar SGR 1935+2154 potentially supporting such a picture.",
+  "Bhardwaj et al. 2021; Kirsten et al. 2022 a": "These references are cited to highlight precisely localized extragalactic FRBs that show no correlation with star formation, suggesting possible origins from older neutron stars, accretion-powered binaries, or young magnetars born from an older progenitor channel.",
+  "Sridhar et al. 2021": "Cited as a source for models involving accretion-powered binaries as a possible origin for FRBs.",
+  "Margalit et al. 2019; Kremer et al. 2022": "Referenced to support the idea that FRBs could originate from young magnetars born from an older progenitor channel, such as the accretion-induced collapse of white dwarfs or the merger of two neutron stars."
+}
+{
+  "Chen et al. 2020; Nicastro et al. 2021": "Referenced as reviews on multiwavelength observations of FRBs.",
+  "Lyubarsky 2014; Beloborodov 2017; Metzger et al. 2019; Yang et al. 2019; Margalit et al. 2020a,b; Beloborodov 2020": "Cited as sources for FRB models predicting a wide range of possible luminosities and timescales for optical transient counterparts.",
+  "Hardy et al. 2017; MAGIC Collaboration et al. 2018; Andreoni et al. 2020; Niino et al. 2022": "Referenced as previous optical follow-up attempts with weak constraints on FRB luminosities and timescales.",
+  "Marcote et al. 2020": "Cited for dedicated monitoring of a single burst from a well-localized repeating FRB, placing marginal constraints on specific models.",
+  "Kilpatrick et al. 2021": "Referenced for their study on synchrotron maser models with high burst energies and circumburst densities."
+}
+{
+  "Mereghetti et al. 2020": "Referenced for the detection of temporally coincident X-ray bursts from the Galactic SGR 1935+2154.",
+  "Li et al. 2021a": "Referenced for the detection of temporally coincident X-ray bursts from the Galactic SGR 1935+2154.",
+  "Ridnaia et al. 2021": "Referenced for the detection of temporally coincident X-ray bursts from the Galactic SGR 1935+2154.",
+  "Tavani et al. 2021": "Referenced for the detection of temporally coincident X-ray bursts from the Galactic SGR 1935+2154.",
+  "Scholz et al. 2016": "Referenced for X-ray nondetections of extragalactic FRBs.",
+  "Scholz et al. 2017": "Referenced for X-ray nondetections of extragalactic FRBs.",
+  "Scholz et al. 2020": "Referenced for X-ray nondetections of extragalactic FRBs."
+}
