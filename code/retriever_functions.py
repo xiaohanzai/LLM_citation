@@ -4,24 +4,27 @@ from llamaindex_utils import set_service_context
 import matplotlib.pyplot as plt
 import numpy as np
 
-def get_all_score(query_results, show_hist=True):
+def get_all_scores(query_results, show_hist=True):
+    '''
+    query_results is the list of nodes returned by retriever.retrieve()
+    '''
     scores = [node.score for node in query_results]
     if show_hist:
-        vals = np.percentile(scores, [50, 99, 99.5])
+        vals = np.percentile(scores, [50, 99, 99.7])
         plt.hist(scores, bins=50)
         for val in vals:
             plt.axvline(val, color='r', linestyle='--')
         plt.show()
     return scores
 
-def gen_retriever(index_name, data_name, openai_api_key=None):
+def gen_retriever(index_name, data_name, openai_api_key=None, path_to_db_folder='../data/'):
     '''
     index_name: 'VectorStoreIndex', 'SimpleKeywordTableIndex', 'RAKEKeywordTableIndex'
     data_name: 'citation', 'abstract'
     Input your own openai_api_key or it's going to detect environment variable OPENAI_API_KEY.
     '''
     index = load_index_from_storage(
-        StorageContext.from_defaults(persist_dir=f'../data/llamaindex{index_name}_openaiEmbed_{data_name}_db/'),
+        StorageContext.from_defaults(persist_dir=path_to_db_folder+f'/llamaindex{index_name}_openaiEmbed_{data_name}_db/'),
         service_context=set_service_context(openai_api_key)
     )
     retriever = index.as_retriever()
@@ -32,7 +35,7 @@ def gen_retriever(index_name, data_name, openai_api_key=None):
         retriever.num_chunks_per_query = n # there won't be a score in the case of keyword table index though
     return retriever
 
-def rearrange_query_results(query_results, score_threshold=0.9):
+def rearrange_query_results(query_results, score_threshold=0.9, sort=True):
     '''
     If using VectorStoreIndex, keep the query results with similarity score > score_threshold.
     Then count the number of times each doc appears in the query results and combine the reasons of citation.
@@ -40,7 +43,7 @@ def rearrange_query_results(query_results, score_threshold=0.9):
     Return the sorted docs.
     If using keyword table index, just rearrange the query results into a pd.DataFrame.
     '''
-    if query_results[0].score is None:
+    if query_results[0].score is None: # keyword table index
         rst = pd.DataFrame(columns=['doc_id', 'reasons'])
         for node in query_results:
             doc_id = int(node.metadata['doc_id'])
@@ -60,7 +63,8 @@ def rearrange_query_results(query_results, score_threshold=0.9):
             rst.loc[len(rst)] = {'doc_id': doc_id, 'n': 1, 'reasons': node.text}
 
     # sort results
-    rst = rst.sort_values(by='n', ascending=False)
+    if sort:
+        rst = rst.sort_values(by='n', ascending=False, kind='mergesort')
     return rst
 
 def print_citation_query_results(data_citation, query_results, i_start=0, i_end=5, data_abstract=None):
