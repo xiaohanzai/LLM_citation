@@ -58,22 +58,25 @@ st.write("**Note:**\n\
     'cited to provide background knowleges of FRBs'\
     seem to be matched to whatever query you make.  Try raising the similarity score threshold and see if\
     anything changes.\
-    Including abbreviations in the query, e.g. fast radio burst (frb), circumgalactic medium (cgm),\
-    may also help getting better query results.\
-    There are, however, failure cases like searching for FRB scintillation.  Perhaps OpenAI Embedding doesn't\
-    process scintillation as an astrophysical term?")
-
-st.write("There may be cases where the abstract search gives better results, so don't rely too much\
-    on the reasons for citation for now.")
+    Including abbreviations in the query, e.g. circumgalactic medium (cgm),\
+    may also help getting better query results (or maybe not?).\
+    There are, however, failure cases like searching for FRB scintillation.  In this case abstract search\
+    clearly returns more relevant results, and I still don't understand why the citation search fails.\
+    ***So... the best search result is probably a combination of both citation search and abstract search.***")
 
 api_key = st.secrets['openai_api_key'] #st.text_input("Enter your OpenAI API key:")
+
+st.markdown("Example queries: what is fast radio burst; fast radio burst gravitational lensing; fast radio burst as\
+    a probe of cosmology; ... \n\
+    See [this notebook](https://github.com/xiaohanzai/LLM_citation/blob/main/retrieve_examples.ipynb)\
+    for more details.")
 query = st.text_input("Enter your query:")
 st.write("Similarity score threshold for the citation search is determined by the percentile of the all scores.\
-        Default is set to 99.7, which roughly returns the top 20 most similar reasons of citation to the query.\
-        We then group these reasons with the same arXiv id and count the number of times each arXiv id appears.\
-        The final results are sorted by the number of times each arXiv id appears.\n\
-        This slide bar does not affect the abstract search because that one simply returns the top results above a\
-        similarity score threshold of 0.8.")
+    Default is set to 99.7, which roughly returns the top 20 most similar reasons of citation to the query.\
+    We then group these reasons with the same arXiv id and count the number of times each arXiv id appears.\
+    The final results are sorted by the number of times each arXiv id appears.\n\
+    This slide bar does not affect the abstract search because that one simply returns the top results above a\
+    similarity score threshold of 0.8.")
 score_threshold = st.slider("Similarity score threshold (percentage):", min_value=99.0, max_value=99.8, value=99.7)
 search_clicked = st.button("Search")
 
