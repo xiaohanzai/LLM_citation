@@ -2,4 +2,5 @@ work/
 .venv/
 __pycache__/
 *db/
+.streamlit/secrets.toml
 

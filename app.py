@@ -39,20 +39,21 @@ st.write(
 st.write("This app is a prototype built from arXiv papers on **fast radio bursts (FRBs)**, which means\
     it can only do FRB literature search for now.\
     For each FRB paper from July 2022 to Aug 2023, we extracted the citations in the introduction\
-    section of the paper and the reasons for citing these papers using OpenAI's API.\
-    The motivation of this project is that we find that humans are highly biased towards which papers\
-    they want to cite, and that finding references from embedding abstracts often gives interestingly\
-    unuseful results (e.g. those papers are indeed very related to a topic but just not what people\
-    normally would like to cite).\
+    section of the paper and the reasons for citing these papers using gpt3.5.\
+    The citation search is then going to match your query to each reason of citation and return\
+    the most similar ones.")
+st.write("The motivation of this project is that 1. humans are highly biased towards which papers\
+    they want to cite; 2. finding references from embedding abstracts often gives interestingly\
+    unuseful results (e.g. it returns papers that are indeed very related to a topic but are just not\
+    what people normally would like to cite).\
     Therefore, why not search for the reasons why other people cite papers and follow them?")
 st.write("On the left column of this page, you will see query results from performing a similarity search\
-    on the reasons for citation. On the right column, you will see query results from embedding the\
-    title and abstracts of the papers. You can adjust the similarity score threshold and the number\
-    of results to display using the sliders below.")
-st.write("This app uses OpenAI Embedding so **please input your own API key** below.\
-    It's not going to cost you more than a few cents, but I'm poor so I don't want to share my own key.")
+    on the reasons of citation. On the right column, you will see query results from embedding the\
+    titles and abstracts of the papers.")
+st.write("This app uses OpenAI Embedding... with my own key for now.  Buy me a coffee if you can...")
 
-st.write("This is just a prototype and the citation query is very likely to return unsatisfying results.\
+st.write("**Note:**\n\
+    This search engine is just a prototype and the citation query is very likely to return unsatisfying results.\
     For example, some papers (e.g. Lorimer et al.) that are identified by gpt3.5 as\
     'cited to provide background knowleges of FRBs'\
     seem to be matched to whatever query you make.  Try raising the similarity score threshold and see if\
@@ -62,16 +63,16 @@ st.write("This is just a prototype and the citation query is very likely to retu
     There are, however, failure cases like searching for FRB scintillation.  Perhaps OpenAI Embedding doesn't\
     process scintillation as an astrophysical term?")
 
-st.write("There may be cases where the abstract search gives better results, so don't rely too much on the reasons for citation\
-    for now.")
+st.write("There may be cases where the abstract search gives better results, so don't rely too much\
+    on the reasons for citation for now.")
 
-api_key = st.text_input("Enter your OpenAI API key:")
+api_key = st.secrets['openai_api_key'] #st.text_input("Enter your OpenAI API key:")
 query = st.text_input("Enter your query:")
 st.write("Similarity score threshold for the citation search is determined by the percentile of the all scores.\
         Default is set to 99.7, which roughly returns the top 20 most similar reasons of citation to the query.\
-        We then group these reasons with the same arXiv id and count the number of times each one appears.\
-        The final results are sorted by the number of times each arXiv id appears.\
-        This does not affect the abstract search because that one simply returns the top results above a\
+        We then group these reasons with the same arXiv id and count the number of times each arXiv id appears.\
+        The final results are sorted by the number of times each arXiv id appears.\n\
+        This slide bar does not affect the abstract search because that one simply returns the top results above a\
         similarity score threshold of 0.8.")
 score_threshold = st.slider("Similarity score threshold (percentage):", min_value=99.0, max_value=99.8, value=99.7)
 search_clicked = st.button("Search")
