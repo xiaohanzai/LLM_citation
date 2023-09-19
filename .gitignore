@@ -1,6 +1,7 @@
 work/
 .venv/
 __pycache__/
+.ipynb_checkpoints/
 #*db/
 .streamlit/secrets.toml
 
